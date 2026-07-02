@@ -34,6 +34,19 @@ A searchable, item-level **calendar (finding aid) of the Archives of California*
 - Empty fields mean "not recorded by the source catalog," not "no value." Coverage varies by volume.
 - Duplicate/cross-reference candidates are flagged for verification, not asserted.
 
+## 🆕 Scholarly apparatus (2026-07-02)
+
+- **Click any row** for the full record with a formal **"Cite as" string** (series, tomo, original page, BANC MSS number, Savage-copy provenance) and a **permalink** you can put in a footnote.
+- **Verbatim transcriptions:** selected documents open with a full transcription + translation + editorial note (`transcriptions/`); more are added as the deep reads are formalized.
+- **Cross-archive links:** records whose counterparts or originals survive in other archives (AGN Mexico City, AGI Seville, History San José) show an "Other archives" panel (`crossrefs.json`).
+- **Integrity:** every record's manuscript deep link is machine-checked (page anchor + scan range) after each update.
+
+## How to cite this catalog
+
+> Aodhan Coyne, *Archives of California — A Searchable Calendar of BANC MSS C-A (Savage Transcripts)*, https://aodhanm.github.io/archives-of-california/ (accessed [date]).
+
+Machine-readable metadata: `CITATION.cff`. **To cite a document**, use the per-record "Cite as" string — and always verify against the linked manuscript image first.
+
 ## Attribution
 
 Compiled by **Aodhan Coyne**. Manuscript images courtesy of the **Internet Archive** / **Bancroft Library, UC Berkeley**. This is a research finding aid; verify any document against the linked scan before citing.
