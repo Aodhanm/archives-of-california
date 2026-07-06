@@ -121,8 +121,8 @@
 "SP-Sac tomo 15 (C-A 56)": 8,
 "SP-Sac tomo 16 (C-A 56)": 6,
 "SP-Sac tomo 17 (C-A 56)": 8,
-"SP-Sac tomo 18 (C-A 56)": 7,
-"SP-Sac tomo 19 (C-A 56)": 17,
+"SP-Sac tomo 18 (C-A 56)": 4,
+"SP-Sac tomo 19 (C-A 56)": 8,
 "SP-Sac tomo 20 (C-A ?)": 1,
 "SP-Sac tomo 21 (C-A ?)": 3,
 "SP-Sac tomo 23 (C-A ?)": 1,
@@ -23534,18 +23534,6 @@
 },
 {
 "hv": 2,
-"page": "278",
-"tomo": 18,
-"pages": [
-[
-49,
-50
-]
-],
-"raw": "ndants. St. Pap., Sac., MS., xviii. 49-50; P"
-},
-{
-"hv": 2,
 "page": "393",
 "tomo": 18,
 "pages": [
@@ -23567,30 +23555,6 @@
 ]
 ],
 "raw": "times. St. Pap. Sac., MS., xviii. 2. J"
-},
-{
-"hv": 3,
-"page": "259",
-"tomo": 18,
-"pages": [
-[
-51,
-53
-]
-],
-"raw": "ngress. St. Pap., Sac., MS., xviii. 51-3. I"
-},
-{
-"hv": 3,
-"page": "368",
-"tomo": 18,
-"pages": [
-[
-54,
-54
-]
-],
-"raw": "ngress. St. Pap., Sac., MS., xviii. 54. O"
 },
 {
 "hv": 4,
@@ -23636,18 +23600,6 @@
 },
 {
 "hv": 2,
-"page": "672",
-"tomo": 19,
-"pages": [
-[
-43,
-45
-]
-],
-"raw": "igures. St. Pap. Sac., MS., xix. 43-5. 1"
-},
-{
-"hv": 2,
 "page": "673",
 "tomo": 19,
 "pages": [
@@ -23671,18 +23623,6 @@
 "raw": "Sonora. St. Pap., Sac., MS., xix. 40-1. M"
 },
 {
-"hv": 2,
-"page": "676",
-"tomo": 19,
-"pages": [
-[
-47,
-48
-]
-],
-"raw": "ibunal. Id., xix. 47-8; S"
-},
-{
 "hv": 3,
 "page": "41",
 "tomo": 19,
@@ -23693,18 +23633,6 @@
 ]
 ],
 "raw": "board. St. Pap., Sac., MS., xix. 42-3. 2"
-},
-{
-"hv": 3,
-"page": "44",
-"tomo": 19,
-"pages": [
-[
-48,
-48
-]
-],
-"raw": "also in St. Pap., Sac., MS., xix. 48; D"
 },
 {
 "hv": 3,
@@ -23720,18 +23648,6 @@
 },
 {
 "hv": 3,
-"page": "135",
-"tomo": 19,
-"pages": [
-[
-46,
-47
-]
-],
-"raw": "180. 49 St. Pap., Sac., MS., xix. 46-7. R"
-},
-{
-"hv": 3,
 "page": "154",
 "tomo": 19,
 "pages": [
@@ -23741,66 +23657,6 @@
 ]
 ],
 "raw": "faith. St. Pap., Sac., MS., xix. 37-8. H"
-},
-{
-"hv": 3,
-"page": "177",
-"tomo": 19,
-"pages": [
-[
-44,
-44
-]
-],
-"raw": "4th, in Id., xix. 44. L"
-},
-{
-"hv": 3,
-"page": "177",
-"tomo": 19,
-"pages": [
-[
-3,
-3
-]
-],
-"raw": "b. 5th. Id., xix. 3. L"
-},
-{
-"hv": 4,
-"page": "516",
-"tomo": 19,
-"pages": [
-[
-20,
-22
-]
-],
-"raw": "171-2; St. Pap., Sac., MS., xix. 20-2. M"
-},
-{
-"hv": 4,
-"page": "521",
-"tomo": 19,
-"pages": [
-[
-1,
-2
-]
-],
-"raw": "., etc. St. Pap., Sac., MS., xix. 1-2. A"
-},
-{
-"hv": 4,
-"page": "651",
-"tomo": 19,
-"pages": [
-[
-18,
-20
-]
-],
-"raw": "ii. 50; St. Pap., Sac., MS., xix. 18-20; t"
 },
 {
 "hv": 4,

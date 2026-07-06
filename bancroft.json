@@ -10,315 +10,17 @@
 }
 ]
 },
-"ca16-d43-n27": {
-"possible": [
+"ca16-d518-n305": {
+"cited": [
 {
 "v": 1,
 "p": "123",
-"cite": "De.pt. St. Pap., Ben. Mil, MS., Ixxxvii. 10.",
-"shared": 7
-},
-{
-"v": 1,
-"p": "501",
-"cite": "792, in Prov. St. Pap., Ben. Mil, MS., xx. 3. S",
-"shared": 5
-},
-{
-"v": 1,
-"p": "525",
-"cite": "xcuses. Prov. St. Pap., Ben. Mil., MS., xxi. 5. D",
-"shared": 8
-},
-{
-"v": 1,
-"p": "537",
-"cite": "essels. Prov. St. Pap., Ben. Mil., MS., xxiv. 11. N",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "ames in Prov. St. Pap., Ben. Mil., MS., xxiv. 1-4. T",
-"shared": 9
-},
-{
-"v": 1,
-"p": "539",
-"cite": "tal 03. Id., xxiii. 11.",
-"shared": 8
-},
-{
-"v": 1,
-"p": "543",
-"cite": "$3,460. Prov. St. Pap., Ben. Mil., MS., xxvii. 7. A",
-"shared": 8
-},
-{
-"v": 1,
-"p": "565",
-"cite": "5-7. 87 Prov. St. Pap., Ben. Mil., MS., xxiv. 6, 7; S",
-"shared": 8
-}
-]
-},
-"ca16-d59-n38": {
-"possible": [
-{
-"v": 1,
-"p": "123",
-"cite": "De.pt. St. Pap., Ben. Mil, MS., Ixxxvii. 10.",
-"shared": 7
-},
-{
-"v": 1,
-"p": "525",
-"cite": "xcuses. Prov. St. Pap., Ben. Mil., MS., xxi. 5. D",
-"shared": 8
-},
-{
-"v": 1,
-"p": "537",
-"cite": "essels. Prov. St. Pap., Ben. Mil., MS., xxiv. 11. N",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "tal 03. Id., xxiii. 11.",
-"shared": 8
-},
-{
-"v": 1,
-"p": "543",
-"cite": "$3,460. Prov. St. Pap., Ben. Mil., MS., xxvii. 7. A",
-"shared": 8
-},
-{
-"v": 1,
-"p": "565",
-"cite": "5-7. 87 Prov. St. Pap., Ben. Mil., MS., xxiv. 6, 7; S",
-"shared": 8
-},
-{
-"v": 1,
-"p": "571",
-"cite": "0 each. Prov. St. Pap., Ben. Mil., MS., xxvi. 16. ^",
-"shared": 6
-},
-{
-"v": 1,
-"p": "576",
-"cite": "v. 139; Prov. St. Pap., Ben. Mil., MS., xxiv. 7; a",
-"shared": 8
-}
-]
-},
-"ca16-d149-n90": {
-"possible": [
-{
-"v": 1,
-"p": "123",
-"cite": "De.pt. St. Pap., Ben. Mil, MS., Ixxxvii. 10.",
-"shared": 7
-},
-{
-"v": 1,
-"p": "501",
-"cite": "792, in Prov. St. Pap., Ben. Mil, MS., xx. 3. S",
-"shared": 5
-},
-{
-"v": 1,
-"p": "525",
-"cite": "xcuses. Prov. St. Pap., Ben. Mil., MS., xxi. 5. D",
-"shared": 8
-},
-{
-"v": 1,
-"p": "537",
-"cite": "essels. Prov. St. Pap., Ben. Mil., MS., xxiv. 11. N",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "ames in Prov. St. Pap., Ben. Mil., MS., xxiv. 1-4. T",
-"shared": 9
-},
-{
-"v": 1,
-"p": "539",
-"cite": "tal 03. Id., xxiii. 11.",
-"shared": 8
-},
-{
-"v": 1,
-"p": "543",
-"cite": "$3,460. Prov. St. Pap., Ben. Mil., MS., xxvii. 7. A",
-"shared": 8
-},
-{
-"v": 1,
-"p": "565",
-"cite": "5-7. 87 Prov. St. Pap., Ben. Mil., MS., xxiv. 6, 7; S",
-"shared": 8
-}
-]
-},
-"ca16-d178-n110": {
-"possible": [
-{
-"v": 1,
-"p": "123",
-"cite": "De.pt. St. Pap., Ben. Mil, MS., Ixxxvii. 10.",
-"shared": 7
-},
-{
-"v": 1,
-"p": "525",
-"cite": "xcuses. Prov. St. Pap., Ben. Mil., MS., xxi. 5. D",
-"shared": 8
-},
-{
-"v": 1,
-"p": "537",
-"cite": "essels. Prov. St. Pap., Ben. Mil., MS., xxiv. 11. N",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "ames in Prov. St. Pap., Ben. Mil., MS., xxiv. 1-4. T",
-"shared": 9
-},
-{
-"v": 1,
-"p": "539",
-"cite": "tal 03. Id., xxiii. 11.",
-"shared": 8
-},
-{
-"v": 1,
-"p": "543",
-"cite": "$3,460. Prov. St. Pap., Ben. Mil., MS., xxvii. 7. A",
-"shared": 8
-},
-{
-"v": 1,
-"p": "565",
-"cite": "5-7. 87 Prov. St. Pap., Ben. Mil., MS., xxiv. 6, 7; S",
-"shared": 8
-},
-{
-"v": 1,
-"p": "576",
-"cite": "v. 139; Prov. St. Pap., Ben. Mil., MS., xxiv. 7; a",
-"shared": 8
-}
-]
-},
-"ca16-d270-n159": {
-"possible": [
-{
-"v": 1,
-"p": "123",
-"cite": "De.pt. St. Pap., Ben. Mil, MS., Ixxxvii. 10.",
-"shared": 7
-},
-{
-"v": 1,
-"p": "501",
-"cite": "792, in Prov. St. Pap., Ben. Mil, MS., xx. 3. S",
-"shared": 5
-},
-{
-"v": 1,
-"p": "537",
-"cite": "essels. Prov. St. Pap., Ben. Mil., MS., xxiv. 11. N",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "tal 03. Id., xxiii. 11.",
-"shared": 8
-},
-{
-"v": 1,
-"p": "543",
-"cite": "$3,460. Prov. St. Pap., Ben. Mil., MS., xxvii. 7. A",
-"shared": 8
-},
-{
-"v": 1,
-"p": "565",
-"cite": "5-7. 87 Prov. St. Pap., Ben. Mil., MS., xxiv. 6, 7; S",
-"shared": 8
-},
-{
-"v": 1,
-"p": "571",
-"cite": "0 each. Prov. St. Pap., Ben. Mil., MS., xxvi. 16. ^",
-"shared": 6
-},
-{
-"v": 1,
-"p": "576",
-"cite": "v. 139; Prov. St. Pap., Ben. Mil., MS., xxiv. 7; a",
-"shared": 8
-}
-]
-},
-"ca16-d485-n289": {
-"possible": [
-{
-"v": 1,
-"p": "123",
-"cite": "De.pt. St. Pap., Ben. Mil, MS., Ixxxvii. 10.",
-"shared": 7
-},
-{
-"v": 1,
-"p": "629",
-"cite": "fornia. Prov. St. Pap., Ben. Mil., MS., xxi. 10. R",
-"shared": 7
-},
-{
-"v": 1,
-"p": "648",
-"cite": "7-1800. Id., xxxiii. 13: P",
-"shared": 6
-},
-{
-"v": 1,
-"p": "667",
-"cite": "$2,256. Prov. St. Pap., Ben. Mil., MS., xxi. 12. D",
-"shared": 7
+"cite": "De.pt. St. Pap., Ben. Mil, MS., Ixxxvii. 10."
 },
 {
 "v": 2,
-"p": "124",
-"cite": ", 1807. Id., xxi. 12; S",
-"shared": 7
-},
-{
-"v": 2,
-"p": "143",
-"cite": "l gate. Prov. St. Pap., Ben. Mil., MS., xxxi. 12. 4",
-"shared": 7
-},
-{
-"v": 2,
-"p": "155",
-"cite": "$1,954. Id., xxxiii. 10, 1804. F",
-"shared": 7
-},
-{
-"v": 3,
-"p": "52",
-"cite": "ii. 7; Dept. St. Pap., Ben. Mil., MS., Ixxix. 13. G",
-"shared": 6
+"p": "191",
+"cite": "murder. Prov. St. Pap., Ben. Mil., MS., xxxvi. 8. 1"
 }
 ]
 },
@@ -3349,136 +3051,6 @@
 }
 ]
 },
-"ca55-d123-n168": {
-"possible": [
-{
-"v": 1,
-"p": "501",
-"cite": "ants in St. Pap., Sac., MS., vi. 76-8. V"
-},
-{
-"v": 1,
-"p": "543",
-"cite": "4, 256; St. Pap., Sac., MS., viii. 76; P",
-"shared": 2
-},
-{
-"v": 1,
-"p": "697",
-"cite": "y hurt. St. Pap., Sac., MS., vi. 74; i"
-},
-{
-"v": 2,
-"p": "456",
-"cite": "- arms. Id., vii. 75. A",
-"shared": 2
-}
-]
-},
-"ca16-d16-n14": {
-"possible": [
-{
-"v": 1,
-"p": "501",
-"cite": "792, in Prov. St. Pap., Ben. Mil, MS., xx. 3. S",
-"shared": 5
-},
-{
-"v": 1,
-"p": "525",
-"cite": "xcuses. Prov. St. Pap., Ben. Mil., MS., xxi. 5. D",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "ames in Prov. St. Pap., Ben. Mil., MS., xxiv. 1-4. T",
-"shared": 9
-},
-{
-"v": 1,
-"p": "543",
-"cite": "$3,460. Prov. St. Pap., Ben. Mil., MS., xxvii. 7. A",
-"shared": 8
-},
-{
-"v": 1,
-"p": "565",
-"cite": "5-7. 87 Prov. St. Pap., Ben. Mil., MS., xxiv. 6, 7; S",
-"shared": 8
-},
-{
-"v": 1,
-"p": "576",
-"cite": "v. 139; Prov. St. Pap., Ben. Mil., MS., xxiv. 7; a",
-"shared": 8
-},
-{
-"v": 1,
-"p": "597",
-"cite": "chapel. Prov. St. Pap., Ben. Mil., MS., xx. 5, 6. T",
-"shared": 9
-},
-{
-"v": 1,
-"p": "602",
-"cite": "sened.' Id., xxi. 7. M",
-"shared": 8
-}
-]
-},
-"ca16-d234-n144": {
-"possible": [
-{
-"v": 1,
-"p": "501",
-"cite": "792, in Prov. St. Pap., Ben. Mil, MS., xx. 3. S",
-"shared": 5
-},
-{
-"v": 1,
-"p": "525",
-"cite": "xcuses. Prov. St. Pap., Ben. Mil., MS., xxi. 5. D",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "ames in Prov. St. Pap., Ben. Mil., MS., xxiv. 1-4. T",
-"shared": 9
-},
-{
-"v": 1,
-"p": "597",
-"cite": "chapel. Prov. St. Pap., Ben. Mil., MS., xx. 5, 6. T",
-"shared": 9
-},
-{
-"v": 1,
-"p": "627",
-"cite": "pound. Prov. St. Pap., Ben. Mil., MS., xxii. 2. 1",
-"shared": 5
-},
-{
-"v": 1,
-"p": "629",
-"cite": "office. Prov. St. Pap., Ben. Mil., MS., xxv. 2. O",
-"shared": 5
-},
-{
-"v": 1,
-"p": "629",
-"cite": "red up. Prov. St. Pap., Ben. Mil., MS., xx. 4.'",
-"shared": 7
-},
-{
-"v": 1,
-"p": "639",
-"cite": "a man. Id., xxix. 4. B",
-"shared": 7
-}
-]
-},
 "ca14-d18-n29": {
 "cited": [
 {
@@ -4420,6 +3992,45 @@
 }
 ]
 },
+"ca16-d16-n14": {
+"cited": [
+{
+"v": 1,
+"p": "525",
+"cite": "xcuses. Prov. St. Pap., Ben. Mil., MS., xxi. 5. D"
+},
+{
+"v": 1,
+"p": "602",
+"cite": "sened.' Id., xxi. 7. M"
+},
+{
+"v": 1,
+"p": "665",
+"cite": "o $105. Prov. St. Pap., Ben. Mil., MS., xxi. 6, 9; x"
+},
+{
+"v": 1,
+"p": "665",
+"cite": "to $32. Prov. St. Pap., Ben. Mil., MS., xxi. 6. F"
+},
+{
+"v": 1,
+"p": "677",
+"cite": "MS., in Prov. St. Pap., Ben. Mil., xxi. 4. H"
+},
+{
+"v": 2,
+"p": "548",
+"cite": "ustody. Id. Ixxii. 6. T"
+},
+{
+"v": 2,
+"p": "584",
+"cite": "., i. ; Prov. St. Pap., Ben. Mil., MS., xxi. 5; A"
+}
+]
+},
 "ca7-d64-n35": {
 "cited": [
 {
@@ -4665,28 +4276,13 @@
 }
 ]
 },
-"ca55-d126-n173": {
-"possible": [
-{
-"v": 1,
-"p": "536",
-"cite": "i. 234; St. Pap. Sac., MS., ix. 88-93. M",
-"shared": 3
-},
-{
-"v": 1,
-"p": "681",
-"cite": "1796-7. St. Pap., Sac., MS., vi. 91; v"
-}
-]
-},
 "ca55-d381-n355": {
 "cited": [
 {
 "v": 1,
 "p": "536",
 "cite": "i. 234; St. Pap. Sac., MS., ix. 88-93. M",
-"shared": 3
+"shared": 2
 }
 ]
 },
@@ -4696,7 +4292,7 @@
 "v": 1,
 "p": "536",
 "cite": "i. 234; St. Pap. Sac., MS., ix. 88-93. M",
-"shared": 3
+"shared": 2
 }
 ]
 },
@@ -4996,58 +4592,6 @@
 }
 ]
 },
-"ca16-d404-n237": {
-"possible": [
-{
-"v": 1,
-"p": "537",
-"cite": "essels. Prov. St. Pap., Ben. Mil., MS., xxiv. 11. N",
-"shared": 8
-},
-{
-"v": 1,
-"p": "539",
-"cite": "tal 03. Id., xxiii. 11.",
-"shared": 8
-},
-{
-"v": 1,
-"p": "602",
-"cite": "rriage. Prov. St. Pap., Ben. Mil., MS., xxiv. 10, 11. F",
-"shared": 8
-},
-{
-"v": 1,
-"p": "667",
-"cite": "$2,256. Prov. St. Pap., Ben. Mil., MS., xxi. 12. D",
-"shared": 7
-},
-{
-"v": 1,
-"p": "713",
-"cite": "winds. Id., xxviii. 12-13. 4",
-"shared": 8
-},
-{
-"v": 2,
-"p": "124",
-"cite": ", 1807. Id., xxi. 12; S",
-"shared": 7
-},
-{
-"v": 2,
-"p": "143",
-"cite": "l gate. Prov. St. Pap., Ben. Mil., MS., xxxi. 12. 4",
-"shared": 7
-},
-{
-"v": 3,
-"p": "46",
-"cite": ". 82-9; Dept. St. Pap., Ben. Mil, MS., Ixxx. 12-13; I",
-"shared": 8
-}
-]
-},
 "ca54-d4006-n332": {
 "cited": [
 {
@@ -5302,49 +4846,17 @@
 }
 ]
 },
-"ca16-d177-n110": {
-"possible": [
+"ca16-d59-n38": {
+"cited": [
 {
 "v": 1,
 "p": "539",
-"cite": "ames in Prov. St. Pap., Ben. Mil., MS., xxiv. 1-4. T",
-"shared": 9
-},
-{
-"v": 2,
-"p": "128",
-"cite": "4, 125; Prov. St. Pap., Ben. Mil., MS., xxxiii. 1,20; x",
-"shared": 8
-},
-{
-"v": 2,
-"p": "187",
-"cite": "$1,200. Prov. St. Pap., Ben. Mil., MS., xxxiv. 1. M",
-"shared": 4
-},
-{
-"v": 2,
-"p": "593",
-"cite": "gueroa. Dept. St. Pap., Ben. Mil., MS., Ixxiv. 1-4. O",
-"shared": 9
-},
-{
-"v": 2,
-"p": "593",
-"cite": ". 15th. Id., Ixxii. 1. 1",
-"shared": 4
+"cite": "tal 03. Id., xxiii. 11."
 },
 {
 "v": 3,
-"p": "113",
-"cite": "3 days. Dept. St. Pap., Ben. Mil., MS., Ixxxviii. 1, 4. J",
-"shared": 9
-},
-{
-"v": 3,
-"p": "466",
-"cite": "stored. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 1. t",
-"shared": 4
+"p": "45",
+"cite": "ropped. Dept. St. Pap., Ben. Mil., MS., Ixxiv. 27 Me"
 }
 ]
 },
@@ -5570,8 +5082,7 @@
 {
 "v": 1,
 "p": "543",
-"cite": "4, 256; St. Pap., Sac., MS., viii. 76; P",
-"shared": 2
+"cite": "4, 256; St. Pap., Sac., MS., viii. 76; P"
 }
 ]
 },
@@ -5687,6 +5198,15 @@
 "p": "675",
 "cite": "7 $405. Prov. St. Pap., MS., xvii. 78-81. L",
 "shared": 2
+}
+]
+},
+"ca16-d178-n110": {
+"cited": [
+{
+"v": 1,
+"p": "543",
+"cite": "$3,460. Prov. St. Pap., Ben. Mil., MS., xxvii. 7. A"
 }
 ]
 },
@@ -6585,162 +6105,6 @@
 "p": "571",
 "cite": "larmed. Id., 25, 27. D",
 "shared": 2
-}
-]
-},
-"ca16-d179-n110": {
-"possible": [
-{
-"v": 1,
-"p": "571",
-"cite": "0 each. Prov. St. Pap., Ben. Mil., MS., xxvi. 16. ^",
-"shared": 6
-},
-{
-"v": 1,
-"p": "632",
-"cite": "e $758. Prov. St. Pap., Ben. Mil., MS., xxv. 14. N",
-"shared": 7
-},
-{
-"v": 1,
-"p": "639",
-"cite": "cution. Prov. St. Pap., Ben. Mil., xxviii. 17. G",
-"shared": 6
-},
-{
-"v": 1,
-"p": "645",
-"cite": "ce him. Prov. St. Pap., Ben. Mil., MS., xxvi. 18; S",
-"shared": 6
-},
-{
-"v": 1,
-"p": "646",
-"cite": ", 1800. Prov. St. Pap., Ben. Mil., MS., xxviii. 15. B",
-"shared": 8
-},
-{
-"v": 1,
-"p": "646",
-"cite": ", 1800. Id., xxvi. 18. C",
-"shared": 6
-},
-{
-"v": 1,
-"p": "647",
-"cite": "4-16. 9 Prov. St. Pap., Ben. Mil, MS., xxviii. 22.",
-"shared": 4
-},
-{
-"v": 1,
-"p": "648",
-"cite": "$3,750. Prov. St. Pap., Ben. Mil., MS., xxviii. 18. I",
-"shared": 6
-}
-]
-},
-"ca16-d406-n238": {
-"possible": [
-{
-"v": 1,
-"p": "571",
-"cite": "0 each. Prov. St. Pap., Ben. Mil., MS., xxvi. 16. ^",
-"shared": 6
-},
-{
-"v": 1,
-"p": "632",
-"cite": "e $758. Prov. St. Pap., Ben. Mil., MS., xxv. 14. N",
-"shared": 7
-},
-{
-"v": 1,
-"p": "639",
-"cite": "cution. Prov. St. Pap., Ben. Mil., xxviii. 17. G",
-"shared": 6
-},
-{
-"v": 1,
-"p": "645",
-"cite": "ce him. Prov. St. Pap., Ben. Mil., MS., xxvi. 18; S",
-"shared": 6
-},
-{
-"v": 1,
-"p": "646",
-"cite": ", 1800. Id., xxvi. 18. C",
-"shared": 6
-},
-{
-"v": 1,
-"p": "647",
-"cite": "4-16. 9 Prov. St. Pap., Ben. Mil, MS., xxviii. 22.",
-"shared": 4
-},
-{
-"v": 1,
-"p": "648",
-"cite": "$3,750. Prov. St. Pap., Ben. Mil., MS., xxviii. 18. I",
-"shared": 6
-},
-{
-"v": 1,
-"p": "677",
-"cite": "n 1800. Prov. St. Pap., Ben. Mil., MS., xxviii. 22. L",
-"shared": 4
-}
-]
-},
-"ca16-d518-n305": {
-"possible": [
-{
-"v": 1,
-"p": "571",
-"cite": "0 each. Prov. St. Pap., Ben. Mil., MS., xxvi. 16. ^",
-"shared": 6
-},
-{
-"v": 1,
-"p": "639",
-"cite": "cution. Prov. St. Pap., Ben. Mil., xxviii. 17. G",
-"shared": 6
-},
-{
-"v": 1,
-"p": "645",
-"cite": "ce him. Prov. St. Pap., Ben. Mil., MS., xxvi. 18; S",
-"shared": 6
-},
-{
-"v": 1,
-"p": "646",
-"cite": ", 1800. Id., xxvi. 18. C",
-"shared": 6
-},
-{
-"v": 1,
-"p": "648",
-"cite": "$3,750. Prov. St. Pap., Ben. Mil., MS., xxviii. 18. I",
-"shared": 6
-},
-{
-"v": 1,
-"p": "648",
-"cite": "7-1800. Id., xxxiii. 13: P",
-"shared": 6
-},
-{
-"v": 2,
-"p": "6",
-"cite": "troops. Prov. St. Pap., Ben. Mil., MS., xxxiv. 20. J",
-"shared": 5
-},
-{
-"v": 2,
-"p": "142",
-"cite": "n 1805. Prov. St. Pap., Ben. Mil, MS., xxxiii. 19. 4",
-"shared": 5
 }
 ]
 },
@@ -7795,55 +7159,23 @@
 }
 ]
 },
-"ca16-d402-n236": {
-"possible": [
+"ca16-d43-n27": {
+"cited": [
 {
 "v": 1,
 "p": "627",
-"cite": "pound. Prov. St. Pap., Ben. Mil., MS., xxii. 2. 1",
-"shared": 5
+"cite": "pound. Prov. St. Pap., Ben. Mil., MS., xxii. 2. 1"
 },
 {
 "v": 1,
-"p": "629",
-"cite": "office. Prov. St. Pap., Ben. Mil., MS., xxv. 2. O",
-"shared": 5
+"p": "670",
+"cite": "Pi-ov. St. Pap., Ben. Mil., MS., xxii. 4; x"
 },
 {
-"v": 1,
-"p": "648",
-"cite": "6, $95. Prov. St. Pap., Ben. Mil., MS., xxi. 2; x",
-"shared": 5
-},
-{
-"v": 1,
-"p": "713",
-"cite": "frost. Id., xxvii. 2. 1",
-"shared": 5
-},
-{
-"v": 2,
-"p": "128",
-"cite": "4, 125; Prov. St. Pap., Ben. Mil., MS., xxxiii. 1,20; x",
-"shared": 8
-},
-{
-"v": 2,
-"p": "143",
-"cite": "l, 157; Prov. St. Pap., Ben. Mil., MS., xxxiii. 2; P",
-"shared": 5
-},
-{
-"v": 2,
-"p": "149",
-"cite": "tions. Id., xxxii. 2. I",
-"shared": 5
-},
-{
-"v": 2,
-"p": "184",
-"cite": ". Bias. Prov. St. Pap., Ben. Mil., MS., xxxii. 2. F",
-"shared": 5
+"v": 3,
+"p": "190",
+"cite": "case in Dept. St. Pap., Ben. Mil, MS., Ixxiii. 8-11. N",
+"shared": 2
 }
 ]
 },
@@ -8227,46 +7559,6 @@
 }
 ]
 },
-"ca16-d83-n52": {
-"possible": [
-{
-"v": 1,
-"p": "632",
-"cite": "e $758. Prov. St. Pap., Ben. Mil., MS., xxv. 14. N",
-"shared": 7
-},
-{
-"v": 1,
-"p": "646",
-"cite": ", 1800. Prov. St. Pap., Ben. Mil., MS., xxviii. 15. B",
-"shared": 8
-},
-{
-"v": 2,
-"p": "124",
-"cite": "g. 5th. Prov. St. Pap., Ben. Mil., MS., xxxvii. 3, 15. D",
-"shared": 11
-},
-{
-"v": 2,
-"p": "190",
-"cite": "Diego. Id., xxxiv. 14, 15. G",
-"shared": 8
-},
-{
-"v": 2,
-"p": "191",
-"cite": "sidios. Prov. St. Pap., Ben. Mil., MS., xxxvii. 14. 1",
-"shared": 7
-},
-{
-"v": 2,
-"p": "677",
-"cite": "dying. Id., Ixxii. 11-15; D",
-"shared": 12
-}
-]
-},
 "ca7-d328-n232": {
 "cited": [
 {
@@ -8514,49 +7806,17 @@
 }
 ]
 },
-"ca16-d271-n159": {
-"possible": [
+"ca16-d234-n144": {
+"cited": [
 {
 "v": 1,
 "p": "639",
-"cite": "cution. Prov. St. Pap., Ben. Mil., xxviii. 17. G",
-"shared": 6
-},
-{
-"v": 1,
-"p": "645",
-"cite": "ce him. Prov. St. Pap., Ben. Mil., MS., xxvi. 18; S",
-"shared": 6
-},
-{
-"v": 1,
-"p": "646",
-"cite": ", 1800. Id., xxvi. 18. C",
-"shared": 6
-},
-{
-"v": 1,
-"p": "648",
-"cite": "$3,750. Prov. St. Pap., Ben. Mil., MS., xxviii. 18. I",
-"shared": 6
-},
-{
-"v": 3,
-"p": "84",
-"cite": "olanco. Dept. St. Pap., Ben. Mil., MS., Ixxii. 17-18. S",
-"shared": 6
-},
-{
-"v": 3,
-"p": "345",
-"cite": "De.pt. St. Pap., Ben. Mil., MS., Ixxxviii. 18. A",
-"shared": 6
+"cite": "a man. Id., xxix. 4. B"
 },
 {
 "v": 4,
-"p": "104",
-"cite": "lumber. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 17. P",
-"shared": 6
+"p": "82",
+"cite": ", 1836. Dept. St. Pap., Ben. Mil., MS., Ixxx. 5-9. \""
 }
 ]
 },
@@ -8756,34 +8016,6 @@
 "v": 1,
 "p": "646",
 "cite": ", 1799. Id., v. 293-4. R"
-}
-]
-},
-"ca16-d45-n29": {
-"possible": [
-{
-"v": 1,
-"p": "646",
-"cite": ", 1800. Prov. St. Pap., Ben. Mil., MS., xxviii. 15. B",
-"shared": 8
-},
-{
-"v": 2,
-"p": "124",
-"cite": "g. 5th. Prov. St. Pap., Ben. Mil., MS., xxxvii. 3, 15. D",
-"shared": 11
-},
-{
-"v": 2,
-"p": "190",
-"cite": "Diego. Id., xxxiv. 14, 15. G",
-"shared": 8
-},
-{
-"v": 2,
-"p": "677",
-"cite": "dying. Id., Ixxii. 11-15; D",
-"shared": 12
 }
 ]
 },
@@ -8990,74 +8222,6 @@
 }
 ]
 },
-"ca16-d44-n28": {
-"possible": [
-{
-"v": 1,
-"p": "665",
-"cite": "o $105. Prov. St. Pap., Ben. Mil., MS., xxi. 6, 9; x",
-"shared": 12
-},
-{
-"v": 2,
-"p": "140",
-"cite": ", 1806. Prov. St. Pap., Ben. Mil., MS., xxxiii. 9, 10. G",
-"shared": 12
-},
-{
-"v": 2,
-"p": "149",
-"cite": "151-2; Prov. St. Pap., Ben. Mil, MS., xxxii. 9. M",
-"shared": 12
-},
-{
-"v": 3,
-"p": "190",
-"cite": "case in Dept. St. Pap., Ben. Mil, MS., Ixxiii. 8-11. N",
-"shared": 13
-},
-{
-"v": 4,
-"p": "82",
-"cite": ", 1836. Dept. St. Pap., Ben. Mil., MS., Ixxx. 5-9. \"",
-"shared": 13
-}
-]
-},
-"ca16-d60-n38": {
-"possible": [
-{
-"v": 1,
-"p": "665",
-"cite": "o $105. Prov. St. Pap., Ben. Mil., MS., xxi. 6, 9; x",
-"shared": 12
-},
-{
-"v": 2,
-"p": "140",
-"cite": ", 1806. Prov. St. Pap., Ben. Mil., MS., xxxiii. 9, 10. G",
-"shared": 12
-},
-{
-"v": 2,
-"p": "149",
-"cite": "151-2; Prov. St. Pap., Ben. Mil, MS., xxxii. 9. M",
-"shared": 12
-},
-{
-"v": 3,
-"p": "190",
-"cite": "case in Dept. St. Pap., Ben. Mil, MS., Ixxiii. 8-11. N",
-"shared": 13
-},
-{
-"v": 4,
-"p": "82",
-"cite": ", 1836. Dept. St. Pap., Ben. Mil., MS., Ixxx. 5-9. \"",
-"shared": 13
-}
-]
-},
 "ca15-d373-n261": {
 "cited": [
 {
@@ -9093,6 +8257,25 @@
 "p": "667",
 "cite": "n Bias. St. Pap., Sac., MS., vii. 57-8. C",
 "shared": 2
+}
+]
+},
+"ca16-d149-n90": {
+"cited": [
+{
+"v": 1,
+"p": "670",
+"cite": "Tapis. Prov. St. Pap., Ben. Mil., MS., xxvi. 3; P"
+},
+{
+"v": 3,
+"p": "234",
+"cite": "n 1834. Dept. St. Pap., Ben. Mil., MS., Ixxvii. 11. C"
+},
+{
+"v": 3,
+"p": "559",
+"cite": "vice in Dept. St. Pap., Ben. Mil., MS., Ixxvii. 2-3; S"
 }
 ]
 },
@@ -9811,66 +8994,22 @@
 ]
 },
 "ca55-d124-n169": {
-"possible": [
+"cited": [
 {
 "v": 1,
 "p": "700",
 "cite": "needed. Id., vii. 32-5; P",
 "shared": 5
-},
-{
-"v": 2,
-"p": "340",
-"cite": "15-21; St. Pap. Sac., MS., vi. 32; x"
-},
-{
-"v": 2,
-"p": "435",
-"cite": "ssible. Id., vi. 33. M"
-},
-{
-"v": 2,
-"p": "440",
-"cite": "8-9. 18 St. Pap. Sac., MS., vi. 33-40; P",
-"shared": 2
-},
-{
-"v": 2,
-"p": "539",
-"cite": "place. St. Pap. Sac., MS., vi. 35. 3",
-"shared": 2
-},
-{
-"v": 2,
-"p": "602",
-"cite": "i. 45. \"St. Pap., Sac., MS., vi. 32, 48; D"
 }
 ]
 },
 "ca55-d125-n172": {
-"possible": [
+"cited": [
 {
 "v": 1,
 "p": "700",
 "cite": "needed. Id., vii. 32-5; P",
 "shared": 5
-},
-{
-"v": 2,
-"p": "435",
-"cite": "e same. Id., vi. 36-7. J"
-},
-{
-"v": 2,
-"p": "440",
-"cite": "8-9. 18 St. Pap. Sac., MS., vi. 33-40; P",
-"shared": 2
-},
-{
-"v": 2,
-"p": "539",
-"cite": "place. St. Pap. Sac., MS., vi. 35. 3",
-"shared": 2
 }
 ]
 },
@@ -9890,258 +9029,6 @@
 "v": 1,
 "p": "700",
 "cite": "a boat. Id., vi. 120. D"
-}
-]
-},
-"ca16-d18-n15": {
-"possible": [
-{
-"v": 1,
-"p": "705",
-"cite": "Carlos. Prov. St. Pap., Ben. Mil., MS., xxiii. 83. 1",
-"shared": 6
-},
-{
-"v": 3,
-"p": "75",
-"cite": "etails. Dept. St. Pap., Ben. Mil., MS., Ixxii. 41, 45-6, 76-7, a",
-"shared": 10
-},
-{
-"v": 3,
-"p": "267",
-"cite": "lace in Dept. St. Pap., Ben. Mil., MS., Ixxix. 73-4. J",
-"shared": 9
-},
-{
-"v": 3,
-"p": "268",
-"cite": "7 boys. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85. 6",
-"shared": 8
-},
-{
-"v": 3,
-"p": "442",
-"cite": "D<-pt. St. Pap., Ben. Mil., MS., Ixxxi. 70-80. M",
-"shared": 14
-},
-{
-"v": 3,
-"p": "447",
-"cite": ", 1833. Dept. St. Pap., Ben. Mil., MS., Ixxix. 79. I",
-"shared": 6
-},
-{
-"v": 3,
-"p": "466",
-"cite": "n 1836. Dept. St. Pap., Ben. Mil., MS., Ixxix. 83. C",
-"shared": 6
-},
-{
-"v": 3,
-"p": "559",
-"cite": "ompany. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85.",
-"shared": 8
-}
-]
-},
-"ca16-d48-n30": {
-"possible": [
-{
-"v": 1,
-"p": "705",
-"cite": "Carlos. Prov. St. Pap., Ben. Mil., MS., xxiii. 83. 1",
-"shared": 6
-},
-{
-"v": 2,
-"p": "29",
-"cite": "ndants. Dept. St. Pap., Ben. Mil., MS., xxxvii. 61. N",
-"shared": 6
-},
-{
-"v": 2,
-"p": "211",
-"cite": "x. 133; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 61-2. A",
-"shared": 6
-},
-{
-"v": 2,
-"p": "310",
-"cite": "xx. 93; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 62. J",
-"shared": 6
-},
-{
-"v": 3,
-"p": "49",
-"cite": "o case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 60-6. O",
-"shared": 10
-},
-{
-"v": 3,
-"p": "75",
-"cite": "etails. Dept. St. Pap., Ben. Mil., MS., Ixxii. 41, 45-6, 76-7, a",
-"shared": 10
-},
-{
-"v": 3,
-"p": "77",
-"cite": "Guerra. Dept. St. Pap., Ben. Mil., MS., Ixxii. 65-7. H",
-"shared": 7
-},
-{
-"v": 3,
-"p": "77",
-"cite": "timony, Id., 62-3, c",
-"shared": 7
-}
-]
-},
-"ca16-d185-n113": {
-"possible": [
-{
-"v": 1,
-"p": "705",
-"cite": "Carlos. Prov. St. Pap., Ben. Mil., MS., xxiii. 83. 1",
-"shared": 6
-},
-{
-"v": 3,
-"p": "268",
-"cite": "7 boys. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85. 6",
-"shared": 8
-},
-{
-"v": 3,
-"p": "466",
-"cite": "n 1836. Dept. St. Pap., Ben. Mil., MS., Ixxix. 83. C",
-"shared": 6
-},
-{
-"v": 3,
-"p": "559",
-"cite": "ompany. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85.",
-"shared": 8
-}
-]
-},
-"ca16-d197-n120": {
-"possible": [
-{
-"v": 1,
-"p": "705",
-"cite": "Carlos. Prov. St. Pap., Ben. Mil., MS., xxiii. 83. 1",
-"shared": 6
-},
-{
-"v": 2,
-"p": "29",
-"cite": "Mexico. Dept. St. Pap., Ben. Mil, MS., Ixxxvii. 59-60. N",
-"shared": 7
-},
-{
-"v": 2,
-"p": "29",
-"cite": "ndants. Dept. St. Pap., Ben. Mil., MS., xxxvii. 61. N",
-"shared": 6
-},
-{
-"v": 2,
-"p": "103",
-"cite": "vii. 1; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 52; P",
-"shared": 7
-},
-{
-"v": 2,
-"p": "187",
-"cite": "drcaba. Dept. St. Pap., Ben. Mil, MS., Ixxxvi. 54. T",
-"shared": 5
-},
-{
-"v": 2,
-"p": "211",
-"cite": "x. 133; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 61-2. A",
-"shared": 6
-},
-{
-"v": 2,
-"p": "310",
-"cite": "xx. 93; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 62. J",
-"shared": 6
-},
-{
-"v": 2,
-"p": "343",
-"cite": "r case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51. O",
-"shared": 8
-}
-]
-},
-"ca16-d273-n160": {
-"possible": [
-{
-"v": 1,
-"p": "705",
-"cite": "Carlos. Prov. St. Pap., Ben. Mil., MS., xxiii. 83. 1",
-"shared": 6
-},
-{
-"v": 3,
-"p": "267",
-"cite": "lace in Dept. St. Pap., Ben. Mil., MS., Ixxix. 73-4. J",
-"shared": 9
-},
-{
-"v": 3,
-"p": "268",
-"cite": "7 boys. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85. 6",
-"shared": 8
-},
-{
-"v": 3,
-"p": "442",
-"cite": "D<-pt. St. Pap., Ben. Mil., MS., Ixxxi. 70-80. M",
-"shared": 14
-},
-{
-"v": 3,
-"p": "447",
-"cite": ", 1833. Dept. St. Pap., Ben. Mil., MS., Ixxix. 79. I",
-"shared": 6
-},
-{
-"v": 3,
-"p": "466",
-"cite": "n 1836. Dept. St. Pap., Ben. Mil., MS., Ixxix. 83. C",
-"shared": 6
-},
-{
-"v": 3,
-"p": "559",
-"cite": "ompany. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85.",
-"shared": 8
-},
-{
-"v": 4,
-"p": "95",
-"cite": "iv. 76; Dept. St. Pap., Ben. Mil, MS., Ixxxi. 79. S",
-"shared": 6
-}
-]
-},
-"ca16-d525-n309": {
-"possible": [
-{
-"v": 1,
-"p": "705",
-"cite": "Carlos. Prov. St. Pap., Ben. Mil., MS., xxiii. 83. 1",
-"shared": 6
-},
-{
-"v": 3,
-"p": "466",
-"cite": "n 1836. Dept. St. Pap., Ben. Mil., MS., Ixxix. 83. C",
-"shared": 6
 }
 ]
 },
@@ -10972,159 +9859,43 @@
 }
 ]
 },
-"ca16-d121-n70": {
-"possible": [
-{
-"v": 2,
-"p": "18",
-"cite": "10,341. Prov. St. Pap., Ben. Mil., MS., xxx. 34. T",
-"shared": 5
-},
-{
-"v": 2,
-"p": "106",
-"cite": "t crop. Prov. St. Pap., Ben. Mil., MS., xxxvii. 37. S",
-"shared": 6
-},
-{
-"v": 2,
-"p": "118",
-"cite": "l. i. M'Prov. St. Pap., Ben. Mil., MS., xxxvii. 21-35; x",
-"shared": 11
-},
-{
-"v": 2,
-"p": "188",
-"cite": "fficer. Prov. St. Pap., Ben. Mil., MS., xxxiv. 28. J",
-"shared": 6
-},
-{
-"v": 2,
-"p": "548",
-"cite": "- gang. Id., Ixxi. 35-58. I",
-"shared": 22
-},
-{
-"v": 2,
-"p": "660",
-"cite": "fect 16 Dept. St. Pap., Ben. Mil., MS., Ixxi. 35-58; A",
-"shared": 22
-},
-{
-"v": 2,
-"p": "677",
-"cite": "n-gang. Id., Ixxi. 35-58. M",
-"shared": 22
-},
-{
-"v": 3,
-"p": "12",
-"cite": "in all. Dept St. Pap., Ben. Mil, MS., Ixxvi. 31.",
-"shared": 6
-}
-]
-},
 "ca16-d272-n160": {
-"possible": [
+"cited": [
 {
 "v": 2,
 "p": "18",
-"cite": "10,341. Prov. St. Pap., Ben. Mil., MS., xxx. 34. T",
-"shared": 5
-},
-{
-"v": 2,
-"p": "28",
-"cite": "MS. 26 Prov. St. Pap., Ben Mil, MS., xxxvii. 40.",
-"shared": 4
-},
-{
-"v": 2,
-"p": "29",
-"cite": "Mexico. Dept. St. Pap., Ben. Mil, MS., Ixxxvii. 59-60. N",
-"shared": 7
-},
-{
-"v": 2,
-"p": "29",
-"cite": "ndants. Dept. St. Pap., Ben. Mil., MS., xxxvii. 61. N",
-"shared": 6
-},
-{
-"v": 2,
-"p": "103",
-"cite": "vii. 1; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 52; P",
-"shared": 7
-},
-{
-"v": 2,
-"p": "106",
-"cite": "t crop. Prov. St. Pap., Ben. Mil., MS., xxxvii. 37. S",
-"shared": 6
-},
-{
-"v": 2,
-"p": "110",
-"cite": "hapule. Prov. St. Pap., Ben. Mil., MS., xxxiv. 27. \"",
-"shared": 6
-},
-{
-"v": 2,
-"p": "117",
-"cite": "0-1. 68 Prov. St. Pap., Ben. Mil., MS., xxxiv. 27. w",
-"shared": 6
-}
-]
-},
-"ca16-d519-n306": {
-"possible": [
-{
-"v": 2,
-"p": "18",
-"cite": "10,341. Prov. St. Pap., Ben. Mil., MS., xxx. 34. T",
-"shared": 5
-},
-{
-"v": 2,
-"p": "28",
-"cite": "MS. 26 Prov. St. Pap., Ben Mil, MS., xxxvii. 40.",
-"shared": 4
-},
-{
-"v": 2,
-"p": "106",
-"cite": "t crop. Prov. St. Pap., Ben. Mil., MS., xxxvii. 37. S",
-"shared": 6
-},
-{
-"v": 2,
-"p": "121",
-"cite": "112. 71 Prov. St. Pap., Ben. Mil., MS., xxxvii. 40; s",
-"shared": 4
-},
-{
-"v": 2,
-"p": "122",
-"cite": "ii. 69; Prov. St. Pap., Ben. Mil, MS., xxxvii. 40. 7",
-"shared": 4
+"cite": "10,341. Prov. St. Pap., Ben. Mil., MS., xxx. 34. T"
 },
 {
 "v": 3,
-"p": "15",
-"cite": "obbery. Id., Ixxiv. 44. H",
-"shared": 3
+"p": "299",
+"cite": "litico. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 31. I"
 },
 {
 "v": 3,
-"p": "69",
-"cite": "and, in Dept. St. Pap., Ben. Mil., MS., Ixxii. 45, s",
-"shared": 3
+"p": "422",
+"cite": "m. gen. Dept. St. Pap., Ben. Mil, MS., Ixxxi. 36; S"
 },
 {
 "v": 3,
-"p": "74",
-"cite": ". Dcpt. St. Pap., Ben. Mil, MS., Ixxii. 40. N",
-"shared": 4
+"p": "431",
+"cite": "ommand. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 37. J"
+},
+{
+"v": 3,
+"p": "442",
+"cite": "D<-pt. St. Pap., Ben. Mil., MS., Ixxxi. 70-80. M",
+"shared": 2
+},
+{
+"v": 3,
+"p": "465",
+"cite": "gueroa. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 34. N"
+},
+{
+"v": 4,
+"p": "83",
+"cite": "56,741. Dept. St. Pap., Ben. Mil, MS., Ixxxi. 45; o"
 }
 ]
 },
@@ -11768,152 +10539,6 @@
 "p": "29",
 "cite": ", 1807. Prov. St. Pap., MS., xix. 201-2. 2",
 "shared": 2
-}
-]
-},
-"ca16-d183-n112": {
-"possible": [
-{
-"v": 2,
-"p": "29",
-"cite": "Mexico. Dept. St. Pap., Ben. Mil, MS., Ixxxvii. 59-60. N",
-"shared": 7
-}
-]
-},
-"ca16-d184-n112": {
-"possible": [
-{
-"v": 2,
-"p": "29",
-"cite": "Mexico. Dept. St. Pap., Ben. Mil, MS., Ixxxvii. 59-60. N",
-"shared": 7
-},
-{
-"v": 2,
-"p": "29",
-"cite": "ndants. Dept. St. Pap., Ben. Mil., MS., xxxvii. 61. N",
-"shared": 6
-},
-{
-"v": 2,
-"p": "187",
-"cite": "drcaba. Dept. St. Pap., Ben. Mil, MS., Ixxxvi. 54. T",
-"shared": 5
-},
-{
-"v": 2,
-"p": "211",
-"cite": "x. 133; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 61-2. A",
-"shared": 6
-},
-{
-"v": 2,
-"p": "310",
-"cite": "xx. 93; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 62. J",
-"shared": 6
-},
-{
-"v": 3,
-"p": "49",
-"cite": "o case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 60-6. O",
-"shared": 10
-},
-{
-"v": 3,
-"p": "77",
-"cite": "Guerra. Dept. St. Pap., Ben. Mil., MS., Ixxii. 65-7. H",
-"shared": 7
-},
-{
-"v": 3,
-"p": "77",
-"cite": "timony, Id., 62-3, c",
-"shared": 7
-}
-]
-},
-"ca16-d489-n290": {
-"possible": [
-{
-"v": 2,
-"p": "29",
-"cite": "Mexico. Dept. St. Pap., Ben. Mil, MS., Ixxxvii. 59-60. N",
-"shared": 7
-}
-]
-},
-"ca16-d621-n392": {
-"possible": [
-{
-"v": 2,
-"p": "29",
-"cite": "ndants. Dept. St. Pap., Ben. Mil., MS., xxxvii. 61. N",
-"shared": 6
-},
-{
-"v": 2,
-"p": "211",
-"cite": "x. 133; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 61-2. A",
-"shared": 6
-},
-{
-"v": 2,
-"p": "310",
-"cite": "xx. 93; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 62. J",
-"shared": 6
-}
-]
-},
-"ca16-d1-n1": {
-"possible": [
-{
-"v": 2,
-"p": "29",
-"cite": "ion 30. Prov. St. Pap., Ben. Mil., MS., xxxiv. 26. F",
-"shared": 5
-},
-{
-"v": 2,
-"p": "110",
-"cite": "hapule. Prov. St. Pap., Ben. Mil., MS., xxxiv. 27. \"",
-"shared": 6
-},
-{
-"v": 2,
-"p": "117",
-"cite": "0-1. 68 Prov. St. Pap., Ben. Mil., MS., xxxiv. 27. w",
-"shared": 6
-},
-{
-"v": 2,
-"p": "118",
-"cite": "19-24; Prov. St. Pap., Ben. Mil, MS., xxxiv. 23; S",
-"shared": 5
-},
-{
-"v": 2,
-"p": "118",
-"cite": "l. i. M'Prov. St. Pap., Ben. Mil., MS., xxxvii. 21-35; x",
-"shared": 11
-},
-{
-"v": 2,
-"p": "188",
-"cite": "fficer. Prov. St. Pap., Ben. Mil., MS., xxxiv. 28. J",
-"shared": 6
-},
-{
-"v": 2,
-"p": "560",
-"cite": "prison. Id. , Ixxii. 24-5; D",
-"shared": 6
-},
-{
-"v": 3,
-"p": "12",
-"cite": "in all. Dept St. Pap., Ben. Mil, MS., Ixxvi. 31.",
-"shared": 6
 }
 ]
 },
@@ -12672,117 +11297,12 @@
 }
 ]
 },
-"ca16-d2-n1": {
-"possible": [
+"ca16-d519-n306": {
+"cited": [
 {
 "v": 2,
 "p": "103",
-"cite": "vii. 1; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 52; P",
-"shared": 7
-},
-{
-"v": 2,
-"p": "187",
-"cite": "drcaba. Dept. St. Pap., Ben. Mil, MS., Ixxxvi. 54. T",
-"shared": 5
-},
-{
-"v": 2,
-"p": "548",
-"cite": "- gang. Id., Ixxi. 35-58. I",
-"shared": 22
-},
-{
-"v": 2,
-"p": "660",
-"cite": "fect 16 Dept. St. Pap., Ben. Mil., MS., Ixxi. 35-58; A",
-"shared": 22
-},
-{
-"v": 2,
-"p": "677",
-"cite": "n-gang. Id., Ixxi. 35-58. M",
-"shared": 22
-},
-{
-"v": 3,
-"p": "231",
-"cite": "tico.' Dept. St. Pap., Ben. Mil., MS., Ixxviii. 53.",
-"shared": 8
-},
-{
-"v": 3,
-"p": "306",
-"cite": "Sonora. Dept. St. Pap., Ben. Mil., MS., Ixxiii. 52. S",
-"shared": 7
-},
-{
-"v": 3,
-"p": "375",
-"cite": "ncisco. Dept. St. Pap., Ben. Mil., MS., Ixxiii. 54; V",
-"shared": 5
-}
-]
-},
-"ca16-d198-n121": {
-"possible": [
-{
-"v": 2,
-"p": "103",
-"cite": "vii. 1; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 52; P",
-"shared": 7
-},
-{
-"v": 2,
-"p": "343",
-"cite": "r case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51. O",
-"shared": 8
-},
-{
-"v": 2,
-"p": "345",
-"cite": "rence. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51.",
-"shared": 8
-},
-{
-"v": 3,
-"p": "231",
-"cite": "tico.' Dept. St. Pap., Ben. Mil., MS., Ixxviii. 53.",
-"shared": 8
-},
-{
-"v": 3,
-"p": "306",
-"cite": "Sonora. Dept. St. Pap., Ben. Mil., MS., Ixxiii. 52. S",
-"shared": 7
-}
-]
-},
-"ca16-d235-n144": {
-"possible": [
-{
-"v": 2,
-"p": "103",
-"cite": "vii. 1; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 52; P",
-"shared": 7
-},
-{
-"v": 2,
-"p": "343",
-"cite": "r case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51. O",
-"shared": 8
-},
-{
-"v": 2,
-"p": "345",
-"cite": "rence. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51.",
-"shared": 8
-},
-{
-"v": 3,
-"p": "306",
-"cite": "Sonora. Dept. St. Pap., Ben. Mil., MS., Ixxiii. 52. S",
-"shared": 7
+"cite": "vii. 1; Dept. St. Pap., Ben. Mil., MS., Ixxxvii. 52; P"
 }
 ]
 },
@@ -12819,22 +11339,6 @@
 "p": "105",
 "cite": "ited 16 Prov. St. Pap., MS., xviii. 367; x",
 "shared": 3
-}
-]
-},
-"ca16-d486-n289": {
-"possible": [
-{
-"v": 2,
-"p": "106",
-"cite": "t crop. Prov. St. Pap., Ben. Mil., MS., xxxvii. 37. S",
-"shared": 6
-},
-{
-"v": 3,
-"p": "431",
-"cite": "ommand. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 37. J",
-"shared": 6
 }
 ]
 },
@@ -12894,46 +11398,6 @@
 "p": "167",
 "cite": "othing. Prov. Rec., MS., ix. 81.",
 "shared": 2
-}
-]
-},
-"ca16-d47-n29": {
-"possible": [
-{
-"v": 2,
-"p": "110",
-"cite": "hapule. Prov. St. Pap., Ben. Mil., MS., xxxiv. 27. \"",
-"shared": 6
-},
-{
-"v": 2,
-"p": "117",
-"cite": "0-1. 68 Prov. St. Pap., Ben. Mil., MS., xxxiv. 27. w",
-"shared": 6
-},
-{
-"v": 2,
-"p": "118",
-"cite": "l. i. M'Prov. St. Pap., Ben. Mil., MS., xxxvii. 21-35; x",
-"shared": 11
-},
-{
-"v": 3,
-"p": "45",
-"cite": "ropped. Dept. St. Pap., Ben. Mil., MS., Ixxiv. 27 Me",
-"shared": 6
-},
-{
-"v": 3,
-"p": "74",
-"cite": ". Dcpt. St. Pap., Ben. Mil., MS., Ixxi. 21-8. A",
-"shared": 9
-},
-{
-"v": 3,
-"p": "257",
-"cite": "170-1; Dept. St. Pap., Ben. Mil., MS., Ixxviii. 23-39. R",
-"shared": 13
 }
 ]
 },
@@ -13065,40 +11529,6 @@
 }
 ]
 },
-"ca16-d46-n29": {
-"possible": [
-{
-"v": 2,
-"p": "118",
-"cite": "l. i. M'Prov. St. Pap., Ben. Mil., MS., xxxvii. 21-35; x",
-"shared": 11
-},
-{
-"v": 2,
-"p": "560",
-"cite": "prison. Id. , Ixxii. 24-5; D",
-"shared": 6
-},
-{
-"v": 3,
-"p": "74",
-"cite": ". Dcpt. St. Pap., Ben. Mil., MS., Ixxi. 21-8. A",
-"shared": 9
-},
-{
-"v": 3,
-"p": "245",
-"cite": "eandia. Dept. St. Pap., Ben. Mil., MS., Ixxix. 23, 25. 1",
-"shared": 6
-},
-{
-"v": 3,
-"p": "257",
-"cite": "170-1; Dept. St. Pap., Ben. Mil., MS., Ixxviii. 23-39. R",
-"shared": 13
-}
-]
-},
 "ca55-d265-n230": {
 "cited": [
 {
@@ -13160,6 +11590,36 @@
 "p": "126",
 "cite": "illaga. Prov. St. Pap., MS., xviii. 362-3. 8",
 "shared": 4
+}
+]
+},
+"ca16-d402-n236": {
+"cited": [
+{
+"v": 2,
+"p": "128",
+"cite": "4, 125; Prov. St. Pap., Ben. Mil., MS., xxxiii. 1,20; x",
+"shared": 2
+},
+{
+"v": 2,
+"p": "143",
+"cite": "l, 157; Prov. St. Pap., Ben. Mil., MS., xxxiii. 2; P"
+}
+]
+},
+"ca16-d406-n238": {
+"cited": [
+{
+"v": 2,
+"p": "128",
+"cite": "4, 125; Prov. St. Pap., Ben. Mil., MS., xxxiii. 1,20; x",
+"shared": 2
+},
+{
+"v": 2,
+"p": "142",
+"cite": "n 1805. Prov. St. Pap., Ben. Mil, MS., xxxiii. 19. 4"
 }
 ]
 },
@@ -13317,6 +11777,15 @@
 "v": 2,
 "p": "358",
 "cite": "nduct.' Prov. St. Pap., MS., xviii. 79; I"
+}
+]
+},
+"ca16-d403-n236": {
+"cited": [
+{
+"v": 2,
+"p": "140",
+"cite": ", 1806. Prov. St. Pap., Ben. Mil., MS., xxxiii. 9, 10. G"
 }
 ]
 },
@@ -14381,6 +12850,41 @@
 }
 ]
 },
+"ca16-d270-n159": {
+"cited": [
+{
+"v": 2,
+"p": "190",
+"cite": "t. Sal. Prov. St. Pap., Ben. Mil., MS., xxx. 21. C"
+},
+{
+"v": 2,
+"p": "190",
+"cite": ", $693. Id., xxx. 22. J"
+},
+{
+"v": 3,
+"p": "287",
+"cite": "17-19; Dept. St. Pap., Ben. Mil., MS., Ixxxi. 6. 2"
+},
+{
+"v": 3,
+"p": "287",
+"cite": ". 19th. Dept. St. Pap., Ben. Mil, MS., Ixxxi. 6-7. 8"
+},
+{
+"v": 3,
+"p": "466",
+"cite": "stored. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 1. t"
+},
+{
+"v": 4,
+"p": "104",
+"cite": "lumber. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 17. P",
+"shared": 2
+}
+]
+},
 "ca12-d61-n67": {
 "cited": [
 {
@@ -14912,6 +13416,32 @@
 }
 ]
 },
+"ca56-d412-n358": {
+"cited": [
+{
+"v": 2,
+"p": "278",
+"cite": "ndants. St. Pap., Sac., MS., xviii. 49-50; P",
+"shared": 2
+}
+]
+},
+"ca56-d413-n359": {
+"cited": [
+{
+"v": 2,
+"p": "278",
+"cite": "ndants. St. Pap., Sac., MS., xviii. 49-50; P",
+"shared": 2
+},
+{
+"v": 3,
+"p": "259",
+"cite": "ngress. St. Pap., Sac., MS., xviii. 51-3. I",
+"shared": 3
+}
+]
+},
 "ca12-d71-n73": {
 "cited": [
 {
@@ -15124,32 +13654,11 @@
 ]
 },
 "ca19-d63-n58": {
-"possible": [
+"cited": [
 {
 "v": 2,
 "p": "341",
-"cite": "41-50; Dept. St. Pap., Ben. Mil., MS.,lxxi. 47-51; I",
-"shared": 3
-}
-]
-},
-"ca19-d110-n132": {
-"possible": [
-{
-"v": 2,
-"p": "341",
-"cite": "41-50; Dept. St. Pap., Ben. Mil., MS.,lxxi. 47-51; I",
-"shared": 3
-}
-]
-},
-"ca19-d201-n373": {
-"possible": [
-{
-"v": 2,
-"p": "341",
-"cite": "41-50; Dept. St. Pap., Ben. Mil., MS.,lxxi. 47-51; I",
-"shared": 3
+"cite": "41-50; Dept. St. Pap., Ben. Mil., MS.,lxxi. 47-51; I"
 }
 ]
 },
@@ -15159,22 +13668,6 @@
 "v": 2,
 "p": "341",
 "cite": "ii. 65; St. Pap., Sac., MS., i. 7, 38; i"
-}
-]
-},
-"ca16-d181-n111": {
-"possible": [
-{
-"v": 2,
-"p": "343",
-"cite": "r case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51. O",
-"shared": 8
-},
-{
-"v": 2,
-"p": "345",
-"cite": "rence. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51.",
-"shared": 8
 }
 ]
 },
@@ -15528,6 +14021,16 @@
 "p": "456",
 "cite": "ayeras. St. Pap. Sac., MS., xviii. 19, 21; v",
 "shared": 4
+}
+]
+},
+"ca55-d123-n168": {
+"cited": [
+{
+"v": 2,
+"p": "456",
+"cite": "- arms. Id., vii. 75. A",
+"shared": 2
 }
 ]
 },
@@ -16434,93 +14937,22 @@
 }
 ]
 },
-"ca16-d17-n15": {
-"possible": [
+"ca16-d2-n1": {
+"cited": [
 {
 "v": 2,
 "p": "548",
-"cite": "- gang. Id., Ixxi. 35-58. I",
-"shared": 22
+"cite": "- gang. Id., Ixxi. 35-58. I"
 },
 {
 "v": 2,
 "p": "660",
-"cite": "fect 16 Dept. St. Pap., Ben. Mil., MS., Ixxi. 35-58; A",
-"shared": 22
+"cite": "fect 16 Dept. St. Pap., Ben. Mil., MS., Ixxi. 35-58; A"
 },
 {
 "v": 2,
 "p": "677",
-"cite": "n-gang. Id., Ixxi. 35-58. M",
-"shared": 22
-},
-{
-"v": 3,
-"p": "257",
-"cite": "170-1; Dept. St. Pap., Ben. Mil., MS., Ixxviii. 23-39. R",
-"shared": 13
-},
-{
-"v": 3,
-"p": "368",
-"cite": "uaymas. Dept. St. Pap., Ben. Mil., MS., Ixxix. 38-9. O",
-"shared": 6
-}
-]
-},
-"ca16-d84-n52": {
-"possible": [
-{
-"v": 2,
-"p": "548",
-"cite": "- gang. Id., Ixxi. 35-58. I",
-"shared": 22
-},
-{
-"v": 2,
-"p": "660",
-"cite": "fect 16 Dept. St. Pap., Ben. Mil., MS., Ixxi. 35-58; A",
-"shared": 22
-},
-{
-"v": 2,
-"p": "677",
-"cite": "n-gang. Id., Ixxi. 35-58. M",
-"shared": 22
-},
-{
-"v": 3,
-"p": "75",
-"cite": "etails. Dept. St. Pap., Ben. Mil., MS., Ixxii. 41, 45-6, 76-7, a",
-"shared": 10
-}
-]
-},
-"ca16-d123-n70": {
-"possible": [
-{
-"v": 2,
-"p": "548",
-"cite": "- gang. Id., Ixxi. 35-58. I",
-"shared": 22
-},
-{
-"v": 2,
-"p": "660",
-"cite": "fect 16 Dept. St. Pap., Ben. Mil., MS., Ixxi. 35-58; A",
-"shared": 22
-},
-{
-"v": 2,
-"p": "677",
-"cite": "n-gang. Id., Ixxi. 35-58. M",
-"shared": 22
-},
-{
-"v": 3,
-"p": "231",
-"cite": "tico.' Dept. St. Pap., Ben. Mil., MS., Ixxviii. 53.",
-"shared": 8
+"cite": "n-gang. Id., Ixxi. 35-58. M"
 }
 ]
 },
@@ -16826,7 +15258,7 @@
 "v": 2,
 "p": "678",
 "cite": ". Jose\\ Dept. St. Pap., Ben. Mil., liv. 18-59. B",
-"shared": 18
+"shared": 17
 }
 ]
 },
@@ -16871,7 +15303,7 @@
 "v": 2,
 "p": "678",
 "cite": ". Jose\\ Dept. St. Pap., Ben. Mil., liv. 18-59. B",
-"shared": 18
+"shared": 17
 }
 ]
 },
@@ -17072,6 +15504,35 @@
 }
 ]
 },
+"ca56-d458-n396": {
+"cited": [
+{
+"v": 2,
+"p": "672",
+"cite": "igures. St. Pap. Sac., MS., xix. 43-5. 1"
+},
+{
+"v": 2,
+"p": "676",
+"cite": "ibunal. Id., xix. 47-8; S"
+},
+{
+"v": 3,
+"p": "135",
+"cite": "180. 49 St. Pap., Sac., MS., xix. 46-7. R"
+},
+{
+"v": 3,
+"p": "177",
+"cite": "4th, in Id., xix. 44. L"
+},
+{
+"v": 3,
+"p": "44",
+"cite": "also in St. Pap., Sac., MS., xix. 48; D"
+}
+]
+},
 "ca46-d4-n2": {
 "cited": [
 {
@@ -17218,28 +15679,13 @@
 }
 ]
 },
-"ca18-d5-n290": {
-"possible": [
-{
-"v": 2,
-"p": "677",
-"cite": "nterey. Dept. St. Pap., Ben. Mil., MS., liii. 7-64. M"
-},
-{
-"v": 2,
-"p": "678",
-"cite": ". Jose\\ Dept. St. Pap., Ben. Mil., liv. 18-59. B",
-"shared": 18
-}
-]
-},
 "ca18-d33-n98": {
 "cited": [
 {
 "v": 2,
 "p": "678",
 "cite": ". Jose\\ Dept. St. Pap., Ben. Mil., liv. 18-59. B",
-"shared": 18
+"shared": 17
 }
 ]
 },
@@ -17249,7 +15695,7 @@
 "v": 2,
 "p": "678",
 "cite": ". Jose\\ Dept. St. Pap., Ben. Mil., liv. 18-59. B",
-"shared": 18
+"shared": 17
 }
 ]
 },
@@ -17259,7 +15705,17 @@
 "v": 2,
 "p": "678",
 "cite": ". Jose\\ Dept. St. Pap., Ben. Mil., liv. 18-59. B",
-"shared": 18
+"shared": 17
+}
+]
+},
+"ca18-d36-n99": {
+"cited": [
+{
+"v": 2,
+"p": "678",
+"cite": ". Jose\\ Dept. St. Pap., Ben. Mil., liv. 18-59. B",
+"shared": 17
 }
 ]
 },
@@ -17336,19 +15792,12 @@
 }
 ]
 },
-"ca16-d356-n217": {
-"possible": [
+"ca16-d121-n70": {
+"cited": [
 {
 "v": 3,
 "p": "12",
-"cite": "in all. Dept St. Pap., Ben. Mil, MS., Ixxvi. 31.",
-"shared": 6
-},
-{
-"v": 3,
-"p": "299",
-"cite": "litico. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 31. I",
-"shared": 6
+"cite": "in all. Dept St. Pap., Ben. Mil, MS., Ixxvi. 31."
 }
 ]
 },
@@ -17502,50 +15951,6 @@
 }
 ]
 },
-"ca16-d85-n55": {
-"possible": [
-{
-"v": 3,
-"p": "49",
-"cite": "o case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 60-6. O",
-"shared": 10
-},
-{
-"v": 3,
-"p": "77",
-"cite": "Guerra. Dept. St. Pap., Ben. Mil., MS., Ixxii. 65-7. H",
-"shared": 7
-},
-{
-"v": 3,
-"p": "442",
-"cite": "D<-pt. St. Pap., Ben. Mil., MS., Ixxxi. 70-80. M",
-"shared": 14
-}
-]
-},
-"ca16-d124-n71": {
-"possible": [
-{
-"v": 3,
-"p": "49",
-"cite": "o case. Dept. St. Pap., Ben. Mil., MS., Ixxi. 60-6. O",
-"shared": 10
-},
-{
-"v": 3,
-"p": "77",
-"cite": "timony, Id., 62-3, c",
-"shared": 7
-},
-{
-"v": 3,
-"p": "81",
-"cite": "8 P. M. Dept. St. Pap., Ben. Mil., MS., Ixxii. 64. G",
-"shared": 6
-}
-]
-},
 "ca56-d13-n6": {
 "cited": [
 {
@@ -17674,13 +16079,21 @@
 }
 ]
 },
-"ca16-d444-n261": {
-"possible": [
+"ca16-d1-n1": {
+"cited": [
 {
 "v": 3,
-"p": "77",
-"cite": "Guerra. Dept. St. Pap., Ben. Mil., MS., Ixxii. 65-7. H",
-"shared": 7
+"p": "74",
+"cite": ". Dcpt. St. Pap., Ben. Mil., MS., Ixxi. 21-8. A"
+}
+]
+},
+"ca16-d18-n15": {
+"cited": [
+{
+"v": 3,
+"p": "75",
+"cite": "etails. Dept. St. Pap., Ben. Mil., MS., Ixxii. 41, 45-6, 76-7, a"
 }
 ]
 },
@@ -17790,6 +16203,20 @@
 }
 ]
 },
+"ca56-d452-n393": {
+"cited": [
+{
+"v": 3,
+"p": "177",
+"cite": "b. 5th. Id., xix. 3. L"
+},
+{
+"v": 4,
+"p": "521",
+"cite": "., etc. St. Pap., Sac., MS., xix. 1-2. A"
+}
+]
+},
 "ca59-d50-n302": {
 "cited": [
 {
@@ -17829,6 +16256,16 @@
 "v": 3,
 "p": "187",
 "cite": "pied in Leg. Rec., MS., i. 335-6. 1"
+}
+]
+},
+"ca16-d44-n28": {
+"cited": [
+{
+"v": 3,
+"p": "190",
+"cite": "case in Dept. St. Pap., Ben. Mil, MS., Ixxiii. 8-11. N",
+"shared": 2
 }
 ]
 },
@@ -18033,12 +16470,22 @@
 ]
 },
 "ca16-d182-n111": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "231",
 "cite": "tico.' Dept. St. Pap., Ben. Mil., MS., Ixxviii. 53.",
-"shared": 8
+"shared": 2
+}
+]
+},
+"ca16-d184-n112": {
+"cited": [
+{
+"v": 3,
+"p": "231",
+"cite": "tico.' Dept. St. Pap., Ben. Mil., MS., Ixxviii. 53.",
+"shared": 2
 }
 ]
 },
@@ -18066,45 +16513,61 @@
 }
 ]
 },
-"ca16-d357-n217": {
-"possible": [
+"ca16-d179-n110": {
+"cited": [
+{
+"v": 3,
+"p": "255",
+"cite": "ement. \u2122Dept. St. Pap., Ben. Mil, MS., Ixxviii. 23. \u2122"
+},
+{
+"v": 3,
+"p": "257",
+"cite": "170-1; Dept. St. Pap., Ben. Mil., MS., Ixxviii. 23-39. R"
+}
+]
+},
+"ca56-d414-n359": {
+"cited": [
+{
+"v": 3,
+"p": "259",
+"cite": "ngress. St. Pap., Sac., MS., xviii. 51-3. I",
+"shared": 3
+}
+]
+},
+"ca56-d459-n400": {
+"cited": [
+{
+"v": 3,
+"p": "259",
+"cite": "ngress. St. Pap., Sac., MS., xviii. 51-3. I",
+"shared": 3
+},
+{
+"v": 3,
+"p": "368",
+"cite": "ngress. St. Pap., Sac., MS., xviii. 54. O"
+}
+]
+},
+"ca16-d197-n120": {
+"cited": [
 {
 "v": 3,
 "p": "267",
-"cite": "lace in Dept. St. Pap., Ben. Mil., MS., Ixxix. 73-4. J",
-"shared": 9
-}
-]
-},
-"ca16-d274-n161": {
-"possible": [
-{
-"v": 3,
-"p": "268",
-"cite": "7 boys. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85. 6",
-"shared": 8
+"cite": "lace in Dept. St. Pap., Ben. Mil., MS., Ixxix. 73-4. J"
 },
 {
 "v": 3,
-"p": "559",
-"cite": "ompany. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85.",
-"shared": 8
-}
-]
-},
-"ca16-d447-n263": {
-"possible": [
-{
-"v": 3,
-"p": "268",
-"cite": "7 boys. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85. 6",
-"shared": 8
+"p": "447",
+"cite": ", 1833. Dept. St. Pap., Ben. Mil., MS., Ixxix. 79. I"
 },
 {
 "v": 3,
-"p": "559",
-"cite": "ompany. Dept. St. Pap., Ben. Mil., MS., Ixxix. 85.",
-"shared": 8
+"p": "466",
+"cite": "n 1836. Dept. St. Pap., Ben. Mil., MS., Ixxix. 83. C"
 }
 ]
 },
@@ -18139,16 +16602,6 @@
 "v": 3,
 "p": "302",
 "cite": "terior. Leg. Rec., MS., i. 134-58; G",
-"shared": 5
-}
-]
-},
-"ca16-d487-n289": {
-"possible": [
-{
-"v": 3,
-"p": "321",
-"cite": "77-8. **Dept. St. Pap., Ben. Mil., MS., Ixxiv. 47-8; I",
 "shared": 5
 }
 ]
@@ -18407,35 +16860,18 @@
 }
 ]
 },
-"ca16-d446-n263": {
-"possible": [
+"ca16-d273-n160": {
+"cited": [
 {
 "v": 3,
-"p": "447",
-"cite": ", 1833. Dept. St. Pap., Ben. Mil., MS., Ixxix. 79. I",
-"shared": 6
+"p": "442",
+"cite": "D<-pt. St. Pap., Ben. Mil., MS., Ixxxi. 70-80. M",
+"shared": 2
 },
 {
 "v": 4,
 "p": "95",
-"cite": "iv. 76; Dept. St. Pap., Ben. Mil, MS., Ixxxi. 79. S",
-"shared": 6
-}
-]
-},
-"ca16-d524-n308": {
-"possible": [
-{
-"v": 3,
-"p": "447",
-"cite": ", 1833. Dept. St. Pap., Ben. Mil., MS., Ixxix. 79. I",
-"shared": 6
-},
-{
-"v": 4,
-"p": "95",
-"cite": "iv. 76; Dept. St. Pap., Ben. Mil, MS., Ixxxi. 79. S",
-"shared": 6
+"cite": "iv. 76; Dept. St. Pap., Ben. Mil, MS., Ixxxi. 79. S"
 }
 ]
 },
@@ -18700,6 +17136,61 @@
 }
 ]
 },
+"ca16-d271-n159": {
+"cited": [
+{
+"v": 4,
+"p": "104",
+"cite": "lumber. Dept. St. Pap., Ben. Mil., MS., Ixxxi. 17. P",
+"shared": 2
+}
+]
+},
+"ca56-d455-n394": {
+"cited": [
+{
+"v": 4,
+"p": "516",
+"cite": "171-2; St. Pap., Sac., MS., xix. 20-2. M",
+"shared": 3
+},
+{
+"v": 4,
+"p": "651",
+"cite": "ii. 50; St. Pap., Sac., MS., xix. 18-20; t",
+"shared": 2
+}
+]
+},
+"ca56-d456-n395": {
+"cited": [
+{
+"v": 4,
+"p": "516",
+"cite": "171-2; St. Pap., Sac., MS., xix. 20-2. M",
+"shared": 3
+}
+]
+},
+"ca56-d457-n395": {
+"cited": [
+{
+"v": 4,
+"p": "516",
+"cite": "171-2; St. Pap., Sac., MS., xix. 20-2. M",
+"shared": 3
+}
+]
+},
+"ca16-d485-n289": {
+"cited": [
+{
+"v": 4,
+"p": "561",
+"cite": "i. 215; Dept. St. Pap., Ben. Mil., MS., Ixxxvi. 13. T"
+}
+]
+},
 "ca46-d108-n272": {
 "cited": [
 {
@@ -18730,6 +17221,16 @@
 "v": 4,
 "p": "641",
 "cite": "is Rey. Id., 171. S"
+}
+]
+},
+"ca56-d454-n394": {
+"cited": [
+{
+"v": 4,
+"p": "651",
+"cite": "ii. 50; St. Pap., Sac., MS., xix. 18-20; t",
+"shared": 2
 }
 ]
 },
