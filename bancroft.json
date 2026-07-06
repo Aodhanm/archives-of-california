@@ -14218,7 +14218,7 @@
 ]
 },
 "ca58-d1-n1": {
-"possible": [
+"cited": [
 {
 "v": 2,
 "p": "484",
@@ -14673,37 +14673,6 @@
 "v": 3,
 "p": "609",
 "cite": "troops. Id., 122. 1"
-}
-]
-},
-"ca61-d5-n3": {
-"possible": [
-{
-"v": 2,
-"p": "520",
-"cite": "trator. Id., iv. 20. 1"
-},
-{
-"v": 3,
-"p": "425",
-"cite": "are 29 Leg. Rec., MS., iii. 1-3, 13-31. M",
-"shared": 9
-},
-{
-"v": 3,
-"p": "684",
-"cite": "taxnon. Leg. Rec., MS. , iii. 23. J"
-},
-{
-"v": 4,
-"p": "45",
-"cite": ". 24. 9 Leg. Rec., MS., iii. 23; S"
-},
-{
-"v": 4,
-"p": "424",
-"cite": "states. Leg. Rec., MS., iv. 20, 25-7; O",
-"shared": 2
 }
 ]
 },
@@ -15564,41 +15533,17 @@
 ]
 },
 "ca58-d12-n8": {
-"possible": [
+"cited": [
 {
 "v": 2,
 "p": "676",
 "cite": "rmerly. Sup. Govt. St. Pap., MS., xix. 16. A",
 "shared": 2
-},
-{
-"v": 3,
-"p": "56",
-"cite": "fornia. Sup. Govt St. Pap., MS., xx. 8. 1",
-"shared": 2
-},
-{
-"v": 3,
-"p": "242",
-"cite": "ineers. Sup. Govt St. Pap., MS., xxi. 8. I",
-"shared": 2
-},
-{
-"v": 3,
-"p": "243",
-"cite": "is pay. Id. , xxi. 8. I",
-"shared": 2
-},
-{
-"v": 3,
-"p": "378",
-"cite": "ir pay. Sup. Govt St. Pap., MS., xxi. 10. A",
-"shared": 2
 }
 ]
 },
 "ca58-d13-n16": {
-"possible": [
+"cited": [
 {
 "v": 2,
 "p": "676",
@@ -15609,12 +15554,6 @@
 "v": 3,
 "p": "31",
 "cite": "69-70; Sup. Govt St. Pap., MS., xix. 26. D",
-"shared": 2
-},
-{
-"v": 3,
-"p": "573",
-"cite": "284-5; Sup. Govt St. Pap., MS., xxi. 22; x",
 "shared": 2
 }
 ]
@@ -15892,7 +15831,7 @@
 ]
 },
 "ca58-d8-n4": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "31",
@@ -16018,28 +15957,6 @@
 "p": "97",
 "cite": "result. St. Pap., Sac., MS., x. 25, 48; D",
 "shared": 3
-}
-]
-},
-"ca58-d4-n2": {
-"possible": [
-{
-"v": 3,
-"p": "56",
-"cite": "fornia. Sup. Govt St. Pap., MS., xx. 8. 1",
-"shared": 2
-},
-{
-"v": 3,
-"p": "242",
-"cite": "ineers. Sup. Govt St. Pap., MS., xxi. 8. I",
-"shared": 2
-},
-{
-"v": 3,
-"p": "243",
-"cite": "is pay. Id. , xxi. 8. I",
-"shared": 2
 }
 ]
 },
@@ -16700,7 +16617,7 @@
 ]
 },
 "ca61-d1-n1": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "353",
@@ -16726,21 +16643,6 @@
 "v": 3,
 "p": "686",
 "cite": "d., 57; Leg. Rec., MS., iii. 3-6. D"
-},
-{
-"v": 4,
-"p": "192",
-"cite": "strict. Leg. Rec., MS., iv. 1. M"
-},
-{
-"v": 4,
-"p": "295",
-"cite": "3-4. 43 Leg. Rec., MS., iv. 2-3; D"
-},
-{
-"v": 4,
-"p": "633",
-"cite": "xation. Leg. Rec., MS., iv. 52- 3. J"
 }
 ]
 },
@@ -16750,16 +16652,6 @@
 "v": 3,
 "p": "368",
 "cite": "gglers. Id., ii. 28; I"
-}
-]
-},
-"ca58-d5-n2": {
-"possible": [
-{
-"v": 3,
-"p": "378",
-"cite": "ir pay. Sup. Govt St. Pap., MS., xxi. 10. A",
-"shared": 2
 }
 ]
 },
@@ -16773,56 +16665,27 @@
 ]
 },
 "ca61-d2-n1": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "425",
 "cite": "are 29 Leg. Rec., MS., iii. 1-3, 13-31. M",
 "shared": 9
-},
-{
-"v": 4,
-"p": "359",
-"cite": "v. 1st. Leg. Rec., MS., iv. 12. N",
-"shared": 2
-},
-{
-"v": 4,
-"p": "359",
-"cite": ". 29. '\"Leg. Rec., MS., iv. 12-13. 2",
-"shared": 2
-},
-{
-"v": 4,
-"p": "641",
-"cite": "ubject. Leg. Rec., MS., iv. 309- 10. 1"
 }
 ]
 },
 "ca61-d3-n1": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "425",
 "cite": "are 29 Leg. Rec., MS., iii. 1-3, 13-31. M",
 "shared": 9
-},
-{
-"v": 4,
-"p": "359",
-"cite": "v. 1st. Leg. Rec., MS., iv. 12. N",
-"shared": 2
-},
-{
-"v": 4,
-"p": "359",
-"cite": ". 29. '\"Leg. Rec., MS., iv. 12-13. 2",
-"shared": 2
 }
 ]
 },
 "ca61-d4-n2": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "425",
@@ -16833,16 +16696,31 @@
 "v": 3,
 "p": "704",
 "cite": "39-41; Leg. Rec., MS., iii. 18-19. T"
+}
+]
+},
+"ca61-d5-n3": {
+"cited": [
+{
+"v": 3,
+"p": "425",
+"cite": "are 29 Leg. Rec., MS., iii. 1-3, 13-31. M",
+"shared": 9
+},
+{
+"v": 3,
+"p": "684",
+"cite": "taxnon. Leg. Rec., MS. , iii. 23. J"
 },
 {
 "v": 4,
-"p": "675",
-"cite": "Rafael. Leg. Rec., MS., iv. 19. N"
+"p": "45",
+"cite": ". 24. 9 Leg. Rec., MS., iii. 23; S"
 }
 ]
 },
 "ca61-d6-n3": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "425",
@@ -16875,18 +16753,8 @@
 }
 ]
 },
-"ca58-d6-n3": {
-"possible": [
-{
-"v": 3,
-"p": "573",
-"cite": "284-5; Sup. Govt St. Pap., MS., xxi. 22; x",
-"shared": 2
-}
-]
-},
 "ca61-d9-n6": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "583",
@@ -16896,7 +16764,7 @@
 ]
 },
 "ca61-d10-n7": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "583",
@@ -16908,29 +16776,11 @@
 "p": "589",
 "cite": "rch, in Leg. Rec., MS., iii. 36-43. T",
 "shared": 2
-},
-{
-"v": 4,
-"p": "499",
-"cite": "inst M. Leg. Rec., MS., iv. 36, P",
-"shared": 2
-},
-{
-"v": 4,
-"p": "520",
-"cite": "77, 87; Leg. Rec., MS., iv. 37-64, 250-61, 266; J",
-"shared": 3
-},
-{
-"v": 4,
-"p": "555",
-"cite": "h 20th. Leg. Rec., MS., iv. 40-1. A",
-"shared": 2
 }
 ]
 },
 "ca61-d14-n41": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "583",
@@ -16963,37 +16813,11 @@
 "v": 4,
 "p": "93",
 "cite": "junta. Leg. Rec., MS., iii. 51-3. J"
-},
-{
-"v": 4,
-"p": "499",
-"cite": "inst M. Leg. Rec., MS., iv. 36, P",
-"shared": 2
-},
-{
-"v": 4,
-"p": "520",
-"cite": "77, 87; Leg. Rec., MS., iv. 37-64, 250-61, 266; J",
-"shared": 3
-}
-]
-},
-"ca61-d18-n116": {
-"possible": [
-{
-"v": 3,
-"p": "602",
-"cite": ", 1840. Leg. Rec., MS., iii. 75-8. P"
-},
-{
-"v": 4,
-"p": "529",
-"cite": ". 95-6; Leg. Rec., MS., iv. 74, 76; J"
 }
 ]
 },
 "ca61-d15-n61": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "603",
@@ -17029,12 +16853,6 @@
 "v": 4,
 "p": "12",
 "cite": "junta. Leg. Rec., MS., iii. 65. V"
-},
-{
-"v": 4,
-"p": "520",
-"cite": "77, 87; Leg. Rec., MS., iv. 37-64, 250-61, 266; J",
-"shared": 3
 }
 ]
 },
@@ -17087,7 +16905,7 @@
 ]
 },
 "ca61-d7-n6": {
-"possible": [
+"cited": [
 {
 "v": 3,
 "p": "653",
@@ -17097,12 +16915,6 @@
 "v": 4,
 "p": "163",
 "cite": "he dip. Leg. Rec., MS., iii. 25-6. S"
-},
-{
-"v": 4,
-"p": "424",
-"cite": "states. Leg. Rec., MS., iv. 20, 25-7; O",
-"shared": 2
 }
 ]
 },
@@ -17182,6 +16994,15 @@
 }
 ]
 },
+"ca61-d18-n116": {
+"cited": [
+{
+"v": 4,
+"p": "529",
+"cite": ". 95-6; Leg. Rec., MS., iv. 74, 76; J"
+}
+]
+},
 "ca16-d485-n289": {
 "cited": [
 {
@@ -17234,18 +17055,8 @@
 }
 ]
 },
-"ca61-d17-n100": {
-"possible": [
-{
-"v": 4,
-"p": "653",
-"cite": "es 330. Leg. Rec., MS., iv. 3-8. 1",
-"shared": 2
-}
-]
-},
 "ca61-d22-n191": {
-"possible": [
+"cited": [
 {
 "v": 5,
 "p": "623",
@@ -17254,7 +17065,7 @@
 ]
 },
 "ca61-d24-n246": {
-"possible": [
+"cited": [
 {
 "v": 5,
 "p": "623",
@@ -17263,7 +17074,7 @@
 ]
 },
 "ca61-d25-n376": {
-"possible": [
+"cited": [
 {
 "v": 5,
 "p": "623",

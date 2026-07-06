@@ -13762,6 +13762,21 @@
 },
 {
 "hv": 2,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+20,
+20
+]
+],
+"leaf": 542,
+"page": "520",
+"raw": "trator. Id., iv. 20. 1",
+"src": "Id"
+},
+{
+"hv": 2,
 "series": "BenMil",
 "tomo": 54,
 "pages": [
@@ -15987,6 +16002,21 @@
 },
 {
 "hv": 3,
+"series": "SupGov",
+"tomo": 20,
+"pages": [
+[
+8,
+8
+]
+],
+"leaf": 78,
+"page": "56",
+"raw": "fornia. Sup. Govt St. Pap., MS., xx. 8. 1",
+"src": "direct"
+},
+{
+"hv": 3,
 "series": "BenMil",
 "tomo": 1,
 "pages": [
@@ -16491,6 +16521,36 @@
 },
 {
 "hv": 3,
+"series": "SupGov",
+"tomo": 21,
+"pages": [
+[
+8,
+8
+]
+],
+"leaf": 264,
+"page": "242",
+"raw": "ineers. Sup. Govt St. Pap., MS., xxi. 8. I",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "SupGov",
+"tomo": 21,
+"pages": [
+[
+8,
+8
+]
+],
+"leaf": 265,
+"page": "243",
+"raw": "is pay. Id. , xxi. 8. I",
+"src": "Id"
+},
+{
+"hv": 3,
 "series": "BenMil",
 "tomo": 28,
 "pages": [
@@ -16735,6 +16795,21 @@
 },
 {
 "hv": 3,
+"series": "SupGov",
+"tomo": 21,
+"pages": [
+[
+10,
+10
+]
+],
+"leaf": 400,
+"page": "378",
+"raw": "ir pay. Sup. Govt St. Pap., MS., xxi. 10. A",
+"src": "direct"
+},
+{
+"hv": 3,
 "series": "BenMil",
 "tomo": 28,
 "pages": [
@@ -16750,6 +16825,21 @@
 },
 {
 "hv": 3,
+"series": "SupGov",
+"tomo": 21,
+"pages": [
+[
+22,
+22
+]
+],
+"leaf": 595,
+"page": "573",
+"raw": "284-5; Sup. Govt St. Pap., MS., xxi. 22; x",
+"src": "direct"
+},
+{
+"hv": 3,
 "series": "LegRec",
 "tomo": 3,
 "pages": [
@@ -16761,6 +16851,21 @@
 "leaf": 596,
 "page": "574",
 "raw": "ii. 13; Leg. Rec., MS., iii. 92; B",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "LegRec",
+"tomo": 3,
+"pages": [
+[
+75,
+78
+]
+],
+"leaf": 624,
+"page": "602",
+"raw": ", 1840. Leg. Rec., MS., iii. 75-8. P",
 "src": "direct"
 },
 {
@@ -16829,6 +16934,85 @@
 "tomo": 4,
 "pages": [
 [
+1,
+1
+]
+],
+"leaf": 214,
+"page": "192",
+"raw": "strict. Leg. Rec., MS., iv. 1. M",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+2,
+3
+]
+],
+"leaf": 317,
+"page": "295",
+"raw": "3-4. 43 Leg. Rec., MS., iv. 2-3; D",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+12,
+12
+]
+],
+"leaf": 381,
+"page": "359",
+"raw": "v. 1st. Leg. Rec., MS., iv. 12. N",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+12,
+13
+]
+],
+"leaf": 381,
+"page": "359",
+"raw": ". 29. '\"Leg. Rec., MS., iv. 12-13. 2",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+20,
+20
+],
+[
+25,
+27
+]
+],
+"leaf": 446,
+"page": "424",
+"raw": "states. Leg. Rec., MS., iv. 20, 25-7; O",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
 302,
 302
 ]
@@ -16836,6 +17020,44 @@
 "leaf": 502,
 "page": "480",
 "raw": "44-50; Leg. Rec., MS., iv. 302^4;",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+36,
+36
+]
+],
+"leaf": 521,
+"page": "499",
+"raw": "inst M. Leg. Rec., MS., iv. 36, P",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+37,
+64
+],
+[
+250,
+261
+],
+[
+266,
+266
+]
+],
+"leaf": 542,
+"page": "520",
+"raw": "77, 87; Leg. Rec., MS., iv. 37-64, 250-61, 266; J",
 "src": "direct"
 },
 {
@@ -16870,6 +17092,36 @@
 "leaf": 561,
 "page": "539",
 "raw": "nterey. Leg. Rec., MS., iv. 282, 287. I",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+63,
+64
+]
+],
+"leaf": 571,
+"page": "549",
+"raw": "61, 64; Leg. Rec., MS., iv. 63-4; H",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+40,
+41
+]
+],
+"leaf": 577,
+"page": "555",
+"raw": "h 20th. Leg. Rec., MS., iv. 40-1. A",
 "src": "direct"
 },
 {
@@ -17002,6 +17254,100 @@
 },
 {
 "hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+3,
+3
+]
+],
+"leaf": 655,
+"page": "633",
+"raw": "xation. Leg. Rec., MS., iv. 52- 3. J",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+56,
+56
+],
+[
+65,
+69
+]
+],
+"leaf": 657,
+"page": "635",
+"raw": "lands. Leg. Rec., MS., iv. 56, 65-9. 1",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+50,
+50
+]
+],
+"leaf": 658,
+"page": "636",
+"raw": "efused. Leg. Rec., MS., iv. 50. J",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+50,
+50
+]
+],
+"leaf": 659,
+"page": "637",
+"raw": "landsc Leg. Rec., MS., iv. 50. A",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+10,
+10
+]
+],
+"leaf": 663,
+"page": "641",
+"raw": "ubject. Leg. Rec., MS., iv. 309- 10. 1",
+"src": "direct"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+3,
+8
+]
+],
+"leaf": 675,
+"page": "653",
+"raw": "es 330. Leg. Rec., MS., iv. 3-8. 1",
+"src": "direct"
+},
+{
+"hv": 4,
 "series": "DeptRec",
 "tomo": 1,
 "pages": [
@@ -17029,6 +17375,21 @@
 "page": "668",
 "raw": "nterey. Id., i. 288. F",
 "src": "Id"
+},
+{
+"hv": 4,
+"series": "LegRec",
+"tomo": 4,
+"pages": [
+[
+19,
+19
+]
+],
+"leaf": 697,
+"page": "675",
+"raw": "Rafael. Leg. Rec., MS., iv. 19. N",
+"src": "direct"
 },
 {
 "hv": 5,

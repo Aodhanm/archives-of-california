@@ -62,6 +62,8 @@ DIVIDERS={
  18:[(0,53),(95,54),(120,55),(139,56),(152,57),(196,58),(205,59),(230,60),(236,61),(251,62),(282,63),(300,64),(314,65),(325,66),(421,67),(433,68)],  # ca18 LIII–LXVIII
  19:[(0,69),(32,70),(57,71),(126,72),(237,73),(320,74),(370,75),(389,76),(449,77)],  # ca19 LXIX–LXXVII
  55:[(0,6),(137,7),(226,8),(305,9)],  # ca55 Sac VI–IX (VII/VIII/IX boundaries from the status line; ⚠ VII may be ~n138)
+ 61:[(0,3),(102,4)],  # ca61 Leg. Rec. III–IV — Vol IV title leaf read at n102 ("1841–46 Legislative Records Vol. IV"), 2026-07-06
+ 58:[(0,19),(57,20)], # ca58 Sup.Gov.St.Pap. XIX–XXI — Tomo XIX ends n56 (orig p.724, end-flourish; XX content/reset at n60). XX→XXI boundary unlocated but immaterial (no ca58 record past n16 matches a citation). 2026-07-06
 }
 def tomo_from_scan(vol,key):
     import re as _re
