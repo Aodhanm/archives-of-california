@@ -2,7 +2,7 @@
  "_comment": "Cross-archive concordance overlay. Keyed by record permalink key (caV-dN-nSCAN). Maintained by hand from vault projects/ca-archives/ca-cross-archive-concordance.md. kind: original|copy|counterpart|related|published. SJ = San José Pueblo Papers, History San José (Drive: https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx; scans keyed by the HSJ Current Index CSV).",
  "ca12-d465-n391": {
   "kind": "counterpart",
-  "text": "The Mexico-City end of this affair survives as an original: Boris Tarasov's asylum petition, AGN (Mexico City), Provincias Internas, vol. 23, exp. 4, ff. 44–57 — enclosing Gov. Solá's 10 Nov 1815 dispatch. The Californian and viceregal sides of the same capture. Cf. Mathes, La frontera ruso-mexicana (1990)."
+  "text": "The Mexico-City end of this affair survives as an original: Boris Tarasov's asylum petition, AGN (Mexico City), Provincias Internas, vol. 23, exp. 4, ff. 44–57 — enclosing Gov. Solá's 10 Nov 1815 dispatch. The Californian and viceregal sides of the same capture. Cf. Mathes, La frontera ruso-mexicana (1990). — Published: Mathes (1990), Doc 30 (p. 99)."
  },
  "ca12-d466-n391": {
   "kind": "counterpart",
@@ -18,11 +18,11 @@
  },
  "ca17-d173-n114": {
   "kind": "counterpart",
-  "text": "The captured hunter of this report, Boris Tarasov, generated a counterpart file in Mexico City: AGN, Provincias Internas, vol. 23, exp. 4, ff. 44–57 (his asylum petition, ending 'se fugó para Panamá'). Cf. Mathes (1990)."
+  "text": "The captured hunter of this report, Boris Tarasov, generated a counterpart file in Mexico City: AGN, Provincias Internas, vol. 23, exp. 4, ff. 44–57 (his asylum petition, ending 'se fugó para Panamá'). Cf. Mathes (1990). — Published: Mathes (1990), Doc 25 (p. 94)."
  },
  "ca17-d174-n115": {
   "kind": "counterpart",
-  "text": "Counterpart file in Mexico City: AGN, Provincias Internas, vol. 23, exp. 4, ff. 44–57 (Tarasov asylum petition)."
+  "text": "Counterpart file in Mexico City: AGN, Provincias Internas, vol. 23, exp. 4, ff. 44–57 (Tarasov asylum petition). — Published: Mathes (1990), Doc 26 (p. 95)."
  },
  "ca17-d192-n153": {
   "kind": "counterpart",
@@ -75,5 +75,165 @@
  "ca55-d335-n297": {
   "kind": "related",
   "text": "Matute's own report survives at Mexico City: AGN, Historia vol. 70 — Juan Bautista Matute on the naval attempt at Bodega (Jul–Oct 1793), published in English by Wagner, California Historical Society Quarterly X:4 (1931), 339–341. The naval-chain twin of the report Sal forwards here. C-A side scan-verified 2026-07-02."
+ },
+ "ca12-d100-n107": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 1 (pp. 63)."
+ },
+ "ca12-d90-n102": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 2 (pp. 64)."
+ },
+ "ca12-d324b-n269": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 3 (pp. 65–66)."
+ },
+ "ca12-d298-n252": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 4 (pp. 67)."
+ },
+ "ca12-d332-n278": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 6 (pp. 69)."
+ },
+ "ca12-d331b-n278": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 7 (pp. 70)."
+ },
+ "ca17-d238-n185": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 8 (pp. 71)."
+ },
+ "ca17-d132-n83": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 9 (pp. 72)."
+ },
+ "ca12-d401b-n330": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 10 (pp. 73–74)."
+ },
+ "ca12-d332b-n279": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 11 (pp. 75–76). ⚠ Mathes prints the diary under 3 Oct 1812; the manuscript reads 3 Oct 1810 (year verified at full resolution; the orig-page chain and the following 26 Nov 1810 abstract confirm)."
+ },
+ "ca17-d113-n72": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 12 (pp. 77)."
+ },
+ "ca12-d417-n349": {
+  "kind": "published",
+  "text": "Published edition: two pieces of this record are in W. Michael Mathes, *La frontera ruso-mexicana* (1990) — Doc 13 (the 31 Jan 1813 'Visita á los rusos,' p. 78) and Doc 5 (the appended Moraga-certified copy of the 15 Mar 1810 RAC letter, p. 68; Savage's own note 'vide pp. 271–3 de este tomo' points to doc 329, the letter's other copy)."
+ },
+ "ca12-d404b-n335": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 14 (pp. 79)."
+ },
+ "ca12-d424-n360": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 15 (pp. 80)."
+ },
+ "ca12-d431-n372": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 16 (pp. 81–82)."
+ },
+ "ca12-d433-n376": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 17 (pp. 83–84)."
+ },
+ "ca12-d432-n371": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 18 (pp. 85–88)."
+ },
+ "ca17-d163-n106": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 19 (pp. 87)."
+ },
+ "ca12-d427-n368": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 20 (pp. 89)."
+ },
+ "ca17-d188-n143": {
+  "kind": "published",
+  "text": "Published edition: seven orders from this register are transcribed and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990) — Docs 21 (p. 90), 22 (p. 91), 23 (p. 92), 24 (p. 93), 27 (p. 96), 29 (p. 98), and 38 (p. 107; Mathes notes Doc 38 = the Doc 21 text re-filed)."
+ },
+ "ca12-d453-n386": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 28 (pp. 97)."
+ },
+ "ca13-d99-n93": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 37 (pp. 106)."
+ },
+ "ca13-d8-n5": {
+  "kind": "published",
+  "text": "Published edition: transcribed and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Docs 39 and 40 (pp. 108–109)."
+ },
+ "ca13-d31-n33": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 44 (pp. 113)."
+ },
+ "ca13-d32-n34": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 45 (pp. 114)."
+ },
+ "ca13-d22-n22": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 46 (pp. 115)."
+ },
+ "ca13-d24-n24": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 47 (pp. 116)."
+ },
+ "ca13-d263-n205": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 48 (pp. 117)."
+ },
+ "ca13-d182-n145": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 51 (pp. 146)."
+ },
+ "ca13-d266-n210": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 52 (pp. 212–214)."
+ },
+ "ca13-d269-n212": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 56 (pp. 214–216)."
+ },
+ "ca17-d258-n206": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 58 (pp. 129)."
+ },
+ "ca13-d81-n78": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 62 (pp. 156)."
+ },
+ "ca13-d315-n255": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 63 (pp. 157)."
+ },
+ "ca13-d359-n272": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 65 (pp. 188)."
+ },
+ "ca13-d366-n275": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 66 (pp. 189)."
+ },
+ "ca56-d254-n226": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 68 (pp. 175). (item 9º of this letterbook extract, leaf n227)."
+ },
+ "ca19-d70-n64": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 72 (pp. 181)."
+ },
+ "ca20-d101-n93": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 77 (pp. 188–189)."
+ },
+ "ca12-d464-n391": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 31 (p. 100)."
  }
 }
