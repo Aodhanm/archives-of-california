@@ -116,9 +116,13 @@
 "SP-Miss tomo 8 (C-A 51)": 39,
 "SP-Miss tomo 9 (C-A 51)": 53,
 "SP-Sac tomo 10 (C-A 56)": 13,
-"SP-Sac tomo 11 (C-A 56)": 1,
-"SP-Sac tomo 18 (C-A 56)": 1,
-"SP-Sac tomo 19 (C-A 56)": 1,
+"SP-Sac tomo 11 (C-A 56)": 7,
+"SP-Sac tomo 12 (C-A 56)": 3,
+"SP-Sac tomo 15 (C-A 56)": 8,
+"SP-Sac tomo 16 (C-A 56)": 6,
+"SP-Sac tomo 17 (C-A 56)": 8,
+"SP-Sac tomo 18 (C-A 56)": 7,
+"SP-Sac tomo 19 (C-A 56)": 17,
 "SP-Sac tomo 20 (C-A ?)": 1,
 "SP-Sac tomo 21 (C-A ?)": 3,
 "SP-Sac tomo 23 (C-A ?)": 1,
@@ -23123,6 +23127,78 @@
 ],
 "SP-Sac tomo 11 (C-A 56)": [
 {
+"hv": 2,
+"page": "451",
+"tomo": 11,
+"pages": [
+[
+6,
+6
+]
+],
+"raw": "vi. 43; St. Pap. Sac., MS., xi. 6. 6"
+},
+{
+"hv": 2,
+"page": "537",
+"tomo": 11,
+"pages": [
+[
+6,
+6
+]
+],
+"raw": "6-9. In St. Pap. Sac., MS., xi. 6. A"
+},
+{
+"hv": 3,
+"page": "11",
+"tomo": 11,
+"pages": [
+[
+5,
+7
+]
+],
+"raw": "1828.' St. Pap., Sac., MS., xi. 5-7. H"
+},
+{
+"hv": 3,
+"page": "109",
+"tomo": 11,
+"pages": [
+[
+5,
+5
+]
+],
+"raw": "stward. St. Pap., Sac., MS., xi. 5. J"
+},
+{
+"hv": 3,
+"page": "118",
+"tomo": 11,
+"pages": [
+[
+1,
+1
+]
+],
+"raw": "i. 71; St. Pap., Sac., MS., xi. 1. \u2022"
+},
+{
+"hv": 3,
+"page": "696",
+"tomo": 11,
+"pages": [
+[
+3,
+3
+]
+],
+"raw": "S., 5D; St. Pap., Sac., MS., xi. 3. S"
+},
+{
 "hv": 3,
 "page": "696",
 "tomo": 11,
@@ -23135,7 +23211,387 @@
 "raw": "ounded. Id., 588; D"
 }
 ],
+"SP-Sac tomo 12 (C-A 56)": [
+{
+"hv": 2,
+"page": "457",
+"tomo": 12,
+"pages": [
+[
+405,
+405
+]
+],
+"raw": "Tcpic. Id. , xii. 405. O"
+},
+{
+"hv": 3,
+"page": "119",
+"tomo": 12,
+"pages": [
+[
+14,
+14
+]
+],
+"raw": "igated. St. Pap., Sac., MS., xii. 14. 1"
+},
+{
+"hv": 4,
+"page": "114",
+"tomo": 12,
+"pages": [
+[
+15,
+15
+]
+],
+"raw": "Uiego, St. Pap., Sac., MS., xii. 15. F"
+}
+],
+"SP-Sac tomo 15 (C-A 56)": [
+{
+"hv": 1,
+"page": "367",
+"tomo": 15,
+"pages": [
+[
+10,
+10
+]
+],
+"raw": "cate in Id., xv. 5- 10. N"
+},
+{
+"hv": 1,
+"page": "376",
+"tomo": 15,
+"pages": [
+[
+18,
+18
+]
+],
+"raw": "783, iu St. Pap., Sac., MS., xv. 18."
+},
+{
+"hv": 1,
+"page": "445",
+"tomo": 15,
+"pages": [
+[
+26,
+26
+]
+],
+"raw": "Maria. St. Pap., Sac., MS., xv. 26. N"
+},
+{
+"hv": 1,
+"page": "446",
+"tomo": 15,
+"pages": [
+[
+18,
+18
+]
+],
+"raw": "i. 182; St. Pap., Sac., MS., xv. 18; P"
+},
+{
+"hv": 1,
+"page": "448",
+"tomo": 15,
+"pages": [
+[
+26,
+26
+]
+],
+"raw": "months. St. Pap., Sac., MS., xv. 26. D"
+},
+{
+"hv": 1,
+"page": "448",
+"tomo": 15,
+"pages": [
+[
+23,
+23
+]
+],
+"raw": "ly 1st. St. Pap., Sac., MS., xv. 23; G"
+},
+{
+"hv": 1,
+"page": "464",
+"tomo": 15,
+"pages": [
+[
+19,
+19
+]
+],
+"raw": "HO-'JO; St. Pap., Sac., MS., xv. 19. H"
+},
+{
+"hv": 1,
+"page": "620",
+"tomo": 15,
+"pages": [
+[
+15,
+17
+]
+],
+"raw": "t 1795. St. Pap., Sac., MS., xv. 15-17; D"
+}
+],
+"SP-Sac tomo 16 (C-A 56)": [
+{
+"hv": 2,
+"page": "484",
+"tomo": 16,
+"pages": [
+[
+10,
+13
+]
+],
+"raw": "s- ury. St. Pap. Sac., MS., xvi. 10-13. M"
+},
+{
+"hv": 2,
+"page": "676",
+"tomo": 16,
+"pages": [
+[
+16,
+16
+]
+],
+"raw": "of war. St. Pap., Sac., MS., xvi. 16. M"
+},
+{
+"hv": 3,
+"page": "291",
+"tomo": 16,
+"pages": [
+[
+14,
+14
+]
+],
+"raw": "excuse. St. Pap., Sac., MS., xvi. 14. D"
+},
+{
+"hv": 3,
+"page": "377",
+"tomo": 16,
+"pages": [
+[
+13,
+14
+]
+],
+"raw": "ii. 61; St. Pap., Sac., MS., xvi. 13-14; S"
+},
+{
+"hv": 4,
+"page": "526",
+"tomo": 16,
+"pages": [
+[
+17,
+19
+]
+],
+"raw": "o Pico. St. Pap., Sac., MS., xvi. 17-19. G"
+},
+{
+"hv": 4,
+"page": "533",
+"tomo": 16,
+"pages": [
+[
+17,
+19
+]
+],
+"raw": "156-8; St. Pap., Sac., MS., xvi. 17-19; S"
+}
+],
+"SP-Sac tomo 17 (C-A 56)": [
+{
+"hv": 1,
+"page": "530",
+"tomo": 17,
+"pages": [
+[
+2,
+2
+]
+],
+"raw": ". 71; ; St. Pap., Sac., MS., xvii. 2."
+},
+{
+"hv": 1,
+"page": "537",
+"tomo": 17,
+"pages": [
+[
+7,
+7
+]
+],
+"raw": "i. 158; St. Pap., Sac., MS., xvii. 7. M"
+},
+{
+"hv": 1,
+"page": "539",
+"tomo": 17,
+"pages": [
+[
+6,
+6
+]
+],
+"raw": "i. 236; St. Pap., Sac., MS., xvii. 6. A"
+},
+{
+"hv": 1,
+"page": "539",
+"tomo": 17,
+"pages": [
+[
+6,
+6
+]
+],
+"raw": "essels. St. Pap., Sac., MS., xvii. 6. A"
+},
+{
+"hv": 1,
+"page": "576",
+"tomo": 17,
+"pages": [
+[
+8,
+8
+]
+],
+"raw": "7, 274; St. Pap., Sac., MS., xvii. 8; P"
+},
+{
+"hv": 1,
+"page": "632",
+"tomo": 17,
+"pages": [
+[
+2,
+2
+]
+],
+"raw": "v. 143; St. Pap., Sac., MS., xvii. 2. 1"
+},
+{
+"hv": 1,
+"page": "700",
+"tomo": 17,
+"pages": [
+[
+8,
+8
+]
+],
+"raw": "epairs. St. Pap., Sac., MS., xvii. 8. N"
+},
+{
+"hv": 2,
+"page": "441",
+"tomo": 17,
+"pages": [
+[
+42,
+43
+]
+],
+"raw": "vi. 21; St. Pap. Sac., MS., xvii. 42-3. T"
+}
+],
 "SP-Sac tomo 18 (C-A 56)": [
+{
+"hv": 2,
+"page": "264",
+"tomo": 18,
+"pages": [
+[
+33,
+33
+]
+],
+"raw": "i. 8. i0St. Pap., Sac., MS., xviii. 33; v"
+},
+{
+"hv": 2,
+"page": "278",
+"tomo": 18,
+"pages": [
+[
+49,
+50
+]
+],
+"raw": "ndants. St. Pap., Sac., MS., xviii. 49-50; P"
+},
+{
+"hv": 2,
+"page": "393",
+"tomo": 18,
+"pages": [
+[
+33,
+33
+]
+],
+"raw": "i. 198; St. Pap. Sac., MS., xviii. 33; V"
+},
+{
+"hv": 2,
+"page": "479",
+"tomo": 18,
+"pages": [
+[
+2,
+2
+]
+],
+"raw": "times. St. Pap. Sac., MS., xviii. 2. J"
+},
+{
+"hv": 3,
+"page": "259",
+"tomo": 18,
+"pages": [
+[
+51,
+53
+]
+],
+"raw": "ngress. St. Pap., Sac., MS., xviii. 51-3. I"
+},
+{
+"hv": 3,
+"page": "368",
+"tomo": 18,
+"pages": [
+[
+54,
+54
+]
+],
+"raw": "ngress. St. Pap., Sac., MS., xviii. 54. O"
+},
 {
 "hv": 4,
 "page": "114",
@@ -23150,6 +23606,202 @@
 }
 ],
 "SP-Sac tomo 19 (C-A 56)": [
+{
+"hv": 1,
+"page": "537",
+"tomo": 19,
+"pages": [
+[
+8,
+8
+],
+[
+9,
+9
+]
+],
+"raw": "s year. St. Pap., Sac., MS., xix. 8, 9. S"
+},
+{
+"hv": 2,
+"page": "647",
+"tomo": 19,
+"pages": [
+[
+29,
+29
+]
+],
+"raw": "ego. In Id. , xix. 29, B"
+},
+{
+"hv": 2,
+"page": "672",
+"tomo": 19,
+"pages": [
+[
+43,
+45
+]
+],
+"raw": "igures. St. Pap. Sac., MS., xix. 43-5. 1"
+},
+{
+"hv": 2,
+"page": "673",
+"tomo": 19,
+"pages": [
+[
+26,
+27
+]
+],
+"raw": "aplain. St. Pap. Sac., MS., xix. 26-7. J"
+},
+{
+"hv": 2,
+"page": "674",
+"tomo": 19,
+"pages": [
+[
+40,
+41
+]
+],
+"raw": "Sonora. St. Pap., Sac., MS., xix. 40-1. M"
+},
+{
+"hv": 2,
+"page": "676",
+"tomo": 19,
+"pages": [
+[
+47,
+48
+]
+],
+"raw": "ibunal. Id., xix. 47-8; S"
+},
+{
+"hv": 3,
+"page": "41",
+"tomo": 19,
+"pages": [
+[
+42,
+43
+]
+],
+"raw": "board. St. Pap., Sac., MS., xix. 42-3. 2"
+},
+{
+"hv": 3,
+"page": "44",
+"tomo": 19,
+"pages": [
+[
+48,
+48
+]
+],
+"raw": "also in St. Pap., Sac., MS., xix. 48; D"
+},
+{
+"hv": 3,
+"page": "87",
+"tomo": 19,
+"pages": [
+[
+30,
+31
+]
+],
+"raw": "offers. St. Pap., Sac., MS. , xix. 30-1. O"
+},
+{
+"hv": 3,
+"page": "135",
+"tomo": 19,
+"pages": [
+[
+46,
+47
+]
+],
+"raw": "180. 49 St. Pap., Sac., MS., xix. 46-7. R"
+},
+{
+"hv": 3,
+"page": "154",
+"tomo": 19,
+"pages": [
+[
+37,
+38
+]
+],
+"raw": "faith. St. Pap., Sac., MS., xix. 37-8. H"
+},
+{
+"hv": 3,
+"page": "177",
+"tomo": 19,
+"pages": [
+[
+44,
+44
+]
+],
+"raw": "4th, in Id., xix. 44. L"
+},
+{
+"hv": 3,
+"page": "177",
+"tomo": 19,
+"pages": [
+[
+3,
+3
+]
+],
+"raw": "b. 5th. Id., xix. 3. L"
+},
+{
+"hv": 4,
+"page": "516",
+"tomo": 19,
+"pages": [
+[
+20,
+22
+]
+],
+"raw": "171-2; St. Pap., Sac., MS., xix. 20-2. M"
+},
+{
+"hv": 4,
+"page": "521",
+"tomo": 19,
+"pages": [
+[
+1,
+2
+]
+],
+"raw": "., etc. St. Pap., Sac., MS., xix. 1-2. A"
+},
+{
+"hv": 4,
+"page": "651",
+"tomo": 19,
+"pages": [
+[
+18,
+20
+]
+],
+"raw": "ii. 50; St. Pap., Sac., MS., xix. 18-20; t"
+},
 {
 "hv": 4,
 "page": "651",

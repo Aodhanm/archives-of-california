@@ -54,6 +54,8 @@ DIVIDERS={
  22:[(0,1),(217,2)],                        # ca22: Vol II n217+
  24:[(0,5)],                                # ca24 read so far = Tomo V only (VI/VII titles not yet reached)
  21:[(0,1),(107,2)],                        # ca21: Tomo II n107+
+ 14:[(0,21),(100,22)],                     # ca14: Tomo XXII begins n100 (indices n296+)
+ 56:[(0,10),(114,11),(186,12),(202,13),(223,14),(269,15),(297,16),(326,17),(337,18)],  # ca56 pinned title leaves
  15:[(0,1),(52,2),(102,3),(135,4),(168,5),(180,6),(187,7),(193,8),(208,9),(231,10),(244,11),(253,12),(260,13),(283,14),(296,15),(304,16),(310,17),(334,18),(349,19)],
 }
 def tomo_from_scan(vol,key):
@@ -70,7 +72,10 @@ DBVOLS=set()
 for r in csv.DictReader(open('/Users/aodhan/archives-of-california/ca-catalog-export.csv')):
     v=int(r['ca_volume']); DBVOLS.add(v)
     key='ca%s-d%s-%s'%(r['ca_volume'],r['doc_id'],(re.findall(r'n\d+',r['scan'])or[''])[0])
-    recs.append(dict(vol=v,key=key,iv=rec_interval(r['orig_page']),rating=int(r['rating'] or 0),summary=r['summary'][:80]))
+    tf=None
+    tm=re.fullmatch(r'([IVXLCivxlc]+)',(r.get('tomo') or '').strip())
+    if tm: tf=roman(tm.group(1))
+    recs.append(dict(vol=v,key=key,iv=rec_interval(r['orig_page']),rating=int(r['rating'] or 0),summary=r['summary'][:80],tf=tf))
 byvol=collections.defaultdict(list)
 for r in recs: byvol[r['vol']].append(r)
 
@@ -92,6 +97,7 @@ for c in cites:
             m54=re.match(r'ca54-d(\d+)-',r['key'])
             if m54 and len(m54.group(1))==4: pre=int(m54.group(1)[0])
         if pre is None: pre=tomo_from_scan(v,r['key'])
+        if pre is None: pre=r.get('tf')   # hand-built volumes carry an exact tomo field
         if pre is not None and pre!=c['tomo']: continue
         tier='B' if (pre is None and multi) else 'A'
         for a,b in c['pages']:

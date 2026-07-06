@@ -2067,6 +2067,21 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+39,
+39
+]
+],
+"leaf": 573,
+"page": "473",
+"raw": "fornia. Id. , viii. 39. N",
+"src": "Id"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 2,
 "pages": [
@@ -2586,6 +2601,21 @@
 "tomo": 8,
 "pages": [
 [
+144,
+144
+]
+],
+"leaf": 635,
+"page": "535",
+"raw": "0, 182; Prov. Rec., MS., viii. 144. N",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
 166,
 166
 ]
@@ -2623,6 +2653,21 @@
 "leaf": 639,
 "page": "539",
 "raw": "Cadiz. Prov. Rec., MS., viii. 165; i",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 21,
+"pages": [
+[
+270,
+270
+]
+],
+"leaf": 639,
+"page": "539",
+"raw": "e them. Prov. St. Pap., MS., xxi. 270. F",
 "src": "direct"
 },
 {
@@ -2916,6 +2961,21 @@
 "leaf": 645,
 "page": "545",
 "raw": "chatka. Prov. St. Pap., MS., xviii. 23; P",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+5,
+5
+]
+],
+"leaf": 645,
+"page": "545",
+"raw": "ii. 23; Prov. Rec., MS., x. 5. M",
 "src": "direct"
 },
 {
@@ -3235,6 +3295,29 @@
 "leaf": 676,
 "page": "576",
 "raw": "xi. 60; St. Pap., Sac., MS., vi. 107. P",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 21,
+"pages": [
+[
+30,
+30
+],
+[
+44,
+44
+],
+[
+292,
+292
+]
+],
+"leaf": 676,
+"page": "576",
+"raw": "xii. 1; Prov. St. Pap., MS., xxi. 30, 44, 292; f",
 "src": "direct"
 },
 {
@@ -3585,6 +3668,25 @@
 {
 "hv": 1,
 "series": "PSP",
+"tomo": 21,
+"pages": [
+[
+272,
+272
+],
+[
+287,
+287
+]
+],
+"leaf": 720,
+"page": "620",
+"raw": "189r90. Prov. St. Pap., MS., xxi. 272, 287. M",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
 "tomo": 17,
 "pages": [
 [
@@ -3656,6 +3758,21 @@
 "page": "621",
 "raw": "t 1796. Id., vi. 1. E",
 "src": "Id"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+105,
+105
+]
+],
+"leaf": 724,
+"page": "624",
+"raw": "essels. Prov. Rec., MS., viii. 105. A",
+"src": "direct"
 },
 {
 "hv": 1,
@@ -3817,6 +3934,21 @@
 },
 {
 "hv": 1,
+"series": "PSP",
+"tomo": 21,
+"pages": [
+[
+256,
+256
+]
+],
+"leaf": 733,
+"page": "633",
+"raw": "er day. Prov. St. Pap., MS., xxi. 256. 1",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "ProvRec",
 "tomo": 8,
 "pages": [
@@ -3877,6 +4009,36 @@
 "leaf": 735,
 "page": "635",
 "raw": "escape. Prov. St. Pap., MS. xvi. 173. 2",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+11,
+11
+]
+],
+"leaf": 737,
+"page": "637",
+"raw": "siness. Prov. Rec., MS., x. 11. *",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 21,
+"pages": [
+[
+290,
+290
+]
+],
+"leaf": 738,
+"page": "638",
+"raw": "iencia. Prov. St. Pap., MS., xxi. 290. 1",
 "src": "direct"
 },
 {
@@ -4265,6 +4427,21 @@
 {
 "hv": 1,
 "series": "PSP",
+"tomo": 21,
+"pages": [
+[
+289,
+289
+]
+],
+"leaf": 754,
+"page": "654",
+"raw": "Tepic. Prov. St. Pap., MS., xxi. 289. I",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
 "tomo": 16,
 "pages": [
 [
@@ -4648,6 +4825,21 @@
 {
 "hv": 1,
 "series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+9,
+9
+]
+],
+"leaf": 778,
+"page": "678",
+"raw": "xii. 7; Prov. Rec., MS., x. 9. H",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
 "tomo": 11,
 "pages": [
 [
@@ -4979,6 +5171,21 @@
 {
 "hv": 1,
 "series": "PSP",
+"tomo": 21,
+"pages": [
+[
+251,
+251
+]
+],
+"leaf": 800,
+"page": "700",
+"raw": ". 32-5; Prov. St. Pap., MS., xxi. 251. J",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
 "tomo": 16,
 "pages": [
 [
@@ -4989,6 +5196,21 @@
 "leaf": 800,
 "page": "700",
 "raw": "e, etc. Prov. St. Pap., MS., xvi. 69. M",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 21,
+"pages": [
+[
+251,
+252
+]
+],
+"leaf": 800,
+"page": "700",
+"raw": "s, etc. Prov. St. Pap., MS., xxi. 251-2; P",
 "src": "direct"
 },
 {
@@ -5357,6 +5579,55 @@
 "leaf": 829,
 "page": "729",
 "raw": "eption. Prov. St. Pap., MS., xxi. 30; P",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+12,
+12
+]
+],
+"leaf": 25,
+"page": "3",
+"raw": "ul one. Prov. Rec., MS., x. 12. M",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+15,
+15
+],
+[
+71,
+71
+]
+],
+"leaf": 26,
+"page": "4",
+"raw": "7, 192; Prov. Rec., MS., x. 15, 71; x",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+73,
+73
+]
+],
+"leaf": 30,
+"page": "8",
+"raw": ". 73-4; Prov. Rec., MS., x. 73; P",
 "src": "direct"
 },
 {
@@ -5745,6 +6016,36 @@
 {
 "hv": 2,
 "series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+6,
+6
+]
+],
+"leaf": 82,
+"page": "60",
+"raw": "ix. 54; Prov. Rec., MS., x. 6; i",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+82,
+83
+]
+],
+"leaf": 90,
+"page": "68",
+"raw": "nof, in Prov. Rec., MS., viii. 82-3. '",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
 "tomo": 12,
 "pages": [
 [
@@ -5846,6 +6147,21 @@
 "page": "87",
 "raw": "enalty. Id., xi. 131. O",
 "src": "Id"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+97,
+97
+]
+],
+"leaf": 110,
+"page": "88",
+"raw": "o new l\u00bbProv. Rec., MS., viii. 97; i",
+"src": "direct"
 },
 {
 "hv": 2,
@@ -6285,6 +6601,21 @@
 },
 {
 "hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+4,
+4
+]
+],
+"leaf": 162,
+"page": "140",
+"raw": "strada. Prov. Rec., MS., x. 4; S",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "SP-Sac",
 "tomo": 6,
 "pages": [
@@ -6315,6 +6646,40 @@
 "leaf": 162,
 "page": "140",
 "raw": ", 1806. Prov. St. Pap., MS., xix. 119. E",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+12,
+12
+],
+[
+15,
+15
+]
+],
+"leaf": 164,
+"page": "142",
+"raw": "7, 169; Prov. Rec., MS., x. 12, 15; M",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+103,
+103
+]
+],
+"leaf": 165,
+"page": "143",
+"raw": "shore. Prov. Rec., MS., viii. 103. 4",
 "src": "direct"
 },
 {
@@ -6414,6 +6779,81 @@
 {
 "hv": 2,
 "series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+12,
+12
+]
+],
+"leaf": 180,
+"page": "158",
+"raw": "use it. Prov. Rec., MS., x. 12; x",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+11,
+11
+]
+],
+"leaf": 180,
+"page": "158",
+"raw": "xii. 3; Prov. Rec., MS., x. 11; x",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+76,
+76
+]
+],
+"leaf": 181,
+"page": "159",
+"raw": ". 75-6; Prov. Rec., MS., viii. 76; i",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+87,
+87
+]
+],
+"leaf": 181,
+"page": "159",
+"raw": "vember. Prov. Rec., MS., viii. 87; i",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+95,
+95
+]
+],
+"leaf": 181,
+"page": "159",
+"raw": "vember. Prov. Rec., MS., viii. 95; x",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
 "tomo": 11,
 "pages": [
 [
@@ -6488,6 +6928,21 @@
 },
 {
 "hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+53,
+53
+]
+],
+"leaf": 199,
+"page": "177",
+"raw": "f soil. Prov. Rec., MS., viii. 53.",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 19,
 "pages": [
@@ -6499,6 +6954,21 @@
 "leaf": 201,
 "page": "179",
 "raw": "price. Prov. St. Pap., MS., xix. 208. A",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+100,
+100
+]
+],
+"leaf": 201,
+"page": "179",
+"raw": "260. 11 Prov. Rec., MS., viii. 100; i",
 "src": "direct"
 },
 {
@@ -6604,6 +7074,21 @@
 "leaf": 209,
 "page": "187",
 "raw": "Mexico. Prov. St. Pap., MS., xxii. 26. 8",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 8,
+"pages": [
+[
+81,
+81
+]
+],
+"leaf": 209,
+"page": "187",
+"raw": "xxvii.; Prov. Rec., MS., viii. 81. J",
 "src": "direct"
 },
 {
@@ -7529,6 +8014,36 @@
 },
 {
 "hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+35,
+35
+]
+],
+"leaf": 274,
+"page": "252",
+"raw": "ordero. Prov. Rec., MS., x. 35. J",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+36,
+36
+]
+],
+"leaf": 274,
+"page": "252",
+"raw": "ossack. Id., x. 36. 1",
+"src": "Id"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 20,
 "pages": [
@@ -7559,6 +8074,21 @@
 },
 {
 "hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+39,
+40
+]
+],
+"leaf": 274,
+"page": "252",
+"raw": "24, 49; Prov. Rec., MS., x. 39-40; S",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 20,
 "pages": [
@@ -7586,6 +8116,25 @@
 "leaf": 275,
 "page": "253",
 "raw": "pany in Prov. St. Pap., MS., xx. 71, 74, 81, 85-6,233-4; I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+37,
+38
+],
+[
+41,
+41
+]
+],
+"leaf": 275,
+"page": "253",
+"raw": ", 38-9; Prov. Rec., MS., x. 37-8, 41. 1",
 "src": "direct"
 },
 {
@@ -7857,6 +8406,25 @@
 "leaf": 282,
 "page": "260",
 "raw": "192-4; Prov. St. Pap., Ben. Mil., MS., xlix. 35-6, 38, 40-1, 44; 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+40,
+40
+],
+[
+46,
+46
+]
+],
+"leaf": 282,
+"page": "260",
+"raw": ". 50-1; Prov. Rec., MS., x. 40, 46.",
 "src": "direct"
 },
 {
@@ -9777,6 +10345,21 @@
 },
 {
 "hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+42,
+45
+]
+],
+"leaf": 383,
+"page": "361",
+"raw": ", 28-9; Prov. Rec., MS., x. 42-5; x",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 20,
 "pages": [
@@ -10673,6 +11256,21 @@
 "leaf": 439,
 "page": "417",
 "raw": "tained. Prov. St. Pap., MS., xx. 131, 242; A",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 10,
+"pages": [
+[
+44,
+44
+]
+],
+"leaf": 439,
+"page": "417",
+"raw": "x. 304; Prov. Rec., MS. , x. 44. O",
 "src": "direct"
 },
 {
