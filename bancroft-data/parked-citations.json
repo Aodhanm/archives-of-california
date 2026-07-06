@@ -101,7 +101,8 @@
 "ProvRec tomo 3 (C-A 23)": 31,
 "ProvRec tomo 4 (C-A 23)": 138,
 "ProvRec tomo 5 (C-A 24)": 4,
-"ProvRec tomo 6 (C-A 24)": 4,
+"ProvRec tomo 6 (C-A 24)": 94,
+"ProvRec tomo 7 (C-A 24)": 1,
 "SP-Miss tomo 1 (C-A 50)": 20,
 "SP-Miss tomo 10 (C-A 51)": 21,
 "SP-Miss tomo 11 (C-A 51)": 31,
@@ -18005,6 +18006,70 @@
 "ProvRec tomo 6 (C-A 24)": [
 {
 "hv": 1,
+"page": "497",
+"tomo": 6,
+"pages": [
+[
+163,
+163
+]
+],
+"raw": ". 56-7; Prov. Rec., MS., vi. 163. I"
+},
+{
+"hv": 1,
+"page": "497",
+"tomo": 6,
+"pages": [
+[
+103,
+103
+]
+],
+"raw": "phytes. Prov. Rec., MS., vi. 103; o"
+},
+{
+"hv": 1,
+"page": "523",
+"tomo": 6,
+"pages": [
+[
+32,
+32
+]
+],
+"raw": "fornia. Prov. Rec., MS., vi. 32. G"
+},
+{
+"hv": 1,
+"page": "523",
+"tomo": 6,
+"pages": [
+[
+37,
+37
+],
+[
+46,
+46
+]
+],
+"raw": "80, 89; Prov. Rec., MS., vi. 37, 46; T"
+},
+{
+"hv": 1,
+"page": "525",
+"tomo": 6,
+"pages": [
+[
+32,
+32
+]
+],
+"raw": "-ware. Prov. Rec., MS., vi. 32. H"
+},
+{
+"hv": 1,
 "page": "525",
 "tomo": 6,
 "pages": [
@@ -18014,6 +18079,102 @@
 ]
 ],
 "raw": "tented. Id., vi. 31. D"
+},
+{
+"hv": 1,
+"page": "531",
+"tomo": 6,
+"pages": [
+[
+134,
+134
+]
+],
+"raw": "ii. 75; Prov. Rec., MS., vi. 134. J"
+},
+{
+"hv": 1,
+"page": "531",
+"tomo": 6,
+"pages": [
+[
+26,
+26
+]
+],
+"raw": "ourney. Id., vi. 26. I"
+},
+{
+"hv": 1,
+"page": "531",
+"tomo": 6,
+"pages": [
+[
+134,
+134
+]
+],
+"raw": "rnando. Prov. Rec., MS., vi. 134. A"
+},
+{
+"hv": 1,
+"page": "531",
+"tomo": 6,
+"pages": [
+[
+28,
+28
+]
+],
+"raw": "xt day. Prov. Rec., MS., vi. 28. 1"
+},
+{
+"hv": 1,
+"page": "536",
+"tomo": 6,
+"pages": [
+[
+82,
+82
+]
+],
+"raw": "cesses. Prov. Rec., MS., vi. 82; P"
+},
+{
+"hv": 1,
+"page": "539",
+"tomo": 6,
+"pages": [
+[
+56,
+56
+]
+],
+"raw": "n Bias. Prov. Rec., MS., vi. 56. O"
+},
+{
+"hv": 1,
+"page": "541",
+"tomo": 6,
+"pages": [
+[
+183,
+183
+]
+],
+"raw": "Lasuen, Prov. Rec., MS., vi. 183. B"
+},
+{
+"hv": 1,
+"page": "543",
+"tomo": 6,
+"pages": [
+[
+118,
+118
+]
+],
+"raw": "bution. Prov. Rec., MS., vi. 118. S"
 },
 {
 "hv": 1,
@@ -18029,6 +18190,478 @@
 },
 {
 "hv": 1,
+"page": "544",
+"tomo": 6,
+"pages": [
+[
+78,
+78
+]
+],
+"raw": "fornia. Prov. Rec., MS., vi. 78. N"
+},
+{
+"hv": 1,
+"page": "544",
+"tomo": 6,
+"pages": [
+[
+2,
+2
+]
+],
+"raw": ") 1798. Id., vi. 02; v"
+},
+{
+"hv": 1,
+"page": "559",
+"tomo": 6,
+"pages": [
+[
+193,
+193
+]
+],
+"raw": ". 96-7; Prov. Rec., MS., vi. 193. S"
+},
+{
+"hv": 1,
+"page": "563",
+"tomo": 6,
+"pages": [
+[
+218,
+219
+]
+],
+"raw": "Lasuen. Prov. Rec., MS., vi. 218-19. A"
+},
+{
+"hv": 1,
+"page": "563",
+"tomo": 6,
+"pages": [
+[
+222,
+223
+]
+],
+"raw": "fornia. Prov. Rec., MS., vi. 222-3. D"
+},
+{
+"hv": 1,
+"page": "563",
+"tomo": 6,
+"pages": [
+[
+227,
+228
+]
+],
+"raw": "friar. Id., 227-8."
+},
+{
+"hv": 1,
+"page": "568",
+"tomo": 6,
+"pages": [
+[
+91,
+92
+]
+],
+"raw": "iceroy. Prov. Rec., MS., vi. 91-2. M"
+},
+{
+"hv": 1,
+"page": "568",
+"tomo": 6,
+"pages": [
+[
+92,
+92
+]
+],
+"raw": "384- 5; Prov. Rec., vi. 92; P"
+},
+{
+"hv": 1,
+"page": "571",
+"tomo": 6,
+"pages": [
+[
+70,
+70
+]
+],
+"raw": "roy, in Prov. Rec., MS., vi. 70."
+},
+{
+"hv": 1,
+"page": "572",
+"tomo": 6,
+"pages": [
+[
+44,
+44
+]
+],
+"raw": "iceroy. Prov. Rec., MS., vi. 44. D"
+},
+{
+"hv": 1,
+"page": "572",
+"tomo": 6,
+"pages": [
+[
+174,
+174
+]
+],
+"raw": "route. Prov. Rec., MS., vi. 174. S"
+},
+{
+"hv": 1,
+"page": "573",
+"tomo": 6,
+"pages": [
+[
+44,
+44
+]
+],
+"raw": "lorado. Prov. Rec., MS., vi. 44. S"
+},
+{
+"hv": 1,
+"page": "573",
+"tomo": 6,
+"pages": [
+[
+53,
+53
+]
+],
+"raw": "Sonora. Id., vi. 53. D"
+},
+{
+"hv": 1,
+"page": "573",
+"tomo": 6,
+"pages": [
+[
+65,
+66
+]
+],
+"raw": "- rado. Prov. Rec., MS., vi. 65-6. A"
+},
+{
+"hv": 1,
+"page": "576",
+"tomo": 6,
+"pages": [
+[
+75,
+76
+]
+],
+"raw": "i. 47; Prov. Rec., MS., vi. 75-6; P"
+},
+{
+"hv": 1,
+"page": "577",
+"tomo": 6,
+"pages": [
+[
+144,
+145
+]
+],
+"raw": "lasts. Prov. Rec., MS., vi. 144-5."
+},
+{
+"hv": 1,
+"page": "580",
+"tomo": 6,
+"pages": [
+[
+61,
+61
+]
+],
+"raw": "roduce. Prov. Rec., MS., vi. 61. 1"
+},
+{
+"hv": 1,
+"page": "580",
+"tomo": 6,
+"pages": [
+[
+60,
+61
+]
+],
+"raw": "selves. Prov. Rec., MS., vi. 60-1. S"
+},
+{
+"hv": 1,
+"page": "581",
+"tomo": 6,
+"pages": [
+[
+149,
+149
+]
+],
+"raw": "Mexico. Prov. Rec., MS., vi. 149. D"
+},
+{
+"hv": 1,
+"page": "584",
+"tomo": 6,
+"pages": [
+[
+195,
+195
+]
+],
+"raw": "Mexico. Prov. Rec., MS., vi. 195. 1"
+},
+{
+"hv": 1,
+"page": "585",
+"tomo": 6,
+"pages": [
+[
+173,
+173
+]
+],
+"raw": "he law. Prov. Rec., MS., vi. 173; S"
+},
+{
+"hv": 1,
+"page": "585",
+"tomo": 6,
+"pages": [
+[
+178,
+179
+]
+],
+"raw": "scolta. Prov. Rec., MS., vi. 178-9. J"
+},
+{
+"hv": 1,
+"page": "585",
+"tomo": 6,
+"pages": [
+[
+210,
+210
+]
+],
+"raw": "rnment. Prov. Rec., MS., vi. 210. 2"
+},
+{
+"hv": 1,
+"page": "587",
+"tomo": 6,
+"pages": [
+[
+105,
+106
+]
+],
+"raw": "garded. Prov. Rec., MS.,vi. 105-6. 2"
+},
+{
+"hv": 1,
+"page": "589",
+"tomo": 6,
+"pages": [
+[
+143,
+143
+]
+],
+"raw": "panish. Prov. Rec., MS., vi. 143. F"
+},
+{
+"hv": 1,
+"page": "589",
+"tomo": 6,
+"pages": [
+[
+115,
+115
+]
+],
+"raw": "acular. Prov. Rec., MS., vi. 115. M"
+},
+{
+"hv": 1,
+"page": "592",
+"tomo": 6,
+"pages": [
+[
+174,
+174
+]
+],
+"raw": "iction. Prov. Rec., MS., vi. 174. H"
+},
+{
+"hv": 1,
+"page": "604",
+"tomo": 6,
+"pages": [
+[
+61,
+62
+]
+],
+"raw": "nterey. Prov. Rec., MS., vi. 61-2. O"
+},
+{
+"hv": 1,
+"page": "605",
+"tomo": 6,
+"pages": [
+[
+91,
+92
+],
+[
+101,
+102
+]
+],
+"raw": "0, 285; Prov. Rec., MS., vi. 91-2, 101-2; S"
+},
+{
+"hv": 1,
+"page": "610",
+"tomo": 6,
+"pages": [
+[
+39,
+41
+]
+],
+"raw": "iceroy. Prov. Rec., MS., vi 39-41."
+},
+{
+"hv": 1,
+"page": "614",
+"tomo": 6,
+"pages": [
+[
+102,
+102
+]
+],
+"raw": "n 1798. Prov. Rec., MS., vi. 102. 2"
+},
+{
+"hv": 1,
+"page": "615",
+"tomo": 6,
+"pages": [
+[
+90,
+91
+]
+],
+"raw": "easury. Prov. Rec., MS., vi. 90-1 (a"
+},
+{
+"hv": 1,
+"page": "616",
+"tomo": 6,
+"pages": [
+[
+166,
+167
+],
+[
+163,
+164
+]
+],
+"raw": "iceroy. Prov. Rec., MS., vi. 166-7, 163-4. D"
+},
+{
+"hv": 1,
+"page": "616",
+"tomo": 6,
+"pages": [
+[
+226,
+226
+]
+],
+"raw": "a year. Prov. Rec., MS., vi. 226. S"
+},
+{
+"hv": 1,
+"page": "617",
+"tomo": 6,
+"pages": [
+[
+67,
+68
+],
+[
+89,
+90
+],
+[
+117,
+117
+]
+],
+"raw": "eroy in Prov. Rec., MS., vi. 67-8, 89-90, 117; S"
+},
+{
+"hv": 1,
+"page": "617",
+"tomo": 6,
+"pages": [
+[
+79,
+79
+]
+],
+"raw": "n 1796. Prov. Rec., MS., vi. 79."
+},
+{
+"hv": 1,
+"page": "620",
+"tomo": 6,
+"pages": [
+[
+103,
+103
+]
+],
+"raw": "proved. Id., vi. 103; v"
+},
+{
+"hv": 1,
+"page": "620",
+"tomo": 6,
+"pages": [
+[
+213,
+213
+]
+],
+"raw": "inning. Prov. Rec., MS., vi. 213. 1"
+},
+{
+"hv": 1,
 "page": "620",
 "tomo": 6,
 "pages": [
@@ -18041,6 +18674,34 @@
 },
 {
 "hv": 1,
+"page": "621",
+"tomo": 6,
+"pages": [
+[
+79,
+79
+]
+],
+"raw": "ncisco. Id. , vi. 79. E"
+},
+{
+"hv": 1,
+"page": "625",
+"tomo": 6,
+"pages": [
+[
+7,
+7
+],
+[
+103,
+104
+]
+],
+"raw": "18-29; Prov. Rec., MS., vi. 7, 103-4. T"
+},
+{
+"hv": 1,
 "page": "627",
 "tomo": 6,
 "pages": [
@@ -18050,6 +18711,488 @@
 ]
 ],
 "raw": "a pair. Prov. Rec., MS., vi. 160. W"
+},
+{
+"hv": 1,
+"page": "627",
+"tomo": 6,
+"pages": [
+[
+126,
+127
+]
+],
+"raw": "enough. Prov. Rec., MS., vi. 126-7. S"
+},
+{
+"hv": 1,
+"page": "629",
+"tomo": 6,
+"pages": [
+[
+83,
+84
+]
+],
+"raw": "rators. Prov. Rec., MS., vi. 83-4. G"
+},
+{
+"hv": 1,
+"page": "632",
+"tomo": 6,
+"pages": [
+[
+25,
+25
+]
+],
+"raw": "lajara. Prov. Rec., MS., vi. 25; v"
+},
+{
+"hv": 1,
+"page": "635",
+"tomo": 6,
+"pages": [
+[
+121,
+121
+]
+],
+"raw": "n 1799. Prov. Rec., MS., vi. 121. 2"
+},
+{
+"hv": 1,
+"page": "636",
+"tomo": 6,
+"pages": [
+[
+121,
+121
+]
+],
+"raw": "iceroy. Prov. Rec., MS., vi 121; P"
+},
+{
+"hv": 1,
+"page": "640",
+"tomo": 6,
+"pages": [
+[
+104,
+104
+]
+],
+"raw": "i. 209; Prov. Rec., MS., vi. 104. 1"
+},
+{
+"hv": 1,
+"page": "640",
+"tomo": 6,
+"pages": [
+[
+130,
+130
+]
+],
+"raw": "mption. Prov. Rec., MS., vi. 130. P"
+},
+{
+"hv": 1,
+"page": "654",
+"tomo": 6,
+"pages": [
+[
+178,
+179
+]
+],
+"raw": "others. Prov. Rec., MS., vi. 178-9. J"
+},
+{
+"hv": 1,
+"page": "675",
+"tomo": 6,
+"pages": [
+[
+185,
+186
+]
+],
+"raw": "xv. 14; Prov. Rec., MS., vi. 185-6. 7"
+},
+{
+"hv": 1,
+"page": "677",
+"tomo": 6,
+"pages": [
+[
+62,
+62
+]
+],
+"raw": "ldiers. Prov. Rec., MS., vi. 62. T"
+},
+{
+"hv": 1,
+"page": "682",
+"tomo": 6,
+"pages": [
+[
+104,
+104
+],
+[
+109,
+109
+]
+],
+"raw": ", 1798. Prov. Rec., MS., vi. 104, 109. A"
+},
+{
+"hv": 1,
+"page": "692",
+"tomo": 6,
+"pages": [
+[
+7,
+7
+]
+],
+"raw": ", 1797. Id., vi. 7. C"
+},
+{
+"hv": 1,
+"page": "699",
+"tomo": 6,
+"pages": [
+[
+35,
+35
+]
+],
+"raw": "11 men. Prov. Rec., MS., vi. 35. I"
+},
+{
+"hv": 1,
+"page": "699",
+"tomo": 6,
+"pages": [
+[
+46,
+46
+]
+],
+"raw": "g done. Prov. Rec., MS., vi. 46. D"
+},
+{
+"hv": 1,
+"page": "705",
+"tomo": 6,
+"pages": [
+[
+86,
+86
+],
+[
+92,
+92
+],
+[
+95,
+95
+]
+],
+"raw": "1, 263; Prov. Rec., MS., vi. 86, 92, 95. T"
+},
+{
+"hv": 1,
+"page": "708",
+"tomo": 6,
+"pages": [
+[
+18,
+18
+]
+],
+"raw": "topped. Prov. Rec., MS., vi 18th,"
+},
+{
+"hv": 1,
+"page": "711",
+"tomo": 6,
+"pages": [
+[
+97,
+98
+]
+],
+"raw": "roy, in Prov. Rec., MS., vi. 97-8; L"
+},
+{
+"hv": 1,
+"page": "715",
+"tomo": 6,
+"pages": [
+[
+79,
+79
+]
+],
+"raw": "ding to Prov. Rec., MS., vi. 79. M"
+},
+{
+"hv": 1,
+"page": "716",
+"tomo": 6,
+"pages": [
+[
+103,
+103
+]
+],
+"raw": "n 1798. Id., vi. 103; S"
+},
+{
+"hv": 1,
+"page": "720",
+"tomo": 6,
+"pages": [
+[
+110,
+110
+]
+],
+"raw": "ims, in Prov.Rec., MS. vi. 110; J"
+},
+{
+"hv": 1,
+"page": "727",
+"tomo": 6,
+"pages": [
+[
+147,
+147
+]
+],
+"raw": "rnica,' Prov. Rec., MS., vi. 147, b"
+},
+{
+"hv": 2,
+"page": "9",
+"tomo": 6,
+"pages": [
+[
+91,
+91
+]
+],
+"raw": "urport. Prov. Rec., MS., vi. 91; i"
+},
+{
+"hv": 2,
+"page": "9",
+"tomo": 6,
+"pages": [
+[
+21,
+21
+]
+],
+"raw": "i. 331; Prov. Rec., MS., vi. 21; i"
+},
+{
+"hv": 2,
+"page": "20",
+"tomo": 6,
+"pages": [
+[
+21,
+21
+]
+],
+"raw": ". 16th. Prov. Rec., MS., vi. 21; i"
+},
+{
+"hv": 2,
+"page": "22",
+"tomo": 6,
+"pages": [
+[
+22,
+22
+]
+],
+"raw": "d come. Prov. Rec., MS., vi. 22. 7"
+},
+{
+"hv": 2,
+"page": "27",
+"tomo": 6,
+"pages": [
+[
+14,
+14
+]
+],
+"raw": "ndians. Prov. Rec., MS., vi. 113- 14. O"
+},
+{
+"hv": 2,
+"page": "28",
+"tomo": 6,
+"pages": [
+[
+21,
+21
+]
+],
+"raw": "tion in Prov. Rec., MS., vi. 21; i"
+},
+{
+"hv": 2,
+"page": "33",
+"tomo": 6,
+"pages": [
+[
+22,
+22
+]
+],
+"raw": "proval. Prov. Rec., MS., vi. 22. R"
+},
+{
+"hv": 2,
+"page": "112",
+"tomo": 6,
+"pages": [
+[
+18,
+18
+]
+],
+"raw": "i. 66; Prov. Rec., MS., vi. 18; x"
+},
+{
+"hv": 2,
+"page": "145",
+"tomo": 6,
+"pages": [
+[
+19,
+19
+]
+],
+"raw": ". 9-12. Prov. Rec., MS., vi. 19. 6"
+},
+{
+"hv": 2,
+"page": "158",
+"tomo": 6,
+"pages": [
+[
+14,
+14
+]
+],
+"raw": "Catala. Prov. Rec., MS., vi. 14. N"
+},
+{
+"hv": 2,
+"page": "161",
+"tomo": 6,
+"pages": [
+[
+16,
+16
+],
+[
+19,
+19
+]
+],
+"raw": ". 72-3; Prov. Rec., MS., vi. 16, 19; S"
+},
+{
+"hv": 2,
+"page": "165",
+"tomo": 6,
+"pages": [
+[
+16,
+16
+]
+],
+"raw": "te de *\u00b0Prov. Rec., MS., vi. 16; A"
+},
+{
+"hv": 2,
+"page": "169",
+"tomo": 6,
+"pages": [
+[
+19,
+19
+]
+],
+"raw": ". Jos6. Prov. Rec., MS., vi. 19. I"
+},
+{
+"hv": 2,
+"page": "170",
+"tomo": 6,
+"pages": [
+[
+16,
+16
+],
+[
+17,
+17
+]
+],
+"raw": ".9-12; Prov. Rec., MS., vi. 16, 17. 3"
+},
+{
+"hv": 2,
+"page": "618",
+"tomo": 6,
+"pages": [
+[
+51,
+51
+]
+],
+"raw": "ix. 34; Prov. Rec., MS., vi. 51; 1"
+},
+{
+"hv": 7,
+"page": "78",
+"tomo": 6,
+"pages": [
+[
+79,
+79
+]
+],
+"raw": "7. Cal. Prov. Rec., MS., vi. 79; A"
+}
+],
+"ProvRec tomo 7 (C-A 24)": [
+{
+"hv": 2,
+"page": "573",
+"tomo": 7,
+"pages": [
+[
+47,
+47
+],
+[
+160,
+160
+]
+],
+"raw": "-7, 81; Prov. Rec., MS., vii. 47, 160; x"
 }
 ],
 "SP-Miss tomo 1 (C-A 50)": [

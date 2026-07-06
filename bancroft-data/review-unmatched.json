@@ -436,6 +436,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+22,
+23
+]
+],
+"leaf": 364,
+"page": "264",
+"raw": "4, 106; Prov. St. Pap., Ben. Mil, MS,, i. 22-3; P",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 1,
 "pages": [
@@ -616,6 +631,21 @@
 "leaf": 415,
 "page": "315",
 "raw": ", 96-7; Prov. St. Pap., MS., ii. 1-6; P",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+41,
+44
+]
+],
+"leaf": 415,
+"page": "315",
+"raw": "i. 1-6; Prov. St. Pap., Ben. Mil., MS., i. 41-4.",
 "src": "direct"
 },
 {
@@ -823,6 +853,21 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+33,
+33
+]
+],
+"leaf": 441,
+"page": "341",
+"raw": "ttlers. Prov. Rec., MS., ii. 33. \"",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 2,
 "pages": [
@@ -834,6 +879,36 @@
 "leaf": 441,
 "page": "341",
 "raw": "780, in Prov. St. Pap., ii. 117-25. P",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 2,
+"pages": [
+[
+41,
+41
+]
+],
+"leaf": 442,
+"page": "342",
+"raw": ", 40-1; Prov. St. Pap., Ben. Mil., MS., ii. 41; P",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+82,
+82
+]
+],
+"leaf": 442,
+"page": "342",
+"raw": "781, in Prov. Rec., MS., ii. 82. I",
 "src": "direct"
 },
 {
@@ -868,6 +943,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+13,
+13
+]
+],
+"leaf": 444,
+"page": "344",
+"raw": "ee also Id., iii. 13; P",
+"src": "Id"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 4,
 "pages": [
@@ -879,6 +969,36 @@
 "leaf": 445,
 "page": "345",
 "raw": "ii. 23; Prov. St. Pap., MS., iv. 91. 2",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 10,
+"pages": [
+[
+152,
+152
+]
+],
+"leaf": 445,
+"page": "345",
+"raw": ", 1784. Prov. St. Pap., MS., x. 152. 2",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+23,
+23
+]
+],
+"leaf": 448,
+"page": "348",
+"raw": "ents in Prov. St. Pap., Ben. Mil., MS., iii. 23, t",
 "src": "direct"
 },
 {
@@ -910,6 +1030,70 @@
 "page": "350",
 "raw": "tood. 3lProv. St. Pap., MS., iii. 130-1. \"",
 "src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+85,
+85
+]
+],
+"leaf": 459,
+"page": "359",
+"raw": "Islas. Prov. Rec., MS., ii. 85.",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+19,
+19
+],
+[
+22,
+22
+]
+],
+"leaf": 462,
+"page": "362",
+"raw": "ay. uln Prov. St. Pap., Ben. Mil., MS., iii. 19, 22, a",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+10,
+10
+]
+],
+"leaf": 463,
+"page": "363",
+"raw": "i vita. Prov. St. Pap., Ben. Mil., MS., iii. 10. N",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+88,
+89
+]
+],
+"leaf": 463,
+"page": "363",
+"raw": "t. 1st, Id., 88-9, N",
+"src": "Id"
 },
 {
 "hv": 1,
@@ -962,6 +1146,21 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+233,
+233
+]
+],
+"leaf": 468,
+"page": "368",
+"raw": "majabs. Id., 233. A",
+"src": "Id"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 3,
 "pages": [
@@ -974,6 +1173,21 @@
 "page": "369",
 "raw": ", 1782. Prov. St. Pap., MS., iii. 120. N",
 "src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+47,
+47
+]
+],
+"leaf": 469,
+"page": "369",
+"raw": "r 26th. Id., 47. 3",
+"src": "Id"
 },
 {
 "hv": 1,
@@ -1026,6 +1240,21 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+48,
+49
+]
+],
+"leaf": 482,
+"page": "382",
+"raw": "Carlos. Prov. Rec., MS., ii. 48-9; P",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 3,
 "pages": [
@@ -1068,6 +1297,21 @@
 "page": "382",
 "raw": "fornia. Id., iv. 3D.",
 "src": "Id"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+48,
+48
+]
+],
+"leaf": 483,
+"page": "383",
+"raw": "cret in Prov. Rec., MS., ii. 48. S",
+"src": "direct"
 },
 {
 "hv": 1,
@@ -1150,6 +1394,21 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+109,
+109
+]
+],
+"leaf": 501,
+"page": "401",
+"raw": "ession. Id., ii. 109; i",
+"src": "Id"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 9,
 "pages": [
@@ -1161,6 +1420,21 @@
 "leaf": 501,
 "page": "401",
 "raw": "i. 171; St. Pap. Sac., MS., ix. 83-4.",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+136,
+136
+]
+],
+"leaf": 502,
+"page": "402",
+"raw": "itants. Prov. Rec., MS., ii. 136. F",
 "src": "direct"
 },
 {
@@ -1338,6 +1612,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 8,
+"pages": [
+[
+14,
+14
+]
+],
+"leaf": 531,
+"page": "431",
+"raw": "ns. See Prov. St. Pap., Ben. Mil., MS., viii. 14; P",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 4,
 "pages": [
@@ -1379,6 +1668,36 @@
 "leaf": 537,
 "page": "437",
 "raw": "nished. Id., ii. 112. A",
+"src": "Id"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 9,
+"pages": [
+[
+6,
+6
+]
+],
+"leaf": 540,
+"page": "440",
+"raw": "-skins. Prov. St. Pap., Ben. Mil., MS., ix. 6. O",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 9,
+"pages": [
+[
+14,
+14
+]
+],
+"leaf": 540,
+"page": "440",
+"raw": "ntonio. Id., ix. 14. J",
 "src": "Id"
 },
 {
@@ -1443,6 +1762,21 @@
 "leaf": 545,
 "page": "445",
 "raw": "ent in. Prov. St. Pap., MS., iv. 165. O",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 1,
+"pages": [
+[
+201,
+201
+]
+],
+"leaf": 546,
+"page": "446",
+"raw": ", 1785. Prov. Rec., MS., i. 201, i",
 "src": "direct"
 },
 {
@@ -1522,6 +1856,36 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+131,
+132
+]
+],
+"leaf": 559,
+"page": "459",
+"raw": "785, in Prov. Rec., MS., ii. 131-2; U",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 10,
+"pages": [
+[
+2,
+6
+]
+],
+"leaf": 560,
+"page": "460",
+"raw": "159-63; Prov. St. Pap., Ben. Mil., MS., x. 2-6; S",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 1,
 "pages": [
@@ -1586,6 +1950,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 9,
+"pages": [
+[
+6,
+8
+]
+],
+"leaf": 565,
+"page": "465",
+"raw": "790, in Prov. St. Pap., Ben. Mil., MS., ix. 6-8; F",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 2,
 "pages": [
@@ -1605,6 +1984,40 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 10,
+"pages": [
+[
+10,
+10
+],
+[
+11,
+11
+]
+],
+"leaf": 566,
+"page": "466",
+"raw": "162-3; Prov. St. Pap., Ben. Mil., MS., x. 10, 11; U",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 13,
+"pages": [
+[
+10,
+10
+]
+],
+"leaf": 570,
+"page": "470",
+"raw": "i. 157; Prov. St. Pap., Ben. Mil., MS., xiii. 10. S",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 4,
 "pages": [
@@ -1620,6 +2033,21 @@
 "leaf": 571,
 "page": "471",
 "raw": "69. 52 Prov. St. Pap., MS., iv. 21, 30; P",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+134,
+134
+]
+],
+"leaf": 571,
+"page": "471",
+"raw": "21, 30; Prov. Rec., MS., ii. 134. 5",
 "src": "direct"
 },
 {
@@ -1650,6 +2078,51 @@
 "leaf": 575,
 "page": "475",
 "raw": "ollege. Prov. St. Pap., MS., ii. 136.",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 10,
+"pages": [
+[
+153,
+153
+]
+],
+"leaf": 578,
+"page": "478",
+"raw": "791, in Prov. St. Pap., MS., x. 153. I",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 10,
+"pages": [
+[
+152,
+152
+]
+],
+"leaf": 578,
+"page": "478",
+"raw": "fected. Prov. St. Pap., MS., x. 152. V",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+98,
+98
+]
+],
+"leaf": 579,
+"page": "479",
+"raw": "i. 392; Prov. Rec., MS., ii. 98; I",
 "src": "direct"
 },
 {
@@ -1857,6 +2330,21 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 1,
+"pages": [
+[
+213,
+213
+]
+],
+"leaf": 603,
+"page": "503",
+"raw": "2, 164; Prov Rec., MS., i. 213.",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 6,
 "pages": [
@@ -1887,6 +2375,25 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+1,
+1
+],
+[
+2,
+2
+]
+],
+"leaf": 613,
+"page": "513",
+"raw": "ted 523 Prov. St. Pap., Ben. Mil., MS., xix. 1, 2; x",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 6,
 "pages": [
@@ -1914,6 +2421,51 @@
 "page": "515",
 "raw": "d 17th. Id., vi. 98. I",
 "src": "Id"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+144,
+145
+]
+],
+"leaf": 616,
+"page": "516",
+"raw": "stores. Prov. Rec., MS., ii. 144-5. A",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 1,
+"pages": [
+[
+200,
+200
+]
+],
+"leaf": 616,
+"page": "516",
+"raw": "l, etc. Id., i. 200* S",
+"src": "Id"
+},
+{
+"hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+145,
+146
+]
+],
+"leaf": 617,
+"page": "517",
+"raw": "r port. Prov. Rec., MS., ii. 145-6. 8",
+"src": "direct"
 },
 {
 "hv": 1,
@@ -1977,6 +2529,25 @@
 "leaf": 632,
 "page": "532",
 "raw": "v. 9th. Prov. St. Pap., MS., xxi. 207-8; b",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+3,
+3
+],
+[
+4,
+4
+]
+],
+"leaf": 635,
+"page": "535",
+"raw": "s, 335. Prov. St. Pap., Ben. Mil., MS., xix. 3, 4. S",
 "src": "direct"
 },
 {
@@ -2086,6 +2657,21 @@
 "leaf": 640,
 "page": "540",
 "raw": "flints. Prov. Rec., MS., viii. 170, 173; i",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 16,
+"pages": [
+[
+62,
+62
+]
+],
+"leaf": 641,
+"page": "541",
+"raw": "i. 249; Prov. St. Pap., Ben. Mil., MS., xvi. 62. T",
 "src": "direct"
 },
 {
@@ -2893,6 +3479,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+6,
+6
+]
+],
+"leaf": 714,
+"page": "614",
+"raw": ". 1791. Prov. St. Pap., Ben. Mil., MS., xv. 6. V",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "ProvRec",
 "tomo": 8,
 "pages": [
@@ -3385,6 +3986,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+3,
+3
+]
+],
+"leaf": 741,
+"page": "641",
+"raw": "ncisco. Id., xv. 3. 1",
+"src": "Id"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 6,
 "pages": [
@@ -3540,6 +4156,21 @@
 "page": "648",
 "raw": "7, $70. Prov. St. Pap., MS., xvi. 179. F",
 "src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 13,
+"pages": [
+[
+5,
+5
+]
+],
+"leaf": 748,
+"page": "648",
+"raw": "$4,339. Id., xiii. 5, r",
+"src": "Id"
 },
 {
 "hv": 1,
@@ -3731,6 +4362,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+16,
+16
+]
+],
+"leaf": 759,
+"page": "659",
+"raw": "$1,528. Prov. St. Pap., Ben. Mil., MS., iii. 16. L",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 6,
 "pages": [
@@ -3742,6 +4388,21 @@
 "leaf": 759,
 "page": "659",
 "raw": "vi. 79; St. Pap., Sac., MS., vi. 1. 1",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 9,
+"pages": [
+[
+4,
+4
+]
+],
+"leaf": 760,
+"page": "660",
+"raw": ", 6358. Prov. St. Pap., Ben. Mil, MS., ix. 4. E",
 "src": "direct"
 },
 {
@@ -3791,6 +4452,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 17,
+"pages": [
+[
+5,
+5
+]
+],
+"leaf": 765,
+"page": "665",
+"raw": "n 1798. Prov. St. Pap., Ben. Mil., MS., xvii. 5. P",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 2,
 "pages": [
@@ -3806,6 +4482,21 @@
 },
 {
 "hv": 1,
+"series": "BenMil",
+"tomo": 17,
+"pages": [
+[
+9,
+9
+]
+],
+"leaf": 765,
+"page": "665",
+"raw": "$9,758. Id., xvii. 9. A",
+"src": "Id"
+},
+{
+"hv": 1,
 "series": "SP-Sac",
 "tomo": 6,
 "pages": [
@@ -3817,6 +4508,21 @@
 "leaf": 765,
 "page": "665",
 "raw": "xv. 14; St. Pap., Sac., MS., vi. 61. T",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+4,
+4
+]
+],
+"leaf": 765,
+"page": "665",
+"raw": "r cent. Prov. St. Pap., Ben. Mil., MS., xix. 4; x",
 "src": "direct"
 },
 {
@@ -3862,6 +4568,21 @@
 "leaf": 771,
 "page": "671",
 "raw": "ii. 22; Prov. Rec., MS., xi. 136. A",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 13,
+"pages": [
+[
+9,
+9
+]
+],
+"leaf": 776,
+"page": "676",
+"raw": "n Prow. St. Pap., Ben. Mil, MS., xiii. 9; x",
 "src": "direct"
 },
 {
@@ -3937,6 +4658,21 @@
 "leaf": 779,
 "page": "679",
 "raw": "iv. 29; Prov. Rec., MS., xi. 149. 5",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "BenMil",
+"tomo": 13,
+"pages": [
+[
+9,
+9
+]
+],
+"leaf": 779,
+"page": "679",
+"raw": "But in Prov. St. Pap., Ben. Mil., MS., xiii. 9, O",
 "src": "direct"
 },
 {
@@ -4103,6 +4839,21 @@
 },
 {
 "hv": 1,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+149,
+149
+]
+],
+"leaf": 792,
+"page": "692",
+"raw": "vi. 84; Prov. Rec., MS., ii. 149. P",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 16,
 "pages": [
@@ -4193,6 +4944,21 @@
 "leaf": 796,
 "page": "696",
 "raw": "m fire. Id., xvi. 39. A",
+"src": "Id"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 11,
+"pages": [
+[
+174,
+174
+]
+],
+"leaf": 799,
+"page": "699",
+"raw": "lanade. Id., xi. 174. J",
 "src": "Id"
 },
 {
@@ -4502,6 +5268,21 @@
 "page": "724",
 "raw": "e work. Id., vi. 181 -S",
 "src": "Id"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 11,
+"pages": [
+[
+197,
+197
+]
+],
+"leaf": 827,
+"page": "727",
+"raw": "vi. 26; Prov. St. Pap., MS., xi. 197; x",
+"src": "direct"
 },
 {
 "hv": 1,
@@ -5391,6 +6172,21 @@
 },
 {
 "hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+265,
+265
+]
+],
+"leaf": 138,
+"page": "116",
+"raw": ". 70-1; Prov. St. Pap., Ben. Mil., MS., xv. 265. T",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 16,
 "pages": [
@@ -5865,6 +6661,21 @@
 },
 {
 "hv": 2,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+210,
+210
+]
+],
+"leaf": 210,
+"page": "188",
+"raw": "bruary. Id., xix. 210; /",
+"src": "Id"
+},
+{
+"hv": 2,
 "series": "ProvRec",
 "tomo": 11,
 "pages": [
@@ -5877,6 +6688,21 @@
 "page": "188",
 "raw": "proval. Prov. Rec., MS., xi. 131. 3",
 "src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+76,
+76
+]
+],
+"leaf": 213,
+"page": "191",
+"raw": "orders. Id., iii. 76. 1",
+"src": "Id"
 },
 {
 "hv": 2,
@@ -6238,6 +7064,36 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 5,
+"pages": [
+[
+67,
+68
+]
+],
+"leaf": 245,
+"page": "223",
+"raw": "d 14th. Id., v. 67-8. O",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 3,
+"pages": [
+[
+5,
+5
+]
+],
+"leaf": 245,
+"page": "223",
+"raw": "ender.' Id., iii. 5. O",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 49,
 "pages": [
 [
@@ -6496,6 +7352,21 @@
 "leaf": 263,
 "page": "241",
 "raw": "aware. Prov. St. Pap., Ben. Mil., MS., xlix. 25-7. 8",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+9,
+9
+]
+],
+"leaf": 266,
+"page": "244",
+"raw": "liello. Prov. St. Pap., Ben. Mil., MS., 1. 9. J",
 "src": "direct"
 },
 {
@@ -6839,6 +7710,21 @@
 "leaf": 278,
 "page": "256",
 "raw": "ayeras. Prov. Rec., MS., xii. 179-80. H",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+26,
+31
+]
+],
+"leaf": 279,
+"page": "257",
+"raw": ", 63-9; Prov. St. Pap., Ben. Mil, MS., 1. 26-31. M",
 "src": "direct"
 },
 {
@@ -8336,6 +9222,21 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+23,
+23
+]
+],
+"leaf": 355,
+"page": "333",
+"raw": ", 62-3; Prov. St. Pap., Ben. Mil, MS., 1. 23. O",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 49,
 "pages": [
 [
@@ -8652,6 +9553,21 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+53,
+53
+]
+],
+"leaf": 367,
+"page": "345",
+"raw": "selves. Prov. St. Pap., Ben. Mil., MS., 1. 53. M",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 43,
 "pages": [
 [
@@ -8782,6 +9698,21 @@
 "leaf": 379,
 "page": "357",
 "raw": "iv. 21; Prov. St. Pap., Ben. Mil, MS., xlviii. 2; G",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "ProvRec",
+"tomo": 2,
+"pages": [
+[
+84,
+84
+]
+],
+"leaf": 380,
+"page": "358",
+"raw": ". 83-4; Prov. Rec., MS., ii. 84. A",
 "src": "direct"
 },
 {
@@ -9189,6 +10120,36 @@
 },
 {
 "hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+143,
+144
+]
+],
+"leaf": 399,
+"page": "377",
+"raw": "matter. Id., i. 143-4. T",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+117,
+117
+]
+],
+"leaf": 399,
+"page": "377",
+"raw": "n 1820. Id., i. 117. 1",
+"src": "Id"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 20,
 "pages": [
@@ -9328,6 +10289,21 @@
 "leaf": 411,
 "page": "389",
 "raw": "itants. Prov. Rec., MS., ix. 190. S",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+32,
+44
+]
+],
+"leaf": 412,
+"page": "390",
+"raw": "7; Prw. St. Pap., Ben. Mil, MS., 1. 32-44.",
 "src": "direct"
 },
 {
@@ -10175,6 +11151,21 @@
 },
 {
 "hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+45,
+48
+]
+],
+"leaf": 445,
+"page": "423",
+"raw": "ntence. Id., 1. 45-8. 1",
+"src": "Id"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 20,
 "pages": [
@@ -10291,6 +11282,21 @@
 "leaf": 446,
 "page": "424",
 "raw": "ssible. Id., xlix. 16-17. T",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+32,
+44
+]
+],
+"leaf": 446,
+"page": "424",
+"raw": "vernor. Id., 1. 32-44. 1",
 "src": "Id"
 },
 {
@@ -10933,6 +11939,21 @@
 },
 {
 "hv": 2,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+23,
+23
+]
+],
+"leaf": 541,
+"page": "519",
+"raw": "2-3. 15 Dept. St. Pap., Ben. Mil, MS., Ixii. 23. D",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "LegRec",
 "tomo": 1,
 "pages": [
@@ -11019,6 +12040,36 @@
 "leaf": 555,
 "page": "533",
 "raw": "153-5; Dept. St. Pap., Ben. Mil., MS., liv. 3. O",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 5,
+"pages": [
+[
+10,
+11
+]
+],
+"leaf": 558,
+"page": "536",
+"raw": "about \u2122Dept. St. Pap., Ben. Mil, MS., Ivi. 10-11. b",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+93,
+93
+]
+],
+"leaf": 558,
+"page": "536",
+"raw": "inez in Dept. St. Pap., Ben. Mil, MS., Ixvi. 93; S",
 "src": "direct"
 },
 {
@@ -11128,6 +12179,36 @@
 },
 {
 "hv": 2,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+24,
+24
+]
+],
+"leaf": 568,
+"page": "546",
+"raw": "4 Ibs. Dept. St. Pap., Ben. Mil., MS., Ixii. 24. R",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 16,
+"pages": [
+[
+9,
+9
+]
+],
+"leaf": 568,
+"page": "546",
+"raw": "i. 141; Dept. St. Pap., Ben. Mil, MS., Ixvii. 9.",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 20,
 "pages": [
@@ -11144,6 +12225,66 @@
 "page": "548",
 "raw": "jtrla. Prov. St. Pap., MS., xx. 286, 294; I",
 "src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+64,
+68
+]
+],
+"leaf": 570,
+"page": "548",
+"raw": "nation. Dept. St. Pap., Ben. Mil., MS., Ixvi. 64-8. I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+1,
+1
+]
+],
+"leaf": 570,
+"page": "548",
+"raw": "quence. Id. Ixx. 1. I",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 18,
+"pages": [
+[
+4,
+4
+]
+],
+"leaf": 570,
+"page": "548",
+"raw": "y duty. Id. Ixix. 4. I",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+11,
+15
+]
+],
+"leaf": 570,
+"page": "548",
+"raw": "l 1831. Id., Ixii. 11-15. 1",
+"src": "Id"
 },
 {
 "hv": 2,
@@ -11188,6 +12329,66 @@
 "leaf": 580,
 "page": "558",
 "raw": ". 40-1; Prov. St. Pap., MS., xx. 293. 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 5,
+"pages": [
+[
+149,
+165
+]
+],
+"leaf": 580,
+"page": "558",
+"raw": "ding to Id., v. 149-65, C",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 4,
+"pages": [
+[
+136,
+137
+]
+],
+"leaf": 580,
+"page": "558",
+"raw": "stupid. Id., iv. 136-7. 1",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 16,
+"pages": [
+[
+1,
+1
+]
+],
+"leaf": 582,
+"page": "560",
+"raw": ". 55; \u2022 Dept. St. Pap., Ben. Mil., MS., Ixvii. 1. 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 16,
+"pages": [
+[
+3,
+3
+]
+],
+"leaf": 585,
+"page": "563",
+"raw": "n 1830. Dept. St. Pap., Ben. Mil., MS., Ixvii. 3; I",
 "src": "direct"
 },
 {
@@ -11252,6 +12453,21 @@
 },
 {
 "hv": 2,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+24,
+24
+]
+],
+"leaf": 596,
+"page": "574",
+"raw": "ounder. Dept. St. Pap., Ben. Mil., MS., Ixii. 24. 4",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "PSP",
 "tomo": 20,
 "pages": [
@@ -11278,6 +12494,21 @@
 "leaf": 599,
 "page": "577",
 "raw": "2, 133; Prov. St. Pap., MS., xx. 277-8; A",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+27,
+27
+]
+],
+"leaf": 603,
+"page": "581",
+"raw": "n 1828. Dept. St. Pap., Ben. Mil., MS., Ivii. 27; I",
 "src": "direct"
 },
 {
@@ -11312,6 +12543,21 @@
 "leaf": 607,
 "page": "585",
 "raw": "iv. 88; Dept. Rec., MS., i. 68, 291; v",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 13,
+"pages": [
+[
+8,
+8
+]
+],
+"leaf": 612,
+"page": "590",
+"raw": "4, 325; Dept. St. Pap., Ben. Mil, MS., Ixiv. 8. I",
 "src": "direct"
 },
 {
@@ -11357,6 +12603,40 @@
 "leaf": 613,
 "page": "591",
 "raw": "theft. Dept. St. Pap., Ben. Mil., MS., liv. 12. I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+10,
+11
+],
+[
+13,
+14
+]
+],
+"leaf": 613,
+"page": "591",
+"raw": "troops. Dept. St. Pap., Ben. Mil., MS., Ivii. 10-11, 13-14. B",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 17,
+"pages": [
+[
+5,
+6
+]
+],
+"leaf": 613,
+"page": "591",
+"raw": "sodomy. Dept. St. Pap., Ben. Mil., MS., Ixviii. 5-6. 1",
 "src": "direct"
 },
 {
@@ -11422,6 +12702,36 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+20,
+20
+]
+],
+"leaf": 626,
+"page": "604",
+"raw": "ncisco. Id., Ivii. 20. D",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+61,
+62
+]
+],
+"leaf": 626,
+"page": "604",
+"raw": "onment. Dept. St. Pap., Ben. Mil, MS., Ixvi. 61-2. 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 59,
 "pages": [
 [
@@ -11432,6 +12742,81 @@
 "leaf": 630,
 "page": "608",
 "raw": "6. 3 In Dept. St. Pap., Ben. Mil., MS., lix. 14; I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+24,
+24
+]
+],
+"leaf": 632,
+"page": "610",
+"raw": "in the *Dept. St. Pap., Ben. Mil, MS., Ixii. 24; I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+12,
+12
+]
+],
+"leaf": 633,
+"page": "611",
+"raw": "y, $80. Dept. St. Pap. Ben. Mil., MS., Ixii 12. 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 5,
+"pages": [
+[
+307,
+308
+]
+],
+"leaf": 633,
+"page": "611",
+"raw": "o, $20. Dept. St. Pap., Ben. Mil., MS., v. 307-8. T",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 13,
+"pages": [
+[
+1,
+1
+]
+],
+"leaf": 635,
+"page": "613",
+"raw": "of $40. Dept. St. Pap., Ben. Mil., MS., Ixiv. 1. I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+78,
+81
+]
+],
+"leaf": 636,
+"page": "614",
+"raw": "y-yard. Dept. St. Pap., Ben. Mil., MS., Ixvi. 78-81. 1",
 "src": "direct"
 },
 {
@@ -11492,6 +12877,51 @@
 "leaf": 644,
 "page": "622",
 "raw": "J)ept. St. Pap., Ben. Mil., MS., lix. 16-17. \"",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+81,
+82
+]
+],
+"leaf": 645,
+"page": "623",
+"raw": "nother. Dept. St. Pap., Ben. Mil., MS., Ixvi. 81-2. I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+17,
+19
+]
+],
+"leaf": 646,
+"page": "624",
+"raw": "rmon in Dept. St. Pap., Ben. Mil., MS., 1. 17-19. I",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+26,
+31
+]
+],
+"leaf": 648,
+"page": "626",
+"raw": "incing. Dept. St. Pap., Ben. Mil., MS., Ivii. 26-31. I",
 "src": "direct"
 },
 {
@@ -11617,6 +13047,51 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+16,
+22
+]
+],
+"leaf": 693,
+"page": "671",
+"raw": "31,384. Dept. St. Pap., Ben. Mil., MS., Ixx. 16-22. 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+21,
+21
+]
+],
+"leaf": 693,
+"page": "671",
+"raw": "23,000. Id., 21. T",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+24,
+24
+]
+],
+"leaf": 694,
+"page": "672",
+"raw": "order. Dept St. Pap., Ben. Mil., MS., Ixii. 24. 4",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 54,
 "pages": [
 [
@@ -11647,6 +13122,21 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+11,
+11
+]
+],
+"leaf": 696,
+"page": "674",
+"raw": "rtinez. Dept. St. Pap., Ben. Mil., MS., Ivii. 11. 4",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 54,
 "pages": [
 [
@@ -11658,6 +13148,21 @@
 "page": "677",
 "raw": ". Dcpt. St. Pap., Ben. Mil., MS., liv. 23-4. J",
 "src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 18,
+"pages": [
+[
+10,
+10
+]
+],
+"leaf": 699,
+"page": "677",
+"raw": "er Cal. Id., Ixix. 10. J",
+"src": "Id"
 },
 {
 "hv": 2,
@@ -11767,6 +13272,36 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+39,
+42
+]
+],
+"leaf": 699,
+"page": "677",
+"raw": "ission. Id. , Ivii. 39-42. 1",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 12,
+"pages": [
+[
+5,
+5
+]
+],
+"leaf": 699,
+"page": "677",
+"raw": "stian.' Id., Ixiii. 5. S",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 59,
 "pages": [
 [
@@ -11777,6 +13312,21 @@
 "leaf": 699,
 "page": "677",
 "raw": "Diego. Id., lix. 5-7. 1",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+81,
+82
+]
+],
+"leaf": 699,
+"page": "677",
+"raw": "vessel. Id., Ixvi. 81-2. 1",
 "src": "Id"
 },
 {
@@ -11793,6 +13343,21 @@
 "page": "677",
 "raw": "' work. Prov. St. Pap., Ben. Mil., MS., lii. 11. 1",
 "src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+47,
+47
+]
+],
+"leaf": 699,
+"page": "677",
+"raw": "n-gang. Id., i. 47. 1",
+"src": "Id"
 },
 {
 "hv": 2,
@@ -11822,6 +13387,36 @@
 "leaf": 699,
 "page": "677",
 "raw": "barge. Id., liv. 12. 1",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+64,
+68
+]
+],
+"leaf": 699,
+"page": "677",
+"raw": "sidios. Dept. St. Pap., Ben. Mil., MS., Ixvi. 64-8. 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 18,
+"pages": [
+[
+4,
+4
+]
+],
+"leaf": 699,
+"page": "677",
+"raw": "y duty. Id., Ixix. 4. A",
 "src": "Id"
 },
 {
@@ -11962,6 +13557,51 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 16,
+"pages": [
+[
+1,
+1
+]
+],
+"leaf": 700,
+"page": "678",
+"raw": "vi. 55; Dept. St. Pap., Ben. Mil., MS., Ixvii. 1. R",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+82,
+89
+]
+],
+"leaf": 700,
+"page": "678",
+"raw": "ncisco. Id., Ixvi. 82-9. A",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 15,
+"pages": [
+[
+61,
+62
+]
+],
+"leaf": 700,
+"page": "678",
+"raw": "Jose\". Id., Ixvi. 61-2. 1",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 53,
 "pages": [
 [
@@ -11992,6 +13632,21 @@
 {
 "hv": 2,
 "series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+38,
+38
+]
+],
+"leaf": 700,
+"page": "678",
+"raw": "ackles. Dept. St. Pap., Ben. Mil., MS., Ivii. 38. 1",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "BenMil",
 "tomo": 59,
 "pages": [
 [
@@ -12017,6 +13672,21 @@
 "leaf": 700,
 "page": "678",
 "raw": "works. Id., lix. 3-4. 1",
+"src": "Id"
+},
+{
+"hv": 2,
+"series": "BenMil",
+"tomo": 13,
+"pages": [
+[
+1,
+1
+]
+],
+"leaf": 700,
+"page": "678",
+"raw": "buyer. Id., Ixiv. 1. 1",
 "src": "Id"
 },
 {
@@ -12081,6 +13751,21 @@
 },
 {
 "hv": 3,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+23,
+23
+]
+],
+"leaf": 29,
+"page": "7",
+"raw": "padres. Dept St. Pap., Ben. Mil., MS., Ivii. 23. 9",
+"src": "direct"
+},
+{
+"hv": 3,
 "series": "DeptRec",
 "tomo": 1,
 "pages": [
@@ -12122,6 +13807,21 @@
 "leaf": 32,
 "page": "10",
 "raw": "x. 194; Prov. Rec., MS., ix. 196; V",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+21,
+21
+]
+],
+"leaf": 37,
+"page": "15",
+"raw": "r 1827. Dept St. Pap., Ben. Mil., MS., Ivii. 21; D",
 "src": "direct"
 },
 {
@@ -12202,6 +13902,187 @@
 {
 "hv": 3,
 "series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+1,
+2
+],
+[
+19,
+19
+]
+],
+"leaf": 73,
+"page": "51",
+"raw": "Diego. Id., xix. 1-2, 19. N",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+1,
+1
+]
+],
+"leaf": 74,
+"page": "52",
+"raw": "harged. Dept. St. Pap., Ben. Mil., MS., Ixx. 1C.",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 7,
+"pages": [
+[
+13,
+13
+]
+],
+"leaf": 78,
+"page": "56",
+"raw": "ne 7th. Dept. St. Pap., Ben. Mil., MS., vii. 13. A",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+79,
+79
+]
+],
+"leaf": 78,
+"page": "56",
+"raw": "a loan. Id., i. 79. F",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+42,
+47
+]
+],
+"leaf": 81,
+"page": "59",
+"raw": "points. Dept. St. Pap., Ben. Mil, MS., i. 42-7. S",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+56,
+60
+]
+],
+"leaf": 81,
+"page": "59",
+"raw": "icials. Id., i. 56-60. D",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+72,
+73
+],
+[
+89,
+91
+],
+[
+14,
+14
+]
+],
+"leaf": 81,
+"page": "59",
+"raw": "lajara. Id., i. 72-3, 89-91, 14.",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+15,
+15
+]
+],
+"leaf": 96,
+"page": "74",
+"raw": "troops. Id., vi. 15. D",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+12,
+12
+],
+[
+11,
+11
+]
+],
+"leaf": 96,
+"page": "74",
+"raw": "forth. Id., vi. 12, 11. D",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+35,
+35
+]
+],
+"leaf": 96,
+"page": "74",
+"raw": "icular. Id. , i. 35. \"",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 8,
+"pages": [
+[
+85,
+85
+]
+],
+"leaf": 101,
+"page": "79",
+"raw": "he foe. Id., viii. 85. 3",
+"src": "Id"
+},
+{
+"hv": 3,
+"series": "BenMil",
 "tomo": 51,
 "pages": [
 [
@@ -12217,6 +14098,96 @@
 {
 "hv": 3,
 "series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+13,
+14
+]
+],
+"leaf": 112,
+"page": "90",
+"raw": "Dej)t. St. Pap., Ben. Mil., MS., Ivii. 13-14. N",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 16,
+"pages": [
+[
+5,
+9
+]
+],
+"leaf": 115,
+"page": "93",
+"raw": "pped 13 Dept. St. Pap., Ben. Mil, MS., Ixvii. 5-9, c",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+23,
+24
+]
+],
+"leaf": 125,
+"page": "103",
+"raw": ". Dipt. St. Pap., Ben. Mil., MS., Ivii. 23-4; D",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 19,
+"pages": [
+[
+13,
+13
+]
+],
+"leaf": 135,
+"page": "113",
+"raw": "213. 59 Dept. St. Pap., Ben. Mil., MS., Ixx. 13. L",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 9,
+"pages": [
+[
+1,
+4
+]
+],
+"leaf": 139,
+"page": "117",
+"raw": "passim; Dept. St. Pap., Ben. Mil, MS., Ix. 1-4. 5",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 12,
+"pages": [
+[
+9,
+9
+]
+],
+"leaf": 141,
+"page": "119",
+"raw": "3th, in Dept. St. Pap., Ben. Mil, MS., Ixiii. 9. T",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
 "tomo": 52,
 "pages": [
 [
@@ -12227,6 +14198,51 @@
 "leaf": 146,
 "page": "124",
 "raw": "$3,304. Dept. St. Pap., Ben. Mil., Lcii 8-11. S",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+12,
+13
+]
+],
+"leaf": 147,
+"page": "125",
+"raw": "ubject. Dept. St. Pap., Ben. Mil., MS., Ivii. 12-13. A",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 11,
+"pages": [
+[
+5,
+10
+]
+],
+"leaf": 147,
+"page": "125",
+"raw": "on, 3%. Dept. St. Pap., Ben. Mil, MS., Ixii. 5-10. J",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 12,
+"pages": [
+[
+2,
+2
+]
+],
+"leaf": 152,
+"page": "130",
+"raw": "vi. 32; Dept. St. Pap., Ben. Mil., MS., Ixiii. 2; I",
 "src": "direct"
 },
 {
@@ -12310,6 +14326,21 @@
 "leaf": 306,
 "page": "284",
 "raw": "erey in Dept. St. Pap., Ben. Mil., MS., liii. 77-86. G",
+"src": "direct"
+},
+{
+"hv": 3,
+"series": "BenMil",
+"tomo": 6,
+"pages": [
+[
+21,
+21
+]
+],
+"leaf": 346,
+"page": "324",
+"raw": "riars.' Dept. St. Pap., Ben. Mil., MS., Ivii. 21. F",
 "src": "direct"
 },
 {
@@ -12935,6 +14966,21 @@
 },
 {
 "hv": 7,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+45,
+45
+]
+],
+"leaf": 71,
+"page": "53",
+"raw": "es $20. Prov. St. Pap., Ben. Mil, i. 45. o",
+"src": "direct"
+},
+{
+"hv": 7,
 "series": "PSP",
 "tomo": 1,
 "pages": [
@@ -12950,6 +14996,21 @@
 "leaf": 71,
 "page": "53",
 "raw": "a, 172; Prov. St. Pap., i. 196, 201; i",
+"src": "direct"
+},
+{
+"hv": 7,
+"series": "BenMil",
+"tomo": 1,
+"pages": [
+[
+18,
+18
+]
+],
+"leaf": 79,
+"page": "61",
+"raw": "aising. Prov. St. Pap., Ben. Mil., i. 18, r",
 "src": "direct"
 }
 ]
