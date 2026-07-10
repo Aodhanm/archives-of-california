@@ -27,6 +27,10 @@ A searchable, item-level **calendar (finding aid) of the Archives of California*
 | `ca-catalog-export.csv` | Full dataset, one row per record (26 columns) |
 | `ca-catalog-export.json` | Same data, structured |
 
+## 🛠 How it was made & license
+
+Entries were produced by page-by-page reading of the digitized Savage volumes, done with the help of a large-language-model assistant (Anthropic's Claude) directed leaf-by-leaf by the compiler, who set the cataloging rules, adjudicated uncertainties, and reviewed the output; starred documents are re-verified against the manuscript image, and automated integrity checks gate every publication (full statement on the site's **About & Sources** tab). **Data: CC BY 4.0 · code: MIT** — see `LICENSE.md`. Corrections: aodhancoyne@gmail.com or open an issue.
+
 ## ⚠️ Notes on the data
 
 - Entries are drawn from a systematic reading of Savage's catalogs; **most are Savage's abstracts**, not the original documents' words, unless flagged `verbatim transcription`.
