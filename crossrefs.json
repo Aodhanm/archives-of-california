@@ -263,5 +263,20 @@
  "ca49-d357-n120": {
   "kind": "published",
   "text": "Published edition: transcribed and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 73 (p. 182) — Victoria's report on the Russian establishments. Attached 2026-07-09 on C-A 49's completion (was parked in ca-mathes-parked.json)."
+ },
+ "ca42-d1126-n373": {
+  "kind": "copy",
+  "text": "San José received copy survives: San José Pueblo Papers (History San José), scan 1979-861-1579 — José R. Estrada's proclamation of 30 Jul 1841 announcing he has assumed the interim Prefecture of the 1st District, to the Juez de Paz of San José de Alvarado. This Savage abstract = the proclamation itself. Matched via sj-matcher 2026-07-09 (same author/date/act; verified against the catalog summaries, not a fresh leaf-read).",
+  "link": "https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx"
+ },
+ "ca42-d1139-n377": {
+  "kind": "counterpart",
+  "text": "San José Pueblo Papers (History San José), scan 1979-861-1639 — José R. Estrada, 5 Oct 1841, approving the nomination of Antonio Buelna as Juez de Paz (Isidoro Guillén suplente; Guillermo/William Castro, Contra Costa). This Savage abstract records the subprefecture proposing the same slate (Buelna/Guillén/Castro) — the named nominees confirm the pairing. See also ca49-d831-n303 (the govt approval). Matched via sj-matcher 2026-07-09.",
+  "link": "https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx"
+ },
+ "ca49-d831-n303": {
+  "kind": "counterpart",
+  "text": "San José Pueblo Papers (History San José), scan 1979-861-1639 — the same 5 Oct 1841 Juez-de-Paz nominations (Antonio Buelna / Isidoro Guillén / Guillermo Castro; San José & Contra Costa). This C-A 49 abstract = the government's approval of the same slate; cross-listed with ca42-d1139-n377. Matched via sj-matcher 2026-07-09.",
+  "link": "https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx"
  }
 }
