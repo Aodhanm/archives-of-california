@@ -1,4 +1,4 @@
-# Archives of California — Searchable Calendar
+# Archives of California: A Documentary Calendar of the Savage Transcripts (BANC MSS C-A)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21327098.svg)](https://doi.org/10.5281/zenodo.21327098)
 
