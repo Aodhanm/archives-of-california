@@ -1,9 +1,21 @@
 {
-  "title": "Archives of California — A Searchable Calendar of BANC MSS C-A (Savage Transcripts)",
+  "title": "Archives of California: A Documentary Calendar of the Savage Transcripts (BANC MSS C-A)",
   "upload_type": "dataset",
-  "creators": [{"name": "Coyne, Aodhan"}],
-  "access_right": "open",
-  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "Coyne, Aodhan",
+      "orcid": "0009-0002-8630-3768"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://aodhanm.github.io/archives-of-california/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other",
+      "scheme": "url"
+    }
+  ],
   "keywords": ["California history", "Spanish borderlands", "Mexican California", "Bancroft Library", "archival calendar", "digital humanities"],
-  "description": "An item-level calendar (finding aid) of the Archives of California (BANC MSS C-A, Bancroft Library, UC Berkeley) — Thomas Savage's 1876-77 copies and abstracts of the Spanish- and Mexican-era provincial government records of Alta California, whose originals were destroyed in 1906. Structured records with manuscript deep links, verbatim transcriptions, and cross-archive concordances."
+  "description": "An item-level calendar (finding aid) of the Archives of California (BANC MSS C-A, Bancroft Library, University of California, Berkeley) — Thomas Savage's 1876–77 copies and abstracts of the Spanish- and Mexican-era provincial government records of Alta California, whose originals were destroyed in the 1906 San Francisco earthquake and fire. Each record carries structured fields (date with confidence flag, author, recipient, place, themes, source type, both page-number systems) and a deep link to the corresponding manuscript page on the Internet Archive. Includes a resolver for the manuscript citations in Bancroft's History of California. Live interface: https://aodhanm.github.io/archives-of-california/"
 }
