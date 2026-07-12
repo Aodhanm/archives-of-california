@@ -1,5 +1,7 @@
 # Archives of California — Searchable Calendar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21327098.svg)](https://doi.org/10.5281/zenodo.21327098)
+
 A searchable, item-level **calendar (finding aid) of the Archives of California** (BANC MSS C-A), Bancroft Library, UC Berkeley — the record series of Spanish- and Mexican-era California government.
 
 **Why it matters:** the original provincial records were **destroyed in the 1906 San Francisco earthquake and fire.** What survives are Thomas Savage's 19th-century copies and abstracts, bound as the C-A series. This project turns those catalogs into structured, searchable data.

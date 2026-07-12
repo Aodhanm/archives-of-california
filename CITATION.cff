@@ -5,6 +5,7 @@ type: dataset
 authors:
   - family-names: Coyne
     given-names: Aodhan
+doi: 10.5281/zenodo.21327098
 repository-code: "https://github.com/Aodhanm/archives-of-california"
 url: "https://aodhanm.github.io/archives-of-california/"
 abstract: >-
