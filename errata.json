@@ -1,0 +1,178 @@
+[
+ {
+  "key": "ca56-d365-n316",
+  "vol": "56",
+  "doc": "365",
+  "type": "savage-slip",
+  "was": "Heading dated \"1823 Obre 7.\"",
+  "reads": "The content is Minister Cañedo's circular ordering the arrest of Lorenzo de Zavala, \"Gob.n q.e era del estado de Mégico\" — impossible before 1830 (the state was created 1824; Zavala's persecution under Bustamante began 1830).",
+  "note": "The 1823 heading is off by seven years; cataloged under 1830.",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n316",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca12-d332b-n279",
+  "vol": "12",
+  "doc": "332b",
+  "type": "published-edition",
+  "was": "Mathes's published edition prints the Moraga Bodega reconnaissance diary under 1812.",
+  "reads": "The manuscript dateline reads 3 Oct 1810 (crop-verified) — in 1810 the vessel at Bodega was \"frag.ta no… rusa sino Americana\": an American otter camp, two years before Fort Ross.",
+  "note": "A two-year misdate in the standard published edition, proven at the leaf.",
+  "ia": "https://archive.org/details/168036075_79_14/page/n279",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca56-d97-n83",
+  "vol": "56",
+  "doc": "97",
+  "type": "caution",
+  "was": "—",
+  "reads": "This letter survives only in Ivan Petroff's 19th-century English translation; Petroff's reliability is questioned in the literature.",
+  "note": "Quote the Spanish copy of the same exchange (see the record's concordance) rather than Petroff's English where possible.",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n83",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca3-d445-n408",
+  "vol": "3",
+  "doc": "445",
+  "type": "catalog-correction",
+  "was": "The 1786 otter tariff transcribed with prices ×100 too low (pesos read as cents), first-class pelts \"≥1½ varas.\"",
+  "reads": "Full-resolution re-read: 1st class (pelts of 1¼ vara) 10/9/8/7 pesos; 2nd class (una vara) …",
+  "note": "The whole schedule re-transcribed from a full-res crop.",
+  "ia": "https://archive.org/details/168036075_79_5_2/page/n408",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca3-d348-n314",
+  "vol": "3",
+  "doc": "348",
+  "type": "catalog-correction",
+  "was": "Dated October 1786.",
+  "reads": "The dateline abbreviation reads \"Setbre\" — September 1786.",
+  "note": "One of three adjacent Goycoechea letters (348–350) with the same misread; each header checked individually — docs 341–344 are genuinely October.",
+  "ia": "https://archive.org/details/168036075_79_5_2/page/n314",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca3-d349-n315",
+  "vol": "3",
+  "doc": "349",
+  "type": "catalog-correction",
+  "was": "Dated October 1786.",
+  "reads": "\"Setbre\" — September 1786.",
+  "note": "",
+  "ia": "https://archive.org/details/168036075_79_5_2/page/n315",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca3-d350-n315",
+  "vol": "3",
+  "doc": "350",
+  "type": "catalog-correction",
+  "was": "Dated October 1786.",
+  "reads": "\"Setbre\" — September 1786.",
+  "note": "",
+  "ia": "https://archive.org/details/168036075_79_5_2/page/n315",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca12-d453-n386",
+  "vol": "12",
+  "doc": "453",
+  "type": "catalog-correction",
+  "was": "Dated October 1815.",
+  "reads": "\"Sbre\" — 30 September 1815 (crop-verified).",
+  "note": "",
+  "ia": "https://archive.org/details/168036075_79_14/page/n386",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca12-d404-n335",
+  "vol": "12",
+  "doc": "404",
+  "type": "catalog-correction",
+  "was": "Dated May 1813.",
+  "reads": "March 1813 (crop-verified).",
+  "note": "",
+  "ia": "https://archive.org/details/168036075_79_14/page/n335",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca12-d325-n271",
+  "vol": "12",
+  "doc": "325",
+  "type": "catalog-correction",
+  "was": "Undated.",
+  "reads": "Dated 10 December 1809 from the leaf.",
+  "note": "",
+  "ia": "https://archive.org/details/168036075_79_14/page/n271",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca56-d355-n310",
+  "vol": "56",
+  "doc": "355",
+  "type": "catalog-correction",
+  "was": "Dated October.",
+  "reads": "\"Sbre\" — September (matches Doc 351's glyph).",
+  "note": "",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n310",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca56-d171-n169",
+  "vol": "56",
+  "doc": "171",
+  "type": "catalog-correction",
+  "was": "1827 garrison table: San Blas Infantry 66.",
+  "reads": "The manuscript resumen reads 37 (grand total 432 confirms it).",
+  "note": "",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n169",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca56-d172-n170",
+  "vol": "56",
+  "doc": "172",
+  "type": "catalog-correction",
+  "was": "1828 garrison table: Mazatlán Militia ~54.",
+  "reads": "55.",
+  "note": "",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n170",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca56-d403-n350",
+  "vol": "56",
+  "doc": "403",
+  "type": "catalog-correction",
+  "was": "McCulloch–Hartnell contract quantity 40,000 arrobas.",
+  "reads": "\"desea ajustar con las Misiones 25,000 @ de sebos, cueros de res y otros productos\" — 25,000 (numeral crop-matched).",
+  "note": "",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n350",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca56-d315-n282",
+  "vol": "56",
+  "doc": "315",
+  "type": "catalog-correction",
+  "was": "Serra 1776 header first read \"[poco/ningún] castigo.\"",
+  "reads": "\"Sobre que se imponga leve castigo á indios\" — leve, re-read at full resolution.",
+  "note": "",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n282",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca15-d518-n354",
+  "vol": "15",
+  "doc": "518",
+  "type": "catalog-correction",
+  "was": "Garrison total first read \"553 hombres.\"",
+  "reads": "\"353 hombres\" (full-res crop; matches the arithmetic 323+~30 and the $92,593 figure).",
+  "note": "",
+  "ia": "https://archive.org/details/168035972_79_17_2/page/n354",
+  "logged": "2026-07"
+ }
+]
