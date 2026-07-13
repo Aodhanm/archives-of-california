@@ -1,7 +1,7 @@
 {
- "ok": 215,
- "mismatch": 42,
- "nohit": 157,
+ "ok": 224,
+ "mismatch": 36,
+ "nohit": 154,
  "null_only": 3,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
  "_worst": [
@@ -27,12 +27,6 @@
   "PSP 19.40 fn~1814 vs [1805]",
   "PSP 19.292 fn~1815 vs [1806, 1810]",
   "PSP 19.313 fn~1814 vs [1806, 1811]",
-  "PSP 20.59 fn~1822 vs [1816]",
-  "PSP 20.63 fn~1819 vs [1816]",
-  "PSP 20.68 fn~1819 vs [1816]",
-  "PSP 20.71 fn~1819 vs [1816]",
-  "PSP 20.72 fn~1819 vs [1816]",
-  "PSP 20.73 fn~1819 vs [1816]",
   "PSP_BM 1.1 fn~1819 vs [1775]",
   "PSP_BM 1.9 fn~1818 vs [1775]",
   "PSP_BM 1.10 fn~1819 vs [1777]",
