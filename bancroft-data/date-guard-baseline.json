@@ -1,7 +1,7 @@
 {
- "ok": 234,
+ "ok": 236,
  "mismatch": 30,
- "nohit": 147,
+ "nohit": 145,
  "null_only": 4,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
  "_worst": [
