@@ -1,5 +1,5 @@
 {
-"_purpose": "Ground truth for the resolver date-guard: (series,tomo,pages)->document year, extracted from the HoC I-VII djvu texts' footnotes (full 'Month Day, Year' dates within 90 chars before the citation only). Built by audit_resolver_dates.py 2026-07-12. NOT derived from bancroft.json (de-circularized).",
+"_purpose": "Ground truth for the resolver date-guard: (series,tomo,pages)->document year, extracted from the HoC I-VII djvu texts' footnotes (full 'Month Day, Year' dates within 90 chars before the citation, years restricted to 1760-1850). Built by audit_resolver_dates.py; regenerated 2026-07-12 after the year-window fix. NOT derived from bancroft.json (de-circularized).",
 "tuples": [
 {
 "sk": "DEPT_REC",
