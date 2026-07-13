@@ -174,5 +174,27 @@
   "note": "",
   "ia": "https://archive.org/details/168035972_79_17_2/page/n354",
   "logged": "2026-07"
+ },
+ {
+  "key": "ca25-d4-n284",
+  "vol": "25",
+  "doc": "4",
+  "type": "page-system",
+  "was": "Gap-read record: orig. pp. 122–24 (the otter/Catalina narrative, 1804).",
+  "reads": "Leaf-verified 2026-07-12: every leaf of C-A 25 carries TWO numbering systems — the original tomo pages (which this record's 122–24 gives) and a handwritten per-tomo LEAF number top-right. Bancroft's footnotes cite the LEAF numbers: his 'Prov. Rec., MS., ix. 122-3' (Hist. Cal. II:90 n.21) is NOT this document but Arrillaga's 28 Jun 1810 Suisun-campaign report at tomo leaves 122–123 = scans n374–375 (now ca25-d37).",
+  "note": "Applies to all 36 gap-read records of this volume: their orig_page values are original tomo pages, their scan links run ~2 behind the true BookReader position, and Tomo X records were mislabeled Tomo IX (fixed). Full re-verification queued.",
+  "ia": "https://archive.org/details/168036074_80_7_2/page/n284",
+  "logged": "2026-07"
+ },
+ {
+  "key": "ca25-d37-n374",
+  "vol": "25",
+  "doc": "37",
+  "type": "provenance",
+  "was": "—",
+  "reads": "Added 2026-07-12 after the resolver audit: Bancroft's 'Prov. Rec., MS., ix. 122-3' resolved to the wrong documents because the catalog and Bancroft use different page systems in this volume. This record was located and read at the leaf (scans n374–375, handwritten leaf numbers 122–123, orig. pp. 367–71).",
+  "note": "The tomo_leaf field carries Bancroft's cited numbering; the resolver indexes both systems for this volume.",
+  "ia": "https://archive.org/details/168036074_80_7_2/page/n374",
+  "logged": "2026-07"
  }
 ]

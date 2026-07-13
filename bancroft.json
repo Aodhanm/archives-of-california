@@ -1,5 +1,5 @@
 {
-"_scope": "Bancroft, History of California, vols. 1\u20137 (complete run, 2026-07-05; incl. Id./ibid. chains). \"cited\" = the record's ORIGINAL PAGE(S) cited, tomo-confirmed; \"shared\" = several Savage abstracts on the cited page. \"possible\" = page match, tomo unconfirmed. California Pastoral & non\u2013C-A MSS out of scope.",
+"_scope": "Bancroft, History of California, vols. 1–7 (complete run, 2026-07-05; incl. Id./ibid. chains). \"cited\" = the record's ORIGINAL PAGE(S) cited, tomo-confirmed; \"shared\" = several Savage abstracts on the cited page. \"possible\" = page match, tomo unconfirmed. California Pastoral & non–C-A MSS out of scope.",
 "_records": {
 "ca3-d385-n338": {
 "cited": [
@@ -190,7 +190,7 @@
 {
 "v": 1,
 "p": "236",
-"cite": "ct. 3d\u2014 Prov. St. Pap., MS. i. 148-9, 155\u2014 a",
+"cite": "ct. 3d— Prov. St. Pap., MS. i. 148-9, 155— a",
 "shared": 2
 },
 {
@@ -205,7 +205,7 @@
 {
 "v": 1,
 "p": "236",
-"cite": "ct. 3d\u2014 Prov. St. Pap., MS. i. 148-9, 155\u2014 a",
+"cite": "ct. 3d— Prov. St. Pap., MS. i. 148-9, 155— a",
 "shared": 2
 },
 {
@@ -252,7 +252,7 @@
 {
 "v": 1,
 "p": "248",
-"cite": "1\u00ab:MJ; Prov. Rec., MS.,i. 144-5. I",
+"cite": "1«:MJ; Prov. Rec., MS.,i. 144-5. I",
 "shared": 2
 },
 {
@@ -280,7 +280,7 @@
 {
 "v": 1,
 "p": "248",
-"cite": "1\u00ab:MJ; Prov. Rec., MS.,i. 144-5. I",
+"cite": "1«:MJ; Prov. Rec., MS.,i. 144-5. I",
 "shared": 2
 },
 {
@@ -382,7 +382,7 @@
 {
 "v": 1,
 "p": "302",
-"cite": "ega, in Prov. St. Pap., MS., i. 151. \u2022"
+"cite": "ega, in Prov. St. Pap., MS., i. 151. •"
 },
 {
 "v": 2,
@@ -1239,7 +1239,7 @@
 {
 "v": 1,
 "p": "369",
-"cite": ". 16th\u2014 Prov. Rec., MS., ii. 53\u2014 i"
+"cite": ". 16th— Prov. Rec., MS., ii. 53— i"
 },
 {
 "v": 1,
@@ -1726,7 +1726,7 @@
 {
 "v": 2,
 "p": "603",
-"cite": "ctober. Dept. St. Pap., Ben. Mil., MS., Iv. 18; \u00a3"
+"cite": "ctober. Dept. St. Pap., Ben. Mil., MS., Iv. 18; £"
 },
 {
 "v": 4,
@@ -1751,7 +1751,7 @@
 {
 "v": 4,
 "p": "249",
-"cite": "\u2122Drpt. St. Pap., Ben, Mil., MS., Iv. 18. ^"
+"cite": "™Drpt. St. Pap., Ben, Mil., MS., Iv. 18. ^"
 },
 {
 "v": 4,
@@ -2548,7 +2548,7 @@
 {
 "v": 1,
 "p": "617",
-"cite": ". 313. \u2122Prov. Rec., MS., ii. 162-3; i",
+"cite": ". 313. ™Prov. Rec., MS., ii. 162-3; i",
 "shared": 2
 },
 {
@@ -2779,7 +2779,7 @@
 {
 "v": 1,
 "p": "615",
-"cite": "tisans\u2014 Prov. St. Pap., MS., x. 41; x"
+"cite": "tisans— Prov. St. Pap., MS., x. 41; x"
 }
 ]
 },
@@ -4975,7 +4975,7 @@
 {
 "v": 1,
 "p": "669",
-"cite": "90-1. \u00ab\u00b0Prov. St. Pap., MS., xv. 113-14; x"
+"cite": "90-1. «°Prov. St. Pap., MS., xv. 113-14; x"
 },
 {
 "v": 1,
@@ -5322,41 +5322,6 @@
 }
 ]
 },
-"ca25-d15-n455": {
-"cited": [
-{
-"v": 1,
-"p": "545",
-"cite": "48, 54; Prov. Rec., MS., ix. 12; x"
-},
-{
-"v": 1,
-"p": "548",
-"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
-"shared": 2
-},
-{
-"v": 1,
-"p": "606",
-"cite": "ii. 22; Prov. Rec., MS., ix. 11, 12; A"
-}
-]
-},
-"ca25-d13-n453": {
-"cited": [
-{
-"v": 1,
-"p": "545",
-"cite": "bidden. Id., ix. 2, O"
-},
-{
-"v": 2,
-"p": "180",
-"cite": "ension. Id., ix. 1G1-",
-"shared": 2
-}
-]
-},
 "ca55-d197-n138": {
 "cited": [
 {
@@ -5640,21 +5605,6 @@
 "p": "547",
 "cite": "ear. 48 Prov. St. Pap., MS., xv. 19-27, 122-5, 173-8, 282-3; x",
 "shared": 9
-}
-]
-},
-"ca25-d14-n454": {
-"cited": [
-{
-"v": 1,
-"p": "548",
-"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
-"shared": 2
-},
-{
-"v": 1,
-"p": "622",
-"cite": "Nueva. Prov. Rec., MS., ix. 6, i"
 }
 ]
 },
@@ -6612,7 +6562,7 @@
 {
 "v": 2,
 "p": "257",
-"cite": "ix. \u2014 ; St. Pap. Sac., MS., viii. 67; P"
+"cite": "ix. — ; St. Pap. Sac., MS., viii. 67; P"
 }
 ]
 },
@@ -6839,7 +6789,7 @@
 {
 "v": 1,
 "p": "617",
-"cite": ". 313. \u2122Prov. Rec., MS., ii. 162-3; i",
+"cite": ". 313. ™Prov. Rec., MS., ii. 162-3; i",
 "shared": 2
 },
 {
@@ -6894,15 +6844,6 @@
 "v": 1,
 "p": "620",
 "cite": ". 95-8; Prov. St. Pap., MS., xiv. 194. D"
-}
-]
-},
-"ca25-d16-n456": {
-"cited": [
-{
-"v": 1,
-"p": "620",
-"cite": "t good. Id., ix. 15; ."
 }
 ]
 },
@@ -7859,7 +7800,7 @@
 {
 "v": 2,
 "p": "584",
-"cite": "i. f\u00bbG; Prov. Rec., MS., v. 113-14; S",
+"cite": "i. f»G; Prov. Rec., MS., v. 113-14; S",
 "shared": 2
 }
 ]
@@ -9815,45 +9756,6 @@
 }
 ]
 },
-"ca25-d17-n457": {
-"cited": [
-{
-"v": 2,
-"p": "18",
-"cite": "milies. Prov. Rec., MS., ix. 32. V"
-},
-{
-"v": 2,
-"p": "184",
-"cite": "erence. Prov. Rec., MS., ix. 45-6. J"
-},
-{
-"v": 2,
-"p": "184",
-"cite": "r- nia. Id., ix. 44. S"
-},
-{
-"v": 2,
-"p": "190",
-"cite": "murder. Prov. Rec., MS., ix. 43. 1"
-},
-{
-"v": 2,
-"p": "25",
-"cite": "2-5. 17 Prov. Rec., MS., ix. 35; P"
-},
-{
-"v": 2,
-"p": "25",
-"cite": "are of. Prov. Rec., MS., ix. 38-40."
-},
-{
-"v": 2,
-"p": "67",
-"cite": "coast. Prov. Rec., MS., ix. 34. *"
-}
-]
-},
 "ca16-d272-n160": {
 "cited": [
 {
@@ -10020,62 +9922,6 @@
 }
 ]
 },
-"ca25-d18-n458": {
-"cited": [
-{
-"v": 2,
-"p": "167",
-"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
-"shared": 2
-},
-{
-"v": 2,
-"p": "182",
-"cite": "ix. 60; Prov. Rec., MS., ix. 68. A"
-},
-{
-"v": 2,
-"p": "187",
-"cite": "years. Prov. Rec., MS., ix. 72. R"
-},
-{
-"v": 2,
-"p": "190",
-"cite": "amoras. Id., ix. 60-1. S"
-},
-{
-"v": 2,
-"p": "20",
-"cite": "vernor. Prov. Rec., MS., ix. 58-60. M"
-},
-{
-"v": 2,
-"p": "20",
-"cite": "vii. 2; Prov. Rec., MS., ix. 73; G"
-},
-{
-"v": 2,
-"p": "29",
-"cite": "o V. R, Prov. Rec., MS., ix. 56. 2"
-},
-{
-"v": 2,
-"p": "31",
-"cite": "reply. Prov. Rec., MS., ix. 70-1."
-},
-{
-"v": 2,
-"p": "33",
-"cite": "istant. Prov. Rec., MS., ix. 63-4. T"
-},
-{
-"v": 2,
-"p": "73",
-"cite": "ements. Prov. Rec., MS., ix. 75-6. A",
-"shared": 2
-}
-]
-},
 "ca12-d24-n33": {
 "cited": [
 {
@@ -10092,60 +9938,6 @@
 "v": 2,
 "p": "20",
 "cite": "Indies. Prov. St. Pap., MS., xix. 65-6. T",
-"shared": 2
-}
-]
-},
-"ca25-d21-n461": {
-"cited": [
-{
-"v": 2,
-"p": "140",
-"cite": "ii. 78; Prov. Rec., MS., ix. 96. 4"
-},
-{
-"v": 2,
-"p": "155",
-"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
-"shared": 4
-},
-{
-"v": 2,
-"p": "167",
-"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
-"shared": 2
-},
-{
-"v": 2,
-"p": "187",
-"cite": "arture. Id., ix. 94; P"
-},
-{
-"v": 2,
-"p": "191",
-"cite": "Prado. Prov. Rec., MS., ix. 103, 108. T",
-"shared": 2
-},
-{
-"v": 2,
-"p": "20",
-"cite": "4, 208; Prov. Rec., MS., ix. 95; x"
-},
-{
-"v": 2,
-"p": "83",
-"cite": ". 71-2; Prov. Rec., ix. 97: P"
-},
-{
-"v": 2,
-"p": "83",
-"cite": "nglish. Prov. Rec., ix. 100. 4",
-"shared": 2
-},
-{
-"v": 3,
-"p": "10",
-"cite": "196-7; Prov. Rec., MS., ix. 101. S",
 "shared": 2
 }
 ]
@@ -10450,7 +10242,7 @@
 {
 "v": 2,
 "p": "161",
-"cite": "\u2022 1806. Prov. St. Pap., MS., xix. 112. 1"
+"cite": "• 1806. Prov. St. Pap., MS., xix. 112. 1"
 },
 {
 "v": 2,
@@ -10640,41 +10432,6 @@
 }
 ]
 },
-"ca25-d20-n460": {
-"cited": [
-{
-"v": 2,
-"p": "127",
-"cite": "iceroy. Prov. Rec., MS., ix. 90-1. S"
-},
-{
-"v": 2,
-"p": "155",
-"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
-"shared": 4
-},
-{
-"v": 2,
-"p": "168",
-"cite": "iceroy. Prov. Rec., MS., ix. 86-7. S"
-},
-{
-"v": 2,
-"p": "175",
-"cite": "1806 in Prov. Rec., MS., ix. 90; R"
-},
-{
-"v": 2,
-"p": "192",
-"cite": "needed. Prov. Rec., MS., ix. 86-9. V"
-},
-{
-"v": 2,
-"p": "36",
-"cite": "iceroy. Prov. Rec., MS., ix. 90-1. D"
-}
-]
-},
 "ca12-d65-n69": {
 "cited": [
 {
@@ -10779,40 +10536,6 @@
 }
 ]
 },
-"ca25-d2-n280": {
-"cited": [
-{
-"v": 2,
-"p": "110",
-"cite": "-20. 36 Prov. Rec., MS., ix. 81-2, 1805. A",
-"shared": 2
-},
-{
-"v": 2,
-"p": "132",
-"cite": "verted. Prov. Rec., MS., ix. 81-2. L",
-"shared": 2
-},
-{
-"v": 2,
-"p": "155",
-"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
-"shared": 4
-},
-{
-"v": 2,
-"p": "167",
-"cite": "othing. Prov. Rec., MS., ix. 81.",
-"shared": 2
-},
-{
-"v": 2,
-"p": "73",
-"cite": "ements. Prov. Rec., MS., ix. 75-6. A",
-"shared": 2
-}
-]
-},
 "ca12-d39-n44": {
 "cited": [
 {
@@ -10895,63 +10618,6 @@
 "v": 2,
 "p": "83",
 "cite": "ix. 97: Prov. St. Pap., xix. 227. J"
-}
-]
-},
-"ca25-d22-n462": {
-"cited": [
-{
-"v": 2,
-"p": "128",
-"cite": "e- roy. Prov. Rec., MS., ix. 108; a"
-},
-{
-"v": 2,
-"p": "186",
-"cite": "ration. Prov. Rec., MS., ix. 108. 1"
-},
-{
-"v": 2,
-"p": "191",
-"cite": "Prado. Prov. Rec., MS., ix. 103, 108. T",
-"shared": 2
-},
-{
-"v": 2,
-"p": "83",
-"cite": "nglish. Prov. Rec., ix. 100. 4",
-"shared": 2
-},
-{
-"v": 2,
-"p": "85",
-"cite": "134-6; Prov. Rec., MS., ix. 111. 1"
-},
-{
-"v": 2,
-"p": "85",
-"cite": "111. 11 Prov. Rec., MS., ix. 110; x"
-},
-{
-"v": 2,
-"p": "85",
-"cite": "73. 11 Prov. Rec., MS., ix. 107; x"
-},
-{
-"v": 2,
-"p": "86",
-"cite": "ctober. Prov. Rec., MS., ix. 109. N"
-},
-{
-"v": 2,
-"p": "99",
-"cite": "place. Prov. Rec., MS., ix. 105-6. J"
-},
-{
-"v": 3,
-"p": "10",
-"cite": "196-7; Prov. Rec., MS., ix. 101. S",
-"shared": 2
 }
 ]
 },
@@ -11065,21 +10731,6 @@
 }
 ]
 },
-"ca25-d3-n283": {
-"cited": [
-{
-"v": 2,
-"p": "159",
-"cite": "ctober. Prov. Rec., MS., ix. 115, 117. I",
-"shared": 2
-},
-{
-"v": 2,
-"p": "87",
-"cite": "ng war. Prov. Rec., MS., ix. 116. A"
-}
-]
-},
 "ca12-d107-n120": {
 "cited": [
 {
@@ -11135,69 +10786,6 @@
 "v": 2,
 "p": "88",
 "cite": "10. '21 Prov.St. Pap, MS., xix. 237, 252-3; J",
-"shared": 3
-}
-]
-},
-"ca25-d4-n284": {
-"cited": [
-{
-"v": 2,
-"p": "90",
-"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
-"shared": 4
-},
-{
-"v": 2,
-"p": "95",
-"cite": "te 24. nProv. Rec., MS., ix. 124; x",
-"shared": 3
-}
-]
-},
-"ca25-d6-n286": {
-"cited": [
-{
-"v": 2,
-"p": "90",
-"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
-"shared": 4
-}
-]
-},
-"ca25-d7-n287": {
-"cited": [
-{
-"v": 2,
-"p": "128",
-"cite": "223-5; Prov. Rec., MS., ix. 114, 125; P"
-},
-{
-"v": 2,
-"p": "90",
-"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
-"shared": 4
-},
-{
-"v": 2,
-"p": "95",
-"cite": "te 24. nProv. Rec., MS., ix. 124; x",
-"shared": 3
-}
-]
-},
-"ca25-d8-n292": {
-"cited": [
-{
-"v": 2,
-"p": "90",
-"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
-"shared": 4
-},
-{
-"v": 2,
-"p": "95",
-"cite": "te 24. nProv. Rec., MS., ix. 124; x",
 "shared": 3
 }
 ]
@@ -11365,34 +10953,6 @@
 "v": 2,
 "p": "111",
 "cite": "illaga. Prov. St. Pap., MS., xix. 304-5."
-}
-]
-},
-"ca25-d19-n459": {
-"cited": [
-{
-"v": 2,
-"p": "110",
-"cite": "-20. 36 Prov. Rec., MS., ix. 81-2, 1805. A",
-"shared": 2
-},
-{
-"v": 2,
-"p": "132",
-"cite": "verted. Prov. Rec., MS., ix. 81-2. L",
-"shared": 2
-},
-{
-"v": 2,
-"p": "155",
-"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
-"shared": 4
-},
-{
-"v": 2,
-"p": "167",
-"cite": "othing. Prov. Rec., MS., ix. 81.",
-"shared": 2
 }
 ]
 },
@@ -11698,7 +11258,7 @@
 {
 "v": 2,
 "p": "166",
-"cite": "., 36. \u2122Prov. St. Pap., MS., xviii. 48, 165; I",
+"cite": "., 36. ™Prov. St. Pap., MS., xviii. 48, 165; I",
 "shared": 5
 }
 ]
@@ -11714,7 +11274,7 @@
 {
 "v": 2,
 "p": "166",
-"cite": "., 36. \u2122Prov. St. Pap., MS., xviii. 48, 165; I",
+"cite": "., 36. ™Prov. St. Pap., MS., xviii. 48, 165; I",
 "shared": 5
 }
 ]
@@ -11730,7 +11290,7 @@
 {
 "v": 2,
 "p": "166",
-"cite": "., 36. \u2122Prov. St. Pap., MS., xviii. 48, 165; I",
+"cite": "., 36. ™Prov. St. Pap., MS., xviii. 48, 165; I",
 "shared": 5
 }
 ]
@@ -11799,7 +11359,7 @@
 {
 "v": 2,
 "p": "166",
-"cite": "., 36. \u2122Prov. St. Pap., MS., xviii. 48, 165; I",
+"cite": "., 36. ™Prov. St. Pap., MS., xviii. 48, 165; I",
 "shared": 5
 }
 ]
@@ -12035,16 +11595,6 @@
 }
 ]
 },
-"ca25-d5-n285": {
-"cited": [
-{
-"v": 2,
-"p": "159",
-"cite": "ctober. Prov. Rec., MS., ix. 115, 117. I",
-"shared": 2
-}
-]
-},
 "ca11-d100-n162": {
 "cited": [
 {
@@ -12105,7 +11655,7 @@
 {
 "v": 2,
 "p": "166",
-"cite": "., 36. \u2122Prov. St. Pap., MS., xviii. 48, 165; I",
+"cite": "., 36. ™Prov. St. Pap., MS., xviii. 48, 165; I",
 "shared": 5
 }
 ]
@@ -12554,16 +12104,6 @@
 }
 ]
 },
-"ca25-d1-n251": {
-"cited": [
-{
-"v": 2,
-"p": "180",
-"cite": "ension. Id., ix. 1G1-",
-"shared": 2
-}
-]
-},
 "ca12-d111-n122": {
 "cited": [
 {
@@ -12948,70 +12488,6 @@
 }
 ]
 },
-"ca25-d11-n303": {
-"cited": [
-{
-"v": 2,
-"p": "205",
-"cite": "salary. Prov. Rec., MS., ix. 140; S"
-},
-{
-"v": 2,
-"p": "211",
-"cite": "milies. Prov. Rec., MS., ix. 138. A",
-"shared": 2
-},
-{
-"v": 2,
-"p": "273",
-"cite": "398-9; Prov. Rec., MS., ix. 135, 137-9; O",
-"shared": 2
-},
-{
-"v": 2,
-"p": "277",
-"cite": "ptured. Prov. Rec., ix. 150.",
-"shared": 2
-},
-{
-"v": 2,
-"p": "281",
-"cite": "tay. 49 Prov. Rec., MS., ix. 141; P"
-},
-{
-"v": 2,
-"p": "309",
-"cite": "visit. Prov. Rec., MS., ix. 151-3. C"
-},
-{
-"v": 2,
-"p": "309",
-"cite": "ncisco. Prov. Rec., MS., ix. 143. 8"
-},
-{
-"v": 2,
-"p": "371",
-"cite": ". 33-5; Prov. Rec. MS., ix. 137, 155; V",
-"shared": 2
-},
-{
-"v": 2,
-"p": "388",
-"cite": "6, MS.; Prov. Rec., MS., ix. 138-9. 4",
-"shared": 2
-},
-{
-"v": 2,
-"p": "417",
-"cite": "g ears. Prov. Rec., MS., ix. 143; P"
-},
-{
-"v": 2,
-"p": "422",
-"cite": "dition. Prov. Rec., MS., ix. 143. M"
-}
-]
-},
 "ca12-d142-n145": {
 "cited": [
 {
@@ -13070,54 +12546,6 @@
 "v": 2,
 "p": "269",
 "cite": "Sefian. Prov. Rec., MS., xii. 105-6. S"
-}
-]
-},
-"ca25-d9-n293": {
-"cited": [
-{
-"v": 2,
-"p": "211",
-"cite": "milies. Prov. Rec., MS., ix. 138. A",
-"shared": 2
-},
-{
-"v": 2,
-"p": "273",
-"cite": "398-9; Prov. Rec., MS., ix. 135, 137-9; O",
-"shared": 2
-},
-{
-"v": 2,
-"p": "273",
-"cite": "autumn. Prov. Rec., MS., ix. 136. I"
-},
-{
-"v": 2,
-"p": "304",
-"cite": "x. 383; Prov. Rec., MS., ix. 136. T"
-},
-{
-"v": 2,
-"p": "307",
-"cite": "Ilmen'; Prov. Rec., MS., ix. 135-6; x"
-},
-{
-"v": 2,
-"p": "371",
-"cite": ". 33-5; Prov. Rec. MS., ix. 137, 155; V",
-"shared": 2
-},
-{
-"v": 2,
-"p": "388",
-"cite": "6, MS.; Prov. Rec., MS., ix. 138-9. 4",
-"shared": 2
-},
-{
-"v": 2,
-"p": "422",
-"cite": "f 1SOS. Prov. Rec., MS., ix. 135."
 }
 ]
 },
@@ -13398,16 +12826,6 @@
 "v": 2,
 "p": "274",
 "cite": "apture. Prov. St. Pap., Ben. Mil., ii. 11."
-}
-]
-},
-"ca25-d10-n298": {
-"cited": [
-{
-"v": 2,
-"p": "277",
-"cite": "ptured. Prov. Rec., ix. 150.",
-"shared": 2
 }
 ]
 },
@@ -15195,7 +14613,7 @@
 {
 "v": 2,
 "p": "584",
-"cite": "i. f\u00bbG; Prov. Rec., MS., v. 113-14; S",
+"cite": "i. f»G; Prov. Rec., MS., v. 113-14; S",
 "shared": 2
 }
 ]
@@ -16093,7 +15511,7 @@
 {
 "v": 3,
 "p": "175",
-"cite": "v. 12. \u2122St. Pap., Sac., MS., xvi. 1-3; D"
+"cite": "v. 12. ™St. Pap., Sac., MS., xvi. 1-3; D"
 }
 ]
 },
@@ -16140,7 +15558,7 @@
 {
 "v": 3,
 "p": "195",
-"cite": "54-5. \u2122Leg. Rec., MS., i. 307-8, 349-50; D",
+"cite": "54-5. ™Leg. Rec., MS., i. 307-8, 349-50; D",
 "shared": 3
 },
 {
@@ -16186,7 +15604,7 @@
 {
 "v": 3,
 "p": "195",
-"cite": "54-5. \u2122Leg. Rec., MS., i. 307-8, 349-50; D",
+"cite": "54-5. ™Leg. Rec., MS., i. 307-8, 349-50; D",
 "shared": 3
 },
 {
@@ -16206,7 +15624,7 @@
 {
 "v": 3,
 "p": "195",
-"cite": "54-5. \u2122Leg. Rec., MS., i. 307-8, 349-50; D",
+"cite": "54-5. ™Leg. Rec., MS., i. 307-8, 349-50; D",
 "shared": 3
 }
 ]
@@ -16430,7 +15848,7 @@
 {
 "v": 3,
 "p": "255",
-"cite": "ement. \u2122Dept. St. Pap., Ben. Mil, MS., Ixxviii. 23. \u2122"
+"cite": "ement. ™Dept. St. Pap., Ben. Mil, MS., Ixxviii. 23. ™"
 },
 {
 "v": 3,
@@ -16791,7 +16209,7 @@
 {
 "v": 3,
 "p": "589",
-"cite": ", 245. \u2122Leg. Rec., MS., iii. 43-4. M"
+"cite": ", 245. ™Leg. Rec., MS., iii. 43-4. M"
 },
 {
 "v": 3,
@@ -17076,6 +16494,15 @@
 "cite": "paign. Id., 372. 1"
 }
 ]
+},
+"ca25-d37-n374": {
+"cited": [
+{
+"v": 2,
+"p": "90",
+"cite": "June 28, 1810, Arrillaga's report to viceroy. Prov. Rec., MS., ix. 122-3. [leaf-verified 2026-07-12: tomo leaves 122-123 = scans n374-375]"
+}
+]
 }
 },
 "_corrections": [
@@ -17089,7 +16516,595 @@
 "cite": "792, in St. Pap., Sac., MS., i. 115- 17; I"
 }
 },
-"reason": "Leaf-checked (scan n1): the record is the 31 Dec 1794 Arg\u00fcello Monterey cuenta at codex pp.1-2; Bancroft's footnote (HoC i.367, context 1792) cites St. Pap., Sac. i.115-17 \u2014 wrong attachment in the census run. Suspects pending HoC-context check: ca6-d150 ('xi.160,195-6'), ca12-d9 ('xix.113-16')."
+"reason": "Leaf-checked (scan n1): the record is the 31 Dec 1794 Argüello Monterey cuenta at codex pp.1-2; Bancroft's footnote (HoC i.367, context 1792) cites St. Pap., Sac. i.115-17 — wrong attachment in the census run. Suspects pending HoC-context check: ca6-d150 ('xi.160,195-6'), ca12-d9 ('xix.113-16')."
+},
+{
+"key": "ca25-suspension-2026-07-12",
+"reason": "Leaf verification 2026-07-12 (scans n250/n284/n372/n374/n375/n452): C-A 25's leaves carry TWO page systems — original tomo pages (what the gap-read recorded as orig_page) and handwritten per-tomo leaf numbers (what Bancroft's footnotes cite). All 21 census attachments for this volume were page-joins across mismatched systems and are suspended until the volume's re-verification (queued). Case study: 'Prov. Rec., MS., ix. 122-3' (HoC II:90 n.21) had attached to the 1804 otter/presidio docs (d4/d6/d7/d8); the true document is Arrillaga's 28 Jun 1810 Suisun-campaign report at tomo leaves 122-123 = scans n374-375, now ca25-d37. Also: 24 records were mislabeled Tomo IX (fixed to X); scan links run ~2 behind BookReader positions; Tomo VIII (scans n0-n249) is uncataloged.",
+"suspended": {
+"ca25-d15-n455": {
+"cited": [
+{
+"v": 1,
+"p": "545",
+"cite": "48, 54; Prov. Rec., MS., ix. 12; x"
+},
+{
+"v": 1,
+"p": "548",
+"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
+"shared": 2
+},
+{
+"v": 1,
+"p": "606",
+"cite": "ii. 22; Prov. Rec., MS., ix. 11, 12; A"
+}
+]
+},
+"ca25-d13-n453": {
+"cited": [
+{
+"v": 1,
+"p": "545",
+"cite": "bidden. Id., ix. 2, O"
+},
+{
+"v": 2,
+"p": "180",
+"cite": "ension. Id., ix. 1G1-",
+"shared": 2
+}
+]
+},
+"ca25-d14-n454": {
+"cited": [
+{
+"v": 1,
+"p": "548",
+"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
+"shared": 2
+},
+{
+"v": 1,
+"p": "622",
+"cite": "Nueva. Prov. Rec., MS., ix. 6, i"
+}
+]
+},
+"ca25-d16-n456": {
+"cited": [
+{
+"v": 1,
+"p": "620",
+"cite": "t good. Id., ix. 15; ."
+}
+]
+},
+"ca25-d17-n457": {
+"cited": [
+{
+"v": 2,
+"p": "18",
+"cite": "milies. Prov. Rec., MS., ix. 32. V"
+},
+{
+"v": 2,
+"p": "184",
+"cite": "erence. Prov. Rec., MS., ix. 45-6. J"
+},
+{
+"v": 2,
+"p": "184",
+"cite": "r- nia. Id., ix. 44. S"
+},
+{
+"v": 2,
+"p": "190",
+"cite": "murder. Prov. Rec., MS., ix. 43. 1"
+},
+{
+"v": 2,
+"p": "25",
+"cite": "2-5. 17 Prov. Rec., MS., ix. 35; P"
+},
+{
+"v": 2,
+"p": "25",
+"cite": "are of. Prov. Rec., MS., ix. 38-40."
+},
+{
+"v": 2,
+"p": "67",
+"cite": "coast. Prov. Rec., MS., ix. 34. *"
+}
+]
+},
+"ca25-d18-n458": {
+"cited": [
+{
+"v": 2,
+"p": "167",
+"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
+"shared": 2
+},
+{
+"v": 2,
+"p": "182",
+"cite": "ix. 60; Prov. Rec., MS., ix. 68. A"
+},
+{
+"v": 2,
+"p": "187",
+"cite": "years. Prov. Rec., MS., ix. 72. R"
+},
+{
+"v": 2,
+"p": "190",
+"cite": "amoras. Id., ix. 60-1. S"
+},
+{
+"v": 2,
+"p": "20",
+"cite": "vernor. Prov. Rec., MS., ix. 58-60. M"
+},
+{
+"v": 2,
+"p": "20",
+"cite": "vii. 2; Prov. Rec., MS., ix. 73; G"
+},
+{
+"v": 2,
+"p": "29",
+"cite": "o V. R, Prov. Rec., MS., ix. 56. 2"
+},
+{
+"v": 2,
+"p": "31",
+"cite": "reply. Prov. Rec., MS., ix. 70-1."
+},
+{
+"v": 2,
+"p": "33",
+"cite": "istant. Prov. Rec., MS., ix. 63-4. T"
+},
+{
+"v": 2,
+"p": "73",
+"cite": "ements. Prov. Rec., MS., ix. 75-6. A",
+"shared": 2
+}
+]
+},
+"ca25-d21-n461": {
+"cited": [
+{
+"v": 2,
+"p": "140",
+"cite": "ii. 78; Prov. Rec., MS., ix. 96. 4"
+},
+{
+"v": 2,
+"p": "155",
+"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
+"shared": 4
+},
+{
+"v": 2,
+"p": "167",
+"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
+"shared": 2
+},
+{
+"v": 2,
+"p": "187",
+"cite": "arture. Id., ix. 94; P"
+},
+{
+"v": 2,
+"p": "191",
+"cite": "Prado. Prov. Rec., MS., ix. 103, 108. T",
+"shared": 2
+},
+{
+"v": 2,
+"p": "20",
+"cite": "4, 208; Prov. Rec., MS., ix. 95; x"
+},
+{
+"v": 2,
+"p": "83",
+"cite": ". 71-2; Prov. Rec., ix. 97: P"
+},
+{
+"v": 2,
+"p": "83",
+"cite": "nglish. Prov. Rec., ix. 100. 4",
+"shared": 2
+},
+{
+"v": 3,
+"p": "10",
+"cite": "196-7; Prov. Rec., MS., ix. 101. S",
+"shared": 2
+}
+]
+},
+"ca25-d20-n460": {
+"cited": [
+{
+"v": 2,
+"p": "127",
+"cite": "iceroy. Prov. Rec., MS., ix. 90-1. S"
+},
+{
+"v": 2,
+"p": "155",
+"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
+"shared": 4
+},
+{
+"v": 2,
+"p": "168",
+"cite": "iceroy. Prov. Rec., MS., ix. 86-7. S"
+},
+{
+"v": 2,
+"p": "175",
+"cite": "1806 in Prov. Rec., MS., ix. 90; R"
+},
+{
+"v": 2,
+"p": "192",
+"cite": "needed. Prov. Rec., MS., ix. 86-9. V"
+},
+{
+"v": 2,
+"p": "36",
+"cite": "iceroy. Prov. Rec., MS., ix. 90-1. D"
+}
+]
+},
+"ca25-d2-n280": {
+"cited": [
+{
+"v": 2,
+"p": "110",
+"cite": "-20. 36 Prov. Rec., MS., ix. 81-2, 1805. A",
+"shared": 2
+},
+{
+"v": 2,
+"p": "132",
+"cite": "verted. Prov. Rec., MS., ix. 81-2. L",
+"shared": 2
+},
+{
+"v": 2,
+"p": "155",
+"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
+"shared": 4
+},
+{
+"v": 2,
+"p": "167",
+"cite": "othing. Prov. Rec., MS., ix. 81.",
+"shared": 2
+},
+{
+"v": 2,
+"p": "73",
+"cite": "ements. Prov. Rec., MS., ix. 75-6. A",
+"shared": 2
+}
+]
+},
+"ca25-d22-n462": {
+"cited": [
+{
+"v": 2,
+"p": "128",
+"cite": "e- roy. Prov. Rec., MS., ix. 108; a"
+},
+{
+"v": 2,
+"p": "186",
+"cite": "ration. Prov. Rec., MS., ix. 108. 1"
+},
+{
+"v": 2,
+"p": "191",
+"cite": "Prado. Prov. Rec., MS., ix. 103, 108. T",
+"shared": 2
+},
+{
+"v": 2,
+"p": "83",
+"cite": "nglish. Prov. Rec., ix. 100. 4",
+"shared": 2
+},
+{
+"v": 2,
+"p": "85",
+"cite": "134-6; Prov. Rec., MS., ix. 111. 1"
+},
+{
+"v": 2,
+"p": "85",
+"cite": "111. 11 Prov. Rec., MS., ix. 110; x"
+},
+{
+"v": 2,
+"p": "85",
+"cite": "73. 11 Prov. Rec., MS., ix. 107; x"
+},
+{
+"v": 2,
+"p": "86",
+"cite": "ctober. Prov. Rec., MS., ix. 109. N"
+},
+{
+"v": 2,
+"p": "99",
+"cite": "place. Prov. Rec., MS., ix. 105-6. J"
+},
+{
+"v": 3,
+"p": "10",
+"cite": "196-7; Prov. Rec., MS., ix. 101. S",
+"shared": 2
+}
+]
+},
+"ca25-d3-n283": {
+"cited": [
+{
+"v": 2,
+"p": "159",
+"cite": "ctober. Prov. Rec., MS., ix. 115, 117. I",
+"shared": 2
+},
+{
+"v": 2,
+"p": "87",
+"cite": "ng war. Prov. Rec., MS., ix. 116. A"
+}
+]
+},
+"ca25-d4-n284": {
+"cited": [
+{
+"v": 2,
+"p": "90",
+"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
+"shared": 4
+},
+{
+"v": 2,
+"p": "95",
+"cite": "te 24. nProv. Rec., MS., ix. 124; x",
+"shared": 3
+}
+]
+},
+"ca25-d6-n286": {
+"cited": [
+{
+"v": 2,
+"p": "90",
+"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
+"shared": 4
+}
+]
+},
+"ca25-d7-n287": {
+"cited": [
+{
+"v": 2,
+"p": "128",
+"cite": "223-5; Prov. Rec., MS., ix. 114, 125; P"
+},
+{
+"v": 2,
+"p": "90",
+"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
+"shared": 4
+},
+{
+"v": 2,
+"p": "95",
+"cite": "te 24. nProv. Rec., MS., ix. 124; x",
+"shared": 3
+}
+]
+},
+"ca25-d8-n292": {
+"cited": [
+{
+"v": 2,
+"p": "90",
+"cite": "iceroy. Prov. Rec., MS., ix. 122-3. N",
+"shared": 4
+},
+{
+"v": 2,
+"p": "95",
+"cite": "te 24. nProv. Rec., MS., ix. 124; x",
+"shared": 3
+}
+]
+},
+"ca25-d19-n459": {
+"cited": [
+{
+"v": 2,
+"p": "110",
+"cite": "-20. 36 Prov. Rec., MS., ix. 81-2, 1805. A",
+"shared": 2
+},
+{
+"v": 2,
+"p": "132",
+"cite": "verted. Prov. Rec., MS., ix. 81-2. L",
+"shared": 2
+},
+{
+"v": 2,
+"p": "155",
+"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
+"shared": 4
+},
+{
+"v": 2,
+"p": "167",
+"cite": "othing. Prov. Rec., MS., ix. 81.",
+"shared": 2
+}
+]
+},
+"ca25-d5-n285": {
+"cited": [
+{
+"v": 2,
+"p": "159",
+"cite": "ctober. Prov. Rec., MS., ix. 115, 117. I",
+"shared": 2
+}
+]
+},
+"ca25-d1-n251": {
+"cited": [
+{
+"v": 2,
+"p": "180",
+"cite": "ension. Id., ix. 1G1-",
+"shared": 2
+}
+]
+},
+"ca25-d11-n303": {
+"cited": [
+{
+"v": 2,
+"p": "205",
+"cite": "salary. Prov. Rec., MS., ix. 140; S"
+},
+{
+"v": 2,
+"p": "211",
+"cite": "milies. Prov. Rec., MS., ix. 138. A",
+"shared": 2
+},
+{
+"v": 2,
+"p": "273",
+"cite": "398-9; Prov. Rec., MS., ix. 135, 137-9; O",
+"shared": 2
+},
+{
+"v": 2,
+"p": "277",
+"cite": "ptured. Prov. Rec., ix. 150.",
+"shared": 2
+},
+{
+"v": 2,
+"p": "281",
+"cite": "tay. 49 Prov. Rec., MS., ix. 141; P"
+},
+{
+"v": 2,
+"p": "309",
+"cite": "visit. Prov. Rec., MS., ix. 151-3. C"
+},
+{
+"v": 2,
+"p": "309",
+"cite": "ncisco. Prov. Rec., MS., ix. 143. 8"
+},
+{
+"v": 2,
+"p": "371",
+"cite": ". 33-5; Prov. Rec. MS., ix. 137, 155; V",
+"shared": 2
+},
+{
+"v": 2,
+"p": "388",
+"cite": "6, MS.; Prov. Rec., MS., ix. 138-9. 4",
+"shared": 2
+},
+{
+"v": 2,
+"p": "417",
+"cite": "g ears. Prov. Rec., MS., ix. 143; P"
+},
+{
+"v": 2,
+"p": "422",
+"cite": "dition. Prov. Rec., MS., ix. 143. M"
+}
+]
+},
+"ca25-d9-n293": {
+"cited": [
+{
+"v": 2,
+"p": "211",
+"cite": "milies. Prov. Rec., MS., ix. 138. A",
+"shared": 2
+},
+{
+"v": 2,
+"p": "273",
+"cite": "398-9; Prov. Rec., MS., ix. 135, 137-9; O",
+"shared": 2
+},
+{
+"v": 2,
+"p": "273",
+"cite": "autumn. Prov. Rec., MS., ix. 136. I"
+},
+{
+"v": 2,
+"p": "304",
+"cite": "x. 383; Prov. Rec., MS., ix. 136. T"
+},
+{
+"v": 2,
+"p": "307",
+"cite": "Ilmen'; Prov. Rec., MS., ix. 135-6; x"
+},
+{
+"v": 2,
+"p": "371",
+"cite": ". 33-5; Prov. Rec. MS., ix. 137, 155; V",
+"shared": 2
+},
+{
+"v": 2,
+"p": "388",
+"cite": "6, MS.; Prov. Rec., MS., ix. 138-9. 4",
+"shared": 2
+},
+{
+"v": 2,
+"p": "422",
+"cite": "f 1SOS. Prov. Rec., MS., ix. 135."
+}
+]
+},
+"ca25-d10-n298": {
+"cited": [
+{
+"v": 2,
+"p": "277",
+"cite": "ptured. Prov. Rec., ix. 150.",
+"shared": 2
+}
+]
+}
+}
 }
 ]
 }
