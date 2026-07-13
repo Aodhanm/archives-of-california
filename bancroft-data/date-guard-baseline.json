@@ -1,7 +1,7 @@
 {
- "ok": 146,
- "mismatch": 64,
- "nohit": 217,
+ "ok": 154,
+ "mismatch": 57,
+ "nohit": 216,
  "null_only": 2,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
  "_worst": [
@@ -60,13 +60,6 @@
   "SP_SAC 1.117 fn~1792 vs [1795]",
   "SP_SAC 2.89 fn~1818 vs [1792]",
   "SP_SAC 6.7 fn~1792 vs [1796]",
-  "SP_SAC 6.35 fn~1821 vs [1796]",
-  "SP_SAC 6.44 fn~1822 vs [1784]",
-  "SP_SAC 6.74 fn~1792 vs [1800]",
-  "SP_SAC 6.120 fn~1781 vs [1821]",
-  "SP_SAC 8.23 fn~1807 vs [1797]",
-  "SP_SAC 8.53 fn~1780 vs [1775]",
-  "SP_SAC 8.56 fn~1816 vs [1775]",
   "SP_SAC 15.94 fn~1800 vs [1792]",
   "SP_SAC 19.15 fn~1833 vs [1826]"
  ]
