@@ -1,8 +1,8 @@
 {
  "ok": 212,
  "mismatch": 36,
- "nohit": 167,
- "null_only": 2,
+ "nohit": 166,
+ "null_only": 3,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
  "_worst": [
   "DEPT_REC 12.16 fn~1828 vs [1841]",
