@@ -1,5 +1,5 @@
 {
-"_purpose": "Ground truth for the resolver date-guard: (series,tomo,pages)->document year, extracted from the HoC I-VII djvu texts' footnotes (full 'Month Day, Year' dates within 90 chars before the citation, years restricted to 1760-1850). Built by audit_resolver_dates.py; regenerated 2026-07-12 after the year-window fix. NOT derived from bancroft.json (de-circularized).",
+"_purpose": "Ground truth for the resolver date-guard: (series,tomo,pages)->document year from the HoC I-VII djvu footnotes (full dates within 90 chars, years 1760-1850). Regenerated 2026-07-13 (clean full run). De-circularized from bancroft.json.",
 "tuples": [
 {
 "sk": "DEPT_REC",
@@ -455,22 +455,6 @@
 "p1": 133,
 "p2": 133,
 "year": 1844,
-"hv": 4
-},
-{
-"sk": "DSP",
-"tomo": 8,
-"p1": 37,
-"p2": 38,
-"year": 1875,
-"hv": 4
-},
-{
-"sk": "DSP",
-"tomo": 8,
-"p1": 125,
-"p2": 126,
-"year": 1875,
 "hv": 4
 },
 {
@@ -988,22 +972,6 @@
 {
 "sk": "PSP",
 "tomo": 1,
-"p1": 10,
-"p2": 10,
-"year": 1701,
-"hv": 1
-},
-{
-"sk": "PSP",
-"tomo": 1,
-"p1": 13,
-"p2": 13,
-"year": 1701,
-"hv": 1
-},
-{
-"sk": "PSP",
-"tomo": 1,
 "p1": 13,
 "p2": 13,
 "year": 1820,
@@ -1079,14 +1047,6 @@
 "p1": 787,
 "p2": 787,
 "year": 1791,
-"hv": 1
-},
-{
-"sk": "PSP",
-"tomo": 1,
-"p1": 1790,
-"p2": 1790,
-"year": 1701,
 "hv": 1
 },
 {
@@ -1447,14 +1407,6 @@
 "p1": 38,
 "p2": 38,
 "year": 1791,
-"hv": 1
-},
-{
-"sk": "PSP",
-"tomo": 10,
-"p1": 139,
-"p2": 139,
-"year": 1701,
 "hv": 1
 },
 {
@@ -2212,14 +2164,6 @@
 {
 "sk": "PSP",
 "tomo": 20,
-"p1": 2,
-"p2": 2,
-"year": 1875,
-"hv": 2
-},
-{
-"sk": "PSP",
-"tomo": 20,
 "p1": 5,
 "p2": 5,
 "year": 1816,
@@ -2287,30 +2231,6 @@
 "p1": 145,
 "p2": 145,
 "year": 1817,
-"hv": 2
-},
-{
-"sk": "PSP",
-"tomo": 20,
-"p1": 154,
-"p2": 155,
-"year": 1875,
-"hv": 2
-},
-{
-"sk": "PSP",
-"tomo": 20,
-"p1": 172,
-"p2": 172,
-"year": 1875,
-"hv": 2
-},
-{
-"sk": "PSP",
-"tomo": 20,
-"p1": 186,
-"p2": 186,
-"year": 1875,
 "hv": 2
 },
 {
@@ -2616,14 +2536,6 @@
 "p2": 15,
 "year": 1780,
 "hv": 1
-},
-{
-"sk": "PSP_BM",
-"tomo": 4,
-"p1": 20,
-"p2": 21,
-"year": 1862,
-"hv": 2
 },
 {
 "sk": "PSP_BM",
@@ -2967,14 +2879,6 @@
 "p1": 11,
 "p2": 13,
 "year": 1816,
-"hv": 2
-},
-{
-"sk": "PSP_BM",
-"tomo": 49,
-"p1": 28,
-"p2": 28,
-"year": 1862,
 "hv": 2
 },
 {
