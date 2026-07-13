@@ -1,7 +1,7 @@
 {
- "ok": 209,
- "mismatch": 38,
- "nohit": 168,
+ "ok": 212,
+ "mismatch": 36,
+ "nohit": 167,
  "null_only": 2,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
  "_worst": [
@@ -11,8 +11,6 @@
   "PROV_REC 1.118 fn~1781 vs [1777]",
   "PROV_REC 1.159 fn~1787 vs [1778]",
   "PROV_REC 2.1 fn~1781 vs [1784]",
-  "PROV_REC 11.11 fn~1811 vs [1800]",
-  "PROV_REC 11.37 fn~1816 vs [1810]",
   "PSP 1.418 fn~1790 vs [1773]",
   "PSP 5.11 fn~1795 vs [1787]",
   "PSP 5.11 fn~1800 vs [1787]",
