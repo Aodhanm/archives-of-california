@@ -222,8 +222,9 @@
    "tomo": 12,
    "p1": 16,
    "p2": 16,
-   "year": 1828,
-   "hv": 4
+   "year": 1841,
+   "hv": 4,
+   "_note": "fn cites the 1828 passport LAW; the doc = Dec 1840-Dec 1841 orders"
   },
   {
    "sk": "DEPT_REC",
@@ -692,25 +693,9 @@
   {
    "sk": "PROV_REC",
    "tomo": 1,
-   "p1": 28,
-   "p2": 28,
-   "year": 1818,
-   "hv": 2
-  },
-  {
-   "sk": "PROV_REC",
-   "tomo": 1,
    "p1": 118,
    "p2": 118,
    "year": 1781,
-   "hv": 1
-  },
-  {
-   "sk": "PROV_REC",
-   "tomo": 1,
-   "p1": 159,
-   "p2": 159,
-   "year": 1787,
    "hv": 1
   },
   {
@@ -1360,14 +1345,6 @@
    "p2": 6,
    "year": 1788,
    "hv": 1
-  },
-  {
-   "sk": "PSP",
-   "tomo": 9,
-   "p1": 101,
-   "p2": 101,
-   "year": 1814,
-   "hv": 3
   },
   {
    "sk": "PSP",
@@ -2503,11 +2480,12 @@
   },
   {
    "sk": "PSP_BM",
-   "tomo": 6,
+   "tomo": 57,
    "p1": 11,
    "p2": 11,
    "year": 1826,
-   "hv": 2
+   "hv": 2,
+   "_note": "OCR 'Ivii.11'=lvii; C-A 18 era fits 1826"
   },
   {
    "sk": "PSP_BM",
@@ -2615,11 +2593,12 @@
   },
   {
    "sk": "PSP_BM",
-   "tomo": 19,
+   "tomo": 70,
    "p1": 13,
    "p2": 13,
    "year": 1829,
-   "hv": 3
+   "hv": 3,
+   "_note": "OCR 'Ixx.13'=lxx; C-A 19 era fits 1829"
   },
   {
    "sk": "PSP_BM",
@@ -2631,11 +2610,12 @@
   },
   {
    "sk": "PSP_BM",
-   "tomo": 20,
-   "p1": 6,
-   "p2": 7,
+   "tomo": 73,
+   "p1": 52,
+   "p2": 52,
    "year": 1831,
-   "hv": 3
+   "hv": 3,
+   "_note": "OCR 'Ixxiii.52'=lxxiii; page 6 was a date fragment"
   },
   {
    "sk": "PSP_BM",
@@ -2719,11 +2699,12 @@
   },
   {
    "sk": "PSP_BM",
-   "tomo": 28,
+   "tomo": 79,
    "p1": 79,
    "p2": 79,
    "year": 1833,
-   "hv": 3
+   "hv": 3,
+   "_note": "OCR 'Ixxix.79'=lxxix; C-A 20"
   },
   {
    "sk": "PSP_BM",
@@ -2783,11 +2764,12 @@
   },
   {
    "sk": "PSP_BM",
-   "tomo": 37,
+   "tomo": 88,
    "p1": 11,
    "p2": 12,
    "year": 1833,
-   "hv": 3
+   "hv": 3,
+   "_note": "OCR 'Ixxxviii.11-12'=lxxxviii; C-A 20's retrospective tomo 88"
   },
   {
    "sk": "PSP_BM",
@@ -3080,10 +3062,11 @@
   {
    "sk": "SP_SAC",
    "tomo": 6,
-   "p1": 7,
-   "p2": 7,
+   "p1": 76,
+   "p2": 78,
    "year": 1792,
-   "hv": 1
+   "hv": 1,
+   "_note": "OCR 'vi.7C-8'=76-8 (the known Q1 artifact, now fixed)"
   },
   {
    "sk": "SP_SAC",

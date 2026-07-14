@@ -1,15 +1,12 @@
 {
- "ok": 237,
- "mismatch": 24,
+ "ok": 243,
+ "mismatch": 14,
  "nohit": 144,
- "null_only": 5,
+ "null_only": 6,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
  "_worst": [
-  "DEPT_REC 12.16 fn~1828 vs [1841]",
   "LEG_REC 3.33 fn~1839 vs [1835]",
-  "PROV_REC 1.28 fn~1818 vs [1779]",
   "PROV_REC 1.118 fn~1781 vs [1777]",
-  "PROV_REC 1.159 fn~1787 vs [1778]",
   "PROV_REC 2.1 fn~1781 vs [1784]",
   "PSP 1.13 fn~1820 vs [1767]",
   "PSP 1.27 fn~1790 vs [1769]",
@@ -20,14 +17,7 @@
   "PSP 6.15 fn~1776 vs [1786]",
   "PSP 6.155 fn~1822 vs [1786]",
   "PSP 6.172 fn~1782 vs [1786]",
-  "PSP 9.101 fn~1814 vs [1789]",
   "PSP 10.240 fn~1802 vs [1791]",
-  "PSP 11.169 fn~1794 vs [1791]",
-  "PSP_BM 6.11 fn~1826 vs [1784]",
-  "PSP_BM 19.13 fn~1829 vs [1792, 1793, 1794]",
-  "PSP_BM 20.6 fn~1831 vs [1789, 1790, 1791]",
-  "PSP_BM 28.79 fn~1833 vs [1800]",
-  "PSP_BM 37.11 fn~1833 vs [1806, 1807]",
-  "SP_SAC 6.7 fn~1792 vs [1796]"
+  "PSP 11.169 fn~1794 vs [1791]"
  ]
 }
