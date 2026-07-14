@@ -1,6 +1,6 @@
 {
- "ok": 236,
- "mismatch": 25,
+ "ok": 237,
+ "mismatch": 24,
  "nohit": 144,
  "null_only": 5,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
@@ -28,7 +28,6 @@
   "PSP_BM 20.6 fn~1831 vs [1789, 1790, 1791]",
   "PSP_BM 28.79 fn~1833 vs [1800]",
   "PSP_BM 37.11 fn~1833 vs [1806, 1807]",
-  "SP_SAC 6.7 fn~1792 vs [1796]",
-  "SP_SAC 11.5 fn~1800 vs [1826, 1828, 1829]"
+  "SP_SAC 6.7 fn~1792 vs [1796]"
  ]
 }

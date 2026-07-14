@@ -3201,9 +3201,10 @@
    "sk": "SP_SAC",
    "tomo": 11,
    "p1": 5,
-   "p2": 5,
-   "year": 1800,
-   "hv": 3
+   "p2": 7,
+   "year": 1828,
+   "hv": 3,
+   "_note": "hand-adjudicated 2026-07-14: the PRINTED footnote (HoC III p.12, leaf n29) reads 'military record down to the end of 1828... St. Pap., Sac., MS., xi. 5-7' = Arguello's 1828 hoja de servicio = ca56-d138 (n119, tomo XI savage leaf ~6). The extractor had taken 1800 from the biography's narrative (his alferez date), not the document."
   },
   {
    "sk": "SP_SAC",
@@ -3211,7 +3212,8 @@
    "p1": 5,
    "p2": 7,
    "year": 1828,
-   "hv": 3
+   "hv": 3,
+   "_note": "hand-adjudicated 2026-07-14: the PRINTED footnote (HoC III p.12, leaf n29) reads 'military record down to the end of 1828... St. Pap., Sac., MS., xi. 5-7' = Arguello's 1828 hoja de servicio = ca56-d138 (n119, tomo XI savage leaf ~6). The extractor had taken 1800 from the biography's narrative (his alferez date), not the document."
   },
   {
    "sk": "SP_SAC",
