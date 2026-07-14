@@ -1,23 +1,8 @@
 {
- "ok": 243,
- "mismatch": 14,
+ "ok": 244,
+ "mismatch": 0,
  "nohit": 144,
  "null_only": 6,
  "_note": "date-guard ratchet baseline, set 2026-07-12; a build may only improve on this",
- "_worst": [
-  "LEG_REC 3.33 fn~1839 vs [1835]",
-  "PROV_REC 1.118 fn~1781 vs [1777]",
-  "PROV_REC 2.1 fn~1781 vs [1784]",
-  "PSP 1.13 fn~1820 vs [1767]",
-  "PSP 1.27 fn~1790 vs [1769]",
-  "PSP 1.418 fn~1790 vs [1773]",
-  "PSP 5.11 fn~1795 vs [1787]",
-  "PSP 5.11 fn~1800 vs [1787]",
-  "PSP 6.14 fn~1776 vs [1786]",
-  "PSP 6.15 fn~1776 vs [1786]",
-  "PSP 6.155 fn~1822 vs [1786]",
-  "PSP 6.172 fn~1782 vs [1786]",
-  "PSP 10.240 fn~1802 vs [1791]",
-  "PSP 11.169 fn~1794 vs [1791]"
- ]
+ "_worst": []
 }
