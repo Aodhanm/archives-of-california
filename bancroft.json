@@ -18617,6 +18617,20 @@
      "note": "staged 2026-07-13 from review-unmatched via the v10.4 index; content-plausibility sampled 12/12; evidence-lite — remove on conflict"
     }
    ]
+  },
+  "ca12-d376b-n311": {
+   "cited": [
+    {
+     "cite": "Prov. St. Pap., MS., xix. 307",
+     "tier": "leaf-verified",
+     "note": "Jan-21/marsh + the canoe recon; leaf read 2026-07-14 (Q12/F37)"
+    },
+    {
+     "cite": "Prov. St. Pap., MS., xix. 307-8",
+     "tier": "leaf-verified",
+     "note": "the baidarka-fleet passage; 308 = d377 follow-up"
+    }
+   ]
   }
  },
  "_corrections": [
@@ -19445,6 +19459,11 @@
      "reckey": "ca54-d4043-n408"
     }
    ]
+  },
+  {
+   "key": "ca12-d376b-creation-2026-07-14",
+   "action": "the suspended xix.307 attachment (rejoin-overreach-suspension-2026-07-13) re-adjudicated",
+   "detail": "xix.307 was neither d376 (ends sav 306) nor noise: Savage 306-307 held an UNCATALOGED document - Arguello to Arrillaga, 30 May 1811, 'Sobre pesca de nutrias' (the RAC/Aleut otter-canoe fleet inside SF Bay, 130 baidarkas Punta Boneta-San Antonio; orig pp. 983-6). Created as ca12-d376b, leaf-verified. n312/n313 = duplicate scans of Savage 307."
   }
  ]
 }
