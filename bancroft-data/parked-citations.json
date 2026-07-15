@@ -3,7 +3,7 @@
 "_counts": {
 "BenMil tomo 1-or-L (OCR-ambiguous bare \"1.\")": 10,
 "BenMil tomo 100": 1,
-"DSP tomo 1": 59,
+"DSP tomo 1": 10,
 "DSP tomo 10": 4,
 "DSP tomo 11": 7,
 "DSP tomo 12": 4,
@@ -102,7 +102,7 @@
 "ProvRec tomo 6": 94,
 "ProvRec tomo 7": 1,
 "ProvRec tomo 8": 21,
-"ProvRec tomo 9": 55,
+"ProvRec tomo 9": 35,
 "SP-Miss tomo 1": 20,
 "SP-Miss tomo 10": 21,
 "SP-Miss tomo 11": 31,
@@ -285,126 +285,6 @@
 "DSP tomo 1": [
 {
 "hv": 2,
-"page": "450",
-"tomo": 1,
-"pages": [
-[
-5,
-6
-]
-],
-"raw": "dantes. Dept. St. Pap., MS., i. 5-6. S"
-},
-{
-"hv": 2,
-"page": "451",
-"tomo": 1,
-"pages": [
-[
-7,
-7
-]
-],
-"raw": "iii. 7; Dept. St. Pap., MS., i. 7. 8"
-},
-{
-"hv": 2,
-"page": "475",
-"tomo": 1,
-"pages": [
-[
-7,
-7
-]
-],
-"raw": "prices. Dept. St. Pap., MS., i. 7. S"
-},
-{
-"hv": 2,
-"page": "479",
-"tomo": 1,
-"pages": [
-[
-9,
-9
-]
-],
-"raw": "vernor. Dept. St. Pap., MS., i. 8- 9. T"
-},
-{
-"hv": 2,
-"page": "495",
-"tomo": 1,
-"pages": [
-[
-16,
-16
-]
-],
-"raw": "uridad. Dept. St. Pap., MS., i. 16. O"
-},
-{
-"hv": 2,
-"page": "531",
-"tomo": 1,
-"pages": [
-[
-166,
-169
-]
-],
-"raw": "vernor. Dept. St. Pap., MS.,i. 166-9. H"
-},
-{
-"hv": 2,
-"page": "531",
-"tomo": 1,
-"pages": [
-[
-217,
-217
-]
-],
-"raw": "of war. Id., i. 217. M"
-},
-{
-"hv": 2,
-"page": "536",
-"tomo": 1,
-"pages": [
-[
-180,
-180
-]
-],
-"raw": "0-11. bSDept. St. Pap., MS., i. 180; I"
-},
-{
-"hv": 2,
-"page": "546",
-"tomo": 1,
-"pages": [
-[
-188,
-189
-]
-],
-"raw": "a, etc. Dept. St. Pap., MS., i. 188-9. D"
-},
-{
-"hv": 2,
-"page": "549",
-"tomo": 1,
-"pages": [
-[
-136,
-137
-]
-],
-"raw": "ians in Dept. St. Pap., i. 136-7. 1"
-},
-{
-"hv": 2,
 "page": "555",
 "tomo": 1,
 "pages": [
@@ -417,42 +297,6 @@
 },
 {
 "hv": 2,
-"page": "571",
-"tomo": 1,
-"pages": [
-[
-189,
-190
-]
-],
-"raw": "ection. Dept. St. Pap., MS., i. 189-90. V"
-},
-{
-"hv": 2,
-"page": "594",
-"tomo": 1,
-"pages": [
-[
-19,
-21
-]
-],
-"raw": "vi. 19; Dept. St. Pap., MS., i. 19-21. T"
-},
-{
-"hv": 2,
-"page": "601",
-"tomo": 1,
-"pages": [
-[
-19,
-20
-]
-],
-"raw": "ndians. Dept. St. Pap., MS., i. 19-20. I"
-},
-{
-"hv": 2,
 "page": "603",
 "tomo": 1,
 "pages": [
@@ -462,42 +306,6 @@
 ]
 ],
 "raw": "icials \"Dept. St. Pap., MS., i. 116-17; S"
-},
-{
-"hv": 2,
-"page": "611",
-"tomo": 1,
-"pages": [
-[
-131,
-132
-]
-],
-"raw": "lde, in Dept. St. Pap., MS., i. 131-2. 1"
-},
-{
-"hv": 2,
-"page": "626",
-"tomo": 1,
-"pages": [
-[
-19,
-20
-]
-],
-"raw": ", 57-8; Dept. St. Pap., MS., i. 19-20; a"
-},
-{
-"hv": 2,
-"page": "665",
-"tomo": 1,
-"pages": [
-[
-146,
-146
-]
-],
-"raw": "after. Dept. St. Pap., MS., i. 146. M"
 },
 {
 "hv": 3,
@@ -525,102 +333,6 @@
 },
 {
 "hv": 3,
-"page": "8",
-"tomo": 1,
-"pages": [
-[
-74,
-74
-]
-],
-"raw": "Diego. Dept St. Pap., MS., i. 74; D"
-},
-{
-"hv": 3,
-"page": "8",
-"tomo": 1,
-"pages": [
-[
-80,
-80
-]
-],
-"raw": "1-2. l* Dept St. Pap., MS., i. 80."
-},
-{
-"hv": 3,
-"page": "14",
-"tomo": 1,
-"pages": [
-[
-105,
-105
-]
-],
-"raw": "ations. Dept St. Pap., MS., i. 105. I"
-},
-{
-"hv": 3,
-"page": "20",
-"tomo": 1,
-"pages": [
-[
-110,
-110
-]
-],
-"raw": "Diego. Dept St. Pap., MS., i. 110; •"
-},
-{
-"hv": 3,
-"page": "26",
-"tomo": 1,
-"pages": [
-[
-68,
-68
-]
-],
-"raw": ". 32-3; Dept St. Pap., MS., i. 68. O"
-},
-{
-"hv": 3,
-"page": "26",
-"tomo": 1,
-"pages": [
-[
-113,
-113
-]
-],
-"raw": "llo, in Dept St. Pap., MS., i. 113; I"
-},
-{
-"hv": 3,
-"page": "28",
-"tomo": 1,
-"pages": [
-[
-64,
-65
-]
-],
-"raw": "iv. 37; Dept St. Pap., MS., i. 64-5. B"
-},
-{
-"hv": 3,
-"page": "80",
-"tomo": 1,
-"pages": [
-[
-3,
-3
-]
-],
-"raw": "oledad. Id., 13m."
-},
-{
-"hv": 3,
 "page": "87",
 "tomo": 1,
 "pages": [
@@ -637,35 +349,11 @@
 "tomo": 1,
 "pages": [
 [
-128,
-129
-]
-],
-"raw": "i. 30. 1Dept. St. Pap., MS., i. 128-9. T"
-},
-{
-"hv": 3,
-"page": "90",
-"tomo": 1,
-"pages": [
-[
 134,
 134
 ]
 ],
 "raw": "nterey. Dept. St. Pap., MS., i. 134."
-},
-{
-"hv": 3,
-"page": "108",
-"tomo": 1,
-"pages": [
-[
-136,
-137
-]
-],
-"raw": "i. 1. *>Dept. St. Pap. MS., i. 136-7; I"
 },
 {
 "hv": 3,
@@ -692,174 +380,6 @@
 "raw": "stocks. Dept. St. Pap., MS., i. 134-5. A"
 },
 {
-"hv": 3,
-"page": "125",
-"tomo": 1,
-"pages": [
-[
-144,
-144
-]
-],
-"raw": "v. 68; Dept. St. Pap., MS., i. 144. A"
-},
-{
-"hv": 3,
-"page": "196",
-"tomo": 1,
-"pages": [
-[
-242,
-242
-]
-],
-"raw": "garita. Id. , i. 242; D"
-},
-{
-"hv": 3,
-"page": "295",
-"tomo": 1,
-"pages": [
-[
-9,
-20
-]
-],
-"raw": ". 16th. Id., 19-20. T"
-},
-{
-"hv": 3,
-"page": "596",
-"tomo": 1,
-"pages": [
-[
-77,
-77
-]
-],
-"raw": "us air. Id., i. 77. S"
-},
-{
-"hv": 3,
-"page": "629",
-"tomo": 1,
-"pages": [
-[
-77,
-78
-]
-],
-"raw": "etreat. Id., 177-8. F"
-},
-{
-"hv": 3,
-"page": "629",
-"tomo": 1,
-"pages": [
-[
-90,
-91
-]
-],
-"raw": "ardino. Id., 190-1. D"
-},
-{
-"hv": 3,
-"page": "629",
-"tomo": 1,
-"pages": [
-[
-205,
-205
-]
-],
-"raw": "bands. Id., 205. F"
-},
-{
-"hv": 3,
-"page": "695",
-"tomo": 1,
-"pages": [
-[
-27,
-31
-]
-],
-"raw": "t year. Id., 127-31. 1"
-},
-{
-"hv": 3,
-"page": "695",
-"tomo": 1,
-"pages": [
-[
-83,
-83
-]
-],
-"raw": "riales. Id., 83. E"
-},
-{
-"hv": 3,
-"page": "695",
-"tomo": 1,
-"pages": [
-[
-218,
-218
-]
-],
-"raw": "shore. Id. , 218. J"
-},
-{
-"hv": 3,
-"page": "695",
-"tomo": 1,
-"pages": [
-[
-220,
-220
-]
-],
-"raw": "summit. Id., 220. 1"
-},
-{
-"hv": 3,
-"page": "704",
-"tomo": 1,
-"pages": [
-[
-3,
-4
-]
-],
-"raw": "m July. Id., 103-4; J"
-},
-{
-"hv": 3,
-"page": "730",
-"tomo": 1,
-"pages": [
-[
-7,
-7
-]
-],
-"raw": "uarrel. Id., 17. J"
-},
-{
-"hv": 3,
-"page": "731",
-"tomo": 1,
-"pages": [
-[
-38,
-38
-]
-],
-"raw": "tter's. Id., 138. D"
-},
-{
 "hv": 4,
 "page": "227",
 "tomo": 1,
@@ -870,114 +390,6 @@
 ]
 ],
 "raw": "d soon. Id., 11. M"
-},
-{
-"hv": 4,
-"page": "227",
-"tomo": 1,
-"pages": [
-[
-2,
-13
-]
-],
-"raw": "s furs. Id., 12-13. D"
-},
-{
-"hv": 4,
-"page": "375",
-"tomo": 1,
-"pages": [
-[
-396,
-397
-]
-],
-"raw": "ports. Id., i. 396-7; i"
-},
-{
-"hv": 4,
-"page": "617",
-"tomo": 1,
-"pages": [
-[
-159,
-159
-]
-],
-"raw": "years. Id., i. 159."
-},
-{
-"hv": 4,
-"page": "663",
-"tomo": 1,
-"pages": [
-[
-4,
-4
-]
-],
-"raw": "lumber. Id., 104. S"
-},
-{
-"hv": 4,
-"page": "663",
-"tomo": 1,
-"pages": [
-[
-252,
-252
-]
-],
-"raw": "he Ind. Id., 252. S"
-},
-{
-"hv": 4,
-"page": "669",
-"tomo": 1,
-"pages": [
-[
-280,
-291
-]
-],
-"raw": "ration. Id., i. 280-91. B"
-},
-{
-"hv": 4,
-"page": "669",
-"tomo": 1,
-"pages": [
-[
-288,
-288
-]
-],
-"raw": "oatmen. Id. i. 288. D"
-},
-{
-"hv": 4,
-"page": "669",
-"tomo": 1,
-"pages": [
-[
-289,
-289
-]
-],
-"raw": "winds. Id. 289. 1"
-},
-{
-"hv": 5,
-"page": "",
-"tomo": 1,
-"pages": [
-[
-76,
-76
-]
-],
-"raw": "etter.' Id., i. 76. B"
 },
 {
 "hv": 5,
@@ -19947,18 +19359,6 @@
 },
 {
 "hv": 1,
-"page": "545",
-"tomo": 9,
-"pages": [
-[
-2,
-2
-]
-],
-"raw": "bidden. Id., ix. 2, O"
-},
-{
-"hv": 1,
 "page": "548",
 "tomo": 9,
 "pages": [
@@ -20012,18 +19412,6 @@
 ]
 ],
 "raw": "t good. Id., ix. 15; ."
-},
-{
-"hv": 1,
-"page": "622",
-"tomo": 9,
-"pages": [
-[
-6,
-6
-]
-],
-"raw": "Nueva. Prov. Rec., MS., ix. 6, i"
 },
 {
 "hv": 1,
@@ -20171,78 +19559,6 @@
 },
 {
 "hv": 2,
-"page": "85",
-"tomo": 9,
-"pages": [
-[
-107,
-107
-]
-],
-"raw": "73. 11 Prov. Rec., MS., ix. 107; x"
-},
-{
-"hv": 2,
-"page": "86",
-"tomo": 9,
-"pages": [
-[
-109,
-109
-]
-],
-"raw": "ctober. Prov. Rec., MS., ix. 109. N"
-},
-{
-"hv": 2,
-"page": "94",
-"tomo": 9,
-"pages": [
-[
-120,
-120
-]
-],
-"raw": "ercury. Prov. Rec., MS., ix. 120. S"
-},
-{
-"hv": 2,
-"page": "95",
-"tomo": 9,
-"pages": [
-[
-126,
-126
-]
-],
-"raw": "x. 293; Prov. Rec., MS., ix. 126. *"
-},
-{
-"hv": 2,
-"page": "97",
-"tomo": 9,
-"pages": [
-[
-126,
-126
-]
-],
-"raw": "x. 293; Prov. Rec., MS., ix. 126. •"
-},
-{
-"hv": 2,
-"page": "99",
-"tomo": 9,
-"pages": [
-[
-105,
-106
-]
-],
-"raw": "place. Prov. Rec., MS., ix. 105-6. J"
-},
-{
-"hv": 2,
 "page": "127",
 "tomo": 9,
 "pages": [
@@ -20252,18 +19568,6 @@
 ]
 ],
 "raw": "iceroy. Prov. Rec., MS., ix. 90-1. S"
-},
-{
-"hv": 2,
-"page": "128",
-"tomo": 9,
-"pages": [
-[
-108,
-108
-]
-],
-"raw": "e- roy. Prov. Rec., MS., ix. 108; a"
 },
 {
 "hv": 2,
@@ -20319,18 +19623,6 @@
 },
 {
 "hv": 2,
-"page": "170",
-"tomo": 9,
-"pages": [
-[
-119,
-119
-]
-],
-"raw": "385-6; Prov. Rec., MS., ix. 119; x"
-},
-{
-"hv": 2,
 "page": "175",
 "tomo": 9,
 "pages": [
@@ -20343,18 +19635,6 @@
 },
 {
 "hv": 2,
-"page": "180",
-"tomo": 9,
-"pages": [
-[
-127,
-127
-]
-],
-"raw": "x. 301; Prov. Rec., MS., ix. 127. W"
-},
-{
-"hv": 2,
 "page": "182",
 "tomo": 9,
 "pages": [
@@ -20364,18 +19644,6 @@
 ]
 ],
 "raw": "ix. 60; Prov. Rec., MS., ix. 68. A"
-},
-{
-"hv": 2,
-"page": "186",
-"tomo": 9,
-"pages": [
-[
-108,
-108
-]
-],
-"raw": "ration. Prov. Rec., MS., ix. 108. 1"
 },
 {
 "hv": 2,
@@ -20403,22 +19671,6 @@
 },
 {
 "hv": 2,
-"page": "187",
-"tomo": 9,
-"pages": [
-[
-121,
-121
-],
-[
-126,
-126
-]
-],
-"raw": "aga. 32 Prov. Rec., MS., ix. 121, 126. H"
-},
-{
-"hv": 2,
 "page": "190",
 "tomo": 9,
 "pages": [
@@ -20428,22 +19680,6 @@
 ]
 ],
 "raw": "amoras. Id., ix. 60-1. S"
-},
-{
-"hv": 2,
-"page": "191",
-"tomo": 9,
-"pages": [
-[
-103,
-103
-],
-[
-108,
-108
-]
-],
-"raw": "Prado. Prov. Rec., MS., ix. 103, 108. T"
 },
 {
 "hv": 2,
@@ -20480,42 +19716,6 @@
 ]
 ],
 "raw": "strada. Prov. Rec., MS., ix. 153-4; G"
-},
-{
-"hv": 2,
-"page": "267",
-"tomo": 9,
-"pages": [
-[
-133,
-133
-]
-],
-"raw": "coast. Prov. Rec., MS., ix. 133. T"
-},
-{
-"hv": 2,
-"page": "268",
-"tomo": 9,
-"pages": [
-[
-133,
-133
-]
-],
-"raw": "49-50. 8Prov. Rec., MS., ix. 133; x"
-},
-{
-"hv": 2,
-"page": "268",
-"tomo": 9,
-"pages": [
-[
-131,
-131
-]
-],
-"raw": "lot. 10 Prov. Rec., MS., ix. 131. \""
 },
 {
 "hv": 2,
@@ -20567,18 +19767,6 @@
 },
 {
 "hv": 2,
-"page": "418",
-"tomo": 9,
-"pages": [
-[
-131,
-131
-]
-],
-"raw": "v. 209; Prov. Rec., MS., ix. 131; x"
-},
-{
-"hv": 2,
 "page": "421",
 "tomo": 9,
 "pages": [
@@ -20588,30 +19776,6 @@
 ]
 ],
 "raw": "ceived. Prov. Rec., MS., ix. 169. 1"
-},
-{
-"hv": 2,
-"page": "424",
-"tomo": 9,
-"pages": [
-[
-128,
-128
-]
-],
-"raw": "ffects. Prov. Rec., MS., ix. 128. 1"
-},
-{
-"hv": 3,
-"page": "10",
-"tomo": 9,
-"pages": [
-[
-101,
-101
-]
-],
-"raw": "196-7; Prov. Rec., MS., ix. 101. S"
 }
 ],
 "SP-Miss tomo 1": [

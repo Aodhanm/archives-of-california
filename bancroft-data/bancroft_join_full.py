@@ -37,6 +37,11 @@ SERMAP = {'PSP': 'PSP', 'BenMil': 'PSP_BM', 'PSP-Presidios': 'PSP_PRES',
           'LegRec': 'LEG_REC', 'SupGov': 'SUP_GOV', 'DSP-Ang': 'DSP_ANG',
           'DSP-CH': 'DSP_CH'}
 
+# Bancroft's citation system per volume (leaf-proven; feedback_bancroft_page_numbers):
+# LEAF_CITED = he cites the handwritten per-tomo leaf / Savage-page side; MIXED = both.
+LEAF_CITED = {'12', '15', '16', '17', '18', '19', '20', '25', '26', '54', '55', '56'}
+MIXED_CITED = {'13', '14', '44'}
+
 # volumes read to completion (per the completed-volumes ledger, 2026-07-14):
 # a page-miss inside these = a review lead; in any other DB volume it parks.
 COMPLETE = {3, 5, 6, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 34,
@@ -98,11 +103,22 @@ for c in cites:
                     matches[(vol, doc)] = sy
     if matches:
         joined += 1
-        # primary preference (mirrors the viewer's ranking): an exact
-        # original-page hit outranks the wide pin-derived leaf intervals —
-        # attach to 's' candidates only when no 'p' candidate exists.
-        if any(sy == 'p' for sy in matches.values()):
-            matches = {kk: sy for kk, sy in matches.items() if sy == 'p'}
+        # Per-volume system preference (feedback_bancroft_page_numbers, the
+        # leaf-proven per-volume citation map): in volumes Bancroft cites by
+        # handwritten per-tomo leaf / Savage page, an 's' hit is the true
+        # system and a 'p' hit is a page coincidence (the ca25 Tomo-X class,
+        # Session I 2026-07-14); everywhere else 'p' (original pages) wins.
+        # Mixed volumes (13/14/44 — he cites BOTH ways) keep both candidates.
+        grouped = collections.defaultdict(dict)
+        for kk, sy in matches.items(): grouped[str(kk[0])][kk] = sy
+        matches = {}
+        for vol, g in grouped.items():
+            if vol in MIXED_CITED:
+                matches.update(g); continue
+            want = 's' if vol in LEAF_CITED else 'p'
+            if any(sy == want for sy in g.values()):
+                g = {kk: sy for kk, sy in g.items() if sy == want}
+            matches.update(g)
         nsh = len(matches)
         for (vol, doc), sy in sorted(matches.items())[:6]:
             key = KEY.get((str(vol), str(doc)))
