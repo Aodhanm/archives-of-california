@@ -6360,6 +6360,88 @@
 }
 ]
 },
+"ca9-d111-n71": {
+"cited": [
+{
+"v": 1,
+"p": "495",
+"cite": "$2,000. Id., xvi. 203, 206; P",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "499",
+"cite": "6 $418. Prov. St. Pap., MS., xvi. 203.",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "687",
+"cite": "§48,3. Prov. St. Pap., MS., xvi. 203, 206. H",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "689",
+"cite": "$1,131. Prov. St. Pap., MS., xvi. 203, 206; P",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "693",
+"cite": ", 73-4; Prov. St. Pap., MS., xvi. 202-3. I",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "723",
+"cite": "Mexico. Prov. St. Pap., MS., xvi. 203, 206; x",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca9-d112-n72": {
+"cited": [
+{
+"v": 1,
+"p": "495",
+"cite": "$2,000. Id., xvi. 203, 206; P",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "648",
+"cite": "ii. 13: Prov. St. Pap., MS., xvi. 205; x",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "687",
+"cite": "§48,3. Prov. St. Pap., MS., xvi. 203, 206. H",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "689",
+"cite": "$1,131. Prov. St. Pap., MS., xvi. 203, 206; P",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "723",
+"cite": "Mexico. Prov. St. Pap., MS., xvi. 203, 206; x",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
 "ca24-d147-n75": {
 "cited": [
 {
@@ -11387,6 +11469,22 @@
 }
 ]
 },
+"ca9-d119-n81": {
+"cited": [
+{
+"v": 1,
+"p": "541",
+"cite": "l to B. Prov. St. Pap., MS., xvi. 220-22. M",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "542",
+"cite": "he foe. Id., xvi. 220. M",
+"tier": "orig-page"
+}
+]
+},
 "ca24-d150-n77": {
 "cited": [
 {
@@ -11608,6 +11706,16 @@
 }
 ]
 },
+"ca9-d105-n68": {
+"cited": [
+{
+"v": 1,
+"p": "542",
+"cite": "iction. Prov. St. Pap., MS., xvi. 190-1. O",
+"tier": "orig-page"
+}
+]
+},
 "ca8-d315-n287": {
 "cited": [
 {
@@ -11662,6 +11770,48 @@
 "cite": "r care. Id., xv. 102-4. F",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca9-d107-n69": {
+"cited": [
+{
+"v": 1,
+"p": "542",
+"cite": "ra to R Id., xvi. 195-6.",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "656",
+"cite": "d. In » Prov. St. Pap., MS., xvi. 195, 197, 265. 2",
+"tier": "orig-page",
+"shared": 3
+},
+{
+"v": 1,
+"p": "664",
+"cite": "$2,597. Id., xvi. 195. D",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d108-n70": {
+"cited": [
+{
+"v": 1,
+"p": "542",
+"cite": "ra to R Id., xvi. 195-6.",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "656",
+"cite": "d. In » Prov. St. Pap., MS., xvi. 195, 197, 265. 2",
+"tier": "orig-page",
+"shared": 3
 }
 ]
 },
@@ -12966,6 +13116,16 @@
 }
 ]
 },
+"ca9-d48-n43": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "d them. Prov. St. Pap., MS., xvi. 90. A",
+"tier": "orig-page"
+}
+]
+},
 "ca8-d307-n252": {
 "cited": [
 {
@@ -12995,6 +13155,128 @@
 "p": "638",
 "cite": "ission. Prov. St. Pap., MS., xvii. 111. 1",
 "tier": "leaf"
+}
+]
+},
+"ca9-d22-n26": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "queros. Prov. St. Pap., MS., xvi. 47-8. D",
+"tier": "orig-page",
+"shared": 4
+}
+]
+},
+"ca9-d25-n29": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "queros. Prov. St. Pap., MS., xvi. 47-8. D",
+"tier": "orig-page",
+"shared": 4
+}
+]
+},
+"ca9-d26-n30": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "queros. Prov. St. Pap., MS., xvi. 47-8. D",
+"tier": "orig-page",
+"shared": 4
+}
+]
+},
+"ca9-d28-n30": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "queros. Prov. St. Pap., MS., xvi. 47-8. D",
+"tier": "orig-page",
+"shared": 4
+}
+]
+},
+"ca9-d14-n22": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "uble in Id., xvi. 3o-8, 46-7. l",
+"tier": "orig-page",
+"shared": 9
+}
+]
+},
+"ca9-d15-n22": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "uble in Id., xvi. 3o-8, 46-7. l",
+"tier": "orig-page",
+"shared": 9
+}
+]
+},
+"ca9-d16-n23": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "uble in Id., xvi. 3o-8, 46-7. l",
+"tier": "orig-page",
+"shared": 9
+}
+]
+},
+"ca9-d17-n23": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "uble in Id., xvi. 3o-8, 46-7. l",
+"tier": "orig-page",
+"shared": 9
+}
+]
+},
+"ca9-d18-n24": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "uble in Id., xvi. 3o-8, 46-7. l",
+"tier": "orig-page",
+"shared": 9
+},
+{
+"v": 2,
+"p": "113",
+"cite": "ii. 40; Prov. St. Pap., MS., xvi. 35-6; x",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d19-n24": {
+"cited": [
+{
+"v": 1,
+"p": "555",
+"cite": "uble in Id., xvi. 3o-8, 46-7. l",
+"tier": "orig-page",
+"shared": 9
+},
+{
+"v": 1,
+"p": "696",
+"cite": "m fire. Id., xvi. 39. A",
+"tier": "orig-page"
 }
 ]
 },
@@ -13230,6 +13512,28 @@
 "cite": "dation. St. Pap., Sac., MS., xviii. 26-7; A",
 "tier": "leaf",
 "shared": 13
+}
+]
+},
+"ca9-d136-n89": {
+"cited": [
+{
+"v": 1,
+"p": "561",
+"cite": "begun. Prov. St. Pap., MS., xvi. 246-7; P",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca9-d137-n90": {
+"cited": [
+{
+"v": 1,
+"p": "561",
+"cite": "begun. Prov. St. Pap., MS., xvi. 246-7; P",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -14596,6 +14900,30 @@
 }
 ]
 },
+"ca9-d35-n34": {
+"cited": [
+{
+"v": 1,
+"p": "583",
+"cite": "padres. Prov. St. Pap., MS., xvi. 57. L",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "692",
+"cite": "l 18th. Prov. St. Pap., MS., xvi. 57, 212. S",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "705",
+"cite": "84. 18 Prov. St. Pap., MS., xvi. 57-8, 181; x",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
 "ca11-d80-n151": {
 "cited": [
 {
@@ -14698,6 +15026,16 @@
 "p": "585",
 "cite": "matter. St. Pap., Sac., MS., iv. 66-7. D",
 "tier": "leaf"
+}
+]
+},
+"ca9-d47-n42": {
+"cited": [
+{
+"v": 1,
+"p": "593",
+"cite": "2, 176; Prov. St. Pap., MS., xvi. 88; I",
+"tier": "orig-page"
 }
 ]
 },
@@ -15704,6 +16042,16 @@
 "tier": "leaf",
 "shared": 4,
 "caveat": "55"
+}
+]
+},
+"ca9-d10-n20": {
+"cited": [
+{
+"v": 1,
+"p": "617",
+"cite": "rey. 84 Prov. St. Pap., MS., xvi. 25; x",
+"tier": "orig-page"
 }
 ]
 },
@@ -16784,6 +17132,16 @@
 }
 ]
 },
+"ca9-d135-n89": {
+"cited": [
+{
+"v": 1,
+"p": "629",
+"cite": "vi. 78; Prov. St. Pap., MS., xvi. 245. M",
+"tier": "orig-page"
+}
+]
+},
 "ca14-d4-n12": {
 "cited": [
 {
@@ -16849,6 +17207,22 @@
 "cite": "e go v. Prov. St. Pap., MS., xiii. 45, 162; P",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca9-d98-n65": {
+"cited": [
+{
+"v": 1,
+"p": "632",
+"cite": "r cent. Prov. St. Pap., MS., xvi. 178. N",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "648",
+"cite": "as $34. Prov. St. Pap., MS., xvi. 178; a",
+"tier": "orig-page"
 }
 ]
 },
@@ -16941,6 +17315,22 @@
 "cite": "ountry. Dept St. Pap., Ben. Mil, MS., Ixxvi. 20-2. I",
 "tier": "leaf",
 "shared": 8
+}
+]
+},
+"ca9-d106-n69": {
+"cited": [
+{
+"v": 1,
+"p": "632",
+"cite": "n 1797. Prov. St. Pap., MS., xvi. 193. A",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "645",
+"cite": "s wife. Id., xvi. 193. R",
+"tier": "orig-page"
 }
 ]
 },
@@ -17089,6 +17479,49 @@
 }
 ]
 },
+"ca9-d102-n67": {
+"cited": [
+{
+"v": 1,
+"p": "634",
+"cite": "\\. 261; Prov. St. Pap., MS., xvi. 184. J",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d120-n81": {
+"cited": [
+{
+"v": 1,
+"p": "635",
+"cite": "nal, 22 Prov. St. Pap., MS., xvi. 63, 223; x",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
+"ca9-d36-n35": {
+"cited": [
+{
+"v": 1,
+"p": "635",
+"cite": "nal, 22 Prov. St. Pap., MS., xvi. 63, 223; x",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
+"ca9-d37-n35": {
+"cited": [
+{
+"v": 1,
+"p": "635",
+"cite": "nal, 22 Prov. St. Pap., MS., xvi. 63, 223; x",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
 "ca14-d192-n220": {
 "cited": [
 {
@@ -17158,6 +17591,28 @@
 "cite": "onduct. Prov. Rec., MS., v. 62. T",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca9-d96-n64": {
+"cited": [
+{
+"v": 1,
+"p": "635",
+"cite": "escape. Prov. St. Pap., MS. xvi. 173. 2",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "711",
+"cite": "Jose\". Prov. St. Pap., MS., xvi. 173-4; x",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "100",
+"cite": "duties. Prov. St. Pap., MS., xvi. 174. I",
+"tier": "orig-page"
 }
 ]
 },
@@ -17474,6 +17929,28 @@
 "tier": "leaf",
 "shared": 4,
 "caveat": "14"
+}
+]
+},
+"ca9-d139-n90": {
+"cited": [
+{
+"v": 1,
+"p": "638",
+"cite": "edings. Prov. St. Pap., MS., xvi. 251-2. N",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca9-d140-n91": {
+"cited": [
+{
+"v": 1,
+"p": "638",
+"cite": "edings. Prov. St. Pap., MS., xvi. 251-2. N",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -17968,6 +18445,45 @@
 }
 ]
 },
+"ca9-d20-n25": {
+"cited": [
+{
+"v": 1,
+"p": "643",
+"cite": "g.44 43 Prov. St. Pap., MS., xvi. 41, 168-9; x",
+"tier": "orig-page",
+"shared": 3
+},
+{
+"v": 1,
+"p": "692",
+"cite": "edness. Id., xvi 40-1.",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d93-n63": {
+"cited": [
+{
+"v": 1,
+"p": "643",
+"cite": "g.44 43 Prov. St. Pap., MS., xvi. 41, 168-9; x",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
+"ca9-d94-n64": {
+"cited": [
+{
+"v": 1,
+"p": "643",
+"cite": "g.44 43 Prov. St. Pap., MS., xvi. 41, 168-9; x",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
 "ca24-d164-n82": {
 "cited": [
 {
@@ -18094,42 +18610,6 @@
 }
 ]
 },
-"ca17-d126-n80": {
-"cited": [
-{
-"v": 1,
-"p": "645",
-"cite": "olonel. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 3",
-"tier": "leaf",
-"shared": 4,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "100",
-"cite": "Mexico. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 7",
-"tier": "leaf",
-"shared": 4,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "191",
-"cite": "Diego. Id., xliv. 6. 4",
-"tier": "leaf",
-"shared": 11,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "87",
-"cite": "d $299. Prov. St. Pap., Ben. Mil., MS., xliv. 4. 1",
-"tier": "leaf",
-"shared": 8,
-"caveat": "17"
-}
-]
-},
 "ca17-d127-n80": {
 "cited": [
 {
@@ -18137,7 +18617,7 @@
 "p": "645",
 "cite": "olonel. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 3",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -18145,7 +18625,7 @@
 "p": "100",
 "cite": "Mexico. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 7",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -18154,6 +18634,22 @@
 "cite": "Diego. Id., xliv. 6. 4",
 "tier": "leaf",
 "shared": 11,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "362",
+"cite": "canoes. Prov. St. Pap., Ben. Mil., MS., xliv. 12. J",
+"tier": "leaf",
+"shared": 8,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "366",
+"cite": "18-19; Prov. St. Pap., Ben. Mil., MS., xliv. 12. T",
+"tier": "leaf",
+"shared": 8,
 "caveat": "17"
 },
 {
@@ -18173,7 +18669,7 @@
 "p": "645",
 "cite": "olonel. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 3",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -18181,7 +18677,7 @@
 "p": "100",
 "cite": "Mexico. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 7",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -18217,7 +18713,7 @@
 "p": "645",
 "cite": "olonel. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 3",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -18225,7 +18721,7 @@
 "p": "100",
 "cite": "Mexico. Prov. St. Pap., Ben. Mil., MS., xliv. 1. 7",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -18859,6 +19355,22 @@
 }
 ]
 },
+"ca9-d99-n66": {
+"cited": [
+{
+"v": 1,
+"p": "648",
+"cite": "7, $70. Prov. St. Pap., MS., xvi. 179. F",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "651",
+"cite": "efited. Id., xvi. 179. ^",
+"tier": "orig-page"
+}
+]
+},
 "ca16-d221-n135": {
 "cited": [
 {
@@ -19256,6 +19768,26 @@
 }
 ]
 },
+"ca9-d103-n68": {
+"cited": [
+{
+"v": 1,
+"p": "653",
+"cite": ". 26-7; Prov. St. Pap., xvi. 187. O",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d95-n64": {
+"cited": [
+{
+"v": 1,
+"p": "654",
+"cite": "course. Id., xvi. 172. 1",
+"tier": "orig-page"
+}
+]
+},
 "ca7-d424-n311": {
 "cited": [
 {
@@ -19302,6 +19834,17 @@
 }
 ]
 },
+"ca9-d148-n95": {
+"cited": [
+{
+"v": 1,
+"p": "656",
+"cite": "d. In » Prov. St. Pap., MS., xvi. 195, 197, 265. 2",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
 "ca24-d148-n76": {
 "cited": [
 {
@@ -19328,6 +19871,34 @@
 "cite": "ii. 52; Prov. Rec., MS., v. 244, 260; S",
 "tier": "orig-page",
 "shared": 4
+}
+]
+},
+"ca9-d146-n94": {
+"cited": [
+{
+"v": 1,
+"p": "657",
+"cite": "y well. Prov. St. Pap., MS., xvi. 261-2. A",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 1,
+"p": "657",
+"cite": "looms. Prov. St. Pap., MS. , xvi. 261. A",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d147-n95": {
+"cited": [
+{
+"v": 1,
+"p": "657",
+"cite": "y well. Prov. St. Pap., MS., xvi. 261-2. A",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -19586,6 +20157,28 @@
 "p": "662",
 "cite": "xii. 7; Prov. St. Pap., MS., i. 2, 4, 5; S",
 "tier": "orig-page"
+}
+]
+},
+"ca9-d2-n1": {
+"cited": [
+{
+"v": 1,
+"p": "664",
+"cite": "$2,881. Prov. St. Pap., MS., xvi. 2G5.",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca9-d3-n1": {
+"cited": [
+{
+"v": 1,
+"p": "664",
+"cite": "$2,881. Prov. St. Pap., MS., xvi. 2G5.",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -20622,6 +21215,23 @@
 }
 ]
 },
+"ca9-d114-n77": {
+"cited": [
+{
+"v": 1,
+"p": "679",
+"cite": "797, in Prov. St. Pap., MS., xvi. 212. S",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "692",
+"cite": "l 18th. Prov. St. Pap., MS., xvi. 57, 212. S",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
 "ca14-d31-n47": {
 "cited": [
 {
@@ -21248,6 +21858,38 @@
 }
 ]
 },
+"ca9-d44-n40": {
+"cited": [
+{
+"v": 1,
+"p": "692",
+"cite": ", 1794. Id., xvi. 84; P",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d43-n39": {
+"cited": [
+{
+"v": 1,
+"p": "692",
+"cite": "5, 267; Prov. St. Pap., MS., xvi. 80-1. T",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "116",
+"cite": ", 1806. Prov. St. Pap., MS., xvi. 80; x",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "20",
+"cite": "x. 6. 3 Prov. St. Pap., MS., xvi. 80; x",
+"tier": "orig-page"
+}
+]
+},
 "ca7-d20-n11": {
 "cited": [
 {
@@ -21273,6 +21915,16 @@
 "cite": "ur men. Prov. St. Pap., MS., xii. 25, 77; x",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca9-d7-n10": {
+"cited": [
+{
+"v": 1,
+"p": "693",
+"cite": "n 1798. Id., xvi. 16, 17. C",
+"tier": "orig-page"
 }
 ]
 },
@@ -21785,6 +22437,16 @@
 }
 ]
 },
+"ca9-d40-n37": {
+"cited": [
+{
+"v": 1,
+"p": "700",
+"cite": "e, etc. Prov. St. Pap., MS., xvi. 69. M",
+"tier": "orig-page"
+}
+]
+},
 "ca14-d1075-n251": {
 "cited": [
 {
@@ -21863,6 +22525,16 @@
 "v": 1,
 "p": "700",
 "cite": "a boat. Id., vi. 120. D",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d33-n33": {
+"cited": [
+{
+"v": 1,
+"p": "701",
+"cite": "nished. Prov. St. Pap., MS., xvi. 55; x",
 "tier": "orig-page"
 }
 ]
@@ -21957,6 +22629,17 @@
 "v": 3,
 "p": "45",
 "cite": "ropped. Dept. St. Pap., Ben. Mil., MS., Ixxiv. 27 Me",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca9-d100-n66": {
+"cited": [
+{
+"v": 1,
+"p": "705",
+"cite": "84. 18 Prov. St. Pap., MS., xvi. 57-8, 181; x",
 "tier": "orig-page",
 "shared": 2
 }
@@ -22330,6 +23013,16 @@
 "v": 1,
 "p": "718",
 "cite": "Borica. Prov. St. Pap., MS., xv. 4. J",
+"tier": "orig-page"
+}
+]
+},
+"ca9-d9-n20": {
+"cited": [
+{
+"v": 1,
+"p": "718",
+"cite": "a to B. Id., xvi. 24. M",
 "tier": "orig-page"
 }
 ]
@@ -26154,6 +26847,26 @@
 }
 ]
 },
+"ca17-d126-n80": {
+"cited": [
+{
+"v": 2,
+"p": "191",
+"cite": "Diego. Id., xliv. 6. 4",
+"tier": "leaf",
+"shared": 11,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "87",
+"cite": "d $299. Prov. St. Pap., Ben. Mil., MS., xliv. 4. 1",
+"tier": "leaf",
+"shared": 8,
+"caveat": "17"
+}
+]
+},
 "ca17-d130-n82": {
 "cited": [
 {
@@ -26796,32 +27509,6 @@
 }
 ]
 },
-"ca17-d1-n1": {
-"cited": [
-{
-"v": 2,
-"p": "162",
-"cite": "lashes. Prov. St. Pap., Ben. Mil., MS., xl. 7. 1",
-"tier": "leaf",
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "191",
-"cite": "exile. Prov. St. Pap., Ben. Mil., MS., xl. 8. 1",
-"tier": "leaf",
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "99",
-"cite": "S., 92; Prov. St. Pap., Ben. Mil., MS., xl. 14. H",
-"tier": "leaf",
-"shared": 12,
-"caveat": "17"
-}
-]
-},
 "ca17-d10-n14": {
 "cited": [
 {
@@ -26845,7 +27532,7 @@
 "p": "99",
 "cite": "S., 92; Prov. St. Pap., Ben. Mil., MS., xl. 14. H",
 "tier": "leaf",
-"shared": 12,
+"shared": 11,
 "caveat": "17"
 }
 ]
@@ -26873,7 +27560,7 @@
 "p": "99",
 "cite": "S., 92; Prov. St. Pap., Ben. Mil., MS., xl. 14. H",
 "tier": "leaf",
-"shared": 12,
+"shared": 11,
 "caveat": "17"
 }
 ]
@@ -26901,7 +27588,7 @@
 "p": "99",
 "cite": "S., 92; Prov. St. Pap., Ben. Mil., MS., xl. 14. H",
 "tier": "leaf",
-"shared": 12,
+"shared": 11,
 "caveat": "17"
 }
 ]
@@ -26913,7 +27600,7 @@
 "p": "99",
 "cite": "S., 92; Prov. St. Pap., Ben. Mil., MS., xl. 14. H",
 "tier": "leaf",
-"shared": 12,
+"shared": 11,
 "caveat": "17"
 }
 ]
@@ -26925,7 +27612,19 @@
 "p": "99",
 "cite": "S., 92; Prov. St. Pap., Ben. Mil., MS., xl. 14. H",
 "tier": "leaf",
-"shared": 12,
+"shared": 11,
+"caveat": "17"
+}
+]
+},
+"ca17-d4-n11": {
+"cited": [
+{
+"v": 2,
+"p": "99",
+"cite": "S., 92; Prov. St. Pap., Ben. Mil., MS., xl. 14. H",
+"tier": "leaf",
+"shared": 11,
 "caveat": "17"
 }
 ]
@@ -30089,6 +30788,22 @@
 }
 ]
 },
+"ca17-d1-n1": {
+"cited": [
+{
+"v": 2,
+"p": "162",
+"cite": "lashes. Prov. St. Pap., Ben. Mil., MS., xl. 7. 1",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "191",
+"cite": "exile. Prov. St. Pap., Ben. Mil., MS., xl. 8. 1",
+"tier": "orig-page"
+}
+]
+},
 "ca11-d13-n48": {
 "cited": [
 {
@@ -31712,18 +32427,6 @@
 }
 ]
 },
-"ca17-d26-n29": {
-"cited": [
-{
-"v": 2,
-"p": "191",
-"cite": "drbara. Id., xli. 1, 2. I",
-"tier": "leaf",
-"shared": 4,
-"caveat": "17"
-}
-]
-},
 "ca17-d27-n30": {
 "cited": [
 {
@@ -31731,7 +32434,7 @@
 "p": "191",
 "cite": "drbara. Id., xli. 1, 2. I",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 }
 ]
@@ -31743,7 +32446,7 @@
 "p": "191",
 "cite": "drbara. Id., xli. 1, 2. I",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 }
 ]
@@ -31755,7 +32458,7 @@
 "p": "191",
 "cite": "drbara. Id., xli. 1, 2. I",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 }
 ]
@@ -32118,14 +32821,6 @@
 "cite": "xi. 37; Prov. St. Pap., Ben. Mil., MS., xlvi. 35-6. J",
 "tier": "leaf",
 "shared": 4,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "325",
-"cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
-"tier": "leaf",
-"shared": 9,
 "caveat": "17"
 }
 ]
@@ -32755,6 +33450,50 @@
 }
 ]
 },
+"ca17-d170-n113": {
+"cited": [
+{
+"v": 2,
+"p": "213",
+"cite": "nvoice. Prov. St. Pap., Ben. Mil., MS., xlvi. 29. T",
+"tier": "leaf",
+"shared": 10,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "325",
+"cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
+"tier": "leaf",
+"shared": 10,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "325",
+"cite": ", 1815. Id., xlvi. 5-6. B",
+"tier": "leaf",
+"shared": 8,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "343",
+"cite": "gation. Prov. St. Pap., Ben. Mil., MS., xlvi. 5-6. S",
+"tier": "leaf",
+"shared": 8,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "420",
+"cite": "34.840. Id., xlvi. 29. S",
+"tier": "leaf",
+"shared": 10,
+"caveat": "17"
+}
+]
+},
 "ca17-d177-n117": {
 "cited": [
 {
@@ -32762,7 +33501,7 @@
 "p": "213",
 "cite": "nvoice. Prov. St. Pap., Ben. Mil., MS., xlvi. 29. T",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32806,7 +33545,7 @@
 "p": "420",
 "cite": "34.840. Id., xlvi. 29. S",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32853,7 +33592,7 @@
 "p": "213",
 "cite": "nvoice. Prov. St. Pap., Ben. Mil., MS., xlvi. 29. T",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32861,7 +33600,7 @@
 "p": "420",
 "cite": "34.840. Id., xlvi. 29. S",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 }
 ]
@@ -32873,7 +33612,7 @@
 "p": "213",
 "cite": "nvoice. Prov. St. Pap., Ben. Mil., MS., xlvi. 29. T",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32881,7 +33620,7 @@
 "p": "420",
 "cite": "34.840. Id., xlvi. 29. S",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 }
 ]
@@ -32893,7 +33632,7 @@
 "p": "213",
 "cite": "nvoice. Prov. St. Pap., Ben. Mil., MS., xlvi. 29. T",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32901,7 +33640,7 @@
 "p": "325",
 "cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32909,7 +33648,7 @@
 "p": "420",
 "cite": "34.840. Id., xlvi. 29. S",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 }
 ]
@@ -32921,7 +33660,7 @@
 "p": "213",
 "cite": "nvoice. Prov. St. Pap., Ben. Mil., MS., xlvi. 29. T",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32929,7 +33668,7 @@
 "p": "325",
 "cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 },
 {
@@ -32937,35 +33676,7 @@
 "p": "420",
 "cite": "34.840. Id., xlvi. 29. S",
 "tier": "leaf",
-"shared": 9,
-"caveat": "17"
-}
-]
-},
-"ca17-d182-n140": {
-"cited": [
-{
-"v": 2,
-"p": "213",
-"cite": "nvoice. Prov. St. Pap., Ben. Mil., MS., xlvi. 29. T",
-"tier": "leaf",
-"shared": 9,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "325",
-"cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
-"tier": "leaf",
-"shared": 9,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "420",
-"cite": "34.840. Id., xlvi. 29. S",
-"tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 }
 ]
@@ -38032,7 +38743,7 @@
 "p": "362",
 "cite": "canoes. Prov. St. Pap., Ben. Mil., MS., xliv. 12. J",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 },
 {
@@ -38040,7 +38751,7 @@
 "p": "366",
 "cite": "18-19; Prov. St. Pap., Ben. Mil., MS., xliv. 12. T",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 }
 ]
@@ -38053,22 +38764,6 @@
 "cite": "ishmen, Prov. St. Pap., Ben. Mil., MS., xliv. 16. I",
 "tier": "leaf",
 "shared": 6,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "362",
-"cite": "canoes. Prov. St. Pap., Ben. Mil., MS., xliv. 12. J",
-"tier": "leaf",
-"shared": 7,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "366",
-"cite": "18-19; Prov. St. Pap., Ben. Mil., MS., xliv. 12. T",
-"tier": "leaf",
-"shared": 7,
 "caveat": "17"
 }
 ]
@@ -40313,6 +41008,18 @@
 }
 ]
 },
+"ca17-d182-n140": {
+"cited": [
+{
+"v": 2,
+"p": "325",
+"cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
+"tier": "leaf",
+"shared": 10,
+"caveat": "17"
+}
+]
+},
 "ca17-d183-n140": {
 "cited": [
 {
@@ -40320,7 +41027,7 @@
 "p": "325",
 "cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
 "tier": "leaf",
-"shared": 9,
+"shared": 10,
 "caveat": "17"
 }
 ]
@@ -40332,27 +41039,7 @@
 "p": "325",
 "cite": "cisco. Prov. St. Pap., Ben. Mil., MS., xlvi. 32-4. I",
 "tier": "leaf",
-"shared": 9,
-"caveat": "17"
-}
-]
-},
-"ca17-d170-n113": {
-"cited": [
-{
-"v": 2,
-"p": "325",
-"cite": ", 1815. Id., xlvi. 5-6. B",
-"tier": "leaf",
-"shared": 8,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "343",
-"cite": "gation. Prov. St. Pap., Ben. Mil., MS., xlvi. 5-6. S",
-"tier": "leaf",
-"shared": 8,
+"shared": 10,
 "caveat": "17"
 }
 ]
@@ -41052,26 +41739,6 @@
 }
 ]
 },
-"ca17-d243-n189": {
-"cited": [
-{
-"v": 2,
-"p": "343",
-"cite": "ewhere. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
-"tier": "leaf",
-"shared": 4,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "344",
-"cite": "given. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
-"tier": "leaf",
-"shared": 4,
-"caveat": "17"
-}
-]
-},
 "ca17-d244-n189": {
 "cited": [
 {
@@ -41079,7 +41746,7 @@
 "p": "343",
 "cite": "ewhere. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41087,7 +41754,7 @@
 "p": "344",
 "cite": "given. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 }
 ]
@@ -41099,7 +41766,7 @@
 "p": "343",
 "cite": "ewhere. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41107,7 +41774,7 @@
 "p": "344",
 "cite": "given. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41143,7 +41810,7 @@
 "p": "343",
 "cite": "ewhere. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41151,7 +41818,7 @@
 "p": "344",
 "cite": "given. Prov. St. Pap., Ben. Mil., MS., xlix. 2-7. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41327,7 +41994,7 @@
 "p": "349",
 "cite": "sheep. Id., xlii. 4; i",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41335,7 +42002,7 @@
 "p": "349",
 "cite": "beans. Prov. St. Pap., Ben. Mil., MS., xlii. 3. T",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41343,7 +42010,7 @@
 "p": "377",
 "cite": "44 fan. Prov. St. Pap., Ben. Mil., MS., xlii. 3, 7. N",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41351,7 +42018,7 @@
 "p": "377",
 "cite": "es, 89. Id., xlii. 4, 8. 1",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41359,7 +42026,7 @@
 "p": "392",
 "cite": "e Prow. St. Pap., Ben. Mil., MS., xlii. 2, 6; x",
 "tier": "leaf",
-"shared": 6,
+"shared": 5,
 "caveat": "17"
 },
 {
@@ -41367,7 +42034,7 @@
 "p": "395",
 "cite": "i. 105; Prov. St. Pap., Ben. Mil, MS., xlii. 3-5, 78. I",
 "tier": "leaf",
-"shared": 5,
+"shared": 4,
 "caveat": "17"
 }
 ]
@@ -41387,7 +42054,7 @@
 "p": "349",
 "cite": "sheep. Id., xlii. 4; i",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41395,7 +42062,7 @@
 "p": "349",
 "cite": "beans. Prov. St. Pap., Ben. Mil., MS., xlii. 3. T",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41403,7 +42070,7 @@
 "p": "377",
 "cite": "44 fan. Prov. St. Pap., Ben. Mil., MS., xlii. 3, 7. N",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41411,7 +42078,7 @@
 "p": "377",
 "cite": "es, 89. Id., xlii. 4, 8. 1",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41419,7 +42086,7 @@
 "p": "392",
 "cite": "e Prow. St. Pap., Ben. Mil., MS., xlii. 2, 6; x",
 "tier": "leaf",
-"shared": 6,
+"shared": 5,
 "caveat": "17"
 },
 {
@@ -41427,7 +42094,7 @@
 "p": "395",
 "cite": "i. 105; Prov. St. Pap., Ben. Mil, MS., xlii. 3-5, 78. I",
 "tier": "leaf",
-"shared": 5,
+"shared": 4,
 "caveat": "17"
 }
 ]
@@ -41447,7 +42114,7 @@
 "p": "377",
 "cite": "44 fan. Prov. St. Pap., Ben. Mil., MS., xlii. 3, 7. N",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41455,7 +42122,7 @@
 "p": "377",
 "cite": "es, 89. Id., xlii. 4, 8. 1",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41463,7 +42130,7 @@
 "p": "392",
 "cite": "e Prow. St. Pap., Ben. Mil., MS., xlii. 2, 6; x",
 "tier": "leaf",
-"shared": 6,
+"shared": 5,
 "caveat": "17"
 },
 {
@@ -41471,7 +42138,7 @@
 "p": "395",
 "cite": "i. 105; Prov. St. Pap., Ben. Mil, MS., xlii. 3-5, 78. I",
 "tier": "leaf",
-"shared": 5,
+"shared": 4,
 "caveat": "17"
 }
 ]
@@ -41491,7 +42158,7 @@
 "p": "377",
 "cite": "44 fan. Prov. St. Pap., Ben. Mil., MS., xlii. 3, 7. N",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41499,7 +42166,7 @@
 "p": "377",
 "cite": "es, 89. Id., xlii. 4, 8. 1",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41507,7 +42174,7 @@
 "p": "392",
 "cite": "e Prow. St. Pap., Ben. Mil., MS., xlii. 2, 6; x",
 "tier": "leaf",
-"shared": 6,
+"shared": 5,
 "caveat": "17"
 }
 ]
@@ -41521,33 +42188,13 @@
 "tier": "leaf",
 "shared": 5,
 "caveat": "17"
-}
-]
-},
-"ca17-d63-n45": {
-"cited": [
-{
-"v": 2,
-"p": "349",
-"cite": "sheep. Id., xlii. 4; i",
-"tier": "leaf",
-"shared": 4,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "349",
-"cite": "beans. Prov. St. Pap., Ben. Mil., MS., xlii. 3. T",
-"tier": "leaf",
-"shared": 4,
-"caveat": "17"
 },
 {
 "v": 2,
 "p": "377",
 "cite": "44 fan. Prov. St. Pap., Ben. Mil., MS., xlii. 3, 7. N",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41555,23 +42202,7 @@
 "p": "377",
 "cite": "es, 89. Id., xlii. 4, 8. 1",
 "tier": "leaf",
-"shared": 7,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "392",
-"cite": "e Prow. St. Pap., Ben. Mil., MS., xlii. 2, 6; x",
-"tier": "leaf",
 "shared": 6,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "395",
-"cite": "i. 105; Prov. St. Pap., Ben. Mil, MS., xlii. 3-5, 78. I",
-"tier": "leaf",
-"shared": 5,
 "caveat": "17"
 }
 ]
@@ -41583,7 +42214,7 @@
 "p": "349",
 "cite": "sheep. Id., xlii. 4; i",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41591,7 +42222,7 @@
 "p": "349",
 "cite": "beans. Prov. St. Pap., Ben. Mil., MS., xlii. 3. T",
 "tier": "leaf",
-"shared": 4,
+"shared": 3,
 "caveat": "17"
 },
 {
@@ -41599,7 +42230,7 @@
 "p": "377",
 "cite": "44 fan. Prov. St. Pap., Ben. Mil., MS., xlii. 3, 7. N",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41607,7 +42238,7 @@
 "p": "377",
 "cite": "es, 89. Id., xlii. 4, 8. 1",
 "tier": "leaf",
-"shared": 7,
+"shared": 6,
 "caveat": "17"
 },
 {
@@ -41615,7 +42246,7 @@
 "p": "392",
 "cite": "e Prow. St. Pap., Ben. Mil., MS., xlii. 2, 6; x",
 "tier": "leaf",
-"shared": 6,
+"shared": 5,
 "caveat": "17"
 },
 {
@@ -41623,7 +42254,7 @@
 "p": "395",
 "cite": "i. 105; Prov. St. Pap., Ben. Mil, MS., xlii. 3-5, 78. I",
 "tier": "leaf",
-"shared": 5,
+"shared": 4,
 "caveat": "17"
 }
 ]
@@ -42006,7 +42637,7 @@
 "p": "362",
 "cite": "canoes. Prov. St. Pap., Ben. Mil., MS., xliv. 12. J",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 },
 {
@@ -42014,7 +42645,7 @@
 "p": "366",
 "cite": "18-19; Prov. St. Pap., Ben. Mil., MS., xliv. 12. T",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 }
 ]
@@ -42026,7 +42657,7 @@
 "p": "362",
 "cite": "canoes. Prov. St. Pap., Ben. Mil., MS., xliv. 12. J",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 },
 {
@@ -42034,7 +42665,7 @@
 "p": "366",
 "cite": "18-19; Prov. St. Pap., Ben. Mil., MS., xliv. 12. T",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 }
 ]
@@ -42046,7 +42677,7 @@
 "p": "362",
 "cite": "canoes. Prov. St. Pap., Ben. Mil., MS., xliv. 12. J",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 },
 {
@@ -42054,7 +42685,7 @@
 "p": "366",
 "cite": "18-19; Prov. St. Pap., Ben. Mil., MS., xliv. 12. T",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 }
 ]
@@ -42066,7 +42697,7 @@
 "p": "362",
 "cite": "canoes. Prov. St. Pap., Ben. Mil., MS., xliv. 12. J",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 },
 {
@@ -42074,7 +42705,7 @@
 "p": "366",
 "cite": "18-19; Prov. St. Pap., Ben. Mil., MS., xliv. 12. T",
 "tier": "leaf",
-"shared": 7,
+"shared": 8,
 "caveat": "17"
 }
 ]
@@ -42978,6 +43609,50 @@
 }
 ]
 },
+"ca17-d357-n329": {
+"cited": [
+{
+"v": 2,
+"p": "420",
+"cite": "41,319. Id., li. 10. J",
+"tier": "leaf",
+"shared": 13,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "422",
+"cite": "rporal. Prov. St. Pap., Ben. Mil, MS., li. 4. 2",
+"tier": "leaf",
+"shared": 11,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "570",
+"cite": "leased. Prov. St. Pap., Ben. Mil., MS., li. 4; I",
+"tier": "leaf",
+"shared": 11,
+"caveat": "17"
+},
+{
+"v": 2,
+"p": "570",
+"cite": "attles. Prov. St. Pap., Ben. Mil., MS., li. 4. F",
+"tier": "leaf",
+"shared": 11,
+"caveat": "17"
+},
+{
+"v": 3,
+"p": "83",
+"cite": "y 1825. Prov. St. Pap., Ben. Mil, MS., li. 2; D",
+"tier": "leaf",
+"shared": 7,
+"caveat": "17"
+}
+]
+},
 "ca17-d365-n333": {
 "cited": [
 {
@@ -42985,7 +43660,7 @@
 "p": "420",
 "cite": "41,319. Id., li. 10. J",
 "tier": "leaf",
-"shared": 12,
+"shared": 13,
 "caveat": "17"
 }
 ]
@@ -42997,7 +43672,7 @@
 "p": "420",
 "cite": "41,319. Id., li. 10. J",
 "tier": "leaf",
-"shared": 12,
+"shared": 13,
 "caveat": "17"
 }
 ]
@@ -43009,7 +43684,7 @@
 "p": "420",
 "cite": "41,319. Id., li. 10. J",
 "tier": "leaf",
-"shared": 12,
+"shared": 13,
 "caveat": "17"
 }
 ]
@@ -43021,7 +43696,7 @@
 "p": "420",
 "cite": "41,319. Id., li. 10. J",
 "tier": "leaf",
-"shared": 12,
+"shared": 13,
 "caveat": "17"
 }
 ]
@@ -43033,19 +43708,7 @@
 "p": "420",
 "cite": "41,319. Id., li. 10. J",
 "tier": "leaf",
-"shared": 12,
-"caveat": "17"
-}
-]
-},
-"ca17-d370-n337": {
-"cited": [
-{
-"v": 2,
-"p": "420",
-"cite": "41,319. Id., li. 10. J",
-"tier": "leaf",
-"shared": 12,
+"shared": 13,
 "caveat": "17"
 }
 ]
@@ -43251,42 +43914,6 @@
 }
 ]
 },
-"ca17-d357-n329": {
-"cited": [
-{
-"v": 2,
-"p": "422",
-"cite": "rporal. Prov. St. Pap., Ben. Mil, MS., li. 4. 2",
-"tier": "leaf",
-"shared": 10,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "570",
-"cite": "leased. Prov. St. Pap., Ben. Mil., MS., li. 4; I",
-"tier": "leaf",
-"shared": 10,
-"caveat": "17"
-},
-{
-"v": 2,
-"p": "570",
-"cite": "attles. Prov. St. Pap., Ben. Mil., MS., li. 4. F",
-"tier": "leaf",
-"shared": 10,
-"caveat": "17"
-},
-{
-"v": 3,
-"p": "83",
-"cite": "y 1825. Prov. St. Pap., Ben. Mil, MS., li. 2; D",
-"tier": "leaf",
-"shared": 6,
-"caveat": "17"
-}
-]
-},
 "ca17-d358-n329": {
 "cited": [
 {
@@ -43294,7 +43921,7 @@
 "p": "422",
 "cite": "rporal. Prov. St. Pap., Ben. Mil, MS., li. 4. 2",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43302,7 +43929,7 @@
 "p": "570",
 "cite": "leased. Prov. St. Pap., Ben. Mil., MS., li. 4; I",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43310,7 +43937,7 @@
 "p": "570",
 "cite": "attles. Prov. St. Pap., Ben. Mil., MS., li. 4. F",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43318,7 +43945,7 @@
 "p": "83",
 "cite": "y 1825. Prov. St. Pap., Ben. Mil, MS., li. 2; D",
 "tier": "leaf",
-"shared": 6,
+"shared": 7,
 "caveat": "17"
 }
 ]
@@ -43330,7 +43957,7 @@
 "p": "422",
 "cite": "rporal. Prov. St. Pap., Ben. Mil, MS., li. 4. 2",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43338,7 +43965,7 @@
 "p": "570",
 "cite": "leased. Prov. St. Pap., Ben. Mil., MS., li. 4; I",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43346,7 +43973,7 @@
 "p": "570",
 "cite": "attles. Prov. St. Pap., Ben. Mil., MS., li. 4. F",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43354,7 +43981,7 @@
 "p": "83",
 "cite": "y 1825. Prov. St. Pap., Ben. Mil, MS., li. 2; D",
 "tier": "leaf",
-"shared": 6,
+"shared": 7,
 "caveat": "17"
 }
 ]
@@ -43366,7 +43993,7 @@
 "p": "422",
 "cite": "rporal. Prov. St. Pap., Ben. Mil, MS., li. 4. 2",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43374,7 +44001,7 @@
 "p": "570",
 "cite": "leased. Prov. St. Pap., Ben. Mil., MS., li. 4; I",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43382,7 +44009,7 @@
 "p": "570",
 "cite": "attles. Prov. St. Pap., Ben. Mil., MS., li. 4. F",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43390,7 +44017,7 @@
 "p": "83",
 "cite": "y 1825. Prov. St. Pap., Ben. Mil, MS., li. 2; D",
 "tier": "leaf",
-"shared": 6,
+"shared": 7,
 "caveat": "17"
 }
 ]
@@ -43402,7 +44029,7 @@
 "p": "422",
 "cite": "rporal. Prov. St. Pap., Ben. Mil, MS., li. 4. 2",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43410,7 +44037,7 @@
 "p": "570",
 "cite": "leased. Prov. St. Pap., Ben. Mil., MS., li. 4; I",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43418,7 +44045,7 @@
 "p": "570",
 "cite": "attles. Prov. St. Pap., Ben. Mil., MS., li. 4. F",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43426,7 +44053,7 @@
 "p": "83",
 "cite": "y 1825. Prov. St. Pap., Ben. Mil, MS., li. 2; D",
 "tier": "leaf",
-"shared": 6,
+"shared": 7,
 "caveat": "17"
 }
 ]
@@ -43438,7 +44065,7 @@
 "p": "422",
 "cite": "rporal. Prov. St. Pap., Ben. Mil, MS., li. 4. 2",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43446,7 +44073,7 @@
 "p": "570",
 "cite": "leased. Prov. St. Pap., Ben. Mil., MS., li. 4; I",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43454,7 +44081,7 @@
 "p": "570",
 "cite": "attles. Prov. St. Pap., Ben. Mil., MS., li. 4. F",
 "tier": "leaf",
-"shared": 10,
+"shared": 11,
 "caveat": "17"
 },
 {
@@ -43462,7 +44089,7 @@
 "p": "83",
 "cite": "y 1825. Prov. St. Pap., Ben. Mil, MS., li. 2; D",
 "tier": "leaf",
-"shared": 6,
+"shared": 7,
 "caveat": "17"
 }
 ]
