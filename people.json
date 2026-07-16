@@ -1,0 +1,633 @@
+[
+{
+"_meta": {
+"generated": "2026-07-11",
+"records_base": 14454,
+"caveat": "‘fl.’ = the span of dated catalog records matching the name forms as author/recipient. Outlier years usually mean a retrospective mention, a later copy, a homonym, or a record whose own date carries a low confidence flag — check the records, not this line. Counts are of DISTINCTIVE name forms; bare family surnames (Argüello, Carrillo, Castro, Estrada…) are deliberately left unattributed rather than guessed."
+}
+},
+{
+"canonical": "Portolá, Gaspar de",
+"variants": [
+"portola"
+],
+"role": "First governor of the Californias, 1767–1770; commander of the 1769 expedition.",
+"note": "No author/recipient hits: his term predates the dense part of the catalog (C-A 1 is a sparse survey). Retained for completeness.",
+"records": 0,
+"fl": "",
+"query": "portola"
+},
+{
+"canonical": "Fages, Pedro",
+"variants": [
+"fages"
+],
+"role": "Military commander 1770–74; governor 1782–1791.",
+"note": "",
+"records": 733,
+"fl": "1772–1796",
+"query": "fages"
+},
+{
+"canonical": "Rivera y Moncada, Fernando de",
+"variants": [
+"rivera y moncada"
+],
+"role": "Comandante of California 1774–1777; killed at the Colorado in the 1781 Yuma revolt.",
+"note": "Matched on the full surname only; bare “Rivera” is ambiguous.",
+"records": 11,
+"fl": "1776–1784",
+"query": "rivera y moncada"
+},
+{
+"canonical": "Neve, Felipe de",
+"variants": [
+"neve"
+],
+"role": "Governor 1775–1782; founded San José & Los Angeles; author of the 1779 Reglamento.",
+"note": "",
+"records": 286,
+"fl": "1775–1784",
+"query": "neve"
+},
+{
+"canonical": "Romeu, José Antonio de",
+"variants": [
+"romeu"
+],
+"role": "Governor 1791–1792; died in office at Monterey.",
+"note": "",
+"records": 102,
+"fl": "1791–1793",
+"query": "romeu"
+},
+{
+"canonical": "Arrillaga, José Joaquín de",
+"variants": [
+"arrillaga"
+],
+"role": "Acting governor 1792–94 & 1800–04, proprietary 1804–1814; earlier lieutenant-governor at Loreto; died at Soledad 1814.",
+"note": "",
+"records": 1360,
+"fl": "1781–1823",
+"query": "arrillaga"
+},
+{
+"canonical": "Borica, Diego de",
+"variants": [
+"borica"
+],
+"role": "Governor 1794–1800; founder of Villa de Branciforte.",
+"note": "",
+"records": 1894,
+"fl": "1790–1822",
+"query": "borica"
+},
+{
+"canonical": "Solá, Pablo Vicente de",
+"variants": [
+"sola"
+],
+"role": "Last Spanish governor, 1815–1822.",
+"note": "Deaccented 'sola' can collide with 'Soledad' fragments; matched as a standalone name.",
+"records": 242,
+"fl": "1796–1824",
+"query": "sola"
+},
+{
+"canonical": "Argüello, Luis Antonio",
+"variants": [
+"luis arguello",
+"luis antonio arguello"
+],
+"role": "SF comandante; first Mexican-era governor 1822–1825; son of José Darío.",
+"note": "",
+"records": 106,
+"fl": "1801–1833",
+"query": "luis antonio arguello|luis arguello"
+},
+{
+"canonical": "Echeandía, José María de",
+"variants": [
+"echeandia"
+],
+"role": "Governor 1825–1831; author of the pioneering 1831 secularization decree.",
+"note": "",
+"records": 239,
+"fl": "1781–1835",
+"query": "echeandia"
+},
+{
+"canonical": "Victoria, Manuel",
+"variants": [
+"victoria"
+],
+"role": "Governor 1831, deposed; opponent of Echeandía's secularization.",
+"note": "'Victoria' also appears as a first name and in ship names — counts approximate.",
+"records": 354,
+"fl": "1827–1838",
+"query": "victoria"
+},
+{
+"canonical": "Figueroa, José",
+"variants": [
+"figueroa"
+],
+"role": "Governor 1833–1835; the gradualist secularization reglamento; died in office.",
+"note": "",
+"records": 198,
+"fl": "1825–1844",
+"query": "figueroa"
+},
+{
+"canonical": "Alvarado, Juan Bautista",
+"variants": [
+"alvarado"
+],
+"role": "Governor 1836–1842 (the 1836 revolution).",
+"note": "⚠ Early hits (1780s–1800s) are earlier Alvarados — including Sgt. Juan Bautista Alvarado, the governor’s grandfather. The governor’s own records begin in the late 1820s.",
+"records": 400,
+"fl": "1789–1845",
+"query": "alvarado"
+},
+{
+"canonical": "Micheltorena, Manuel",
+"variants": [
+"micheltorena"
+],
+"role": "Governor 1842–1845; expelled after the Cahuenga campaign.",
+"note": "",
+"records": 146,
+"fl": "1843–1845",
+"query": "micheltorena"
+},
+{
+"canonical": "Pico, Pío",
+"variants": [
+"pio pico"
+],
+"role": "Last Mexican governor, 1845–46; earlier Diputación vocal.",
+"note": "",
+"records": 40,
+"fl": "1826–1846",
+"query": "pio pico"
+},
+{
+"canonical": "Pico, Andrés",
+"variants": [
+"andres pico"
+],
+"role": "Militia commander (San Pasqual, 1846); Pío's brother.",
+"note": "",
+"records": 1,
+"fl": "1840–1840",
+"query": "andres pico"
+},
+{
+"canonical": "Branciforte, Marqués de",
+"variants": [
+"branciforte"
+],
+"role": "Viceroy of New Spain 1794–1798; namesake of the Villa.",
+"note": "Matches include the Villa de Branciforte — the count mixes both; the entry exists to distinguish them.",
+"records": 266,
+"fl": "1794–1844",
+"query": "branciforte"
+},
+{
+"canonical": "Iturrigaray, José de",
+"variants": [
+"iturrigaray"
+],
+"role": "Viceroy of New Spain 1803–1808.",
+"note": "",
+"records": 132,
+"fl": "1803–1808",
+"query": "iturrigaray"
+},
+{
+"canonical": "Argüello, José Darío",
+"variants": [
+"jose dario arguello",
+"jose [dario] arguello",
+"jose arguello"
+],
+"role": "Soldier-officer: SF & Monterey comandante, LA founding comisionado (1786 titles), interim governor 1814–15; father of Luis & Santiago.",
+"note": "⚠ 'José Argüello' in Spanish-era records = José Darío. In 1840s San Diego records, 'José Ramón Argüello' is a DIFFERENT man — see that entry.",
+"records": 258,
+"fl": "1781–1822",
+"query": "jose [dario] arguello|jose dario arguello|jose arguello"
+},
+{
+"canonical": "Argüello, Santiago",
+"variants": [
+"santiago arguello",
+"s. arguello"
+],
+"role": "San Diego comandante, then Sub-Prefect (took charge Jul 1845); son of José Darío.",
+"note": "⚠ 1845–46 San Diego: 'S. Argüello' = Santiago (Sub-Prefect); 'José R. Argüello' = José Ramón (judge). The two sign similar documents — check the office named (adjudicated in the C-A 42 catalog).",
+"records": 437,
+"fl": "1814–1846",
+"query": "santiago arguello|s. arguello"
+},
+{
+"canonical": "Argüello, José Ramón",
+"variants": [
+"jose r. arguello",
+"jose ramon arguello"
+],
+"role": "San Diego alcalde/judge, elected Dec 1844; took the Sub-Prefecture Apr 1846.",
+"note": "⚠ Not Santiago — see the Santiago Argüello entry.",
+"records": 26,
+"fl": "1840–1846",
+"query": "jose ramon arguello|jose r. arguello"
+},
+{
+"canonical": "Goycoechea, Felipe de",
+"variants": [
+"goycoechea"
+],
+"role": "Santa Bárbara comandante 1784–1802.",
+"note": "",
+"records": 490,
+"fl": "1781–1812",
+"query": "goycoechea"
+},
+{
+"canonical": "Grajera, Antonio",
+"variants": [
+"grajera"
+],
+"role": "San Diego comandante 1793–1799.",
+"note": "",
+"records": 316,
+"fl": "1794–1799",
+"query": "grajera"
+},
+{
+"canonical": "Sal, Hermenegildo",
+"variants": [
+"hermenegildo sal",
+" sal "
+],
+"role": "SF/Monterey officer & habilitado; comandante roles through the 1790s; d. 1800.",
+"note": "Deaccented ' sal ' is matched as a standalone word to avoid 'salinas' etc.",
+"records": 326,
+"fl": "1773–1808",
+"query": "hermenegildo sal|sal"
+},
+{
+"canonical": "Carrillo, José Raimundo",
+"variants": [
+"raimundo carrillo",
+"raymundo carrillo",
+"r. carrillo"
+],
+"role": "Officer: Monterey, Santa Bárbara, San Diego comandancias (fl. 1780s–1800s).",
+"note": "One of several prominent Carrillos — see also Anastasio & Carlos Antonio.",
+"records": 165,
+"fl": "1785–1843",
+"query": "raimundo carrillo|raymundo carrillo|r. carrillo"
+},
+{
+"canonical": "Carrillo, Anastasio",
+"variants": [
+"anastacio carrillo",
+"anastasio carrillo"
+],
+"role": "Santa Bárbara officer & administrator (fl. 1820s–40s).",
+"note": "",
+"records": 72,
+"fl": "1820–1846",
+"query": "anastasio carrillo|anastacio carrillo"
+},
+{
+"canonical": "Carrillo, Carlos Antonio",
+"variants": [
+"carlos carrillo",
+"carlos antonio carrillo",
+"carlos ant. carrillo"
+],
+"role": "Rival 'governor' 1837–38 in the sur-norte conflict; brother of José Antonio.",
+"note": "",
+"records": 3,
+"fl": "1825–1840",
+"query": "carlos antonio carrillo|carlos ant. carrillo|carlos carrillo"
+},
+{
+"canonical": "Carrillo, José Antonio",
+"variants": [
+"jose antonio carrillo",
+"jose ant. carrillo"
+],
+"role": "LA politician; 1840 Santa Bárbara conspiracy; exiled 1845.",
+"note": "",
+"records": 10,
+"fl": "1827–1843",
+"query": "jose antonio carrillo|jose ant. carrillo"
+},
+{
+"canonical": "Guerra y Noriega, José de la",
+"variants": [
+"de la guerra"
+],
+"role": "Santa Bárbara captain & patriarch (fl. 1800s–40s).",
+"note": "⚠ 'Ministro de (la) Guerra' = the War Ministry, NOT this family — excluded from the count.",
+"records": 264,
+"fl": "1802–1845",
+"query": "de la guerra"
+},
+{
+"canonical": "Estrada, José Mariano",
+"variants": [
+"jose mariano estrada",
+"jose ma estrada",
+"jose m. estrada"
+],
+"role": "Monterey alférez/habilitado (fl. 1790s–1810s); executor of Arrillaga's estate.",
+"note": "The Estradas of Monterey recur across generations; forms with bare 'Estrada' left unattributed.",
+"records": 8,
+"fl": "1808–1827",
+"query": "jose mariano estrada|jose ma estrada|jose m. estrada"
+},
+{
+"canonical": "Estrada, José Ramón",
+"variants": [
+"jose r. estrada",
+"jose ramon estrada"
+],
+"role": "Monterey prefect (interim, 1841) — the 1841 prefecture proclamations.",
+"note": "",
+"records": 8,
+"fl": "1836–1843",
+"query": "jose ramon estrada|jose r. estrada"
+},
+{
+"canonical": "Estudillo, José María",
+"variants": [
+"jose ma estudillo",
+"jose maria estudillo"
+],
+"role": "Monterey comandante (fl. 1800s–20s).",
+"note": "",
+"records": 6,
+"fl": "1807–1821",
+"query": "jose maria estudillo|jose ma estudillo"
+},
+{
+"canonical": "Estudillo, José Antonio",
+"variants": [
+"jose anto estudillo",
+"jose antonio estudillo"
+],
+"role": "San Diego official (fl. 1820s–40s); treasurer, juez.",
+"note": "",
+"records": 1,
+"fl": "1840–1840",
+"query": "jose antonio estudillo|jose anto estudillo"
+},
+{
+"canonical": "Martínez, Ignacio",
+"variants": [
+"ignacio martinez"
+],
+"role": "SF comandante & habilitado (fl. 1820s–30s); handed Mission San Rafael's 1836 inventory to John Reed.",
+"note": "",
+"records": 158,
+"fl": "1801–1835",
+"query": "ignacio martinez"
+},
+{
+"canonical": "Ortega, José Francisco de",
+"variants": [
+"jose francisco ortega",
+"jose fco. ortega",
+"jose fco ortega"
+],
+"role": "Founding-era sergeant→lieutenant; Santa Bárbara company commander; the 1783 LA muster rolls.",
+"note": "",
+"records": 49,
+"fl": "1777–1792",
+"query": "jose francisco ortega|jose fco. ortega|jose fco ortega"
+},
+{
+"canonical": "Ortega, José Joaquín",
+"variants": [
+"jose joaquin ortega"
+],
+"role": "San Diego official, 1830s–40s — the 1839 'robber bands' report.",
+"note": "",
+"records": 17,
+"fl": "1839–1846",
+"query": "jose joaquin ortega"
+},
+{
+"canonical": "Ruiz, Francisco María",
+"variants": [
+"francisco ma ruiz",
+"francisco maria ruiz",
+"fran.co ma ruiz"
+],
+"role": "San Diego comandante (fl. 1800s–1820s).",
+"note": "",
+"records": 7,
+"fl": "1812–1822",
+"query": "francisco maria ruiz|francisco ma ruiz|fran.co ma ruiz"
+},
+{
+"canonical": "Sánchez, Vicente",
+"variants": [
+"vicente sanchez",
+"v. sanchez"
+],
+"role": "LA alcalde (fl. 1820s–40s), repeatedly embattled.",
+"note": "",
+"records": 153,
+"fl": "1826–1845",
+"query": "vicente sanchez|v. sanchez"
+},
+{
+"canonical": "Sánchez, José Antonio",
+"variants": [
+"jose sanchez",
+"jose antonio sanchez"
+],
+"role": "SF-company officer; commander of the failed first Estanislao expedition (1829).",
+"note": "'José Sánchez' forms may also catch a San Fernando friar (Fr. José Sánchez) — friar hits carry 'Fr.'",
+"records": 26,
+"fl": "1780–1833",
+"query": "jose antonio sanchez|jose sanchez"
+},
+{
+"canonical": "Zamorano, Agustín Vicente",
+"variants": [
+"zamorano"
+],
+"role": "Governor's secretary, comandante, and California's first printer (fl. 1825–42).",
+"note": "",
+"records": 35,
+"fl": "1826–1835",
+"query": "zamorano"
+},
+{
+"canonical": "Jimeno Casarín, Manuel",
+"variants": [
+"jimeno"
+],
+"role": "Government secretary under Alvarado & Micheltorena; the C-A 35 secretariat hand.",
+"note": "'Jimeno' alone can also be Fr. José Joaquín or Fr. Antonio Jimeno (Santa Bárbara friars) — friar hits carry 'Fr.'",
+"records": 201,
+"fl": "1829–1845",
+"query": "jimeno"
+},
+{
+"canonical": "Tapia, Tiburcio",
+"variants": [
+"tiburcio tapia",
+"t. tapia",
+"prefecto tapia"
+],
+"role": "LA merchant, alcalde, prefect (fl. 1830s–40s).",
+"note": "Distinct from Felipe Tapia (a 1780s San José poblador).",
+"records": 140,
+"fl": "1830–1844",
+"query": "prefecto tapia|tiburcio tapia|t. tapia"
+},
+{
+"canonical": "Domínguez, Manuel",
+"variants": [
+"m. dominguez",
+"manuel dominguez"
+],
+"role": "LA alcalde & ranchero (fl. 1830s–40s).",
+"note": "",
+"records": 115,
+"fl": "1828–1843",
+"query": "manuel dominguez|m. dominguez"
+},
+{
+"canonical": "Vallejo, Ignacio",
+"variants": [
+"ignacio vallejo"
+],
+"role": "Soldier-settler (fl. 1780s–1810s): San José water-works, Branciforte; father of M.G.",
+"note": "",
+"records": 46,
+"fl": "1785–1825",
+"query": "ignacio vallejo"
+},
+{
+"canonical": "Vallejo, Mariano Guadalupe",
+"variants": [
+"m. g. vallejo",
+"m.g. vallejo",
+"mariano g. vallejo",
+"mariano guadalupe vallejo"
+],
+"role": "Sonoma comandante-general of the northern frontier; the 1829 Estanislao campaign report; the 1833 Ross intelligence.",
+"note": "",
+"records": 41,
+"fl": "1824–1843",
+"query": "mariano guadalupe vallejo|mariano g. vallejo|m. g. vallejo|m.g. vallejo"
+},
+{
+"canonical": "Castro, Macario",
+"variants": [
+"macario castro",
+"macario de castro"
+],
+"role": "San José cabo/sergeant & comisionado (fl. 1780s–1800s).",
+"note": "",
+"records": 29,
+"fl": "1789–1806",
+"query": "macario de castro|macario castro"
+},
+{
+"canonical": "Castro, José",
+"variants": [
+"jose castro"
+],
+"role": "Comandante-general in the 1836 revolution & 1846 (Gavilán); prefect.",
+"note": "'José Castro' is common — 1780s–90s hits are other men (e.g., José Tiburcio Castro's family at San José).",
+"records": 38,
+"fl": "1824–1845",
+"query": "jose castro"
+},
+{
+"canonical": "Pérez Fernández, José",
+"variants": [
+"perez fernandez"
+],
+"role": "SF habilitado/officer, 1790s.",
+"note": "Distinct from José Fernández del Campo (1820s Monterey artillery) — separate entry.",
+"records": 147,
+"fl": "1792–1805",
+"query": "perez fernandez"
+},
+{
+"canonical": "Fernández del Campo, José",
+"variants": [
+"fernandez del campo"
+],
+"role": "Monterey artillery commander, late 1820s.",
+"note": "",
+"records": 23,
+"fl": "1827–1831",
+"query": "fernandez del campo"
+},
+{
+"canonical": "Hartnell, William E. P.",
+"variants": [
+"hartnell"
+],
+"role": "English merchant; Visitador General of the missions 1839–40 — the administrator instructions.",
+"note": "",
+"records": 15,
+"fl": "1833–1844",
+"query": "hartnell"
+},
+{
+"canonical": "Serra, Junípero",
+"variants": [
+"serra"
+],
+"role": "Franciscan father-president 1769–1784.",
+"note": "",
+"records": 8,
+"fl": "1776–1844",
+"query": "serra"
+},
+{
+"canonical": "Lasuén, Fermín Francisco de",
+"variants": [
+"lasuen"
+],
+"role": "Father-president 1785–1803; the ~1790 mission-property table; the 1797–98 foundings.",
+"note": "",
+"records": 22,
+"fl": "1781–1797",
+"query": "lasuen"
+},
+{
+"canonical": "Durán, Narciso",
+"variants": [
+"duran"
+],
+"role": "Father-president/prefect (fl. 1810s–1846); the secularization consultations.",
+"note": "",
+"records": 18,
+"fl": "1786–1845",
+"query": "duran"
+},
+{
+"canonical": "García Diego y Moreno, Francisco",
+"variants": [
+"garcia diego"
+],
+"role": "Zacatecan comisario-prefecto; first Bishop of the Californias (arr. 1841, d. 1846).",
+"note": "",
+"records": 3,
+"fl": "1842–1844",
+"query": "garcia diego"
+}
+]
