@@ -5,7 +5,7 @@ This repository contains two kinds of material under two licenses:
 ## Catalog data & text — CC BY 4.0
 The catalog records (summaries, abstracts-of-abstracts, dates, tags, editorial notes — `ca-catalog-export.csv`, `ca-catalog-export.json`, the data embedded in `index.html`, `crossrefs.json`, `bancroft.json`, and `transcriptions/`) are licensed under the **Creative Commons Attribution 4.0 International License** (https://creativecommons.org/licenses/by/4.0/).
 
-**Attribution:** Aodhan Coyne, *Archives of California — A Searchable Calendar of BANC MSS C-A (Savage Transcripts)*, https://aodhanm.github.io/archives-of-california/ (see `CITATION.cff`).
+**Attribution:** Aodhan Coyne, *Archives of California — A Searchable Calendar of BANC MSS C-A (Savage Transcripts)*, https://archivesofcalifornia.com/ (see `CITATION.cff`).
 
 ## Code — MIT
 The viewer and build code (the HTML/CSS/JavaScript of `index.html` exclusive of the embedded data) are licensed under the **MIT License**:

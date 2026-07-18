@@ -10,7 +10,7 @@
   "license": "cc-by-4.0",
   "related_identifiers": [
     {
-      "identifier": "https://aodhanm.github.io/archives-of-california/",
+      "identifier": "https://archivesofcalifornia.com/",
       "relation": "isSupplementedBy",
       "resource_type": "other",
       "scheme": "url"
@@ -24,6 +24,6 @@
     "archival calendar",
     "digital humanities"
   ],
-  "description": "An item-level calendar (finding aid) of the Archives of California (BANC MSS C-A, Bancroft Library, University of California, Berkeley) — Thomas Savage's 1876–77 copies and abstracts of the Spanish- and Mexican-era provincial government records of Alta California, whose originals were destroyed in the 1906 San Francisco earthquake and fire. Each record carries structured fields (date with confidence flag, author, recipient, place, themes, source type, both page-number systems) and a deep link to the corresponding manuscript page on the Internet Archive. Includes a resolver for the manuscript citations in Bancroft's History of California. Live interface: https://aodhanm.github.io/archives-of-california/",
+  "description": "An item-level calendar (finding aid) of the Archives of California (BANC MSS C-A, Bancroft Library, University of California, Berkeley) — Thomas Savage's 1876–77 copies and abstracts of the Spanish- and Mexican-era provincial government records of Alta California, whose originals were destroyed in the 1906 San Francisco earthquake and fire. Each record carries structured fields (date with confidence flag, author, recipient, place, themes, source type, both page-number systems) and a deep link to the corresponding manuscript page on the Internet Archive. Includes a resolver for the manuscript citations in Bancroft's History of California. Live interface: https://archivesofcalifornia.com/",
   "access_right": "open"
 }
