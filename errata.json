@@ -232,5 +232,23 @@
   "was": "\"Domingo Olvera vs. Fr. José Lapuente\" debt dispute.",
   "reads": "Case header (n266): \"diferencias entre el P. Lafuente y Domingo Otero.\"",
   "note": "Collateral to the ca6-d191 sample-audit finding. Class: name misread."
+ },
+ {
+  "key": "ca7-d458-n359",
+  "vol": "7",
+  "doc": "458",
+  "type": "catalog-correction",
+  "was": "The new mayordomo recorded as \"Velasco.\"",
+  "reads": "Full-resolution crop (blind sample audit #21/200, 2026-07-17): \"un nuevo Mayordomo en aquella Misión llamado VELARDE\" — twice on the leaf.",
+  "note": "Class: name misread. Incident substance (harboring the sirviente José Barajas, the sable, the arrest) verified exact."
+ },
+ {
+  "key": "ca8-d406-n440",
+  "vol": "8",
+  "doc": "406",
+  "type": "catalog-correction",
+  "was": "Dated 1797-05-13.",
+  "reads": "Full-resolution crop (blind sample audit #24/200, 2026-07-17): \"1797. Mayo 18. Orizaba\" — May 18, not 13.",
+  "note": "Class: terminal digit 8 misread (same class as ca5-d7's 18→12). Watch the 8s."
  }
 ]
