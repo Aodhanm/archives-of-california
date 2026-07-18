@@ -205,5 +205,32 @@
   "was": "Summary read Alférez Argüello's departure from the Santa Bárbara company as \"going as *sereno* to the San Francisco presidio company.\"",
   "reads": "Full-resolution crop (2026-07-17, blind sample audit #10/200): \"quien va de Ten.te á la compañía del Pres.º de S.n Fran.co\" — he went as TENIENTE (a promotion; José Darío Argüello's attested 1787 transfer), not as sereno.",
   "note": "Found by the blind 200-record sample audit (sample committed sha256:70765ef5…). Class: abbreviated-rank misread (Ten.te)."
+ },
+ {
+  "key": "ca5-d7-n7",
+  "vol": "5",
+  "doc": "7",
+  "type": "catalog-correction",
+  "was": "Dated 1789-05-12.",
+  "reads": "Full-resolution crop (blind sample audit #15/200, 2026-07-17): the dateline reads \"1789. Mayo 18\" — May 18, not 12.",
+  "note": "Class: day-digit misread (8 read as 2). Sample committed sha256:70765ef5…"
+ },
+ {
+  "key": "ca6-d191-n268",
+  "vol": "6",
+  "doc": "191",
+  "type": "catalog-correction",
+  "was": "The dispute principals recorded as \"Domingo Olvera\" vs \"Fr. José Lapuente.\"",
+  "reads": "The leaf (n268) and the case header (n266, full-resolution crops, 2026-07-17) read \"D. Domingo OTERO\" and \"el P. LAFUENTE\" — Otero, not Olvera; Lafuente, not Lapuente.",
+  "note": "Found by the blind sample audit (#16/200). Same correction applies to ca6-d190 (the dispute's opening record). Class: name misread."
+ },
+ {
+  "key": "ca6-d190-n266",
+  "vol": "6",
+  "doc": "190",
+  "type": "catalog-correction",
+  "was": "\"Domingo Olvera vs. Fr. José Lapuente\" debt dispute.",
+  "reads": "Case header (n266): \"diferencias entre el P. Lafuente y Domingo Otero.\"",
+  "note": "Collateral to the ca6-d191 sample-audit finding. Class: name misread."
  }
 ]
