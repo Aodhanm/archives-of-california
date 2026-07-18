@@ -250,5 +250,14 @@
   "was": "Dated 1797-05-13.",
   "reads": "Full-resolution crop (blind sample audit #24/200, 2026-07-17): \"1797. Mayo 18. Orizaba\" — May 18, not 13.",
   "note": "Class: terminal digit 8 misread (same class as ca5-d7's 18→12). Watch the 8s."
+ },
+ {
+  "key": "ca8-d65-n35",
+  "vol": "8",
+  "doc": "65",
+  "type": "catalog-correction",
+  "was": "Dated 1795-04-06.",
+  "reads": "Full-resolution crop (blind sample audit #25/200, 2026-07-17): \"1795 = Abril 8 = Sta Bárbara\" — April 8, not 6.",
+  "note": "THIRD terminal-digit-8 misread found by the audit (18→12, 18→13, 8→6): Savage's open-top 8 is the catalog's one systematic glyph weakness. A targeted 8-sweep is queued."
  }
 ]
