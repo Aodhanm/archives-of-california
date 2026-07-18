@@ -286,5 +286,14 @@
   "was": "Dated 1819-10-18 (October).",
   "reads": "Full-resolution crop (blind sample audit #41/200, 2026-07-17): \"1819 = Durango 18 de Dcbre\" — December; the letterform matches the same leaf's \"Diciembre 2\" entry, and the letter follows it as a Cosak-voyage update.",
   "note": "Class: 'bre-family month abbreviation (Dcbre read as October) — in the rating<=2 stratum the 2026-07-17 Setbre sweep's stated bounds did not cover."
+ },
+ {
+  "key": "ca14-d190-n218",
+  "vol": "14",
+  "doc": "190",
+  "type": "catalog-correction",
+  "was": "Scan pin n218 for the Thomas Pearce / Broughton mention (orig. p. xxii.~482).",
+  "reads": "n218 carries tomo pp. ~559–562 (San Diego fort works; Feb 1795 letters) — not this content. Page interpolation (n190 = p.428, n208 = p.531) places p.~482 near leaves n199–n200.",
+  "note": "Blind sample audit #44/200 (2026-07-18): the audit's first broken scan pin (43 prior pins correct). Survey-sample row; content to be re-located and re-pinned at the C-A 14 residual pass."
  }
 ]
