@@ -259,5 +259,32 @@
   "was": "Dated 1795-04-06.",
   "reads": "Full-resolution crop (blind sample audit #25/200, 2026-07-17): \"1795 = Abril 8 = Sta Bárbara\" — April 8, not 6.",
   "note": "THIRD terminal-digit-8 misread found by the audit (18→12, 18→13, 8→6): Savage's open-top 8 is the catalog's one systematic glyph weakness. A targeted 8-sweep is queued."
+ },
+ {
+  "key": "ca12-d50-n53",
+  "vol": "12",
+  "doc": "50",
+  "type": "catalog-correction",
+  "was": "Dated 1805-05-07 (May).",
+  "reads": "Full-resolution crop (blind sample audit #37/200, 2026-07-17): \"1805 Marzo 7. Méx.\" — March, not May.",
+  "note": "Class: Marzo/Mayo word confusion (new class)."
+ },
+ {
+  "key": "ca13-d209-n172",
+  "vol": "13",
+  "doc": "209",
+  "type": "catalog-correction",
+  "was": "\"Juan Antonio Maya\" arrived in the brig San Antonio, property of \"Don José Carvencia[?].\"",
+  "reads": "The leaf (n172) reads MAYO three times (incl. the signed postscript on the preceding letter), and CAVENECIA twice.",
+  "note": "Sample audit #39/200. Maya→Mayo = name misread; the flagged Carvencia[?] resolves to Cavenecia (the [?] did its job)."
+ },
+ {
+  "key": "ca13-d90-n84",
+  "vol": "13",
+  "doc": "90",
+  "type": "catalog-correction",
+  "was": "Dated 1819-10-18 (October).",
+  "reads": "Full-resolution crop (blind sample audit #41/200, 2026-07-17): \"1819 = Durango 18 de Dcbre\" — December; the letterform matches the same leaf's \"Diciembre 2\" entry, and the letter follows it as a Cosak-voyage update.",
+  "note": "Class: 'bre-family month abbreviation (Dcbre read as October) — in the rating<=2 stratum the 2026-07-17 Setbre sweep's stated bounds did not cover."
  }
 ]
