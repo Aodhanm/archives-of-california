@@ -49,7 +49,7 @@ Entries were produced by page-by-page reading of the digitized Savage volumes, d
 
 ## How to cite this catalog
 
-> Aodhan Coyne, *Archives of California — A Searchable Calendar of BANC MSS C-A (Savage Transcripts)*, https://aodhanm.github.io/archives-of-california/ (accessed [date]).
+> Aodhan Coyne, *Archives of California — A Searchable Calendar of BANC MSS C-A (Savage Transcripts)*, https://archivesofcalifornia.com/ (accessed [date]).
 
 Machine-readable metadata: `CITATION.cff`. **To cite a document**, use the per-record "Cite as" string — and always verify against the linked manuscript image first.
 
