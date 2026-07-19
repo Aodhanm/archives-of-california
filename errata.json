@@ -367,5 +367,23 @@
   "was": "The May 6, 1843 item placed at \"San José Misión\"; second orig-page value 457.",
   "reads": "Full-resolution crop (blind sample audit #93/200, 2026-07-18): \"1843 Mayo 6 Sta Ines (Mis.ⁿ)\" — SANTA INÉS — and the page reads 437.",
   "note": "Classes: place misread + page-digit (3↔5). The record's other items (Den/Dos Pueblos, Camarillo, Bases Orgánicas) verified verbatim."
+ },
+ {
+  "key": "ca34-d1147-n463",
+  "vol": "34",
+  "doc": "1147",
+  "type": "catalog-correction",
+  "was": "Second item rendered as the subject \"wanders about with a passport\"; principal guessed as \"Pascual Batista[?].\"",
+  "reads": "Full-resolution crop (blind sample audit #97/200, 2026-07-18): \"Que NAVARRO está con pasaporte\" — a second named person, Navarro, holds the passport; and the principal reads \"Pascual BOTILLER.\"",
+  "note": "Classes: name-as-phrase misconstrual + flagged-name resolution (the [?] did its job on Botiller; Navarro was dropped entirely)."
+ },
+ {
+  "key": "ca35-d317-n105",
+  "vol": "35",
+  "doc": "317",
+  "type": "catalog-correction",
+  "was": "Proposed Juez de Paz propietario guessed as \"Enrique Domínguez[?].\"",
+  "reads": "Full-resolution crop (blind sample audit #102/200, 2026-07-18): \"á Enrique Domingo FITCH\" — Henry Delano Fitch, the San Diego merchant.",
+  "note": "A flagged uncertainty resolving to a significant identification — filed as a resolution, not an error; the record's [?] flag worked as designed."
  }
 ]
