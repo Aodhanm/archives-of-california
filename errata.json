@@ -385,5 +385,14 @@
   "was": "Proposed Juez de Paz propietario guessed as \"Enrique Domínguez[?].\"",
   "reads": "Full-resolution crop (blind sample audit #102/200, 2026-07-18): \"á Enrique Domingo FITCH\" — Henry Delano Fitch, the San Diego merchant.",
   "note": "A flagged uncertainty resolving to a significant identification — filed as a resolution, not an error; the record's [?] flag worked as designed."
+ },
+ {
+  "key": "ca37-d266-n122",
+  "vol": "37",
+  "doc": "266",
+  "type": "catalog-correction",
+  "was": "Dated 1840-11-20.",
+  "reads": "Full-resolution crop (blind sample audit #108/200, 2026-07-18): \"1840 - Nov.ᵉ 30 - Mont.\" — November 30, not 20.",
+  "note": "Class: day-digit misread (3 read as 2) — the audit's digit family now spans 8→2/3/6, 9→4, 3→2."
  }
 ]
