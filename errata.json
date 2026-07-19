@@ -448,5 +448,14 @@
   "was": "Recipient recorded as the Minister of War.",
   "reads": "The docket (blind sample audit #138/200, 2026-07-19) reads \"Argüello al Mntro de ESTADO: Naufragio de un Buqe\" — the letter goes to the Minister of State, forwarding the parte rendered to the Minister of War.",
   "note": "Class: recipient confusion (inner addressee promoted to recipient). The 'Naufragio de un Buque' docket, date, and pin verified exact."
+ },
+ {
+  "key": "ca48-d849-n305",
+  "vol": "48",
+  "doc": "849",
+  "type": "catalog-correction",
+  "was": "28 licencias \"para individuos de la Compañía de S. Fernando.\"",
+  "reads": "Full-resolution crops (blind sample audit #146/200, 2026-07-19): the body reads \"pª indivs de Compª de SU MANDO\" — of his command — and the addressee line reads \"Comᵗᵉ de Compª de Cabª permanente de Mon[terrey].\"",
+  "note": "Class: phrase misread ('su mando' → 'S. Fernando'), inventing a unit identification. The 28-licencias substance and pins verified exact."
  }
 ]
