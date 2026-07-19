@@ -466,5 +466,23 @@
   "was": "4 barrels of aguardiente valued at $440.",
   "reads": "Full-resolution crop (blind sample audit #159/200, 2026-07-19): \"4 Barriles de aguardiente . . . $240.00\" — and the account's own arithmetic confirms it (240 + 500 in efectos del buque 'Alerta' = the stated $740 total).",
   "note": "Class: digit misread (2→4) — the glyph family's first appearance in a dollar amount rather than a date."
+ },
+ {
+  "key": "ca52-d6-n35",
+  "vol": "52",
+  "doc": "6",
+  "type": "catalog-correction",
+  "was": "Dated 1794-11-03.",
+  "reads": "Full-resolution crop (blind sample audit #163/200, 2026-07-19): \"1804 - Nov.ᵉ 3 - Mont.ʸ\" — 1804, corroborated by the seed list's inclusion of Misión Santa Inés (founded 1804).",
+  "note": "Class: year-digit misread (decade digit), caught by glyph + foundation-date constraint. Third year-level error of the audit."
+ },
+ {
+  "key": "ca54-d1077-n114",
+  "vol": "54",
+  "doc": "1077",
+  "type": "catalog-correction",
+  "was": "Habilitado General guessed as \"Manuel Larcaba[?].\"",
+  "reads": "The leaf (blind sample audit #168/200) reads \"Man. CARCABA, Habilit.º Gen.\" — Manuel Cárcaba, the established habilitado general.",
+  "note": "A flagged uncertainty resolving to a known figure — filed as a resolution; the [?] flag worked."
  }
 ]
