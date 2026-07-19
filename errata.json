@@ -322,5 +322,14 @@
   "was": "Scan pin n440 / orig. p. 334+ for Figueroa's formal Tulares-expedition Instructions to Alf. Dámaso Antonio Rodríguez.",
   "reads": "n440–n441 carry the surrounding cluster (Villalpando extradition, Figueroa→LA alcalde, Carrillo→Figueroa, pp. 498–504) — the formal Instructions are not at the pin, and '334+' matches no page in the cluster.",
   "note": "Blind sample audit #59/200: the audit's second broken pin. The expedition and Rodríguez's command are corroborated at n441; the Instructions document needs re-location at a C-A 19 residual pass."
+ },
+ {
+  "key": "ca23-d76-n30",
+  "vol": "23",
+  "doc": "76",
+  "type": "catalog-correction",
+  "was": "Dated 1785-02-14.",
+  "reads": "Full-resolution crop (blind sample audit #72/200, 2026-07-18): \"1785 - Feb.º 19 - Mont.\" — February 19, not 14.",
+  "note": "Class: day-digit misread (9 read as 4) — a second digit pair alongside the audit's three 8-misreads. The 'toma del Pueblo… Vallejo el Director' quotation verified exact."
  }
 ]
