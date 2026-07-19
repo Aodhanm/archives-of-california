@@ -430,5 +430,14 @@
   "was": "Dated 1845-03-01.",
   "reads": "Full-resolution crop (blind sample audit #122/200, 2026-07-19): \"1845 - Marzo 17 - Los Angeles\" — March 17, not 1; the leaf's page sequence (237–38, 239, 240–41) runs chronologically Mar 1 → 12 → 17, corroborating.",
   "note": "Class: day-digit (17 read as 1 — a dropped second digit)."
+ },
+ {
+  "key": "ca43-d23-n196",
+  "vol": "43",
+  "doc": "23",
+  "type": "catalog-correction",
+  "was": "Quoted the militia bando as issued 'en virtud de la Superior orden de 11 de Mayo…'",
+  "reads": "Full-resolution crop (blind sample audit #127/200, 2026-07-19): the leaf reads \"en virtud de la Sup.ᵐᵃ [Suprema] orden de 11 de Mayo últ.º\" — Suprema, not Superior.",
+  "note": "Class: abbreviation mis-expanded inside quotation marks (third quote-class instance). Also: the document sits at p.276; the recorded 276–277 includes the following entry's page."
  }
 ]
