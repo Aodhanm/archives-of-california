@@ -358,5 +358,14 @@
   "was": "\"Requests confirmation of his new post on the pueblo's behalf, pledging obedience.\"",
   "reads": "The leaf reads \"Lo felicita á nombre del pueblo por su nuevo empleo protestándole obediencia\" — the alcalde CONGRATULATES the (new) Governor on the GOVERNOR'S post, pledging obedience; nothing is requested.",
   "note": "Blind sample audit #89/200: the audit's first substance misconstrual (subject/object inverted). Date, persons, and pin all correct."
+ },
+ {
+  "key": "ca33-d174-n163",
+  "vol": "33",
+  "doc": "174",
+  "type": "catalog-correction",
+  "was": "The May 6, 1843 item placed at \"San José Misión\"; second orig-page value 457.",
+  "reads": "Full-resolution crop (blind sample audit #93/200, 2026-07-18): \"1843 Mayo 6 Sta Ines (Mis.ⁿ)\" — SANTA INÉS — and the page reads 437.",
+  "note": "Classes: place misread + page-digit (3↔5). The record's other items (Den/Dos Pueblos, Camarillo, Bases Orgánicas) verified verbatim."
  }
 ]
