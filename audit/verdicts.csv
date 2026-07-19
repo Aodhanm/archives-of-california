@@ -110,3 +110,6 @@ n,ca,doc,date,persons,substance,pin,note
 109,37,325,OK,OK,OK,OK,"Abril 5 Bandini; Uribe destierro a Sonora; quoted diligencias phrase VERBATIM; pp.737-8"
 110,37,424,ERR,OK,OK,OK,"YEAR ERROR: full-res '1839. Mont.' — record says 1837 (9->7 new digit pair); prefecture-era context corroborates 1839; aprehension del reo verbatim; pp.17-18"
 111,37,606,OK,OK,OK,OK,"1843 grouped: disposiciones judiciales + reo Richards San Blas + 9 desertores Batallon de Californias; pp.694-701"
+112,38,212,OK,OK,OK,OK,"1842 Dbre 26; Estrada names Castro Secretario, 700 ps anuales; p.1070 verbatim"
+113,38,213,OK,OK,OK,OK,"1843 Nbre 7; Castanares; bienes semovientes, Las Llagas/Hernandez denounced baldio; pp.1081-82"
+114,38,30,ERR,OK,OK,OK,"DATE ERROR: full-res 'Junio 19' — record says June 14; SECOND 9-4 digit misread (cf ca23-d76); comandantes-prefectos 40 pesos substance exact; p.73"

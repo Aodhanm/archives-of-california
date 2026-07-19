@@ -403,5 +403,14 @@
   "was": "Dated 1837-04-07.",
   "reads": "Full-resolution crop (blind sample audit #110/200, 2026-07-18): the block header reads \"1839. Mont.\" — and the content (Peña taking possession of the Prefectura, Francisco Castillo named its secretary) belongs to the 1839 prefecture rollout; prefectures did not operate in California in 1837.",
   "note": "Class: year-digit misread (9 read as 7 — a new pair in the digit family), with content-consistency corroboration."
+ },
+ {
+  "key": "ca38-d30-n12",
+  "vol": "38",
+  "doc": "30",
+  "type": "catalog-correction",
+  "was": "Dated 1842-06-14.",
+  "reads": "Full-resolution crop (blind sample audit #114/200, 2026-07-18): \"1842, Junio 19, México\" — June 19, not 14.",
+  "note": "Class: day-digit misread, the second 9→4 in the audit (with ca23-d76) — a recurrent pair in Savage's hand."
  }
 ]
