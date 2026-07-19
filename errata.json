@@ -412,5 +412,14 @@
   "was": "Dated 1842-06-14.",
   "reads": "Full-resolution crop (blind sample audit #114/200, 2026-07-18): \"1842, Junio 19, México\" — June 19, not 14.",
   "note": "Class: day-digit misread, the second 9→4 in the audit (with ca23-d76) — a recurrent pair in Savage's hand."
+ },
+ {
+  "key": "ca41-d70-n64",
+  "vol": "41",
+  "doc": "70",
+  "type": "catalog-correction",
+  "was": "Quoted Figueroa as agreeing to avoid burdens that would 'aniquilar la naciente y única industria del país.'",
+  "reads": "Full-resolution crop (blind sample audit #120/200, 2026-07-19): the leaf — itself quoting the letter — reads \"por cuya exacción se ARRUINARÍA la naciente y única industria del país.\"",
+  "note": "Class: misquoted word inside quotation marks (second instance, with ca31-d7). The record's substance (alcabalas without oppressive burdens; afora by value; uniformize; consult Mexico) is otherwise exact."
  }
 ]
