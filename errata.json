@@ -457,5 +457,14 @@
   "was": "28 licencias \"para individuos de la Compañía de S. Fernando.\"",
   "reads": "Full-resolution crops (blind sample audit #146/200, 2026-07-19): the body reads \"pª indivs de Compª de SU MANDO\" — of his command — and the addressee line reads \"Comᵗᵉ de Compª de Cabª permanente de Mon[terrey].\"",
   "note": "Class: phrase misread ('su mando' → 'S. Fernando'), inventing a unit identification. The 28-licencias substance and pins verified exact."
+ },
+ {
+  "key": "ca51-d32-n24",
+  "vol": "51",
+  "doc": "32",
+  "type": "catalog-correction",
+  "was": "4 barrels of aguardiente valued at $440.",
+  "reads": "Full-resolution crop (blind sample audit #159/200, 2026-07-19): \"4 Barriles de aguardiente . . . $240.00\" — and the account's own arithmetic confirms it (240 + 500 in efectos del buque 'Alerta' = the stated $740 total).",
+  "note": "Class: digit misread (2→4) — the glyph family's first appearance in a dollar amount rather than a date."
  }
 ]
