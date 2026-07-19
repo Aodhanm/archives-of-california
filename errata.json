@@ -331,5 +331,32 @@
   "was": "Dated 1785-02-14.",
   "reads": "Full-resolution crop (blind sample audit #72/200, 2026-07-18): \"1785 - Feb.º 19 - Mont.\" — February 19, not 14.",
   "note": "Class: day-digit misread (9 read as 4) — a second digit pair alongside the audit's three 8-misreads. The 'toma del Pueblo… Vallejo el Director' quotation verified exact."
+ },
+ {
+  "key": "ca29-d30-n37",
+  "vol": "29",
+  "doc": "30",
+  "type": "catalog-correction",
+  "was": "Author recorded as M. G. Vallejo (the Padrés sumaria letter).",
+  "reads": "Full-resolution crop (blind sample audit #85/200, 2026-07-18): the header reads \"Ygn.º del Valle á Figueroa\" — IGNACIO DEL VALLE, and the content (the mission-reconnaissance and matanzas commissions, his attachment to the SF comandancia) confirms it.",
+  "note": "Class: name misattribution — materially changes the actor; the People-register counts for Vallejo/del Valle are each off by one until re-ingest."
+ },
+ {
+  "key": "ca31-d7-n95",
+  "vol": "31",
+  "doc": "7",
+  "type": "catalog-correction",
+  "was": "Quoted the adjacent notice as LA \"libre de peligro de incursión.\"",
+  "reads": "The leaf (full-resolution crop) reads \"libre de peligro de invas.ⁿ\" — invasión, \"pr José Castro.\"",
+  "note": "Blind sample audit #88/200. Class: misquoted word inside quotation marks — quotes must match the leaf exactly; the Stearns Junta-convening substance is otherwise accurate."
+ },
+ {
+  "key": "ca32-d5-n15",
+  "vol": "32",
+  "doc": "5",
+  "type": "catalog-correction",
+  "was": "\"Requests confirmation of his new post on the pueblo's behalf, pledging obedience.\"",
+  "reads": "The leaf reads \"Lo felicita á nombre del pueblo por su nuevo empleo protestándole obediencia\" — the alcalde CONGRATULATES the (new) Governor on the GOVERNOR'S post, pledging obedience; nothing is requested.",
+  "note": "Blind sample audit #89/200: the audit's first substance misconstrual (subject/object inverted). Date, persons, and pin all correct."
  }
 ]
