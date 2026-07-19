@@ -502,5 +502,13 @@
   "was": "Author guessed as \"Fr. de Chinilla[?].\"",
   "reads": "Full-resolution crop (blind sample audit #192/200, 2026-07-19): \"J.J. de ARRILLAGA al comisario de S.n Blas\" — José Joaquín de Arrillaga, who in the same entry announces taking interim command on Gov. Romeu's death (Loreto, 1792).",
   "note": "A flagged uncertainty resolving to a major identification — filed as a resolution; the [?] flag worked as designed."
+ },
+ {
+  "key": "ca63-d483-n351",
+  "vol": "63",
+  "doc": "483",
+  "type": "catalog-correction",
+  "was": "Dated 30 April 1848.",
+  "reads": "Full-resolution crop (blind sample audit #199/200, 2026-07-19): the dateline reads “1848. Agosto 30. San Francisco” — AUGUST. Corroborated by content: Leavenworth's demand on H.W. Halleck as administrator of the Leidesdorff estate cannot predate Leidesdorff's death on 18 May 1848."
  }
 ]

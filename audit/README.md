@@ -44,3 +44,25 @@ Accumulate in `verdicts.csv` (n, ca, doc, date, persons, substance, pin, note). 
 - **2026-07-19 — tranche 28: records 169–174** (C-A 54–56). **PERFECT 6/6 — fifth perfect tranche** (Arnell-y-Macala-(sic)→Hartnell-McCulloch resolution the highlight). Running (174): date 12 (6.9), persons 5, substance 10, pins 2 = 29. Resume record 175.
 - **2026-07-19 — tranche 29: records 175–180** (C-A 56–58). **1 ERR: ca56-d50 José A. CARRILLO not Amézquita** (line-break misread — new name mechanism). Alamán-vs-Gobⁿ PART; faint-leaf defect verified; bounded-block partials (ca58-d16). Running (180): date 12, persons 5, substance 11+2UV, pins 2 ERR/13 PART = 30. **90pct. Resume record 181.**
 - **2026-07-19 — tranche 30: records 181–186** (C-A 58–60). **PERFECT 6/6 — sixth perfect tranche.** Running (186): date 12 (6.5), persons 5 (2.7), substance 11 (5.9), pins 2 = 30. Resume record 187; **14 to go.**
+- **2026-07-19 — tranche 31: records 187–192** (C-A 60–62). **0 ERR** (1 persons PART: ayuntamiento-vs-named-electors). ⭐ Chinilla[?]→**J.J. de ARRILLAGA** resolution (interim-command context proof). Running (192): date 12, persons 5, substance 11+2UV, pins 2 ERR/13 PART = 30. **FINAL TRANCHE NEXT: records 193–200.**
+- **2026-07-19 — FINAL tranche 32: records 193–200** (C-A 62–63). **1 ERR: ca63-d483 month AGOSTO→April** (Leidesdorff-estate demand; crop + death-date constraint — an April demand on the estate of a man who died 18 May 1848 is impossible). 2 PIN PART (C-A 63 documented slot drift); ca63-d400 Sta Clara mission-sale dossier verified via probe; #200 (Castro→Mason vindication) clean.
+
+## ✅ FINAL RESULT — audit complete 2026-07-19, 200/200 graded
+| field | ERR | rate | PART | UV |
+|---|---|---|---|---|
+| DATE | 13 | **6.5%** | 7 | 3 |
+| PERSONS | 5 | **2.5%** | 10 | — |
+| SUBSTANCE | 11 | **5.5%** | 2 | 2 |
+| PIN | 2 | **1.0%** | 13 | — |
+
+- **31 field-level errors across 31 distinct records (15.5% of records carry ≥1 error); 146/200 (73%) exact on all four fields.** PARTs are logged imprecisions (slot drift, month-only dates, office-for-person recipient fields), not misreadings.
+- **Error classes (all crop-proven):** digit-glyph family (open-top 8→2/3/6, 9→4/7, 3→2, decade 1804→1794, one dollar amount $440→$240); month words (Marzo→Mayo, Dcbre→Oct, Setbre-class, Agosto→April); year slips (1813→1812, 1839→1837); name misreads (Otero/Olvera, Mayo/Maya, Medrano/Mederos, Velarde/Velasco, line-break A=/Carrillo→Amézquita, su-mando→S.Fernando); misquotes-in-quotes (invasión, arruinaría, Suprema); 1 misconstrual (ca32-d5 inverted felicitation); 1 misattribution (del Valle→Vallejo); 2 broken pins. **No record misidentified what a document is.**
+- **Method acquitted as well as convicted:** 3 auditor scale-2 doubts overturned at full resolution; 8 flagged [?] guesses resolved (the flag did its job) and filed as resolutions, not errors.
+- Statement auto-computes from this worksheet each build (completed framing at n≥200). Artifacts ship in repo `audit/`.
+
+## Post-audit follow-ups (queued)
+1. **Day-digit sweep** — every ambiguous digit pair class-wide (open-top 8s, 9/4, 9/7, 3/2), incl. dollar amounts with arithmetic self-checks.
+2. **Quotes-vs-leaf sweep** — every summary containing quotation marks re-read against its leaf (3 misquotes-in-quotes found in 200).
+3. **Re-pins:** ca14-d190 (~19 leaves off) + ca19-d232 (Tulares instructions, cluster pp.498–504).
+4. C-A 33 Leese/Spear residual; ca34 addressee-in-author → issue register.
+5. Errata→catalog application pass (decide policy: correct records in place w/ provenance note vs. register-only, current practice).
