@@ -304,5 +304,23 @@
   "was": "Dated 1812-04-01.",
   "reads": "Full-resolution crop (blind sample audit #52/200, 2026-07-18): \"1813. Ab.l 1. Mont\" — April 1, 1813. The return reports strength \"durante año de 1812\" (a year-end return filed the following April), and follows a Dec 1812 entry on the same leaf.",
   "note": "First year-level error found by the audit. Class: year-digit misread, likely seduced by the content's own year."
+ },
+ {
+  "key": "ca19-d162-n292",
+  "vol": "19",
+  "doc": "162",
+  "type": "catalog-correction",
+  "was": "Sargento \"José Mª Mederos\" (SB artillery detachment return).",
+  "reads": "Full-resolution crop (blind sample audit #58/200, 2026-07-18): \"Sarg.to José Mª MEDRANO\" — corroborated by the same sergeant on C-A 18's leaf n403 (SF detachment, 1828).",
+  "note": "Class: name misread."
+ },
+ {
+  "key": "ca19-d232-n440",
+  "vol": "19",
+  "doc": "232",
+  "type": "catalog-correction",
+  "was": "Scan pin n440 / orig. p. 334+ for Figueroa's formal Tulares-expedition Instructions to Alf. Dámaso Antonio Rodríguez.",
+  "reads": "n440–n441 carry the surrounding cluster (Villalpando extradition, Figueroa→LA alcalde, Carrillo→Figueroa, pp. 498–504) — the formal Instructions are not at the pin, and '334+' matches no page in the cluster.",
+  "note": "Blind sample audit #59/200: the audit's second broken pin. The expedition and Rodríguez's command are corroborated at n441; the Instructions document needs re-location at a C-A 19 residual pass."
  }
 ]
