@@ -484,5 +484,14 @@
   "was": "Habilitado General guessed as \"Manuel Larcaba[?].\"",
   "reads": "The leaf (blind sample audit #168/200) reads \"Man. CARCABA, Habilit.º Gen.\" — Manuel Cárcaba, the established habilitado general.",
   "note": "A flagged uncertainty resolving to a known figure — filed as a resolution; the [?] flag worked."
+ },
+ {
+  "key": "ca56-d50-n26",
+  "vol": "56",
+  "doc": "50",
+  "type": "catalog-correction",
+  "was": "Documents needed \"from C. Amézquita\" to compile the inspection accounts.",
+  "reads": "Full-resolution crop (blind sample audit #176/200, 2026-07-19): the line breaks \"al C. José A=\" / \"CARRILLO\" — the documents are to be requested from José A. CARRILLO.",
+  "note": "Class: name misread across a hyphenated line break — a new mechanism in the name family."
  }
 ]
