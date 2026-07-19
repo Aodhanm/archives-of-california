@@ -439,5 +439,14 @@
   "was": "Quoted the militia bando as issued 'en virtud de la Superior orden de 11 de Mayo…'",
   "reads": "Full-resolution crop (blind sample audit #127/200, 2026-07-19): the leaf reads \"en virtud de la Sup.ᵐᵃ [Suprema] orden de 11 de Mayo últ.º\" — Suprema, not Superior.",
   "note": "Class: abbreviation mis-expanded inside quotation marks (third quote-class instance). Also: the document sits at p.276; the recorded 276–277 includes the following entry's page."
+ },
+ {
+  "key": "ca46-d30-n26",
+  "vol": "46",
+  "doc": "30",
+  "type": "catalog-correction",
+  "was": "Recipient recorded as the Minister of War.",
+  "reads": "The docket (blind sample audit #138/200, 2026-07-19) reads \"Argüello al Mntro de ESTADO: Naufragio de un Buqe\" — the letter goes to the Minister of State, forwarding the parte rendered to the Minister of War.",
+  "note": "Class: recipient confusion (inner addressee promoted to recipient). The 'Naufragio de un Buque' docket, date, and pin verified exact."
  }
 ]
