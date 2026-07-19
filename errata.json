@@ -493,5 +493,14 @@
   "was": "Documents needed \"from C. Amézquita\" to compile the inspection accounts.",
   "reads": "Full-resolution crop (blind sample audit #176/200, 2026-07-19): the line breaks \"al C. José A=\" / \"CARRILLO\" — the documents are to be requested from José A. CARRILLO.",
   "note": "Class: name misread across a hyphenated line break — a new mechanism in the name family."
+ },
+ {
+  "key": "ca62-d27-n47",
+  "vol": "62",
+  "doc": "27",
+  "type": "catalog-correction",
+  "was": "Author guessed as \"Fr. de Chinilla[?].\"",
+  "reads": "Full-resolution crop (blind sample audit #192/200, 2026-07-19): \"J.J. de ARRILLAGA al comisario de S.n Blas\" — José Joaquín de Arrillaga, who in the same entry announces taking interim command on Gov. Romeu's death (Loreto, 1792).",
+  "note": "A flagged uncertainty resolving to a major identification — filed as a resolution; the [?] flag worked as designed."
  }
 ]
