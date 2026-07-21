@@ -510,5 +510,13 @@
   "type": "catalog-correction",
   "was": "Dated 30 April 1848.",
   "reads": "Full-resolution crop (blind sample audit #199/200, 2026-07-19): the dateline reads “1848. Agosto 30. San Francisco” — AUGUST. Corroborated by content: Leavenworth's demand on H.W. Halleck as administrator of the Leidesdorff estate cannot predate Leidesdorff's death on 18 May 1848."
+ },
+ {
+  "key": "ca57-d136-n163",
+  "vol": "57",
+  "doc": "136",
+  "type": "catalog-correction",
+  "was": "1845 Texas-annexation manifesto quoted as «…por los Estados del Norte-América» and «para vindicar su honor ultrajado y recobrar el territorio usurpado».",
+  "reads": "Quotes-vs-leaf sweep (2026-07-20), leaf n163: the docket reads «Anexación de Tejas, por el Gob.º Norte-Am.º», and the manuscript quotes «…para vindicar su honor ultrajado, y relevarse del intolerante territorio que se ha ocupado» — the words «recobrar»/«usurpado» are not on the leaf. Two misquotes-inside-quotation-marks corrected."
  }
 ]

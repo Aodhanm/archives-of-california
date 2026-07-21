@@ -61,7 +61,7 @@ Accumulate in `verdicts.csv` (n, ca, doc, date, persons, substance, pin, note). 
 - Statement auto-computes from this worksheet each build (completed framing at n≥200). Artifacts ship in repo `audit/`.
 
 ## Post-audit follow-ups (queued)
-1. **Day-digit sweep** — every ambiguous digit pair class-wide (open-top 8s, 9/4, 9/7, 3/2), incl. dollar amounts with arithmetic self-checks.
+1. ✅ **Day-digit sweep DONE 2026-07-20** ([[ca-day-digit-sweep-2026-07-20]]): the high-value terminal-8 day class (17 ★4–5 + 1 ★2) leaf-checked, **18/18 correct** — the audit's #1 class does not reproduce in the scrutinized tier (mirrors the 15/15 month-sweep). All 18 now `verified:`-stamped. Dollar-arithmetic auto-check evaluated + rejected as a build guard (abstracts aggregate leaves + reales notation); ca17-d25 (off 20) → verification tracker. Remaining exposure: days ending 9/4/3 at ★4–5 and the ★0–3 mass rest on the published DATE 6.5% rate.
 2. **Quotes-vs-leaf sweep** — every summary containing quotation marks re-read against its leaf (3 misquotes-in-quotes found in 200).
 3. **Re-pins:** ca14-d190 (~19 leaves off) + ca19-d232 (Tulares instructions, cluster pp.498–504).
 4. C-A 33 Leese/Spear residual; ca34 addressee-in-author → issue register.
