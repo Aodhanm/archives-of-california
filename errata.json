@@ -293,7 +293,7 @@
   "doc": "190",
   "type": "catalog-correction",
   "was": "Scan pin n218 for the Thomas Pearce / Broughton mention (orig. p. xxii.~482).",
-  "reads": "n218 carries tomo pp. ~559–562 (San Diego fort works; Feb 1795 letters) — not this content. Page interpolation (n190 = p.428, n208 = p.531) places p.~482 near leaves n199–n200.",
+  "reads": "n218 carries tomo pp. ~559–562 (San Diego fort works; Feb 1795 letters) — not this content. Page interpolation (n190 = p.428, n208 = p.531) places p.~482 near leaves n199–n200. Re-pin attempt 2026-07-22: leaves n197–n203 are the 1794 Arrillaga/Borica correspondence cluster (orig pp. ~449–575, heavily interleaved), NOT the tomo-XXII p.482 Pearce/Broughton item — the correct leaf is elsewhere in the interleaved volume and remains to be located; the record stays flagged with this tightened bound.",
   "note": "Blind sample audit #44/200 (2026-07-18): the audit's first broken scan pin (43 prior pins correct). Survey-sample row; content to be re-located and re-pinned at the C-A 14 residual pass."
  },
  {
@@ -320,7 +320,7 @@
   "doc": "232",
   "type": "catalog-correction",
   "was": "Scan pin n440 / orig. p. 334+ for Figueroa's formal Tulares-expedition Instructions to Alf. Dámaso Antonio Rodríguez.",
-  "reads": "n440–n441 carry the surrounding cluster (Villalpando extradition, Figueroa→LA alcalde, Carrillo→Figueroa, pp. 498–504) — the formal Instructions are not at the pin, and '334+' matches no page in the cluster.",
+  "reads": "RESOLVED (post-audit re-pin, 2026-07-22): the formal Instructions (numbered arts. 1–9) are on leaves n438–n439, Savage 433–434, orig pp. 492–497 — record re-pinned there. The old n440 carries the following Villalpando extradition (pp.498–502); n441 the 18 Feb Carrillo→Figueroa request (pp.503–4).",
   "note": "Blind sample audit #59/200: the audit's second broken pin. The expedition and Rodríguez's command are corroborated at n441; the Instructions document needs re-location at a C-A 19 residual pass."
  },
  {
