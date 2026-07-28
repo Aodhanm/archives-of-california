@@ -3743,7 +3743,7 @@
 "p": "422",
 "cite": "ogress. Prov. St. Pap., MS., vii. 43, 58-9. 1",
 "tier": "orig-page",
-"shared": 4
+"shared": 3
 },
 {
 "v": 1,
@@ -4428,6 +4428,22 @@
 }
 ]
 },
+"ca4-d176-n188": {
+"cited": [
+{
+"v": 1,
+"p": "403",
+"cite": "Mexico. Prov. St. Pap., MS., viii. 1-3.",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "447",
+"cite": "powers. Prov. St. Pap., MS., viii. 5, 6. M",
+"tier": "orig-page"
+}
+]
+},
 "ca54-d2031-n181": {
 "cited": [
 {
@@ -4681,7 +4697,7 @@
 "p": "422",
 "cite": "ogress. Prov. St. Pap., MS., vii. 43, 58-9. 1",
 "tier": "orig-page",
-"shared": 4
+"shared": 3
 },
 {
 "v": 1,
@@ -4698,17 +4714,6 @@
 }
 ]
 },
-"ca4-d257-n202": {
-"cited": [
-{
-"v": 1,
-"p": "422",
-"cite": "ogress. Prov. St. Pap., MS., vii. 43, 58-9. 1",
-"tier": "orig-page",
-"shared": 4
-}
-]
-},
 "ca4-d26-n29": {
 "cited": [
 {
@@ -4716,7 +4721,7 @@
 "p": "422",
 "cite": "ogress. Prov. St. Pap., MS., vii. 43, 58-9. 1",
 "tier": "orig-page",
-"shared": 4
+"shared": 3
 },
 {
 "v": 1,
@@ -4742,7 +4747,7 @@
 }
 ]
 },
-"ca4-d273-n295": {
+"ca4-d192-n295": {
 "cited": [
 {
 "v": 1,
@@ -5851,7 +5856,7 @@
 }
 ]
 },
-"ca4-d261-n215": {
+"ca4-d181-n215": {
 "cited": [
 {
 "v": 1,
@@ -5862,7 +5867,7 @@
 }
 ]
 },
-"ca4-d262-n218": {
+"ca4-d182-n218": {
 "cited": [
 {
 "v": 1,
@@ -5873,7 +5878,7 @@
 }
 ]
 },
-"ca4-d263-n220": {
+"ca4-d183-n220": {
 "cited": [
 {
 "v": 1,
@@ -7881,7 +7886,7 @@
 }
 ]
 },
-"ca4-d269-n260": {
+"ca4-d188-n260": {
 "cited": [
 {
 "v": 1,

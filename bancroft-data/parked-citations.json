@@ -81,7 +81,7 @@
 "PSP tomo 59": 2,
 "PSP tomo 64": 1,
 "PSP tomo 65": 1,
-"PSP tomo 8": 8,
+"PSP tomo 8": 6,
 "PSP-Presidios tomo 27": 1,
 "PSP-Presidios tomo 50": 1,
 "ProvRec tomo 11": 2,
@@ -5497,18 +5497,6 @@
 },
 {
 "hv": 1,
-"page": "403",
-"tomo": 8,
-"pages": [
-[
-1,
-3
-]
-],
-"raw": "Mexico. Prov. St. Pap., MS., viii. 1-3."
-},
-{
-"hv": 1,
 "page": "445",
 "tomo": 8,
 "pages": [
@@ -5518,22 +5506,6 @@
 ]
 ],
 "raw": "os day. Prov. St. Pap., MS., viii. 89. O"
-},
-{
-"hv": 1,
-"page": "447",
-"tomo": 8,
-"pages": [
-[
-5,
-5
-],
-[
-6,
-6
-]
-],
-"raw": "powers. Prov. St. Pap., MS., viii. 5, 6. M"
 },
 {
 "hv": 1,
