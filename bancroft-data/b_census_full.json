@@ -845,11 +845,6 @@
 "summary": "Long *sumaria* (Sgt. Fco. de Aguiar) on the disorders in the San Juan Capistrano"
 },
 {
-"key": "ca56-d146-n124",
-"rating": 4,
-"summary": "'Relación de los Presidiarios destinados á la Alta California con expresión de l"
-},
-{
 "key": "ca56-d164-n144",
 "rating": 4,
 "summary": "✓ HEADER + opening VERIFIED vs scan n144 (2026-07-06): '1823 Julio 6, San Franci"
@@ -1350,6 +1345,11 @@
 "summary": "*Prisioneros ingleses* — 4 English sailors captured at Cabo San Lucas (Edward Ha"
 },
 {
+"key": "ca16-d221-n135",
+"rating": 3,
+"summary": "*Hoja de servicio del Sargento [Javier] Aguilar* — entered service 16 Oct 1768; "
+},
+{
 "key": "ca16-d583-n359",
 "rating": 3,
 "summary": "Sta Bárbara district mission census & descriptive report 1807 — pop. table (Indi"
@@ -1673,21 +1673,6 @@
 "key": "ca24-d310-n267",
 "rating": 3,
 "summary": "congratulates Arrillaga on his 3rd frontier sortie (the reconnaissance diary; St"
-},
-{
-"key": "ca24-d334-n430",
-"rating": 3,
-"summary": "KEYSTONE — 'Sobre medios para impedir el deterioro de la Indiada neófita' (see E"
-},
-{
-"key": "ca24-d338-n436",
-"rating": 3,
-"summary": "'Presunto de desertores de buque estrang.º' — 4 crew deserted from an American s"
-},
-{
-"key": "ca24-d377-n474",
-"rating": 3,
-"summary": "Nov 3 'Tratamiento de Indios' — verbatim below; Oct 9 Landaeta sin importancia; "
 },
 {
 "key": "ca25-d69-n20",
@@ -3795,16 +3780,6 @@
 "summary": "the RAC frigate *Santa Elena* (cdr. 'Mateo Morabioff' [Savage's spelling; = Matv"
 },
 {
-"key": "ca56-d284-n249",
-"rating": 3,
-"summary": "✓ opening VERIFIED vs scan n249 (2026-07-06): date/author/subject confirmed — su"
-},
-{
-"key": "ca56-d312-n273",
-"rating": 3,
-"summary": "full acta of the Junta de Guerra y Real Hacienda on the campaign against the Yum"
-},
-{
 "key": "ca56-d364-n314",
 "rating": 3,
 "summary": "communication on the occurrences in the department & Gen. Micheltorena's departu"
@@ -3825,19 +3800,9 @@
 "summary": "founding report of Mission San Fernando Rey de España — on 8 Sep 1797 (Nativity "
 },
 {
-"key": "ca56-d423-n364",
-"rating": 3,
-"summary": "founding certificate of Mission San Miguel Arcángel — a multitude of gentiles pr"
-},
-{
 "key": "ca56-d461-n401",
 "rating": 3,
 "summary": "relays that the Ministry of Foreign Relations issued Thomas O. Larkin his exequa"
-},
-{
-"key": "ca56-d464-n402",
-"rating": 3,
-"summary": "[2nd copy of Doc 97, in Spanish] Wrangel rebuts Capt. Beechey's published charge"
 },
 {
 "key": "ca57-d10-n7",
@@ -5285,11 +5250,6 @@
 "summary": "*Donativos á S.M.* — war donations to the Crown 1799 from across the Californias"
 },
 {
-"key": "ca16-d209-n125",
-"rating": 2,
-"summary": "*Descripción del presidio* — physical condition report (see expanded entry): a 1"
-},
-{
 "key": "ca16-d232-n141",
 "rating": 2,
 "summary": "*Niños de la Inclusa* — foundling children [from the Mexico City foundling home]"
@@ -5298,11 +5258,6 @@
 "key": "ca16-d265-n156",
 "rating": 2,
 "summary": "fire at Mission San Juan Capistrano — 500 arrobas of lard, 600 fanegas of maize "
-},
-{
-"key": "ca16-d279-n163",
-"rating": 2,
-"summary": "full verbatim *sumaria* in the José Antonio Rosas bestiality case (see expanded "
 },
 {
 "key": "ca16-d314-n197",
@@ -6130,11 +6085,6 @@
 "summary": "*Instrumentos náuticos del difunto Capt. Bodega y Quadra* — the *Aránzazu* (Pilo"
 },
 {
-"key": "ca24-d56-n28",
-"rating": 2,
-"summary": "won't proceed with the traslación of the SF Presidio to 'la Loma' until he perso"
-},
-{
 "key": "ca24-d70-n36",
 "rating": 2,
 "summary": "*libertad de 9 indios + costos del fuerte S. Joaquín* — the SF Castillo cost = $"
@@ -6353,41 +6303,6 @@
 "key": "ca24-d331-n289",
 "rating": 2,
 "summary": "Tte despatch to Alférez José Font + baja del Tte Fran.co Roca; ⭐⭐ the Viceroy re"
-},
-{
-"key": "ca24-d333-n330",
-"rating": 2,
-"summary": "⚠ BOUNDED FILL (gap-sampled n330/340/350/360/390/410) — 1798–1801 index + some f"
-},
-{
-"key": "ca24-d335-n489",
-"rating": 2,
-"summary": "⚠ [n434–488 + n506–570 now itemized as docs 336–545] BOUNDED FILL of the n489–50"
-},
-{
-"key": "ca24-d336-n434",
-"rating": 2,
-"summary": "'Mermas de ganado de Rancho ⅃t' (losses of cattle at the King's Rancho del Rey, "
-},
-{
-"key": "ca24-d342-n440",
-"rating": 2,
-"summary": "Continuation of the friar-difficulties letter re P. Concepción / P. José of S. M"
-},
-{
-"key": "ca24-d356-n454",
-"rating": 2,
-"summary": "Agto 28: 'Solicitud de Pablo Soler. El habilitado de Monterey, Hermenegildo Sal,"
-},
-{
-"key": "ca24-d372-n469",
-"rating": 2,
-"summary": "(cont. Lasuén) 'no se cansará de rogarle y encargarle medidas de humanidad p.ᵃ l"
-},
-{
-"key": "ca24-d373-n470",
-"rating": 2,
-"summary": "'Intervencion — amenazas de …' — re Indians fled to the 'otra banda' (far shore)"
 },
 {
 "key": "ca25-d28-n8",
@@ -11348,6 +11263,11 @@
 "key": "ca55-d339-n300",
 "rating": 2,
 "summary": "On the English Capt. Brown[?]'s stay in port & his reconnaissance of the San Ant"
+},
+{
+"key": "ca56-d19-n10",
+"rating": 2,
+"summary": "warns about the surrendered Spanish warships Asia & Constante anchored at Monter"
 },
 {
 "key": "ca56-d32-n16",
