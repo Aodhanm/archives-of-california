@@ -81,7 +81,7 @@
 "PSP tomo 59": 2,
 "PSP tomo 64": 1,
 "PSP tomo 65": 1,
-"PSP tomo 8": 6,
+"PSP tomo 8": 8,
 "PSP-Presidios tomo 27": 1,
 "PSP-Presidios tomo 50": 1,
 "ProvRec tomo 11": 2,
@@ -90,8 +90,7 @@
 "ProvRec tomo 19": 1,
 "ProvRec tomo 20": 4,
 "ProvRec tomo 7": 1,
-"ProvRec tomo 8": 21,
-"ProvRec tomo 9": 36,
+"ProvRec tomo 9": 37,
 "SP-Miss tomo 10": 21,
 "SP-Miss tomo 11": 31,
 "SP-Miss tomo 2": 7,
@@ -5496,6 +5495,18 @@
 },
 {
 "hv": 1,
+"page": "403",
+"tomo": 8,
+"pages": [
+[
+1,
+3
+]
+],
+"raw": "Mexico. Prov. St. Pap., MS., viii. 1-3."
+},
+{
+"hv": 1,
 "page": "445",
 "tomo": 8,
 "pages": [
@@ -5505,6 +5516,22 @@
 ]
 ],
 "raw": "os day. Prov. St. Pap., MS., viii. 89. O"
+},
+{
+"hv": 1,
+"page": "447",
+"tomo": 8,
+"pages": [
+[
+5,
+5
+],
+[
+6,
+6
+]
+],
+"raw": "powers. Prov. St. Pap., MS., viii. 5, 6. M"
 },
 {
 "hv": 1,
@@ -5737,264 +5764,6 @@
 ]
 ],
 "raw": "-7, 81; Prov. Rec., MS., vii. 47, 160; x"
-}
-],
-"ProvRec tomo 8": [
-{
-"hv": 1,
-"page": "473",
-"tomo": 8,
-"pages": [
-[
-39,
-39
-]
-],
-"raw": "fornia. Id. , viii. 39. N"
-},
-{
-"hv": 1,
-"page": "535",
-"tomo": 8,
-"pages": [
-[
-144,
-144
-]
-],
-"raw": "0, 182; Prov. Rec., MS., viii. 144. N"
-},
-{
-"hv": 1,
-"page": "536",
-"tomo": 8,
-"pages": [
-[
-166,
-166
-]
-],
-"raw": "oy (?). Prov. Rec. MS., viii. 166. S"
-},
-{
-"hv": 1,
-"page": "537",
-"tomo": 8,
-"pages": [
-[
-158,
-158
-]
-],
-"raw": "fornia. Prov. Rec., MS., viii. 158; S"
-},
-{
-"hv": 1,
-"page": "539",
-"tomo": 8,
-"pages": [
-[
-165,
-165
-]
-],
-"raw": "Cadiz. Prov. Rec., MS., viii. 165; i"
-},
-{
-"hv": 1,
-"page": "540",
-"tomo": 8,
-"pages": [
-[
-170,
-170
-],
-[
-173,
-173
-]
-],
-"raw": "flints. Prov. Rec., MS., viii. 170, 173; i"
-},
-{
-"hv": 1,
-"page": "545",
-"tomo": 8,
-"pages": [
-[
-132,
-132
-]
-],
-"raw": "ted. 43 Prov. Rec., MS., viii. 132; x"
-},
-{
-"hv": 1,
-"page": "615",
-"tomo": 8,
-"pages": [
-[
-164,
-164
-]
-],
-"raw": "tisans. Prov. Rec., MS., viii. 164. 1"
-},
-{
-"hv": 1,
-"page": "616",
-"tomo": 8,
-"pages": [
-[
-193,
-193
-]
-],
-"raw": "i. 339; Prov. Rec., MS.,viii. 193. J"
-},
-{
-"hv": 1,
-"page": "624",
-"tomo": 8,
-"pages": [
-[
-105,
-105
-]
-],
-"raw": "essels. Prov. Rec., MS., viii. 105. A"
-},
-{
-"hv": 1,
-"page": "634",
-"tomo": 8,
-"pages": [
-[
-158,
-158
-]
-],
-"raw": "denied. Prov. Rec., MS., viii. 158; S"
-},
-{
-"hv": 2,
-"page": "36",
-"tomo": 8,
-"pages": [
-[
-84,
-84
-]
-],
-"raw": "15th. ™Prov. Rec., MS., viii. 84; i"
-},
-{
-"hv": 2,
-"page": "68",
-"tomo": 8,
-"pages": [
-[
-82,
-83
-]
-],
-"raw": "nof, in Prov. Rec., MS., viii. 82-3. '"
-},
-{
-"hv": 2,
-"page": "88",
-"tomo": 8,
-"pages": [
-[
-97,
-97
-]
-],
-"raw": "o new l»Prov. Rec., MS., viii. 97; i"
-},
-{
-"hv": 2,
-"page": "143",
-"tomo": 8,
-"pages": [
-[
-103,
-103
-]
-],
-"raw": "shore. Prov. Rec., MS., viii. 103. 4"
-},
-{
-"hv": 2,
-"page": "159",
-"tomo": 8,
-"pages": [
-[
-76,
-76
-]
-],
-"raw": ". 75-6; Prov. Rec., MS., viii. 76; i"
-},
-{
-"hv": 2,
-"page": "159",
-"tomo": 8,
-"pages": [
-[
-87,
-87
-]
-],
-"raw": "vember. Prov. Rec., MS., viii. 87; i"
-},
-{
-"hv": 2,
-"page": "159",
-"tomo": 8,
-"pages": [
-[
-95,
-95
-]
-],
-"raw": "vember. Prov. Rec., MS., viii. 95; x"
-},
-{
-"hv": 2,
-"page": "177",
-"tomo": 8,
-"pages": [
-[
-53,
-53
-]
-],
-"raw": "f soil. Prov. Rec., MS., viii. 53."
-},
-{
-"hv": 2,
-"page": "179",
-"tomo": 8,
-"pages": [
-[
-100,
-100
-]
-],
-"raw": "260. 11 Prov. Rec., MS., viii. 100; i"
-},
-{
-"hv": 2,
-"page": "187",
-"tomo": 8,
-"pages": [
-[
-81,
-81
-]
-],
-"raw": "xxvii.; Prov. Rec., MS., viii. 81. J"
 }
 ],
 "ProvRec tomo 9": [
@@ -6257,6 +6026,22 @@
 ]
 ],
 "raw": "o V. R. Prov. Rec., MS., ix. 25. 8"
+},
+{
+"hv": 2,
+"page": "167",
+"tomo": 9,
+"pages": [
+[
+63,
+63
+],
+[
+99,
+99
+]
+],
+"raw": "eded in Prov. Rec., MS., ix. 63, 99; P"
 },
 {
 "hv": 2,
