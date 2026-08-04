@@ -695,6 +695,11 @@
 "summary": "the 1836 ALVARADO REVOLT, from the sovereign body itself — four decrees of the '"
 },
 {
+"key": "ca45-d95-n287",
+"rating": 4,
+"summary": "VALLEJO'S CUSTOMS-HOUSE MEMORIAL — copied VERBATIM by Savage across ~8 leaves (n"
+},
+{
 "key": "ca46-d77-n119",
 "rating": 4,
 "summary": "THE CONSTITUTIONAL-STATUS DOCUMENT: recounts the installation of the Exma. Diput"
@@ -898,6 +903,11 @@
 "key": "ca62-d53-n66",
 "rating": 4,
 "summary": "The 1774 order to OCCUPY THE PORT OF SAN FRANCISCO VERBATIM: «tengo ya resuelto "
+},
+{
+"key": "ca62-d146-n294",
+"rating": 4,
+"summary": "CLOSE + DECREE. Signs off «hasta que S.M. resuelva… México 19 de Junio de 1773 ="
 },
 {
 "key": "ca1-d66-n178",
@@ -1970,6 +1980,11 @@
 "summary": "Chico's departure circular: las perturbaciones que agitaron el sosiego público —"
 },
 {
+"key": "ca29-d186-n245",
+"rating": 3,
+"summary": "Castro's inaugural speech as Prefect — 'Discurso pronunciado pr. el Tente. Corl."
+},
+{
 "key": "ca30-d63-n37",
 "rating": 3,
 "summary": "Denuncia de revolución: testimonio de Joaquín Pereira — su pleito ante el juez F"
@@ -2003,6 +2018,36 @@
 "key": "ca30-d272-n167",
 "rating": 3,
 "summary": "Sobre cargos contra Esteban Smith: el diputado Manuel Castañares informa que Smi"
+},
+{
+"key": "ca30-d376-n222",
+"rating": 3,
+"summary": "Sobre el estado del Departamento é introducción de americanos por el Sacramento:"
+},
+{
+"key": "ca30-d385-n230",
+"rating": 3,
+"summary": "Borrador sobre la venta del Puerto de Bodega: el Sr Prefecto observa que aunque "
+},
+{
+"key": "ca30-d386-n231",
+"rating": 3,
+"summary": "Extracto de comunicaciones y documentos originales venidos de Monterey remitidos"
+},
+{
+"key": "ca30-d457-n268",
+"rating": 3,
+"summary": "«Estado de la Iglesia en Cal.» — larga y angustiada jeremiada sobre el colapso d"
+},
+{
+"key": "ca30-d508-n295",
+"rating": 3,
+"summary": "Instrucciones á Gantt relativas á su marcha al Establecimiento del Capitán A. Su"
+},
+{
+"key": "ca30-d509-n297",
+"rating": 3,
+"summary": "Contrato entre el Gobierno, Marsh y Gantt sobre persecución de indios ladrones ("
 },
 {
 "key": "ca31-d5-n4",
@@ -2923,6 +2968,16 @@
 "key": "ca45-d85-n364",
 "rating": 3,
 "summary": "US CONQUEST (English verbatim): 'On the 15th day of September 1846 an Election w"
+},
+{
+"key": "ca45-d91-n282",
+"rating": 3,
+"summary": "GRAHAM-AFFAIR AFTERMATH ('Estrangeros revolucionados'): transcribes the Presiden"
+},
+{
+"key": "ca45-d97-n308",
+"rating": 3,
+"summary": "'Milicia Auxiliar' — the 1844 auxiliary-militia ROSTER (table: Cuerpos/Compañías"
 },
 {
 "key": "ca46-d75-n116",
@@ -3893,11 +3948,6 @@
 "key": "ca62-d98-n110",
 "rating": 3,
 "summary": "Límites de Misión San Luis Rey: 13½ lg N of SD, colinda w/ SD + San Juan Capistr"
-},
-{
-"key": "ca62-d108-n250",
-"rating": 3,
-"summary": "THE 1773 ECHEVESTE REGLAMENTO (full, w/ accompanying fiscal dictamen) — «Reglame"
 },
 {
 "key": "ca62-d109-n299",
@@ -7120,14 +7170,69 @@
 "summary": "The 1838 Alvarado–Carrillo civil-war campaign dossier: Castro congratulating on "
 },
 {
-"key": "ca29-d113-n220",
+"key": "ca29-d112-n203",
 "rating": 2,
-"summary": "(swept, folds GS-n235) Vallejo's Aug-1838 Indian campaign (Sonoma: prisoners, an"
+"summary": "The 1838 smallpox epidemic warning (public-health / Russian-frontier): 'La epide"
 },
 {
-"key": "ca29-d114-n245",
+"key": "ca29-d113-n204",
 "rating": 2,
-"summary": "(swept, folds GS-n255/255b/275) 1839 close (Alvarado consolidation): Vallejo nam"
+"summary": "Civil-war triumph rhetoric (north vs south): congratulates on the defeat of the "
+},
+{
+"key": "ca29-d114-n206",
+"rating": 2,
+"summary": "(CORRECTS survey 'n210') prisoner-arrival + secularization-corruption critique: "
+},
+{
+"key": "ca29-d119-n212",
+"rating": 2,
+"summary": "Carrillo's capitulation / decision to flee (end of the 1838 civil war): 'Que est"
+},
+{
+"key": "ca29-d136-n221",
+"rating": 2,
+"summary": "The flight/escape of Cárlos Antº Carrillo: 'Participándole la fuga de Cárlos': O"
+},
+{
+"key": "ca29-d159-n232",
+"rating": 2,
+"summary": "The Spear-&-Hinckley vs. Leese company suit (foreigner-commerce dispute, Yerba B"
+},
+{
+"key": "ca29-d179-n242",
+"rating": 2,
+"summary": "Post-civil-war reconciliation: 'Desde el dia que salí de San Buenavª me atacó un"
+},
+{
+"key": "ca29-d184-n244",
+"rating": 2,
+"summary": "Territorial reorganization proposal: 'Propone que el Departamto. se divida en 3 "
+},
+{
+"key": "ca29-d196-n251",
+"rating": 2,
+"summary": "The ciphered Carrillista letter (Savage's translation; 'escrita con signos espec"
+},
+{
+"key": "ca29-d219-n269",
+"rating": 2,
+"summary": "Fuero-militar jurisdictional clash: the Sta Bárbara Juez de Paz imprisoned a *cr"
+},
+{
+"key": "ca29-d225-n274",
+"rating": 2,
+"summary": "'Sobre organización de fuerzas militares': cites 'la parte 2ª del Artº 3 de la l"
+},
+{
+"key": "ca29-d227-n277",
+"rating": 2,
+"summary": "'Dice que el Presidente de México lo ha nombrado Gobernador Propietario' (Alvara"
+},
+{
+"key": "ca29-d239-n280",
+"rating": 2,
+"summary": "'Sobre propuesto viage del 1[er]o. á Méj[ico]' — Vallejo's rebuttal to Alvarado'"
 },
 {
 "key": "ca30-d34-n21",
@@ -7238,6 +7343,66 @@
 "key": "ca30-d318-n192",
 "rating": 2,
 "summary": "Medidas sobre soberanía é invasores: se ordena pasar por las armas á todo extran"
+},
+{
+"key": "ca30-d362-n214",
+"rating": 2,
+"summary": "Entrega de la Aduana · buques balleneros · inversión de fondos · entrada de amer"
+},
+{
+"key": "ca30-d379-n224",
+"rating": 2,
+"summary": "Sobre embarque de 2 presos: por bien del Estado le ruega embarque en su buque á "
+},
+{
+"key": "ca30-d381-n225",
+"rating": 2,
+"summary": "Relación de la conspiración contra el Gobⁿ: los vecinos José Antº Carrillo, Hila"
+},
+{
+"key": "ca30-d399-n239",
+"rating": 2,
+"summary": "Proposición para el establecimiento de un colegio público (8 arts.): ramos — lec"
+},
+{
+"key": "ca30-d441-n260",
+"rating": 2,
+"summary": "Descubrimiento de una mina de azogue (mercurio): como á 30 leguas ha descubierto"
+},
+{
+"key": "ca30-d442-n261",
+"rating": 2,
+"summary": "Que se reconozca como agente y representante de la Compañía á Guillermo (William"
+},
+{
+"key": "ca30-d453-n266",
+"rating": 2,
+"summary": "Documento (carta) en alemán, la mayor parte rota; en los pedazos legibles se adi"
+},
+{
+"key": "ca30-d465-n277",
+"rating": 2,
+"summary": "Petición de los vecinos de Yerba Buena para que quede el Alcalde 1° Juan N. Padi"
+},
+{
+"key": "ca30-d507-n295",
+"rating": 2,
+"summary": "Proclama sobre los salvages del Norte: es su obligación velar por el bien de sus"
+},
+{
+"key": "ca30-d511-n299",
+"rating": 2,
+"summary": "Parte de batalla india: con 22 hombres atacó á 400 indios que habían matado á Li"
+},
+{
+"key": "ca30-d522-n303",
+"rating": 2,
+"summary": "Llegó á San Bernardino [el jefe ute] «Wak» [Wakara/Walkara] con 180 hombres; con"
+},
+{
+"key": "ca30-d525-n304",
+"rating": 2,
+"summary": "(en inglés) Como agente de EE.UU. formó tratado con los indios, respetado hasta "
 },
 {
 "key": "ca31-d47-n30",
@@ -9615,6 +9780,31 @@
 "summary": "the Vallejo military section: (Nov 1838, Sonoma) Vallejo participates his appoin"
 },
 {
+"key": "ca45-d90-n282",
+"rating": 2,
+"summary": "'Auxiliares' — the President of Mexico approves the formation of the auxiliary t"
+},
+{
+"key": "ca45-d93-n285",
+"rating": 2,
+"summary": "order to send back 'unos dos de los emigrados del Missouri' — them or their guar"
+},
+{
+"key": "ca45-d94-n285",
+"rating": 2,
+"summary": "'Indios mandados matar' — Vallejo reports the violent death of THREE neophyte In"
+},
+{
+"key": "ca45-d96-n306",
+"rating": 2,
+"summary": "Micheltorena's INAUGURAL circular as Governor — announces that on 31 Dec 1842 he"
+},
+{
+"key": "ca45-d99-n338",
+"rating": 2,
+"summary": "Apr 10 (p.208): 'acusa recibo de documentos relativos á las disensiones entre Ju"
+},
+{
 "key": "ca46-d7-n5",
 "rating": 2,
 "summary": "'Defensa del Territorio' — 1823 defense report: the province incapable of resist"
@@ -11573,6 +11763,11 @@
 "key": "ca62-d137-n364",
 "rating": 2,
 "summary": "1834 election (the book's last acta): electors Mariano G. Vallejo, Antonio María"
+},
+{
+"key": "ca62-d145-n293",
+"rating": 2,
+"summary": "Colleges owe 8,783 p more; grand total 119,035 p 4 t 7 g; ⭐ staffing argument: «"
 },
 {
 "key": "ca63-d111-n37",

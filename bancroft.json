@@ -17494,6 +17494,33 @@
 }
 ]
 },
+"ca25-d540-n258": {
+"cited": [
+{
+"v": 1,
+"p": "545",
+"cite": "48, 54; Prov. Rec., MS., ix. 12; x",
+"tier": "leaf",
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "548",
+"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "606",
+"cite": "ii. 22; Prov. Rec., MS., ix. 11, 12; A",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+}
+]
+},
 "ca54-d3011-n294": {
 "cited": [
 {
@@ -17721,6 +17748,7 @@
 "p": "545",
 "cite": "bidden. Id., ix. 2, O",
 "tier": "leaf",
+"shared": 3,
 "caveat": "25"
 },
 {
@@ -17728,13 +17756,67 @@
 "p": "622",
 "cite": "Nueva. Prov. Rec., MS., ix. 6, i",
 "tier": "leaf",
+"shared": 7,
+"caveat": "25"
+}
+]
+},
+"ca25-d535-n253": {
+"cited": [
+{
+"v": 1,
+"p": "545",
+"cite": "bidden. Id., ix. 2, O",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "605",
+"cite": "addler. Prov. Rec., MS., ix. 13. N",
+"tier": "orig-page"
+},
+{
+"v": 1,
+"p": "622",
+"cite": "Nueva. Prov. Rec., MS., ix. 6, i",
+"tier": "leaf",
+"shared": 7,
 "caveat": "25"
 },
 {
 "v": 2,
 "p": "180",
 "cite": "ension. Id., ix. 1G1-",
+"tier": "leaf",
+"caveat": "25"
+}
+]
+},
+"ca25-d536-n254": {
+"cited": [
+{
+"v": 1,
+"p": "545",
+"cite": "bidden. Id., ix. 2, O",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "620",
+"cite": "t good. Id., ix. 15; .",
 "tier": "orig-page"
+},
+{
+"v": 1,
+"p": "622",
+"cite": "Nueva. Prov. Rec., MS., ix. 6, i",
+"tier": "leaf",
+"shared": 7,
+"caveat": "25"
 }
 ]
 },
@@ -18134,6 +18216,94 @@
 "cite": "e kept. Id., iv. 204, 284; D",
 "tier": "orig-page",
 "shared": 3
+}
+]
+},
+"ca25-d537-n255": {
+"cited": [
+{
+"v": 1,
+"p": "548",
+"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "622",
+"cite": "Nueva. Prov. Rec., MS., ix. 6, i",
+"tier": "leaf",
+"shared": 7,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "13",
+"cite": "27. In Prov. Rec., MS., ix. 20-1, C",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "154",
+"cite": "o V. R. Prov. Rec., MS., ix. 25. 8",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca25-d538-n256": {
+"cited": [
+{
+"v": 1,
+"p": "548",
+"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "622",
+"cite": "Nueva. Prov. Rec., MS., ix. 6, i",
+"tier": "leaf",
+"shared": 7,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "154",
+"cite": "o V. R. Prov. Rec., MS., ix. 25. 8",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca25-d539-n257": {
+"cited": [
+{
+"v": 1,
+"p": "548",
+"cite": "10-12; Prov. Rec., MS., ix. 9, 10; S",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "606",
+"cite": "ii. 22; Prov. Rec., MS., ix. 11, 12; A",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 1,
+"p": "622",
+"cite": "Nueva. Prov. Rec., MS., ix. 6, i",
+"tier": "leaf",
+"shared": 7,
+"caveat": "25"
 }
 ]
 },
@@ -22296,6 +22466,7 @@
 "p": "616",
 "cite": "nation. Id., ix. 169-72; P",
 "tier": "leaf",
+"shared": 3,
 "caveat": "25"
 },
 {
@@ -22303,6 +22474,7 @@
 "p": "250",
 "cite": ", MS. 3 Prov. Rec., MS., ix. 175. *",
 "tier": "leaf",
+"shared": 3,
 "caveat": "25"
 },
 {
@@ -22310,6 +22482,7 @@
 "p": "259",
 "cite": "iceroy. Prov. Rec., MS., ix. 196. I",
 "tier": "leaf",
+"shared": 2,
 "caveat": "25"
 },
 {
@@ -22317,6 +22490,7 @@
 "p": "281",
 "cite": "6, 202; Prov. Rec., MS., ix. 171-3; S",
 "tier": "leaf",
+"shared": 3,
 "caveat": "25"
 },
 {
@@ -22324,6 +22498,7 @@
 "p": "290",
 "cite": "ntario. Prov. Rec., MS., ix. 197. J",
 "tier": "leaf",
+"shared": 2,
 "caveat": "25"
 },
 {
@@ -22331,6 +22506,7 @@
 "p": "290",
 "cite": "noted. Prov. Rec., MS., ix. 197. I",
 "tier": "leaf",
+"shared": 2,
 "caveat": "25"
 },
 {
@@ -22338,6 +22514,7 @@
 "p": "291",
 "cite": "work. ™Prov. Rec., MS., ix. 175; x",
 "tier": "leaf",
+"shared": 3,
 "caveat": "25"
 },
 {
@@ -22345,6 +22522,7 @@
 "p": "316",
 "cite": ", 1818. Prov. Rec., MS., ix. 197. K",
 "tier": "leaf",
+"shared": 2,
 "caveat": "25"
 },
 {
@@ -22352,6 +22530,7 @@
 "p": "316",
 "cite": "tioned. Prov. Rec., MS., ix. 197; R",
 "tier": "leaf",
+"shared": 2,
 "caveat": "25"
 },
 {
@@ -22373,6 +22552,115 @@
 "p": "343",
 "cite": "n 1818. Prov. Rec., MS., ix. 180. 1",
 "tier": "leaf",
+"caveat": "25"
+}
+]
+},
+"ca25-d531-n415": {
+"cited": [
+{
+"v": 1,
+"p": "616",
+"cite": "nation. Id., ix. 169-72; P",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "250",
+"cite": ", MS. 3 Prov. Rec., MS., ix. 175. *",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "281",
+"cite": "6, 202; Prov. Rec., MS., ix. 171-3; S",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "291",
+"cite": "work. ™Prov. Rec., MS., ix. 175; x",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "311",
+"cite": "iceroy. Prov. Rec., MS., ix. 169-70. I",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "379",
+"cite": "iceroy. Prov. Rec., MS., ix. 168; S",
+"tier": "leaf",
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "416",
+"cite": "16, 22; Prov. Rec., MS., ix. 169. 9",
+"tier": "leaf",
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "421",
+"cite": "ceived. Prov. Rec., MS., ix. 169. 1",
+"tier": "leaf",
+"caveat": "25"
+}
+]
+},
+"ca25-d534-n422": {
+"cited": [
+{
+"v": 1,
+"p": "616",
+"cite": "nation. Id., ix. 169-72; P",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "250",
+"cite": ", MS. 3 Prov. Rec., MS., ix. 175. *",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "281",
+"cite": "6, 202; Prov. Rec., MS., ix. 171-3; S",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "291",
+"cite": "work. ™Prov. Rec., MS., ix. 175; x",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "311",
+"cite": "iceroy. Prov. Rec., MS., ix. 169-70. I",
+"tier": "leaf",
+"shared": 2,
 "caveat": "25"
 }
 ]
@@ -23705,6 +23993,55 @@
 "p": "665",
 "cite": "iv. 25; Prov. St. Pap., MS., xiii. 171. 4",
 "tier": "orig-page"
+}
+]
+},
+"ca25-d529-n361": {
+"cited": [
+{
+"v": 1,
+"p": "625",
+"cite": "rcular, Id., ix. 315-16, s",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "128",
+"cite": "223-5; Prov. Rec., MS., ix. 114, 125; P",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "159",
+"cite": "ctober. Prov. Rec., MS., ix. 115, 117. I",
+"tier": "leaf",
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "85",
+"cite": "134-6; Prov. Rec., MS., ix. 111. 1",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "85",
+"cite": "111. 11 Prov. Rec., MS., ix. 110; x",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "86",
+"cite": "ctober. Prov. Rec., MS., ix. 109. N",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
 }
 ]
 },
@@ -32511,6 +32848,83 @@
 "cited": [
 {
 "v": 2,
+"p": "140",
+"cite": "ii. 78; Prov. Rec., MS., ix. 96. 4",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 2,
+"p": "17",
+"cite": "Anzet. Id., ix. 29. 8",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "18",
+"cite": "milies. Prov. Rec., MS., ix. 32. V",
+"tier": "leaf",
+"shared": 6,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "67",
+"cite": "coast. Prov. Rec., MS., ix. 34. *",
+"tier": "leaf",
+"shared": 6,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "83",
+"cite": ". 71-2; Prov. Rec., ix. 97: P",
+"tier": "orig-page"
+}
+]
+},
+"ca25-d513-n281": {
+"cited": [
+{
+"v": 2,
+"p": "17",
+"cite": "Anzet. Id., ix. 29. 8",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "18",
+"cite": "milies. Prov. Rec., MS., ix. 32. V",
+"tier": "leaf",
+"shared": 6,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "25",
+"cite": "2-5. 17 Prov. Rec., MS., ix. 35; P",
+"tier": "leaf",
+"shared": 6,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "67",
+"cite": "coast. Prov. Rec., MS., ix. 34. *",
+"tier": "leaf",
+"shared": 6,
+"caveat": "25"
+}
+]
+},
+"ca25-d526-n278": {
+"cited": [
+{
+"v": 2,
 "p": "110",
 "cite": "-20. 36 Prov. Rec., MS., ix. 81-2, 1805. A",
 "tier": "orig-page"
@@ -32523,14 +32937,8 @@
 },
 {
 "v": 2,
-"p": "155",
-"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
-"tier": "orig-page"
-},
-{
-"v": 2,
-"p": "167",
-"cite": "othing. Prov. Rec., MS., ix. 81.",
+"p": "168",
+"cite": "iceroy. Prov. Rec., MS., ix. 86-7. S",
 "tier": "orig-page"
 },
 {
@@ -32538,6 +32946,7 @@
 "p": "17",
 "cite": "Anzet. Id., ix. 29. 8",
 "tier": "leaf",
+"shared": 4,
 "caveat": "25"
 },
 {
@@ -32545,21 +32954,84 @@
 "p": "18",
 "cite": "milies. Prov. Rec., MS., ix. 32. V",
 "tier": "leaf",
-"shared": 3,
+"shared": 6,
 "caveat": "25"
 },
 {
 "v": 2,
-"p": "67",
-"cite": "coast. Prov. Rec., MS., ix. 34. *",
+"p": "192",
+"cite": "needed. Prov. Rec., MS., ix. 86-9. V",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca25-d527-n279": {
+"cited": [
+{
+"v": 2,
+"p": "127",
+"cite": "iceroy. Prov. Rec., MS., ix. 90-1. S",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "140",
+"cite": "ii. 78; Prov. Rec., MS., ix. 96. 4",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 2,
+"p": "155",
+"cite": "roy, in Prov. Rec., MS., ix. 81, 91-2, 1801, n",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "17",
+"cite": "Anzet. Id., ix. 29. 8",
 "tier": "leaf",
-"shared": 5,
+"shared": 4,
 "caveat": "25"
 },
 {
 "v": 2,
-"p": "73",
-"cite": "ements. Prov. Rec., MS., ix. 75-6. A",
+"p": "175",
+"cite": "1806 in Prov. Rec., MS., ix. 90; R",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "18",
+"cite": "milies. Prov. Rec., MS., ix. 32. V",
+"tier": "leaf",
+"shared": 6,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "187",
+"cite": "arture. Id., ix. 94; P",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "192",
+"cite": "needed. Prov. Rec., MS., ix. 86-9. V",
+"tier": "orig-page",
+"shared": 2
+},
+{
+"v": 2,
+"p": "20",
+"cite": "4, 208; Prov. Rec., MS., ix. 95; x",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "36",
+"cite": "iceroy. Prov. Rec., MS., ix. 90-1. D",
 "tier": "orig-page"
 }
 ]
@@ -32568,17 +33040,10 @@
 "cited": [
 {
 "v": 2,
-"p": "159",
-"cite": "ctober. Prov. Rec., MS., ix. 115, 117. I",
-"tier": "orig-page",
-"shared": 2
-},
-{
-"v": 2,
 "p": "18",
 "cite": "milies. Prov. Rec., MS., ix. 32. V",
 "tier": "leaf",
-"shared": 3,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -32586,7 +33051,7 @@
 "p": "25",
 "cite": "2-5. 17 Prov. Rec., MS., ix. 35; P",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -32594,7 +33059,7 @@
 "p": "67",
 "cite": "coast. Prov. Rec., MS., ix. 34. *",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -32612,7 +33077,7 @@
 "p": "18",
 "cite": "milies. Prov. Rec., MS., ix. 32. V",
 "tier": "leaf",
-"shared": 3,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -32620,7 +33085,7 @@
 "p": "25",
 "cite": "2-5. 17 Prov. Rec., MS., ix. 35; P",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -32628,7 +33093,7 @@
 "p": "25",
 "cite": "are of. Prov. Rec., MS., ix. 38-40.",
 "tier": "leaf",
-"shared": 5,
+"shared": 7,
 "caveat": "25"
 },
 {
@@ -32636,7 +33101,7 @@
 "p": "67",
 "cite": "coast. Prov. Rec., MS., ix. 34. *",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 }
 ]
@@ -33030,6 +33495,7 @@
 "p": "20",
 "cite": "vernor. Prov. Rec., MS., ix. 58-60. M",
 "tier": "leaf",
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33044,6 +33510,7 @@
 "p": "29",
 "cite": "o V. R, Prov. Rec., MS., ix. 56. 2",
 "tier": "leaf",
+"shared": 3,
 "caveat": "25"
 },
 {
@@ -33051,6 +33518,146 @@
 "p": "309",
 "cite": "visit. Prov. Rec., MS., ix. 151-3. C",
 "tier": "orig-page"
+}
+]
+},
+"ca25-d516-n312": {
+"cited": [
+{
+"v": 2,
+"p": "167",
+"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "190",
+"cite": "amoras. Id., ix. 60-1. S",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "20",
+"cite": "vernor. Prov. Rec., MS., ix. 58-60. M",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "33",
+"cite": "istant. Prov. Rec., MS., ix. 63-4. T",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+}
+]
+},
+"ca25-d522-n304": {
+"cited": [
+{
+"v": 2,
+"p": "20",
+"cite": "vernor. Prov. Rec., MS., ix. 58-60. M",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "213",
+"cite": "strada. Prov. Rec., MS., ix. 153-4; G",
+"tier": "orig-page"
+},
+{
+"v": 2,
+"p": "29",
+"cite": "o V. R, Prov. Rec., MS., ix. 56. 2",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "310",
+"cite": "orders. Prov. Rec., MS., ix. 154.",
+"tier": "orig-page"
+}
+]
+},
+"ca25-d523-n309": {
+"cited": [
+{
+"v": 2,
+"p": "167",
+"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "190",
+"cite": "amoras. Id., ix. 60-1. S",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "20",
+"cite": "vernor. Prov. Rec., MS., ix. 58-60. M",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "33",
+"cite": "istant. Prov. Rec., MS., ix. 63-4. T",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+}
+]
+},
+"ca25-d524-n311": {
+"cited": [
+{
+"v": 2,
+"p": "167",
+"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "190",
+"cite": "amoras. Id., ix. 60-1. S",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "20",
+"cite": "vernor. Prov. Rec., MS., ix. 58-60. M",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "33",
+"cite": "istant. Prov. Rec., MS., ix. 63-4. T",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
 }
 ]
 },
@@ -33459,7 +34066,7 @@
 "p": "184",
 "cite": "erence. Prov. Rec., MS., ix. 45-6. J",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33467,7 +34074,7 @@
 "p": "184",
 "cite": "r- nia. Id., ix. 44. S",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33475,7 +34082,7 @@
 "p": "190",
 "cite": "murder. Prov. Rec., MS., ix. 43. 1",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33483,7 +34090,7 @@
 "p": "24",
 "cite": "iceroy. Prov. Rec., MS., ix. 47-50. 1",
 "tier": "leaf",
-"shared": 2,
+"shared": 3,
 "caveat": "25"
 }
 ]
@@ -33495,7 +34102,7 @@
 "p": "184",
 "cite": "erence. Prov. Rec., MS., ix. 45-6. J",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33503,7 +34110,7 @@
 "p": "24",
 "cite": "iceroy. Prov. Rec., MS., ix. 47-50. 1",
 "tier": "leaf",
-"shared": 2,
+"shared": 3,
 "caveat": "25"
 },
 {
@@ -33512,6 +34119,26 @@
 "cite": "ptured. Prov. Rec., ix. 150.",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca25-d515-n302": {
+"cited": [
+{
+"v": 2,
+"p": "24",
+"cite": "iceroy. Prov. Rec., MS., ix. 47-50. 1",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "29",
+"cite": "o V. R, Prov. Rec., MS., ix. 56. 2",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
 }
 ]
 },
@@ -33686,13 +34313,6 @@
 "cited": [
 {
 "v": 2,
-"p": "159",
-"cite": "ctober. Prov. Rec., MS., ix. 115, 117. I",
-"tier": "orig-page",
-"shared": 2
-},
-{
-"v": 2,
 "p": "170",
 "cite": "385-6; Prov. Rec., MS., ix. 119; x",
 "tier": "leaf",
@@ -33703,7 +34323,7 @@
 "p": "187",
 "cite": "aga. 32 Prov. Rec., MS., ix. 121, 126. H",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33711,7 +34331,7 @@
 "p": "25",
 "cite": "2-5. 17 Prov. Rec., MS., ix. 35; P",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -33719,7 +34339,7 @@
 "p": "25",
 "cite": "are of. Prov. Rec., MS., ix. 38-40.",
 "tier": "leaf",
-"shared": 5,
+"shared": 7,
 "caveat": "25"
 },
 {
@@ -33727,7 +34347,7 @@
 "p": "67",
 "cite": "coast. Prov. Rec., MS., ix. 34. *",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -33746,7 +34366,7 @@
 "p": "25",
 "cite": "2-5. 17 Prov. Rec., MS., ix. 35; P",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -33754,7 +34374,7 @@
 "p": "25",
 "cite": "are of. Prov. Rec., MS., ix. 38-40.",
 "tier": "leaf",
-"shared": 5,
+"shared": 7,
 "caveat": "25"
 },
 {
@@ -33762,7 +34382,7 @@
 "p": "67",
 "cite": "coast. Prov. Rec., MS., ix. 34. *",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 }
 ]
@@ -33774,7 +34394,7 @@
 "p": "184",
 "cite": "r- nia. Id., ix. 44. S",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33782,7 +34402,7 @@
 "p": "190",
 "cite": "murder. Prov. Rec., MS., ix. 43. 1",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33790,7 +34410,7 @@
 "p": "25",
 "cite": "2-5. 17 Prov. Rec., MS., ix. 35; P",
 "tier": "leaf",
-"shared": 5,
+"shared": 6,
 "caveat": "25"
 },
 {
@@ -33798,7 +34418,7 @@
 "p": "25",
 "cite": "are of. Prov. Rec., MS., ix. 38-40.",
 "tier": "leaf",
-"shared": 5,
+"shared": 7,
 "caveat": "25"
 }
 ]
@@ -33810,7 +34430,7 @@
 "p": "184",
 "cite": "erence. Prov. Rec., MS., ix. 45-6. J",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33818,7 +34438,7 @@
 "p": "184",
 "cite": "r- nia. Id., ix. 44. S",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33826,7 +34446,7 @@
 "p": "190",
 "cite": "murder. Prov. Rec., MS., ix. 43. 1",
 "tier": "leaf",
-"shared": 3,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -33834,7 +34454,43 @@
 "p": "25",
 "cite": "are of. Prov. Rec., MS., ix. 38-40.",
 "tier": "leaf",
+"shared": 7,
+"caveat": "25"
+}
+]
+},
+"ca25-d514-n291": {
+"cited": [
+{
+"v": 2,
+"p": "184",
+"cite": "erence. Prov. Rec., MS., ix. 45-6. J",
+"tier": "leaf",
 "shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "184",
+"cite": "r- nia. Id., ix. 44. S",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "190",
+"cite": "murder. Prov. Rec., MS., ix. 43. 1",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "25",
+"cite": "are of. Prov. Rec., MS., ix. 38-40.",
+"tier": "leaf",
+"shared": 7,
 "caveat": "25"
 }
 ]
@@ -34591,6 +35247,81 @@
 }
 ]
 },
+"ca25-d518-n316": {
+"cited": [
+{
+"v": 2,
+"p": "182",
+"cite": "ix. 60; Prov. Rec., MS., ix. 68. A",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "31",
+"cite": "reply. Prov. Rec., MS., ix. 70-1.",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "33",
+"cite": "istant. Prov. Rec., MS., ix. 63-4. T",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+}
+]
+},
+"ca25-d519-n318": {
+"cited": [
+{
+"v": 2,
+"p": "182",
+"cite": "ix. 60; Prov. Rec., MS., ix. 68. A",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "187",
+"cite": "years. Prov. Rec., MS., ix. 72. R",
+"tier": "leaf",
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "31",
+"cite": "reply. Prov. Rec., MS., ix. 70-1.",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+}
+]
+},
+"ca25-d525-n317": {
+"cited": [
+{
+"v": 2,
+"p": "182",
+"cite": "ix. 60; Prov. Rec., MS., ix. 68. A",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "31",
+"cite": "reply. Prov. Rec., MS., ix. 70-1.",
+"tier": "leaf",
+"shared": 3,
+"caveat": "25"
+}
+]
+},
 "ca12-d24-n33": {
 "cited": [
 {
@@ -34632,6 +35363,42 @@
 "p": "34",
 "cite": "shness. Prov. St. Pap., MS., xix. 36-7. A",
 "tier": "leaf"
+}
+]
+},
+"ca25-d517-n314": {
+"cited": [
+{
+"v": 2,
+"p": "167",
+"cite": "eded in Prov. Rec., MS., ix. 63, 99; P",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "182",
+"cite": "ix. 60; Prov. Rec., MS., ix. 68. A",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "33",
+"cite": "istant. Prov. Rec., MS., ix. 63-4. T",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "415",
+"cite": "x. 298; Prov. Rec., MS., ix. 179, 182, 185. O",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
 }
 ]
 },
@@ -35288,6 +36055,17 @@
 }
 ]
 },
+"ca25-d520-n326": {
+"cited": [
+{
+"v": 2,
+"p": "73",
+"cite": "ements. Prov. Rec., MS., ix. 75-6. A",
+"tier": "leaf",
+"caveat": "25"
+}
+]
+},
 "ca12-d90-n102": {
 "cited": [
 {
@@ -35428,6 +36206,7 @@
 "p": "191",
 "cite": "Prado. Prov. Rec., MS., ix. 103, 108. T",
 "tier": "leaf",
+"shared": 2,
 "caveat": "25"
 },
 {
@@ -35567,6 +36346,64 @@
 "tier": "leaf",
 "shared": 4,
 "caveat": "55"
+}
+]
+},
+"ca25-d528-n360": {
+"cited": [
+{
+"v": 2,
+"p": "128",
+"cite": "223-5; Prov. Rec., MS., ix. 114, 125; P",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "128",
+"cite": "e- roy. Prov. Rec., MS., ix. 108; a",
+"tier": "leaf",
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "186",
+"cite": "ration. Prov. Rec., MS., ix. 108. 1",
+"tier": "leaf",
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "191",
+"cite": "Prado. Prov. Rec., MS., ix. 103, 108. T",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "85",
+"cite": "134-6; Prov. Rec., MS., ix. 111. 1",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "85",
+"cite": "111. 11 Prov. Rec., MS., ix. 110; x",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "86",
+"cite": "ctober. Prov. Rec., MS., ix. 109. N",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
 }
 ]
 },
@@ -36205,7 +37042,7 @@
 "p": "128",
 "cite": "223-5; Prov. Rec., MS., ix. 114, 125; P",
 "tier": "leaf",
-"shared": 2,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36213,7 +37050,7 @@
 "p": "180",
 "cite": "x. 301; Prov. Rec., MS., ix. 127. W",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36221,7 +37058,7 @@
 "p": "187",
 "cite": "aga. 32 Prov. Rec., MS., ix. 121, 126. H",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36229,7 +37066,7 @@
 "p": "424",
 "cite": "ffects. Prov. Rec., MS., ix. 128. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36253,7 +37090,7 @@
 "p": "95",
 "cite": "x. 293; Prov. Rec., MS., ix. 126. *",
 "tier": "leaf",
-"shared": 3,
+"shared": 4,
 "caveat": "25"
 },
 {
@@ -36261,7 +37098,7 @@
 "p": "97",
 "cite": "x. 293; Prov. Rec., MS., ix. 126. •",
 "tier": "leaf",
-"shared": 3,
+"shared": 4,
 "caveat": "25"
 }
 ]
@@ -36273,7 +37110,7 @@
 "p": "128",
 "cite": "223-5; Prov. Rec., MS., ix. 114, 125; P",
 "tier": "leaf",
-"shared": 2,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36281,7 +37118,7 @@
 "p": "180",
 "cite": "x. 301; Prov. Rec., MS., ix. 127. W",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36289,7 +37126,7 @@
 "p": "187",
 "cite": "aga. 32 Prov. Rec., MS., ix. 121, 126. H",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36313,7 +37150,7 @@
 "p": "95",
 "cite": "x. 293; Prov. Rec., MS., ix. 126. *",
 "tier": "leaf",
-"shared": 3,
+"shared": 4,
 "caveat": "25"
 },
 {
@@ -36321,7 +37158,7 @@
 "p": "97",
 "cite": "x. 293; Prov. Rec., MS., ix. 126. •",
 "tier": "leaf",
-"shared": 3,
+"shared": 4,
 "caveat": "25"
 }
 ]
@@ -36705,7 +37542,7 @@
 "p": "180",
 "cite": "x. 301; Prov. Rec., MS., ix. 127. W",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36713,7 +37550,7 @@
 "p": "187",
 "cite": "aga. 32 Prov. Rec., MS., ix. 121, 126. H",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36721,7 +37558,7 @@
 "p": "268",
 "cite": "lot. 10 Prov. Rec., MS., ix. 131. \"",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36729,7 +37566,7 @@
 "p": "418",
 "cite": "v. 209; Prov. Rec., MS., ix. 131; x",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36737,7 +37574,7 @@
 "p": "424",
 "cite": "ffects. Prov. Rec., MS., ix. 128. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -36745,7 +37582,7 @@
 "p": "95",
 "cite": "x. 293; Prov. Rec., MS., ix. 126. *",
 "tier": "leaf",
-"shared": 3,
+"shared": 4,
 "caveat": "25"
 },
 {
@@ -36753,7 +37590,75 @@
 "p": "97",
 "cite": "x. 293; Prov. Rec., MS., ix. 126. •",
 "tier": "leaf",
-"shared": 3,
+"shared": 4,
+"caveat": "25"
+}
+]
+},
+"ca25-d530-n377": {
+"cited": [
+{
+"v": 2,
+"p": "128",
+"cite": "223-5; Prov. Rec., MS., ix. 114, 125; P",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "180",
+"cite": "x. 301; Prov. Rec., MS., ix. 127. W",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "187",
+"cite": "aga. 32 Prov. Rec., MS., ix. 121, 126. H",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "268",
+"cite": "lot. 10 Prov. Rec., MS., ix. 131. \"",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "418",
+"cite": "v. 209; Prov. Rec., MS., ix. 131; x",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "424",
+"cite": "ffects. Prov. Rec., MS., ix. 128. 1",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "95",
+"cite": "x. 293; Prov. Rec., MS., ix. 126. *",
+"tier": "leaf",
+"shared": 4,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "97",
+"cite": "x. 293; Prov. Rec., MS., ix. 126. •",
+"tier": "leaf",
+"shared": 4,
 "caveat": "25"
 }
 ]
@@ -41779,7 +42684,7 @@
 "p": "180",
 "cite": "x. 301; Prov. Rec., MS., ix. 127. W",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -41803,7 +42708,7 @@
 "p": "268",
 "cite": "lot. 10 Prov. Rec., MS., ix. 131. \"",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -41811,7 +42716,7 @@
 "p": "418",
 "cite": "v. 209; Prov. Rec., MS., ix. 131; x",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -41819,7 +42724,7 @@
 "p": "424",
 "cite": "ffects. Prov. Rec., MS., ix. 128. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 }
 ]
@@ -41963,6 +42868,34 @@
 "cite": "n Bias. Prov. St. Pap., MS., xix. 80-4. I",
 "tier": "leaf",
 "shared": 3
+}
+]
+},
+"ca25-d521-n292": {
+"cited": [
+{
+"v": 2,
+"p": "184",
+"cite": "erence. Prov. Rec., MS., ix. 45-6. J",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "184",
+"cite": "r- nia. Id., ix. 44. S",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "190",
+"cite": "murder. Prov. Rec., MS., ix. 43. 1",
+"tier": "leaf",
+"shared": 5,
+"caveat": "25"
 }
 ]
 },
@@ -48198,6 +49131,66 @@
 }
 ]
 },
+"ca25-d532-n448": {
+"cited": [
+{
+"v": 2,
+"p": "259",
+"cite": "iceroy. Prov. Rec., MS., ix. 196. I",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "290",
+"cite": "ntario. Prov. Rec., MS., ix. 197. J",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "290",
+"cite": "noted. Prov. Rec., MS., ix. 197. I",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "316",
+"cite": ", 1818. Prov. Rec., MS., ix. 197. K",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "316",
+"cite": "tioned. Prov. Rec., MS., ix. 197; R",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 2,
+"p": "570",
+"cite": "ix. 32; Prov. Rec., MS., ix. 196; P",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+},
+{
+"v": 3,
+"p": "10",
+"cite": "x. 194; Prov. Rec., MS., ix. 196; V",
+"tier": "leaf",
+"shared": 2,
+"caveat": "25"
+}
+]
+},
 "ca55-d20-n19": {
 "cited": [
 {
@@ -49318,7 +50311,7 @@
 "p": "268",
 "cite": "lot. 10 Prov. Rec., MS., ix. 131. \"",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -49326,7 +50319,7 @@
 "p": "418",
 "cite": "v. 209; Prov. Rec., MS., ix. 131; x",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -49334,7 +50327,7 @@
 "p": "424",
 "cite": "ffects. Prov. Rec., MS., ix. 128. 1",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 }
 ]
@@ -49362,7 +50355,7 @@
 "p": "268",
 "cite": "lot. 10 Prov. Rec., MS., ix. 131. \"",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -49410,7 +50403,7 @@
 "p": "418",
 "cite": "v. 209; Prov. Rec., MS., ix. 131; x",
 "tier": "leaf",
-"shared": 4,
+"shared": 5,
 "caveat": "25"
 },
 {
@@ -83397,6 +84390,28 @@
 "p": "685",
 "cite": "milies. Id., vi. 36. J",
 "tier": "orig-page"
+}
+]
+},
+"ca30-d408-n245": {
+"cited": [
+{
+"v": 4,
+"p": "685",
+"cite": ". Pico. Id. , 407. I",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca30-d409-n246": {
+"cited": [
+{
+"v": 4,
+"p": "685",
+"cite": ". Pico. Id. , 407. I",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
