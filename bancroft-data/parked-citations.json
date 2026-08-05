@@ -90,7 +90,6 @@
 "ProvRec tomo 19": 1,
 "ProvRec tomo 20": 4,
 "ProvRec tomo 7": 1,
-"ProvRec tomo 9": 4,
 "SP-Miss tomo 10": 21,
 "SP-Miss tomo 11": 31,
 "SP-Miss tomo 2": 7,
@@ -5752,56 +5751,6 @@
 ]
 ],
 "raw": "-7, 81; Prov. Rec., MS., vii. 47, 160; x"
-}
-],
-"ProvRec tomo 9": [
-{
-"hv": 2,
-"page": "20",
-"tomo": 9,
-"pages": [
-[
-73,
-73
-]
-],
-"raw": "vii. 2; Prov. Rec., MS., ix. 73; G"
-},
-{
-"hv": 2,
-"page": "85",
-"tomo": 9,
-"pages": [
-[
-107,
-107
-]
-],
-"raw": "73. 11 Prov. Rec., MS., ix. 107; x"
-},
-{
-"hv": 2,
-"page": "167",
-"tomo": 9,
-"pages": [
-[
-81,
-81
-]
-],
-"raw": "othing. Prov. Rec., MS., ix. 81."
-},
-{
-"hv": 2,
-"page": "211",
-"tomo": 9,
-"pages": [
-[
-153,
-153
-]
-],
-"raw": "nition. Prov. Rec., MS., ix. 153. 2"
 }
 ],
 "SP-Miss tomo 10": [
