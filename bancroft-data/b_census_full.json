@@ -1,10 +1,5 @@
 [
 {
-"key": "ca7-d287-n192",
-"rating": 9,
-"summary": "'Estado de las Californias' / Papel de Puntos — his 32-point handover state-of-t"
-},
-{
 "key": "ca22-d2051-n379",
 "rating": 9,
 "summary": "Permitted two London merchant ships water & wood; ⭐⭐⭐ the 5 English deserters no"
@@ -27,17 +22,12 @@
 {
 "key": "ca6-d199-n290",
 "rating": 5,
-"summary": "header '1793 Novre (debe ser Dicre) 2, Bahía de Monterrey, Á Bordo del Buque de "
+"summary": "✓ VERIFIED vs scans n285–n286 (2026-07-07): header '1793 Novre (debe ser Dicre) "
 },
 {
 "key": "ca6-d199-n290",
 "rating": 5,
 "summary": "Vancouver's letter cont. — the shore operations he needs: examine the rigging, u"
-},
-{
-"key": "ca7-d88-n54",
-"rating": 5,
-"summary": "Capture at Santa Cruz of gentile Hímelente[?] with a Christian woman stolen from"
 },
 {
 "key": "ca37-d414-n179",
@@ -87,7 +77,7 @@
 {
 "key": "ca57-d136-n162",
 "rating": 5,
-"summary": "1845 Mar 10 «ANEXACIÓN DE TEJAS, por el Gob.º Norte-Am.º» (García Conde): los EE"
+"summary": "1845 Mar 10 «ANEXACIÓN DE TEJAS por los Estados del Norte-América» (García Conde"
 },
 {
 "key": "ca57-d141-n181",
@@ -123,11 +113,6 @@
 "key": "ca4-d275-n308",
 "rating": 4,
 "summary": "'Pesquisa del neófito Domingo' (a full battle account + fugitive-neophyte-raider"
-},
-{
-"key": "ca5-d11-n54",
-"rating": 4,
-"summary": "'Copia de la Instrucción aprobada por su Majestad… para el establecimiento de la"
 },
 {
 "key": "ca6-d87-n81",
@@ -205,19 +190,9 @@
 "summary": "= THESIS-CRITICAL #2 (verified, audit): (a) the SUSPENDED BODEGA establishment —"
 },
 {
-"key": "ca7-d199-n123",
-"rating": 4,
-"summary": "Index of his official correspondence to the Viceroy (oficios of 26 Oct & 9 Sept)"
-},
-{
 "key": "ca10-d102-n202",
 "rating": 4,
 "summary": "BORICA'S INTERROGATORY OF THE AMERICAN SAILORS — the questions alférez Ma. Rodrí"
-},
-{
-"key": "ca15-d21-n21",
-"rating": 4,
-"summary": "Manuscript chart: 'Plano del Puerto de la Bodega descubierto con la Goleta *Sono"
 },
 {
 "key": "ca20-d101-n93",
@@ -815,16 +790,6 @@
 "summary": "the US-conquest transition — under the new American regime, Vallejo transmits to"
 },
 {
-"key": "ca55-d212-n159",
-"rating": 4,
-"summary": "Bundle — (Nº1) an artisan/smith-armorer arrived; (Nº2) admin re Ramón Lasso & th"
-},
-{
-"key": "ca55-d317-n257",
-"rating": 4,
-"summary": "Long *sumaria* (Sgt. Fco. de Aguiar) on the disorders in the San Juan Capistrano"
-},
-{
 "key": "ca56-d164-n144",
 "rating": 4,
 "summary": "✓ HEADER + opening VERIFIED vs scan n144 (2026-07-06): '1823 Julio 6, San Franci"
@@ -1082,12 +1047,12 @@
 {
 "key": "ca3-d108-n104",
 "rating": 3,
-"summary": "A SHIPWRECK on the Monterey-Bay coast (late 1784): at Santa Clara / the mouth of"
+"summary": "✓ VERIFIED vs scan n104–n105 (2026-07-25); title = 'Sobre Reses muertas y pérdid"
 },
 {
 "key": "ca3-d157-n134",
 "rating": 3,
-"summary": "The wreck of the Macao ship 'San Francisco de Paula alias El Hombre' at the Bahí"
+"summary": "✓ VERIFIED vs scan n134 (2026-07-25) — 2 abstract errors fixed: ship's alias = '"
 },
 {
 "key": "ca3-d235-n191",
@@ -1097,7 +1062,7 @@
 {
 "key": "ca3-d238-n227",
 "rating": 3,
-"summary": "'1782 El Pardo Febrero 22 — Real Orden sobre navegación'; the *San José* off Pun"
+"summary": "✓ VERIFIED vs scan n227 (2026-07-06): '1782 El Pardo Febrero 22 — Real Orden sob"
 },
 {
 "key": "ca3-d345-n312",
@@ -1107,7 +1072,7 @@
 {
 "key": "ca3-d412-n373",
 "rating": 3,
-"summary": "Fages 'en oficio de 2 de Junio del año último informó… reconoció el Canal de San"
+"summary": "✓ VERIFIED vs scan n373 (2026-07-06); ✎ scan-start corrected n372→n373 (n372 is "
 },
 {
 "key": "ca3-d443-n401",
@@ -1145,9 +1110,9 @@
 "summary": "'Sobre pelea de Indios' — the gentiles of the ranchería next to Mission Santa Cl"
 },
 {
-"key": "ca5-d56-n106",
+"key": "ca5-d11-n54",
 "rating": 3,
-"summary": "Pueblo-governance + labor cluster: the *relación del ramo de tabacos*; the testa"
+"summary": "'Copia de la Instrucción aprobada por su Majestad… para el establecimiento de la"
 },
 {
 "key": "ca5-d146-n356",
@@ -1235,6 +1200,11 @@
 "summary": "General foreign-ship EXCLUSION order, synthesizing the whole policy (verified sc"
 },
 {
+"key": "ca7-d287-n192",
+"rating": 3,
+"summary": "'Estado de las Californias' / Papel de Puntos — his 32-point handover state-of-t"
+},
+{
 "key": "ca7-d387-n288",
 "rating": 3,
 "summary": "Reservada R.O. (4 Jul): the KING approves Borica's warnings to Vancouver — on Va"
@@ -1280,6 +1250,46 @@
 "summary": "SECOND account of the killing (a party of 14 — 2 alcaldes + old/new Christians —"
 },
 {
+"key": "ca9-d32-n32",
+"rating": 3,
+"summary": "Diary of the expedition to found Mission San José — see expanded entry below"
+},
+{
+"key": "ca9-d109-n70",
+"rating": 3,
+"summary": "*Envío de documentos* — forwards two detailed *Relaciones* taken against the imp"
+},
+{
+"key": "ca9-d113-n75",
+"rating": 3,
+"summary": "✓ VERIFIED vs scan n75 (2026-07-07): 'Relación… de las declaraciones de los Indi"
+},
+{
+"key": "ca9-d221-n133",
+"rating": 3,
+"summary": "*Avistamiento de 16 Buques* — the express by *cordillera* with news of 16 ships "
+},
+{
+"key": "ca9-d231-n137",
+"rating": 3,
+"summary": "*Sobre comunicación con la Sonora* — major strategic memo (answering the R.Hac. "
+},
+{
+"key": "ca9-d335-n192",
+"rating": 3,
+"summary": "*Avistamiento de barcos* — an Indian sent by the San Fernando mayordomo brought "
+},
+{
+"key": "ca9-d336-n192",
+"rating": 3,
+"summary": "*Providencias sobre lo mismo* — at 8:30 PM a soldier from San Miguel arrived wit"
+},
+{
+"key": "ca9-d365-n217",
+"rating": 3,
+"summary": "*Declaraciones sobre muerte de un Gentil* — the death-in-custody of the gentile "
+},
+{
 "key": "ca10-d50-n47",
 "rating": 3,
 "summary": "Neophyte murder case (Mission San Luis Obispo): the neophyte Silverio killed his"
@@ -1295,9 +1305,9 @@
 "summary": "'Diario de su expedición á rancherías': Castro left the Mission (1 Jun) with 13 "
 },
 {
-"key": "ca15-d28-n23",
+"key": "ca15-d21-n21",
 "rating": 3,
-"summary": "Interrogation of imprisoned SD-revolt leaders. Declarations (31 May–18 Jun) from"
+"summary": "Manuscript chart: 'Plano del Puerto de la Bodega descubierto con la Goleta *Sono"
 },
 {
 "key": "ca15-d97-n77",
@@ -1338,6 +1348,36 @@
 "key": "ca16-d610-n380",
 "rating": 3,
 "summary": "Arrillaga's last will & testament — dictated as he lay dying at Mission Soledad;"
+},
+{
+"key": "ca17-d111-n70",
+"rating": 3,
+"summary": "Semester climate/health report containing a primary account of the 8 Dec 1812 ea"
+},
+{
+"key": "ca17-d113-n72",
+"rating": 3,
+"summary": "'Establecimiento ruso' — three starving Russian deserters from Kuskov's Fort Ros"
+},
+{
+"key": "ca17-d153-n101",
+"rating": 3,
+"summary": "Investigation into the death of P. Fr. Andrés Quintana (Mission Santa Cruz, morn"
+},
+{
+"key": "ca17-d200-n159",
+"rating": 3,
+"summary": "Sta Bárbara muster 1816 — embeds the Jan-1816 capture at the Refugio rancho: the"
+},
+{
+"key": "ca17-d232-n181",
+"rating": 3,
+"summary": "Sta Bárbara muster 1819 — embeds the Bouchard raid: 1 capt., 1 tte., 1 alf., 3 s"
+},
+{
+"key": "ca17-d331-n276",
+"rating": 3,
+"summary": "The Branciforte sack of Mission Santa Cruz during the Bouchard scare. Fr. Ramón "
 },
 {
 "key": "ca18-d84-n129",
@@ -1397,7 +1437,7 @@
 {
 "key": "ca19-d124-n139",
 "rating": 3,
-"summary": "header '1831 Mzo 11 S. Carlos, Gómez, Asesor del Territᵒ — Proceso contra el may"
+"summary": "✓ VERIFIED vs scans n139+n141 (2026-07-07): header '1831 Mzo 11 S. Carlos, Gómez"
 },
 {
 "key": "ca19-d128-n145",
@@ -1507,7 +1547,7 @@
 {
 "key": "ca21-d371-n182",
 "rating": 3,
-"summary": "'Regulación del Situado que corresponde en el año de 98 á los… cuatro Presidios…"
+"summary": "✓ VERIFIED vs scans n182+n193 (2026-07-07): 'Regulación del Situado que correspo"
 },
 {
 "key": "ca22-d177-n145",
@@ -3437,7 +3477,7 @@
 {
 "key": "ca50-d427-n398",
 "rating": 3,
-"summary": "1833 cumulative *Cuadro Estadístico* of all Alta California missions — living ne"
+"summary": "1833 cumulative *Cuadro Estadístico* of the 13 Fernandino (southern) missions (⚠"
 },
 {
 "key": "ca50-d443-n408",
@@ -3735,16 +3775,6 @@
 "summary": "the eve of the US conquest — on José Mª Covarrubias's mission to Mexico City (a "
 },
 {
-"key": "ca54-d4008-n333",
-"rating": 3,
-"summary": ""
-},
-{
-"key": "ca54-d4052-n431",
-"rating": 3,
-"summary": ""
-},
-{
 "key": "ca55-d243-n208",
 "rating": 3,
 "summary": "Mission supplies to the Russians of Fort Ross — see Entry 15. On the *suministra"
@@ -3757,17 +3787,17 @@
 {
 "key": "ca56-d81-n61",
 "rating": 3,
-"summary": "with Monterey restored (per his oficio of ~26 Jan), Sta Bárbara restored + 'la p"
+"summary": "✓ VERIFIED vs scan n61 (2026-07-06): with Monterey restored (per his oficio of ~"
 },
 {
 "key": "ca56-d163-n137",
 "rating": 3,
-"summary": "'1838 Enero 5, San José de Guadᵖᵉ, Antᵒ Mª Pico, alcalde constⁱ — Bando de polic"
+"summary": "✓ VERIFIED vs scan n137 (2026-07-06): '1838 Enero 5, San José de Guadᵖᵉ, Antᵒ Mª"
 },
 {
 "key": "ca56-d222-n206",
 "rating": 3,
-"summary": "the RAC frigate *Santa Elena* (cdr. 'Mateo Morabioff' [Savage's spelling; = Matv"
+"summary": "✓ VERIFIED vs scan n206 (2026-07-06): the RAC frigate *Santa Elena* (cdr. 'Mateo"
 },
 {
 "key": "ca56-d364-n314",
@@ -4537,7 +4567,7 @@
 {
 "key": "ca3-d273-n256",
 "rating": 2,
-"summary": "'1785 Abril 9 Monterey, Nicolás Soler á Eulalia de Callís — Varias observaciones"
+"summary": "✓ VERIFIED vs scan n256 (2026-07-06): '1785 Abril 9 Monterey, Nicolás Soler á Eu"
 },
 {
 "key": "ca3-d274-n257",
@@ -4632,7 +4662,7 @@
 {
 "key": "ca3-d504-n468",
 "rating": 2,
-"summary": "'No habiendo podido firmar el Exmo Señor Virrey Conde de Galvez por su grave enf"
+"summary": "✓ VERIFIED vs scans n468–n469 (2026-07-06). Viáticos for the San Fernando Colleg"
 },
 {
 "key": "ca4-d11-n6",
@@ -4940,6 +4970,11 @@
 "summary": "Of the ~22 Indians imprisoned & set to work on the Castillo, several fled at nig"
 },
 {
+"key": "ca7-d88-n54",
+"rating": 2,
+"summary": "Capture at Santa Cruz of gentile Hímelente[?] with a Christian woman stolen from"
+},
+{
 "key": "ca7-d94-n61",
 "rating": 2,
 "summary": "Ground plan(s) of the Real Presidio del Canal de Santa Bárbara, 1794 constructio"
@@ -4948,6 +4983,11 @@
 "key": "ca7-d161-n100",
 "rating": 2,
 "summary": "Forwards a personal letter from George Vancouver (read it before the Pe Presiden"
+},
+{
+"key": "ca7-d199-n123",
+"rating": 2,
+"summary": "Index of his official correspondence to the Viceroy (oficios of 26 Oct & 9 Sept)"
 },
 {
 "key": "ca7-d216-n142",
@@ -4983,11 +5023,6 @@
 "key": "ca7-d279-n185",
 "rating": 2,
 "summary": "Order on the presidio works (per Junta Superior, 28 Dec 1793): carry them to com"
-},
-{
-"key": "ca7-d307-n213",
-"rating": 2,
-"summary": "5 oficios: (1) chaplain replacement José Gómez (ex-*Concepción*); (2) ordered me"
 },
 {
 "key": "ca7-d337-n235",
@@ -5115,6 +5150,231 @@
 "summary": "Diary of the labors of the pobladores — names the first Villa de Branciforte set"
 },
 {
+"key": "ca9-d46-n42",
+"rating": 2,
+"summary": "*Sobre cierta espedición* — forwards Sgt. Pedro Amador's *parte* and original di"
+},
+{
+"key": "ca9-d58-n47",
+"rating": 2,
+"summary": "*Instancia / Licencia / Causa de disgustos* — the Mission San José Padres demand"
+},
+{
+"key": "ca9-d75-n55",
+"rating": 2,
+"summary": "*Sobre auxilios á un Ingeniero* — per the Viceroy's order, to give engineer Albe"
+},
+{
+"key": "ca9-d83-n59",
+"rating": 2,
+"summary": "*Suministro de una mesada* — encloses the crew-list of the paquebot *San Carlos*"
+},
+{
+"key": "ca9-d110-n71",
+"rating": 2,
+"summary": "*Indagación* — arrived the 7th to investigate a reported gentile attack: the Sac"
+},
+{
+"key": "ca9-d116-n80",
+"rating": 2,
+"summary": "*Apropiación de un Parage* — remits the certification of having taken possession"
+},
+{
+"key": "ca9-d143-n93",
+"rating": 2,
+"summary": "*Fundación de un Rancho* — on the Real Hacienda herd arriving, built a corral & "
+},
+{
+"key": "ca9-d166-n103",
+"rating": 2,
+"summary": "*Solicitud para aumentar una Escolta* — long memo on the troop shortage for Sant"
+},
+{
+"key": "ca9-d178-n109",
+"rating": 2,
+"summary": "*Aprehensión de unos Indios* — the San Borja-detached soldier had five Indians i"
+},
+{
+"key": "ca9-d183-n113",
+"rating": 2,
+"summary": "*Sobre creación de una Escolta* — establishes an escolta at Mission San José del"
+},
+{
+"key": "ca9-d196-n120",
+"rating": 2,
+"summary": "*Sobre defensa de Costas y auxilio á dos fragatas* — notes the Viceroy's order t"
+},
+{
+"key": "ca9-d198-n121",
+"rating": 2,
+"summary": "*Prevenciones con motivo de la Guerra* — acknowledges the charge given on S.M.'s"
+},
+{
+"key": "ca9-d202-n123",
+"rating": 2,
+"summary": "*Declaración de Guerra* — published the *bando* in which the Sovereign declares "
+},
+{
+"key": "ca9-d203-n123",
+"rating": 2,
+"summary": "*Sobre medios de defensa* — acknowledges the defense means for the jurisdiction "
+},
+{
+"key": "ca9-d206-n125",
+"rating": 2,
+"summary": "*(three oficios)* — (a) all royal servants incl. naval officers arriving at NE p"
+},
+{
+"key": "ca9-d209-n127",
+"rating": 2,
+"summary": "*Remisión de un Diario* — returned the 18th, his reconnaissance operations concl"
+},
+{
+"key": "ca9-d234-n142",
+"rating": 2,
+"summary": "Nómina of the Dominican missionaries of Antigua California (by mission, late 179"
+},
+{
+"key": "ca9-d266-n159",
+"rating": 2,
+"summary": "*Envío de documentos* — returns the account of the costs of building the Fuerte "
+},
+{
+"key": "ca9-d290-n169",
+"rating": 2,
+"summary": "*Relación de una Escuela* — the San Diego *escuela de primeras letras* roster (t"
+},
+{
+"key": "ca9-d292-n171",
+"rating": 2,
+"summary": "*Remisión de una Causa criminal* — remits the case against Aurelio, Indian of Mi"
+},
+{
+"key": "ca9-d296-n173",
+"rating": 2,
+"summary": "*Sobre su trato á Indios y sobre evitar tratos ilícitos* — answering reflections"
+},
+{
+"key": "ca9-d317-n183",
+"rating": 2,
+"summary": "*(three oficios) Hojas / Cargo / Indios* — remits his service records; charges 6"
+},
+{
+"key": "ca9-d322-n186",
+"rating": 2,
+"summary": "*Sobre una fragata* — Goycoechea reports the Manila frigate 'Magallanes' put in "
+},
+{
+"key": "ca9-d324-n187",
+"rating": 2,
+"summary": "*Pelea* — Fr. Mariano Yoldi reports that at the Mission San Miguel rancho two va"
+},
+{
+"key": "ca9-d325-n187",
+"rating": 2,
+"summary": "*Sobre la misma agresión* — sent his brother + 2 vaqueros for a steer on 30 Nov;"
+},
+{
+"key": "ca9-d337-n193",
+"rating": 2,
+"summary": "*Investigación de lo mismo* — no ship seen elsewhere within 30 leagues; re-exami"
+},
+{
+"key": "ca9-d343-n195",
+"rating": 2,
+"summary": "*Solicitud de permuta* — asks transfer to Monterey or Sta Bárbara, or absolute d"
+},
+{
+"key": "ca9-d347-n197",
+"rating": 2,
+"summary": "*Sobre no obedecimiento* — order that if captured by the English, he is to obey "
+},
+{
+"key": "ca9-d357-n210",
+"rating": 2,
+"summary": "Monterey presidio Artillery & Munitions inventory (end-1796): flagstaff + 2 flag"
+},
+{
+"key": "ca9-d364-n215",
+"rating": 2,
+"summary": "*Aprehensión de un Indio* — on the 18th seized the gentiles who killed the Chris"
+},
+{
+"key": "ca9-d370-n221",
+"rating": 2,
+"summary": "*Medidas contra una invasión* — Monterey's defense plan against invasion: troops"
+},
+{
+"key": "ca9-d385-n227",
+"rating": 2,
+"summary": "*Sobre un pago* — the Viceroy ordered Cárcaba paid 308 p 4 r for the refreshment"
+},
+{
+"key": "ca9-d412-n238",
+"rating": 2,
+"summary": "*Prevenciones contra un ataque* — should the Enemy take this post, will draw on "
+},
+{
+"key": "ca9-d416-n240",
+"rating": 2,
+"summary": "*Muerte á un Indio cristiano* — the Padre sent Christian Indians to fetch a Gent"
+},
+{
+"key": "ca9-d420-n242",
+"rating": 2,
+"summary": "*Remisión de armamento* — received the invoices for the 200 short muskets, 200 c"
+},
+{
+"key": "ca9-d430-n247",
+"rating": 2,
+"summary": "*Sobre moneda falsa* — received Branciforte's order to investigate circulation o"
+},
+{
+"key": "ca9-d434-n248",
+"rating": 2,
+"summary": "*Remisión de documentos / Fundación de una Misión* (2 ofs) — forwards Extracts &"
+},
+{
+"key": "ca9-d443-n253",
+"rating": 2,
+"summary": "*Sumaria information* against Cristóbal Rey, soldier of the 1st Volunteer Compan"
+},
+{
+"key": "ca9-d445-n255",
+"rating": 2,
+"summary": "*Sobre preguntas para el caso de ataque* — defense questionnaire: should powder-"
+},
+{
+"key": "ca9-d452-n258",
+"rating": 2,
+"summary": "*Envío de una Sumaria* — forwards the sumaria against Aurelio, a San Juan Capist"
+},
+{
+"key": "ca9-d453-n258",
+"rating": 2,
+"summary": "*Sobre devolución de solds* — Sgt. Ruiz asks the return of the soldiers escortin"
+},
+{
+"key": "ca9-d475-n269",
+"rating": 2,
+"summary": "*Declaración de Guerra / Precauciones contra Hostilidades* (2 ofs) — noted the D"
+},
+{
+"key": "ca9-d477-n270",
+"rating": 2,
+"summary": "*Prevenciones contra hostilidades* — explains to the 1st artillery corporal the "
+},
+{
+"key": "ca9-d481-n273",
+"rating": 2,
+"summary": "*Sobre armar inváls y vecinos* — per his office of 5 Apr., the frigate Concepció"
+},
+{
+"key": "ca9-d486-n276",
+"rating": 2,
+"summary": "*Sobre el comandante de una escolta* — will provide Fr. Fermín Lasuén the corpor"
+},
+{
 "key": "ca10-d7-n4",
 "rating": 2,
 "summary": "Founding of Mission Santa Catalina (Baja, Dominican): the advances of the new mi"
@@ -5145,24 +5405,9 @@
 "summary": "The Russian ship 'Sarrasoff' [*Suvorov*] arrived the 20th requesting water/wood/"
 },
 {
-"key": "ca13-d126-n111",
-"rating": 2,
-"summary": "Guerra y Noriega → Gov. Solá: has sent for the 3 cannons from San Buenaventura, "
-},
-{
 "key": "ca13-d127-n111",
 "rating": 2,
 "summary": "Estado of men fit to bear arms in the Santa Bárbara jurisdiction (excl. the arti"
-},
-{
-"key": "ca13-d201-n160",
-"rating": 2,
-"summary": "Wilcocks → Gov. Solá: voyage narrative — broke rigging on the mainmast, put into"
-},
-{
-"key": "ca13-d340-n264",
-"rating": 2,
-"summary": "Gómez → Solá: the *sumaria* against artilleryman Altamirano for theft — no witne"
 },
 {
 "key": "ca13-d405-n300",
@@ -5178,6 +5423,11 @@
 "key": "ca15-d27-n23",
 "rating": 2,
 "summary": "Interrogation of 'el indio Carlos,' capitán of the mission ranchería & principal"
+},
+{
+"key": "ca15-d28-n23",
+"rating": 2,
+"summary": "Interrogation of imprisoned SD-revolt leaders. Declarations (31 May–18 Jun) from"
 },
 {
 "key": "ca15-d29-n24",
@@ -5368,6 +5618,71 @@
 "key": "ca16-d643-n400",
 "rating": 2,
 "summary": "José Francisco Ortiz declares himself a deserter from the frigate *Mercure/Mercu"
+},
+{
+"key": "ca17-d112-n71",
+"rating": 2,
+"summary": "Murder-conspiracy / mutiny plot at San Diego: on 30 Nov ~9 PM the guard sentinel"
+},
+{
+"key": "ca17-d192-n153",
+"rating": 2,
+"summary": "'Respuestas de Boris' — the interrogation of the captured Russian otter-hunter. "
+},
+{
+"key": "ca17-d238-n185",
+"rating": 2,
+"summary": "'Manutención de presos rusos': transmits the Gob.'s order (24 Sep) to ration 'lo"
+},
+{
+"key": "ca17-d329-n270",
+"rating": 2,
+"summary": "Population census of the San Diego district 1818 — presidio + Missions San Luis "
+},
+{
+"key": "ca17-d330-n271",
+"rating": 2,
+"summary": "Causa criminal — the neophyte Antonio/Rafael Chales flogged his wife María Gabri"
+},
+{
+"key": "ca17-d334-n285",
+"rating": 2,
+"summary": "Third investigation — the stolen trunk & household concealment. Adds the theft o"
+},
+{
+"key": "ca17-d335-n292",
+"rating": 2,
+"summary": "'Averiguación sobre expresiones del Padre Olbés en el púlpito' — a church-state "
+},
+{
+"key": "ca17-d344-n299",
+"rating": 2,
+"summary": "'Aprobación del Virrey': the Viceroy Conde del Venadito (Apodaca) (oficio 22 Mar"
+},
+{
+"key": "ca17-d346-n300",
+"rating": 2,
+"summary": "'Preparativos de defensa' — the '150 machetes' order. With Fr. Prefect Mariano P"
+},
+{
+"key": "ca17-d348-n306",
+"rating": 2,
+"summary": "Causa criminal — incest/rape by a stepfather (CLOSED). Per comisionado Manuel Ro"
+},
+{
+"key": "ca17-d352-n325",
+"rating": 2,
+"summary": "SF artillery & ordnance census. *En la batería* [Castillo de San Joaquín]: 3 cañ"
+},
+{
+"key": "ca17-d376-n339",
+"rating": 2,
+"summary": "Fort Guijarros (San Diego) artillery & munitions census. 'Estado de la artillerí"
+},
+{
+"key": "ca17-d394-n351",
+"rating": 2,
+"summary": "Capture of two Americans from a smuggling schooner (CLOSED). Diligencias on an a"
 },
 {
 "key": "ca18-d71-n121",
@@ -5645,7 +5960,7 @@
 "summary": "Recovery of stolen stock: the party captured some NM thieves and recovered many "
 },
 {
-"key": "ca19-d232-n438",
+"key": "ca19-d232-n440",
 "rating": 2,
 "summary": "Formal INSTRUCTIONS for a military expedition into the Tulares to 'perseguir y d"
 },
@@ -6283,6 +6598,21 @@
 "key": "ca24-d331-n289",
 "rating": 2,
 "summary": "Tte despatch to Alférez José Font + baja del Tte Fran.co Roca; ⭐⭐ the Viceroy re"
+},
+{
+"key": "ca24-d569-n422",
+"rating": 2,
+"summary": "'Trato de los Indios en las misiones': the rigores against the Indians of Missio"
+},
+{
+"key": "ca24-d575-n425",
+"rating": 2,
+"summary": "'Ranchos reales. Aranceles': defends the price-schedules (aranceles) & the Ranch"
+},
+{
+"key": "ca24-d581-n428",
+"rating": 2,
+"summary": "'Miseria de los pobladores de San José y Los Ángeles': lacking any merchant to s"
 },
 {
 "key": "ca25-d28-n8",
@@ -8932,7 +9262,7 @@
 {
 "key": "ca39-d251-n310",
 "rating": 2,
-"summary": "Ordered Antonio Mª Osio to proceed aboard the Barca Americana *Moscow* anchored "
+"summary": "Ordered Antonio Mª Lugo [⚠ CORRECTED 2026-07-28 from 'Osio' — the ms. reads Lugo"
 },
 {
 "key": "ca39-d252-n397",
@@ -9678,6 +10008,16 @@
 "key": "ca44-d82-n100",
 "rating": 2,
 "summary": "the San José & Villa de Branciforte Ayuntamiento (Alcaldes, Regidores, vecinos) "
+},
+{
+"key": "ca44-d100-n290",
+"rating": 2,
+"summary": "prose ADDRESS to the Californios mourning the death of President Miguel Barragán"
+},
+{
+"key": "ca44-d101-n293",
+"rating": 2,
+"summary": "PROCLAMATION on the expulsion of the foreigners — the 1840 GRAHAM AFFAIR. Denoun"
 },
 {
 "key": "ca45-d8-n10",
@@ -11072,7 +11412,7 @@
 {
 "key": "ca52-d42-n226",
 "rating": 2,
-"summary": "first-person Colorado-frontier RECONNAISSANCE / campaign narrative (interleaved "
+"summary": "first-person 'Diario sobre la expedición á los Tulares' (heading @ n227; interle"
 },
 {
 "key": "ca53-d2-n6",
@@ -11275,11 +11615,6 @@
 "summary": "tells Pedrorena the Rancho de Pala cannot be granted to him 'por pertenecer á lo"
 },
 {
-"key": "ca54-d4069-n489",
-"rating": 2,
-"summary": "Doc IV-69 — Romeu: Eliza's Nootka dispatches + the *Saturnina* from Nootka."
-},
-{
 "key": "ca55-d75-n42",
 "rating": 2,
 "summary": "Two frigates anchored at Monterey: the Spanish merchantman *Reyna de los Ángeles"
@@ -11315,9 +11650,9 @@
 "summary": "Foreign-ship exclusion order: forwards the Viceroy's note (17 Aug) on the entrie"
 },
 {
-"key": "ca55-d227-n196",
+"key": "ca55-d212-n159",
 "rating": 2,
-"summary": "Retirement list of cavalry NCOs unable to continue (age/infirmity): ⭐ Sgt. Maria"
+"summary": "Bundle — (Nº1) an artisan/smith-armorer arrived; (Nº2) admin re Ramón Lasso & th"
 },
 {
 "key": "ca55-d254-n217",
@@ -11343,6 +11678,11 @@
 "key": "ca55-d300-n245",
 "rating": 2,
 "summary": "Officer-seniority scale (*escala de antigüedad*) for both Californias (per the 1"
+},
+{
+"key": "ca55-d317-n257",
+"rating": 2,
+"summary": "Long *sumaria* (Sgt. Fco. de Aguiar) on the disorders in the San Juan Capistrano"
 },
 {
 "key": "ca55-d337-n299",
@@ -11607,7 +11947,7 @@
 {
 "key": "ca60-d12-n271",
 "rating": 2,
-"summary": "'monumento á la memoria del finado Gral José Figueroa'; David Spence confirms th"
+"summary": "✓ VERIFIED vs scan n271 (2026-07-06): 'monumento á la memoria del finado Gral Jo"
 },
 {
 "key": "ca61-d12-n30",
