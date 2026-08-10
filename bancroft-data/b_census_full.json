@@ -1,20 +1,5 @@
 [
 {
-"key": "ca22-d2051-n379",
-"rating": 9,
-"summary": "Permitted two London merchant ships water & wood; ⭐⭐⭐ the 5 English deserters no"
-},
-{
-"key": "ca18-d347-n327",
-"rating": 6,
-"summary": "The longest expediente in the volume (~LXVI pp. 90–390, dragging from Aug 1828 i"
-},
-{
-"key": "ca22-d255-n182",
-"rating": 6,
-"summary": "[6 docs] ⭐⭐⭐ Foreigner-exclusion order (foreigners not tolerated, esp. in the po"
-},
-{
 "key": "ca6-d196-n282",
 "rating": 5,
 "summary": "A LETTER FROM VANCOUVER HIMSELF: 'Siento muchísimo… dejar este Puerto sin tener "
@@ -28,6 +13,21 @@
 "key": "ca6-d199-n290",
 "rating": 5,
 "summary": "Vancouver's letter cont. — the shore operations he needs: examine the rigging, u"
+},
+{
+"key": "ca18-d347-n327",
+"rating": 5,
+"summary": "The longest expediente in the volume (~LXVI pp. 90–390, dragging from Aug 1828 i"
+},
+{
+"key": "ca22-d2051-n379",
+"rating": 5,
+"summary": "Permitted two London merchant ships water & wood; ⭐⭐⭐ the 5 English deserters no"
+},
+{
+"key": "ca22-d255-n182",
+"rating": 5,
+"summary": "[6 docs] ⭐⭐⭐ Foreigner-exclusion order (foreigners not tolerated, esp. in the po"
 },
 {
 "key": "ca37-d414-n179",
@@ -220,16 +220,6 @@
 "summary": "Castro proclamation body (verbatim): laments the armed disturbance 'en el nombre"
 },
 {
-"key": "ca22-d261-n184",
-"rating": 4,
-"summary": "*Cosechas y ganado*: Los Ángeles harvest 1,800 fanegas, all houses + guard + Cas"
-},
-{
-"key": "ca22-d307-n210",
-"rating": 4,
-"summary": "[Jan–Jul cluster] memorias; ajustes/permutas; ⭐ 'only 4 vacas chichiguas (milk-c"
-},
-{
 "key": "ca22-d2050-n377",
 "rating": 4,
 "summary": "Cantero Santiago Ruiz + 2 officials to finish the church; artisan-instruction; ⭐"
@@ -238,6 +228,16 @@
 "key": "ca22-d2053-n385",
 "rating": 4,
 "summary": "Collect papers from León Parrilla's house; ⭐ arms-relación to Monterey (41 escop"
+},
+{
+"key": "ca22-d261-n184",
+"rating": 4,
+"summary": "*Cosechas y ganado*: Los Ángeles harvest 1,800 fanegas, all houses + guard + Cas"
+},
+{
+"key": "ca22-d307-n210",
+"rating": 4,
+"summary": "[Jan–Jul cluster] memorias; ajustes/permutas; ⭐ 'only 4 vacas chichiguas (milk-c"
 },
 {
 "key": "ca25-d231-n65",
@@ -1255,14 +1255,34 @@
 "summary": "Diary of the expedition to found Mission San José — see expanded entry below"
 },
 {
+"key": "ca9-d43-n39",
+"rating": 3,
+"summary": "*Sobre formación de un proceso* — received 83 Christians of all ages & sexes and"
+},
+{
 "key": "ca9-d109-n70",
 "rating": 3,
 "summary": "*Envío de documentos* — forwards two detailed *Relaciones* taken against the imp"
 },
 {
+"key": "ca9-d111-n71",
+"rating": 3,
+"summary": "*Ataque á una Ranchería* — orders Amador with 20 invalids/vecinos + 2 soldiers t"
+},
+{
+"key": "ca9-d112-n72",
+"rating": 3,
+"summary": "Relación of the depositions — the verbatim testimonies of the Sacalan gentiles w"
+},
+{
 "key": "ca9-d113-n75",
 "rating": 3,
 "summary": "✓ VERIFIED vs scan n75 (2026-07-07): 'Relación… de las declaraciones de los Indi"
+},
+{
+"key": "ca9-d114-n77",
+"rating": 3,
+"summary": "*Castigos de criminales indios* — Borica's sentencing decree apportioning punish"
 },
 {
 "key": "ca9-d221-n133",
@@ -1303,6 +1323,26 @@
 "key": "ca10-d122-n331",
 "rating": 3,
 "summary": "'Diario de su expedición á rancherías': Castro left the Mission (1 Jun) with 13 "
+},
+{
+"key": "ca12-d336-n282",
+"rating": 3,
+"summary": "Tte. Estudillo arrived the 23rd reporting 13 fishing canoes counted from the S.n"
+},
+{
+"key": "ca12-d480-n394",
+"rating": 3,
+"summary": "Interrogation of the brig's crew: ① Benjamin Ingraham, pilot, American (New York"
+},
+{
+"key": "ca12-d483-n400",
+"rating": 3,
+"summary": "THE ELLIOT DE CASTRO / *ILMENA* CAPTURE EXPEDIENTE. (Sep 19, San Luis) José Arce"
+},
+{
+"key": "ca12-d487-n403",
+"rating": 3,
+"summary": "Passport/proclamation of the ship *Suvorov* — addressed 'á nuestros buenos amigo"
 },
 {
 "key": "ca15-d21-n21",
@@ -1555,21 +1595,6 @@
 "summary": "Ship news (barco at SD, not yet Monterey); receipt of 89+25 mules & cattle to SD"
 },
 {
-"key": "ca22-d237-n173",
-"rating": 3,
-"summary": "The San José pueblo dam carried off by the river — to rebuild it of *cal y canto"
-},
-{
-"key": "ca22-d241-n176",
-"rating": 3,
-"summary": "Report on the Pueblo de la Reina de los Ángeles: 38 fan. wheat sown (33 común, 2"
-},
-{
-"key": "ca22-d310-n210",
-"rating": 3,
-"summary": "[May–Jul cluster] Viceroy requests iron/steel; powder; ⭐ Eugenio Olachea mismana"
-},
-{
 "key": "ca22-d2024-n286",
 "rating": 3,
 "summary": "'Antecedentes de una mortandad' — the causes of the 1781 Yuma Revolt: at the exp"
@@ -1588,6 +1613,21 @@
 "key": "ca22-d2052-n381",
 "rating": 3,
 "summary": "León Parrilla provisional Tte of the SF company (arms & habilitación); ⭐ weaver-"
+},
+{
+"key": "ca22-d237-n173",
+"rating": 3,
+"summary": "The San José pueblo dam carried off by the river — to rebuild it of *cal y canto"
+},
+{
+"key": "ca22-d241-n176",
+"rating": 3,
+"summary": "Report on the Pueblo de la Reina de los Ángeles: 38 fan. wheat sown (33 común, 2"
+},
+{
+"key": "ca22-d310-n210",
+"rating": 3,
+"summary": "[May–Jul cluster] Viceroy requests iron/steel; powder; ⭐ Eugenio Olachea mismana"
 },
 {
 "key": "ca23-d84-n33",
@@ -5150,6 +5190,21 @@
 "summary": "Diary of the labors of the pobladores — names the first Villa de Branciforte set"
 },
 {
+"key": "ca9-d19-n24",
+"rating": 2,
+"summary": "*Sobre cierta Representación* — reports on the settlers' petition to move the pu"
+},
+{
+"key": "ca9-d20-n25",
+"rating": 2,
+"summary": "*Solicitud sobre traslación del pueblo* — the alcalde, for the *vecindario*, pet"
+},
+{
+"key": "ca9-d36-n35",
+"rating": 2,
+"summary": "*Recibo* — inventory of effects of the paquebot *San Carlos*, wrecked (*naufraga"
+},
+{
 "key": "ca9-d46-n42",
 "rating": 2,
 "summary": "*Sobre cierta espedición* — forwards Sgt. Pedro Amador's *parte* and original di"
@@ -5178,6 +5233,16 @@
 "key": "ca9-d116-n80",
 "rating": 2,
 "summary": "*Apropiación de un Parage* — remits the certification of having taken possession"
+},
+{
+"key": "ca9-d136-n89",
+"rating": 2,
+"summary": "*Llegada de Cristianos* — the friars' defense: today received the 79 returned Ch"
+},
+{
+"key": "ca9-d139-n90",
+"rating": 2,
+"summary": "*Precauciones contra un ataque* — on the gentile rumors of attacking San José, s"
 },
 {
 "key": "ca9-d143-n93",
@@ -5400,7 +5465,27 @@
 "summary": "1799 GARRISON & ARTILLERY STRENGTH + COST TABLE (all presidios): the Real Cuerpo"
 },
 {
-"key": "ca12-d478-n402",
+"key": "ca12-d440-n376",
+"rating": 2,
+"summary": "Letter (English translation, Iván Pisteff transl.): received the French-language"
+},
+{
+"key": "ca12-d441-n378",
+"rating": 2,
+"summary": "Aid to HMS *Racoon*: gave Capt. Black 42 arrobas of gunpowder (to be restored if"
+},
+{
+"key": "ca12-d460-n386",
+"rating": 2,
+"summary": "'Comercio con los rusos': among the Ross boats arriving from Bodega came a 130-t"
+},
+{
+"key": "ca12-d482-n397",
+"rating": 2,
+"summary": "Dictamen prohibiting commerce with English ships re the English schooner *Columb"
+},
+{
+"key": "ca12-d486-n402",
 "rating": 2,
 "summary": "The Russian ship 'Sarrasoff' [*Suvorov*] arrived the 20th requesting water/wood/"
 },
@@ -6190,6 +6275,11 @@
 "summary": "Acks the appointment of Brigadier Caballero [Teodoro] de Croix as Comandante Gen"
 },
 {
+"key": "ca22-d95-n71",
+"rating": 2,
+"summary": "'Sobre la situación de las Rancherías de Gentiles' — the Santa Barbara Channel e"
+},
+{
 "key": "ca22-d97-n77",
 "rating": 2,
 "summary": "Reserved order (of 23 Oct prev.): the King has notice that two corvettes under t"
@@ -6208,6 +6298,26 @@
 "key": "ca22-d155-n133",
 "rating": 2,
 "summary": "*Expedición al Norte* of the frigates *Favorita* & *Princesa* (Lt. Ignacio Artea"
+},
+{
+"key": "ca22-d2022-n281",
+"rating": 2,
+"summary": "Remisión de documentos; ⭐ establish *estafetillas* (postal stations); lancha rep"
+},
+{
+"key": "ca22-d2026-n291",
+"rating": 2,
+"summary": "Bando on free sale of azogue (mercury) to mine-owners; ⭐ Monterey + Missions San"
+},
+{
+"key": "ca22-d2031-n306",
+"rating": 2,
+"summary": "Commissary accounts (lost originals; Rivera's recruit-receipts; Los Álamos); ⭐ f"
+},
+{
+"key": "ca22-d2048-n370",
+"rating": 2,
+"summary": "Aid to prisoners; prohibited gambling; ⭐ Indian Agustín's sentence → private ser"
 },
 {
 "key": "ca22-d224-n166",
@@ -6263,26 +6373,6 @@
 "key": "ca22-d323-n385",
 "rating": 2,
 "summary": "Collect papers from León Parrilla's house; ⭐ Jun 30 Relación de armas to Montere"
-},
-{
-"key": "ca22-d2022-n281",
-"rating": 2,
-"summary": "Remisión de documentos; ⭐ establish *estafetillas* (postal stations); lancha rep"
-},
-{
-"key": "ca22-d2026-n291",
-"rating": 2,
-"summary": "Bando on free sale of azogue (mercury) to mine-owners; ⭐ Monterey + Missions San"
-},
-{
-"key": "ca22-d2031-n306",
-"rating": 2,
-"summary": "Commissary accounts (lost originals; Rivera's recruit-receipts; Los Álamos); ⭐ f"
-},
-{
-"key": "ca22-d2048-n370",
-"rating": 2,
-"summary": "Aid to prisoners; prohibited gambling; ⭐ Indian Agustín's sentence → private ser"
 },
 {
 "key": "ca23-d41-n16",
@@ -6598,21 +6688,6 @@
 "key": "ca24-d331-n289",
 "rating": 2,
 "summary": "Tte despatch to Alférez José Font + baja del Tte Fran.co Roca; ⭐⭐ the Viceroy re"
-},
-{
-"key": "ca24-d569-n422",
-"rating": 2,
-"summary": "'Trato de los Indios en las misiones': the rigores against the Indians of Missio"
-},
-{
-"key": "ca24-d575-n425",
-"rating": 2,
-"summary": "'Ranchos reales. Aranceles': defends the price-schedules (aranceles) & the Ranch"
-},
-{
-"key": "ca24-d581-n428",
-"rating": 2,
-"summary": "'Miseria de los pobladores de San José y Los Ángeles': lacking any merchant to s"
 },
 {
 "key": "ca25-d28-n8",
