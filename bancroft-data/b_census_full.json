@@ -95,11 +95,6 @@
 "summary": "THE MEASURED PLAT OF THE PUEBLO DE LOS ÁNGELES — Savage's FACSIMILE of Argüello'"
 },
 {
-"key": "ca2-d70-n94",
-"rating": 4,
-"summary": "THE HABILITADO FISCAL CONSTITUTION — the complete legal architecture of the offi"
-},
-{
 "key": "ca2-d157-n269",
 "rating": 4,
 "summary": "THE LOS ÁNGELES FOUNDING POBLADORES' ACCOUNTS + NAMES (reconstructed after loss "
@@ -213,6 +208,11 @@
 "key": "ca20-d447-n397",
 "rating": 4,
 "summary": "Castro proclamation body (verbatim): laments the armed disturbance 'en el nombre"
+},
+{
+"key": "ca22-d2044-n357",
+"rating": 4,
+"summary": "Cattle-increase to soldiers ('que el aumento de ganado á los soldados sea propor"
 },
 {
 "key": "ca22-d2050-n377",
@@ -845,6 +845,11 @@
 "summary": "CONQUEST-EVE MOBILIZATION + bar-settlers cluster: Reglamento to raise troop corp"
 },
 {
+"key": "ca61-d19-n136",
+"rating": 4,
+"summary": "✓ VERIFIED vs scan n136 (2026-07-07): dateline '1845 — Febº 11' (✎ resolves the "
+},
+{
 "key": "ca61-d24-n246",
 "rating": 4,
 "summary": "the Micheltorena–Sutter 'treason' dossier — ✓ CHARGE QUOTE PINNED & VERIFIED on "
@@ -907,7 +912,7 @@
 {
 "key": "ca2-d7-n334",
 "rating": 3,
-"summary": "Yuma Revolt survivor deposition — José Mora, Indian interpreter, from San Pedro "
+"summary": "Yuma Revolt survivor deposition — José Urrea, Indian interpreter, from San Pedro"
 },
 {
 "key": "ca2-d27-n22",
@@ -1190,6 +1195,16 @@
 "summary": "Vancouver's frigate *Discovery* anchored at Monterey 5 Nov (see E12): came only "
 },
 {
+"key": "ca7-d242-n159",
+"rating": 3,
+"summary": "Verbatim letter on the deserters: of the 6, only three are British subjects — Di"
+},
+{
+"key": "ca7-d255-n168",
+"rating": 3,
+"summary": "The foreign-ship policy in his own hand (see E14): the London convention bars fo"
+},
+{
 "key": "ca7-d284-n189",
 "rating": 3,
 "summary": "General foreign-ship EXCLUSION order, synthesizing the whole policy (verified sc"
@@ -1198,6 +1213,11 @@
 "key": "ca7-d287-n192",
 "rating": 3,
 "summary": "'Estado de las Californias' / Papel de Puntos — his 32-point handover state-of-t"
+},
+{
+"key": "ca7-d306-n212",
+"rating": 3,
+"summary": "Intelligence (from an English merchant-frigate captain): an English 40-gun warsh"
 },
 {
 "key": "ca7-d387-n288",
@@ -1375,7 +1395,7 @@
 "summary": "'Establecimiento ruso' — three starving Russian deserters from Kuskov's Fort Ros"
 },
 {
-"key": "ca17-d153-n101",
+"key": "ca17-d153-n100",
 "rating": 3,
 "summary": "Investigation into the death of P. Fr. Andrés Quintana (Mission Santa Cruz, morn"
 },
@@ -1515,7 +1535,7 @@
 "summary": "Relays Treasury ministry notice: President by decree 16 Dic 1835 named Coronel M"
 },
 {
-"key": "ca20-d273-n233",
+"key": "ca20-d273-n232",
 "rating": 3,
 "summary": "'Desnudez é indigencia de la tropa. Inhabilitada para el servicio.' Term of re-e"
 },
@@ -1540,7 +1560,7 @@
 "summary": "SLO petition cont.: FAMINE testimony — 'en 8 meses... 300 almas [murieron]'; a w"
 },
 {
-"key": "ca20-d400-n347",
+"key": "ca20-d400-n348",
 "rating": 3,
 "summary": "OPENING of the Vallejo-pronunciamiento 'calumnia' averiguación: Nicolás Gutiérre"
 },
@@ -1580,7 +1600,7 @@
 "summary": "'Quietud de Indios/Gentiles en la Península'; ⭐ death of José [Joaquín] Moraga, "
 },
 {
-"key": "ca22-d2049-n374",
+"key": "ca22-d2049-n375",
 "rating": 3,
 "summary": "Herradero; ⭐ artisans (Leocadio Martínez, Manuel Dorotea[?]); presidiario José O"
 },
@@ -2270,17 +2290,17 @@
 "summary": "Lista nominal de los extranjeros residentes en esa jurisdicción — 12 named forei"
 },
 {
-"key": "ca33-d109-n60",
+"key": "ca33-d109-n62",
 "rating": 3,
 "summary": "Acompaña la lista de extranjeros radicados en ese puesto (San Francisco / Yerba "
 },
 {
-"key": "ca33-d128-n87",
+"key": "ca33-d128-n89",
 "rating": 3,
 "summary": "Lista de individuos de Nueva Helvecia y alrededores, grouped by status: Ciudadan"
 },
 {
-"key": "ca33-d132-n97",
+"key": "ca33-d132-n99",
 "rating": 3,
 "summary": "Lista de Estrangeros residentes en la demarcación de San Diego — each with age, "
 },
@@ -2315,21 +2335,6 @@
 "summary": "combat report: of a 23-man party, in an attack on the Chaguanosos there were dea"
 },
 {
-"key": "ca34-d1305-n530",
-"rating": 3,
-"summary": "headed 'Ladrones americanos' — a 10-man advance guard sent 21 May to observe 'th"
-},
-{
-"key": "ca34-d1306-n531",
-"rating": 3,
-"summary": "marched to San Bernardino to join Palomares, found him 'sin fuerza'; reunited 26"
-},
-{
-"key": "ca34-d1307-n532",
-"rating": 3,
-"summary": "an express from Rancho San José (3 a.m.) relaying Palomares: at 8 p.m. 'le ganó "
-},
-{
 "key": "ca34-d1321-n539",
 "rating": 3,
 "summary": "transcribes Carrillo's campaign parte — the 36-man party set out 3 a.m. 23 May, "
@@ -2358,6 +2363,11 @@
 "key": "ca34-d373-n116",
 "rating": 3,
 "summary": "Juan Ignacio Sánchez, vecino de N. México, having sold a 'niño gentil' (Indian c"
+},
+{
+"key": "ca34-d534-n196",
+"rating": 3,
+"summary": "full-text arbitration sentence in the Sánchez↔Domínguez fosterage/custody case: "
 },
 {
 "key": "ca34-d772-n330",
@@ -2795,7 +2805,7 @@
 "summary": "On the Bergantín Ruso *Baikal* anchored at SF: he must bring no article of comme"
 },
 {
-"key": "ca39-d238-n249",
+"key": "ca39-d238-n250",
 "rating": 3,
 "summary": "A year ago foreign ships were prohibited cabotage on this coast; 'en tal virtud "
 },
@@ -2805,7 +2815,7 @@
 "summary": "Santa Bárbara sedition/pronunciamiento causa — a vecindario representation & ass"
 },
 {
-"key": "ca39-d256-n430",
+"key": "ca39-d256-n433",
 "rating": 3,
 "summary": "José Salazar's Indian expedition & skirmish — a partida de indios gentiles at a "
 },
@@ -3045,39 +3055,449 @@
 "summary": "'Sublevación de Indios': the revolt of the 3 Indian pueblos (Santa Bárbara, San "
 },
 {
-"key": "ca47-d89-n145",
+"key": "ca47-d15-n3",
 "rating": 3,
-"summary": "rebuke of Herrera — for the violence with which he refused to ration the prisone"
+"summary": "Passport to ''Sedidiah' (sic) S. Smith, Americano' = the trapper Jedediah Strong"
 },
 {
-"key": "ca47-d93-n170",
+"key": "ca47-d20-n3",
 "rating": 3,
-"summary": "the Jedediah Smith 1827 episode — Nov 28: combine the expedition against the gen"
+"summary": "Passport to 'J.S. Smith, Capitan' = Jedediah S. Smith (second passport)"
 },
 {
-"key": "ca47-d101-n235",
+"key": "ca47-d74-n10",
 "rating": 3,
-"summary": "Nov 11: acta for the renewal of the Diputación of Alta California; ⭐⭐⭐ Dec 6: re"
+"summary": "Passport to 'Josefa Carrillo de Fitch' (wife of Henry D. Fitch)"
 },
 {
-"key": "ca47-d102-n255",
+"key": "ca47-d97-n14",
 "rating": 3,
-"summary": "'los derechos que cobra la Aduana Marítima pertenecen á la Nación y los que se e"
+"summary": "'Que suspenda Guillermo Richarson la toma de bienes en los parages de los Saucit"
 },
 {
-"key": "ca47-d103-n265",
+"key": "ca47-d1048-n263",
 "rating": 3,
-"summary": "the Franklin affair — a guard stays aboard so the anchor isn't raised during unl"
+"summary": "'Q.e enterado de las actuaciones... sobre haber tocado Fragata 'Franklin' á Isla"
 },
 {
-"key": "ca47-d108-n345",
+"key": "ca47-d1069-n270",
 "rating": 3,
-"summary": "the Karimoko (Hawaiian ship) smuggling adjudication — result of the Oct-28 inves"
+"summary": "FRANKLIN AFFAIR: on the American frigate 'Franklin' anchored without leave — 'la"
 },
 {
-"key": "ca47-d115-n408",
+"key": "ca47-d1099-n279",
 "rating": 3,
-"summary": "Instructions for alférez Rodrigo del Pliego, embarking for Isla de Santa Catalin"
+"summary": "'Licencia p.a segregarse de la Neofía á Juan Ant.o Guachipar de S.n Diego' — lic"
+},
+{
+"key": "ca47-d117-n18",
+"rating": 3,
+"summary": "'Puede el bergantín ruso Baycal tocar en Sta Cruz' — the Russian brig Baykal may"
+},
+{
+"key": "ca47-d1180-n299",
+"rating": 3,
+"summary": "Circular restricting foreign trade: recalling 'mi circular de 8 de Julio últ.o s"
+},
+{
+"key": "ca47-d1181-n301",
+"rating": 3,
+"summary": "Que el 'Arancel Gral. de Aduanas Mar.mas' (cap.1 art.4) manda cobrar 17 r.s por "
+},
+{
+"key": "ca47-d1184-n302",
+"rating": 3,
+"summary": "'Permitir a Fragata consignada a Juan Ign.o Mancisidor y Bergantin idem a Guill."
+},
+{
+"key": "ca47-d1192-n304",
+"rating": 3,
+"summary": "(2 Docs) 'Averiguar sobre efectos q.e dejo fiados sobre cargo de Fragata 'Frankl"
+},
+{
+"key": "ca47-d1197-n305",
+"rating": 3,
+"summary": "'Sobre cargam.to q.e dejo Fragata 'Franklin.'' Gloss: concerning the cargo left "
+},
+{
+"key": "ca47-d1199-n305",
+"rating": 3,
+"summary": "'Aviso al publico. Lista de los electores de Partido q.e han de nombrar Diputado"
+},
+{
+"key": "ca47-d1200-n306",
+"rating": 3,
+"summary": "'Aviso al Publico. Lista de los Ciud.s Diputados propietarios y suplentes nombra"
+},
+{
+"key": "ca47-d1201-n306",
+"rating": 3,
+"summary": "'Aviso. Lista de los Sres. Diputados propietario y Suplente al Sob.o Congreso Gr"
+},
+{
+"key": "ca47-d1203-n307",
+"rating": 3,
+"summary": "'Entregar el mando de la Comp.a a Ten.te Ign.o Martinez, p.r su solicitud en q.e"
+},
+{
+"key": "ca47-d1211-n309",
+"rating": 3,
+"summary": "'Enterado qᵉ en la jurisdiccion de su mando solo existen 8 españoles; José Ferna"
+},
+{
+"key": "ca47-d1219-n311",
+"rating": 3,
+"summary": "'Enterado de qᵉ algunos oficiales y soldados se han amotinado pr qᵉ no les pagan"
+},
+{
+"key": "ca47-d1294-n330",
+"rating": 3,
+"summary": "'Enterado de su comunicacion en qe le avisa qe Encargado de Rentas no le ha quer"
+},
+{
+"key": "ca47-d1309-n334",
+"rating": 3,
+"summary": "(3 docs) 'Formar averiguacion del insulto qe el 16 de Sto se hizo al pabellon na"
+},
+{
+"key": "ca47-d1353-n344",
+"rating": 3,
+"summary": "'Acompaña docs pa qe se agreguen á causa contra Fragta 'Franklin'' — to Subte Ag"
+},
+{
+"key": "ca47-d1357-n345",
+"rating": 3,
+"summary": "On investigations ordered 28 Oct against the Sandwich-Islands brig 'Karimoko' fo"
+},
+{
+"key": "ca47-d1361-n347",
+"rating": 3,
+"summary": "Reply to Lawla's protest that he cannot pay, that the ship was only on his accou"
+},
+{
+"key": "ca47-d1388-n355",
+"rating": 3,
+"summary": "'Recibio pr su conducto carta qe le envia Gob. de Establecimtos Rusos en America"
+},
+{
+"key": "ca47-d1394-n357",
+"rating": 3,
+"summary": "'Presentarse en 1o de Enº 29, en Sn Diego a prestar juramento de ley y entrar en"
+},
+{
+"key": "ca47-d1447-n369",
+"rating": 3,
+"summary": "'Enterado de qº el Elector Feliciano Soberanes no firmó la acta de renovacion de"
+},
+{
+"key": "ca47-d1457-n371",
+"rating": 3,
+"summary": "'Licencia á neófito de Sn Buenaventura, Victorio Aluhyasuyt pª qº se segregue de"
+},
+{
+"key": "ca47-d1461-n372",
+"rating": 3,
+"summary": "'Haberse embarcado sin licencia Ps Antonio Ripoll y José Altamira, dejando aband"
+},
+{
+"key": "ca47-d1472-n376",
+"rating": 3,
+"summary": "'Enterado de la mala conducta de Americano Smith y sus abusos' — informed of the"
+},
+{
+"key": "ca47-d1494-n381",
+"rating": 3,
+"summary": "'Habiendo aclarado suficientemte la alarma y seduccion con qe Vd preparó á la tr"
+},
+{
+"key": "ca47-d1561-n396",
+"rating": 3,
+"summary": "'Licencia a neofitos pa apartarse de sus neofias' — license to neophytes to sepa"
+},
+{
+"key": "ca47-d1586-n402",
+"rating": 3,
+"summary": "'Licencia a un neofito pa separarse de su neofia' — license to a neophyte to sep"
+},
+{
+"key": "ca47-d173-n30",
+"rating": 3,
+"summary": "'Le felicita sobre la victoria que obtuvo su tropa sobre los gentiles — Que pued"
+},
+{
+"key": "ca47-d219-n41",
+"rating": 3,
+"summary": "'…que cumpla. (Sigue copia de dicho Certificado de fr. Fernando Martinez por el "
+},
+{
+"key": "ca47-d230-n45",
+"rating": 3,
+"summary": "'Comandᵃ Genl de las Californias. Estado que manifiesta la fuerza efectiva que t"
+},
+{
+"key": "ca47-d255-n52",
+"rating": 3,
+"summary": "Decreto 'Pueden los buques consignados á Guillermo Eduardo Hartnell tocar en S. "
+},
+{
+"key": "ca47-d258-n52",
+"rating": 3,
+"summary": "Decreto 'Si es valdío el terreno que solicita Guillermo Richason.' — inquiry whe"
+},
+{
+"key": "ca47-d270-n56",
+"rating": 3,
+"summary": "'Que destaque dos soldᵒˢ á S. Gabⁱ entretanto dos de aquella escolta acompañan a"
+},
+{
+"key": "ca47-d279-n58",
+"rating": 3,
+"summary": "'Que ponga en libertad á los Neófitos y que estos elijan el mayordomo que gusten"
+},
+{
+"key": "ca47-d314-n66",
+"rating": 3,
+"summary": "(2 doc.) 'Que supone que el Comᵗᵉ de la fragᵗᵃ inglesa científica «Blossom» le p"
+},
+{
+"key": "ca47-d337-n71",
+"rating": 3,
+"summary": "'Que intime al capⁿ Luis Antᵒ Argⁱ y al ciudⁿᵒ americano J. R. Cooper se present"
+},
+{
+"key": "ca47-d343-n73",
+"rating": 3,
+"summary": "(2 doc.) 'Que ha dispuesto lo convᵗᵉ acerca del arresto del cadete Marⁿᵒ Vallejo"
+},
+{
+"key": "ca47-d446-n97",
+"rating": 3,
+"summary": "'Enterado del abandono y holgazaneria que los Neófitos de S. Juan Capⁿ observan "
+},
+{
+"key": "ca47-d529-n118",
+"rating": 3,
+"summary": "'Por cuanto Diego Sobrevia es un cristiano viejo, viudo, de honradas costumbres "
+},
+{
+"key": "ca47-d534-n119",
+"rating": 3,
+"summary": "'Pide informe al alcalde de S. José sobre solicitud de Salvio Pacheco del parage"
+},
+{
+"key": "ca47-d548-n122",
+"rating": 3,
+"summary": "'Que Guillermo Edᵈ Hartnell se obliga á pagarle con ropa de su gusto al precio d"
+},
+{
+"key": "ca47-d564-n126",
+"rating": 3,
+"summary": "'Que juzga que los pescadores americanos que hicieron alto en las inmediaciones "
+},
+{
+"key": "ca47-d569-n128",
+"rating": 3,
+"summary": "'Que el secretario de la Exma Diputacion Juan Bautᵃ Alvarado ha sido propuesto a"
+},
+{
+"key": "ca47-d595-n132",
+"rating": 3,
+"summary": "'Que anula todas las actuaciones concernientes á la posesion que dió (Martⁿ) á G"
+},
+{
+"key": "ca47-d596-n133",
+"rating": 3,
+"summary": "'Que no concede la isla de los Angeles á Franᶜᵒ de Haro' — that he does NOT gran"
+},
+{
+"key": "ca47-d610-n136",
+"rating": 3,
+"summary": "'Que diga á Guillᵐᵒ Dana que sin previa naturalizacion en nuestra República se l"
+},
+{
+"key": "ca47-d627-n139",
+"rating": 3,
+"summary": "BANDO. 'Que por licencias concedidas la Exmᵃ Diputacion solo queda con dos indiv"
+},
+{
+"key": "ca47-d633-n142",
+"rating": 3,
+"summary": "'Que indaguen con la mayor reserva y empeño sobre los pescadores americanos capi"
+},
+{
+"key": "ca47-d646-n145",
+"rating": 3,
+"summary": "'Le dice que la violencia con que se ha negado á racionar con víveres á los pres"
+},
+{
+"key": "ca47-d656-n148",
+"rating": 3,
+"summary": "'Que recibió las averiguaciones relativas á Smith y que se lo remita, destinando"
+},
+{
+"key": "ca47-d658-n148",
+"rating": 3,
+"summary": "'Que sabe que ahí subsisten sin permiso los estrangeros Juan Menguai, Cristóbal "
+},
+{
+"key": "ca47-d673-n152",
+"rating": 3,
+"summary": "(3 doc.) 'Que recibió las Declaraciones tomadas al americano Tomas Virgin' — ack"
+},
+{
+"key": "ca47-d683-n154",
+"rating": 3,
+"summary": "Circular re José M. Herrera: 'en circular de 26 del ppᵈᵒ se ha declarado suspens"
+},
+{
+"key": "ca47-d686-n156",
+"rating": 3,
+"summary": "(2 doc.) 'Que dé pase pª este punto al cabo Petronilo Ruiz' (pass corporal Petro"
+},
+{
+"key": "ca47-d692-n158",
+"rating": 3,
+"summary": "Licencias: 'Segrega de la neofía á Juan Cancio y Franᶜᵒ Borja' — segregates (ema"
+},
+{
+"key": "ca47-d700-n160",
+"rating": 3,
+"summary": "'Que el americano arrestado desde S. Gabⁱᵉˡ se conduzca á este punto y se le dé "
+},
+{
+"key": "ca47-d704-n160",
+"rating": 3,
+"summary": "Pase: 'Pase á Sta Cruz pª el bergⁿ ruso Golovin á embarcar trigo' — clearance to"
+},
+{
+"key": "ca47-d705-n161",
+"rating": 3,
+"summary": "Pase: 'Pase á Sta Cruz á la fragata americana Franklin pª embarcar cueros de res"
+},
+{
+"key": "ca47-d706-n161",
+"rating": 3,
+"summary": "'Remite el plano de la barraca que debe construirse en la playita de la Yerbabue"
+},
+{
+"key": "ca47-d707-n161",
+"rating": 3,
+"summary": "'Que ha concedido al capitan de los Americanos pescadores que se hallan detenido"
+},
+{
+"key": "ca47-d708-n162",
+"rating": 3,
+"summary": "'Que facilite los albañiles, carpinteros y peones pª que construyan tres piezas "
+},
+{
+"key": "ca47-d736-n170",
+"rating": 3,
+"summary": "'Dice que si puede combinar la espedicion contra los Gentiles de Sta Clara (que "
+},
+{
+"key": "ca47-d737-n170",
+"rating": 3,
+"summary": "'Que si Smith conviene con Brest en dejarlo en el territorio, puede admitirlo co"
+},
+{
+"key": "ca47-d760-n176",
+"rating": 3,
+"summary": "'Les envia sus despachos de los empleos inmediatos á su clase que les ha concedi"
+},
+{
+"key": "ca47-d768-n178",
+"rating": 3,
+"summary": "(Section 'Correspᵃ con el Ministerio de Guerra'; Enero 8, 6 ofˢ) 'Que sabe march"
+},
+{
+"key": "ca47-d770-n178",
+"rating": 3,
+"summary": "'Dice que el Factor de la Compᵃ rusa de Sitka le asegura que nunca se trató entr"
+},
+{
+"key": "ca47-d784-n179",
+"rating": 3,
+"summary": "'Que no es suficiente la urbanidad para evitar la mala versacion de los Rusos es"
+},
+{
+"key": "ca47-d790-n180",
+"rating": 3,
+"summary": "(Sub-header '1827 Monterey / Echeandía al Mᵗʳᵒ de la Guerra'; Mayo 25, 2 doc.) '"
+},
+{
+"key": "ca47-d797-n182",
+"rating": 3,
+"summary": "'Que Guillmo E. Hartnell se ofrece á prestar 50 ó 60 mil pesos anuales en efecto"
+},
+{
+"key": "ca47-d801-n182",
+"rating": 3,
+"summary": "'Envia informaciones sobre los Americanos capitaneados por Smith' — sends inform"
+},
+{
+"key": "ca47-d805-n183",
+"rating": 3,
+"summary": "'Envia la acta de nombramⁿ de secretario de la Diputacion que recayó en el C. Ju"
+},
+{
+"key": "ca47-d818-n186",
+"rating": 3,
+"summary": "'Sobre un pago á Jᵉ M. Padres' — concerning a payment to José M. Padrés (2 ofs)"
+},
+{
+"key": "ca47-d823-n187",
+"rating": 3,
+"summary": "'Envia acta sobre Misioneros y Neófitos y dice no cabe duda de la odiosidad con "
+},
+{
+"key": "ca47-d829-n188",
+"rating": 3,
+"summary": "'Acompañando Representacion del americano Jᵒʳ R. Cooper' — enclosing a represent"
+},
+{
+"key": "ca47-d834-n189",
+"rating": 3,
+"summary": "'Dice que cuando se hicieron las elecciones de diputado á favor de J. M. Padres,"
+},
+{
+"key": "ca47-d862-n193",
+"rating": 3,
+"summary": "'Que hoy remite al Mtro de Hacda las averiguaciones secretas contra el Subcom° J"
+},
+{
+"key": "ca47-d878-n204",
+"rating": 3,
+"summary": "Mayo 1.o: 'Qe seria conveniente remitir custodiados hta rio Colorado a 8 america"
+},
+{
+"key": "ca47-d891-n208",
+"rating": 3,
+"summary": "Nov.o 11: 'Haber dado pasaporte a Americanos William Pope e Isaac Slover, qe sal"
+},
+{
+"key": "ca47-d933-n220",
+"rating": 3,
+"summary": "(2 docs) 'Pidiendo se exija á Tente. Padres el pago de lo qe. adeuda — Acompaña "
+},
+{
+"key": "ca47-d947-n224",
+"rating": 3,
+"summary": "'Avisa exijió, bajo algunas condiciones, descarga de Fragata Ama. 'Franklin', y "
+},
+{
+"key": "ca47-d985-n235",
+"rating": 3,
+"summary": "LONG VERBATIM ROSTER (begins ~p.224; no inline cite; spans n235-n239 and continu"
+},
+{
+"key": "ca47-d988-n240",
+"rating": 3,
+"summary": "CONTINUATION (began on a leaf before n240) + END of Echeandia's report/informe ("
+},
+{
+"key": "ca47-d990-n249",
+"rating": 3,
+"summary": "'Proyecto pa. convertir en pueblos las Misiones de las Californias Alta y Baja' "
 },
 {
 "key": "ca48-d35-n24",
@@ -3790,6 +4210,46 @@
 "summary": "the eve of the US conquest — on José Mª Covarrubias's mission to Mexico City (a "
 },
 {
+"key": "ca54-d162-n261",
+"rating": 3,
+"summary": "Doc II-64 — Hermenegildo Sal → acting Gov. Arrillaga — English ship (Capt. Brown"
+},
+{
+"key": "ca54-d183-n303",
+"rating": 3,
+"summary": "Doc III-13 — Hermenegildo Sal → acting Gov. Arrillaga — 'Sobre la expedición de "
+},
+{
+"key": "ca54-d188-n317",
+"rating": 3,
+"summary": "Doc III-18 — 1793 armament report + musters. — ⭐⭐⭐ Goycoechea → Arrillaga, 9 Jul"
+},
+{
+"key": "ca54-d198-n333",
+"rating": 3,
+"summary": "Doc IV-8 — Sal → Arrillaga — Vancouver's departure (2nd visit). — ⭐ 'Dice que lo"
+},
+{
+"key": "ca54-d216-n361",
+"rating": 3,
+"summary": "Doc IV-26 — long report on California's fiscal/comisaría system + the case for D"
+},
+{
+"key": "ca54-d222-n387",
+"rating": 3,
+"summary": "Borica → Viceroy — the Otter incident (first U.S. ship in CA). — ⭐⭐⭐ The America"
+},
+{
+"key": "ca54-d232-n406",
+"rating": 3,
+"summary": "Doc IV-42 — Hermenegildo Sal → Gov. Arrillaga — his apology for Vancouver's Sant"
+},
+{
+"key": "ca54-d242-n431",
+"rating": 3,
+"summary": "Doc IV-52 — Branciforte (relaying Godoy) → Borica — 'Desconfianza contra los Ing"
+},
+{
 "key": "ca55-d243-n208",
 "rating": 3,
 "summary": "Mission supplies to the Russians of Fort Ross — see Entry 15. On the *suministra"
@@ -3993,6 +4453,11 @@
 "key": "ca62-d98-n110",
 "rating": 3,
 "summary": "Límites de Misión San Luis Rey: 13½ lg N of SD, colinda w/ SD + San Juan Capistr"
+},
+{
+"key": "ca62-d108-n250",
+"rating": 3,
+"summary": "THE 1773 ECHEVESTE REGLAMENTO (full, w/ accompanying fiscal dictamen) — «Reglame"
 },
 {
 "key": "ca62-d109-n299",
@@ -5018,6 +5483,11 @@
 "key": "ca7-d230-n152",
 "rating": 2,
 "summary": "The 6 English deserters (brought by the *Concepción*): three superior orders (20"
+},
+{
+"key": "ca7-d243-n161",
+"rating": 2,
+"summary": "Demands the return of the chaplain he brought (now at Mission Carmelo) for his N"
 },
 {
 "key": "ca7-d250-n165",
@@ -6272,7 +6742,7 @@
 {
 "key": "ca22-d2048-n370",
 "rating": 2,
-"summary": "Aid to prisoners; prohibited gambling; ⭐ Indian Agustín's sentence → private ser"
+"summary": "⚠ SAVAGE CALENDAR (bounded — dozens of docs; Savage's own tallies '3/5/8/11 doc."
 },
 {
 "key": "ca22-d224-n166",
@@ -8135,11 +8605,6 @@
 "summary": "the government notified of the Nicolás Fink murder; recommends prompt conclusion"
 },
 {
-"key": "ca34-d1099-n448",
-"rating": 2,
-"summary": "14-article *bando de policía* — bans gambling; orders *vagos* (Indians & gente d"
-},
-{
 "key": "ca34-d113-n38",
 "rating": 2,
 "summary": "on remitting Macedonio González onward to Sonoma [Vallejo's northern command] (p"
@@ -8148,11 +8613,6 @@
 "key": "ca34-d120-n40",
 "rating": 2,
 "summary": "take depositions on González's _pronunciamiento_ from persons believed involved "
-},
-{
-"key": "ca34-d1206-n487",
-"rating": 2,
-"summary": "publishes a 14-article *bando de buen gobierno* on the cattle economy (branding/"
 },
 {
 "key": "ca34-d1236-n500",
@@ -9310,6 +9770,11 @@
 "summary": "A Los Angeles political-disturbance causa (the flag affair) — a bandera raised a"
 },
 {
+"key": "ca39-d276-n295",
+"rating": 2,
+"summary": "Political narrative of the Micheltorena period — 'tropa… viciosa é inmoral,' 'gr"
+},
+{
 "key": "ca39-d283-n392",
 "rating": 2,
 "summary": "Abrego informs against Comandte Gral Vallejo — 'se había vuelto un monstruo… que"
@@ -10285,64 +10750,2404 @@
 "summary": "Indian-conflict narrative: of 15 [neophyte auxiliaries] who fought, 14 (all Chri"
 },
 {
-"key": "ca47-d73-n41",
+"key": "ca47-d4-n1",
 "rating": 2,
-"summary": "re a certificate; the copied Certificado states Fr. Fernando Martínez, por órden"
+"summary": "Passport to 'Charles Laig, transeunte' — Anglo/American (later entries 'Carlos L"
 },
 {
-"key": "ca47-d83-n105",
+"key": "ca47-d16-n3",
 "rating": 2,
-"summary": "alcalde civil/criminal jurisdiction defined — in civil matters of his competence"
+"summary": "Passport to 'Teodoro B. Cummigham (sic), Americano' (Theodore B. Cunningham)"
 },
 {
-"key": "ca47-d84-n115",
+"key": "ca47-d17-n3",
 "rating": 2,
-"summary": "defends the S.Fran habilitado's fiscal conduct against Comisario Herrera's accus"
+"summary": "Passport to 'David Spence, Inglés' — the Monterey merchant"
 },
 {
-"key": "ca47-d85-n120",
+"key": "ca47-d21-n3",
 "rating": 2,
-"summary": "the Diputación Territorial convening — 'Que desde mañana concurra á la sala de j"
+"summary": "Passport to 'Juan Anderson, subdito de S.M.B.' (British subject)"
 },
 {
-"key": "ca47-d87-n130",
+"key": "ca47-d30-n4",
 "rating": 2,
-"summary": "thanks the padres for their aid to the govt, debt recognized via [William] Hartn"
+"summary": "Passport to 'Rolando Fredº Cartwright, inglés' (Rowland Frederick Cartwright)"
 },
 {
-"key": "ca47-d88-n135",
+"key": "ca47-d31-n4",
 "rating": 2,
-"summary": "Sep 12: the Ayuntamiento to attend the Diputación session at 4pm (Diputación ope"
+"summary": "Passport to 'Juan Halcy, irlandés' (John Halsey?)"
 },
 {
-"key": "ca47-d105-n305",
+"key": "ca47-d32-n5",
 "rating": 2,
-"summary": "re the Franklin's cargo; ⭐⭐⭐ 'Aviso al público' — the 1828 Electores de Partido "
+"summary": "Passport to 'Antº José Cot, español, desterrado por sospechoso' — Spaniard exile"
 },
 {
-"key": "ca47-d106-n315",
+"key": "ca47-d44-n6",
 "rating": 2,
-"summary": "inform if it's true that Juan Lola[?], Capt. of the bergantín 'Karaymakú/Karimok"
+"summary": "Passport to 'Carlos Laing, americano' (Charles Laing)"
 },
 {
-"key": "ca47-d107-n325",
+"key": "ca47-d53-n8",
 "rating": 2,
-"summary": "take back aboard the Spaniard Manuel Mancisidor, left at the Rada de S.Pedro fro"
+"summary": "Entry dated 'Sta Fé' to 'Rafl Rivera y 9 hombres, Gefe polít. de N. Mexico' — an"
 },
 {
-"key": "ca47-d110-n375",
+"key": "ca47-d54-n8",
 "rating": 2,
-"summary": "foreign-resident control — do not permit any crew/passenger of foreign ships to "
+"summary": "Passport to 'Rafael Romero, desterrado por ser español' — exiled Spaniard"
 },
 {
-"key": "ca47-d112-n395",
+"key": "ca47-d55-n8",
 "rating": 2,
-"summary": "Mar 30: 2 more regidores to be named for LA next year; ⭐⭐ Mar 31: Fr. Sánchez to"
+"summary": "Passport to 'Ramon Obes, desterrado por ser español' — '(Docº tachado)' crossed "
 },
 {
-"key": "ca47-d114-n405",
+"key": "ca47-d56-n8",
 "rating": 2,
-"summary": "foreign-resident movement control — an individual settled in one place may not m"
+"summary": "Passport to 'Pablo Sobradelas, desterrado por ser español' ('id' same date/place"
+},
+{
+"key": "ca47-d57-n8",
+"rating": 2,
+"summary": "Passport to 'Ramon Obes, desterrado por ser español de nacimiento'"
+},
+{
+"key": "ca47-d62-n9",
+"rating": 2,
+"summary": "Passport to 'José Nadal, id' (= expulsado por ser español), same date/place"
+},
+{
+"key": "ca47-d63-n9",
+"rating": 2,
+"summary": "Passport to 'José Maria Iglesias, id' (= expulsado por ser español), same date/p"
+},
+{
+"key": "ca47-d64-n9",
+"rating": 2,
+"summary": "Passport to 'Jn Ignº Mancisidor, id' (= expulsado por ser español)"
+},
+{
+"key": "ca47-d65-n9",
+"rating": 2,
+"summary": "Passport to 'Antº Fernandez, id' (= expulsado por ser español)"
+},
+{
+"key": "ca47-d66-n9",
+"rating": 2,
+"summary": "Passport to 'José Jerez, id' (= expulsado por ser español), same date/place"
+},
+{
+"key": "ca47-d67-n9",
+"rating": 2,
+"summary": "Passport to 'Pedro Posada, id' (= expulsado por ser español), same date/place"
+},
+{
+"key": "ca47-d68-n9",
+"rating": 2,
+"summary": "Passport to 'Francº Jimenez, id' (= expulsado por ser español), same date/place"
+},
+{
+"key": "ca47-d69-n9",
+"rating": 2,
+"summary": "Passport to 'James Lee, marinero inglés' (English sailor)"
+},
+{
+"key": "ca47-d73-n10",
+"rating": 2,
+"summary": "Passport to 'Amos T. Tompkins, Americano'"
+},
+{
+"key": "ca47-d79-n11",
+"rating": 2,
+"summary": "'Nombró secretario del Govº á José Antº Carrillo' — announces appointment of Jos"
+},
+{
+"key": "ca47-d82-n12",
+"rating": 2,
+"summary": "'Que sobre libertad de indios, atienda á lo que le diga como juez, el Comte de e"
+},
+{
+"key": "ca47-d84-n12",
+"rating": 2,
+"summary": "'A las solicitudes de neófitos dé aviso al Comte respectivo' — on neophyte petit"
+},
+{
+"key": "ca47-d90-n13",
+"rating": 2,
+"summary": "'Que ponga en libertad al regidor Aguilar y á Joaquin Botiller — Castigo de un d"
+},
+{
+"key": "ca47-d95-n14",
+"rating": 2,
+"summary": "'Que liberte á Juan Avila' — that he free Juan Ávila"
+},
+{
+"key": "ca47-d98-n15",
+"rating": 2,
+"summary": "'Que le dé informes sobre los parages de los Saucitos y de la Cañada del Corte d"
+},
+{
+"key": "ca47-d99-n15",
+"rating": 2,
+"summary": "'Recibió la representación de Fr. Juan Amorós' — acknowledges receipt of Fr. Jua"
+},
+{
+"key": "ca47-d1002-n252",
+"rating": 2,
+"summary": "(2 Docs — doc 1) '...Instruirlo de venta q. hizo en Sta. Clara y S. Jose de efec"
+},
+{
+"key": "ca47-d1007-n253",
+"rating": 2,
+"summary": "'Ordenar a Marinero L.o Knigst (sic) se presente a Subtente. Agustin Zamorano' —"
+},
+{
+"key": "ca47-d1008-n253",
+"rating": 2,
+"summary": "'Detener en el Pto. a Fragata 'Franklin' cuyo Capn. ha sido acusado pr. varias p"
+},
+{
+"key": "ca47-d1009-n253",
+"rating": 2,
+"summary": "'Q. en conformidad de orden de Ministro de la Guerra, Set.e 12-26- le ordeno, as"
+},
+{
+"key": "ca47-d1013-n254",
+"rating": 2,
+"summary": "'Exijir a estrangero Juan Berton derechos de aguardiente que espendio' — to coll"
+},
+{
+"key": "ca47-d1016-n255",
+"rating": 2,
+"summary": "'Q.e derechos q.e cobra Aduana Marítima pertenecen á la Nacion y los q.e se exij"
+},
+{
+"key": "ca47-d1019-n256",
+"rating": 2,
+"summary": "'Reconocer si el punto donde está anclada la 'Franklin' tiene fondo p.a mantener"
+},
+{
+"key": "ca47-d1020-n256",
+"rating": 2,
+"summary": "'Le ordena concurra á las sesiones de la diputacion, p.r haber cesado los males "
+},
+{
+"key": "ca47-d1024-n257",
+"rating": 2,
+"summary": "'Enviar listas de españoles q.e haya en sus jurisdicciones con las noticias q.e "
+},
+{
+"key": "ca47-d1025-n257",
+"rating": 2,
+"summary": "'Cobro de derechos de efectos q.e trajo Fragata Am.a 'Correo' (sic) y tomó Guill"
+},
+{
+"key": "ca47-d1029-n258",
+"rating": 2,
+"summary": "'Haga se presenten los Pilotos á Subt.te Agustin Zamorano, quien les tomará las "
+},
+{
+"key": "ca47-d1034-n259",
+"rating": 2,
+"summary": "(2 Docs) 'Q.e linderos señalados p.r Ayuntam.to á Ranchos de Sn Pedro y Sta Gert"
+},
+{
+"key": "ca47-d1036-n259",
+"rating": 2,
+"summary": "(2 Docs) 'Que estranjeros quedados en tierra con pasaporte de Cap.n de Bergantin"
+},
+{
+"key": "ca47-d1037-n260",
+"rating": 2,
+"summary": "'Q.e solo estan habilitados p.a el Comercio estranjero P.tos de Mont y Loreto, p"
+},
+{
+"key": "ca47-d1038-n260",
+"rating": 2,
+"summary": "'Orden de q.e ponga en tierra, p.a ser depositado en los Almacenes, todo el Carg"
+},
+{
+"key": "ca47-d1039-n260",
+"rating": 2,
+"summary": "'Traslada nota q.e pasó al Sobrecargo Perkins' — forwards the note sent to super"
+},
+{
+"key": "ca47-d1040-n261",
+"rating": 2,
+"summary": "'Q.e pondrá en conocim.to de su Gob.no los ultrajes q.e le ha hecho, sin miram.t"
+},
+{
+"key": "ca47-d1041-n261",
+"rating": 2,
+"summary": "'Q.e llevara á efecto la descarga de la 'Franklin,' p.r la fuerza, si no puede h"
+},
+{
+"key": "ca47-d1042-n261",
+"rating": 2,
+"summary": "'Q.e si Fragata 'Franklin' llega á salir furtivam.te como se sospecha lo pretend"
+},
+{
+"key": "ca47-d1043-n262",
+"rating": 2,
+"summary": "'Q.e espera q.e el haber levantado el ancla é ido á fondear á la entrada del P.t"
+},
+{
+"key": "ca47-d1044-n262",
+"rating": 2,
+"summary": "'Q.e verifique descarga de la 'Franklin' cuanto antes, si no encuentra oposicion"
+},
+{
+"key": "ca47-d1045-n262",
+"rating": 2,
+"summary": "'Q.e Cap.n de la 'Franklin' la ha conducido á la salida del P.to con pretexto de"
+},
+{
+"key": "ca47-d1046-n263",
+"rating": 2,
+"summary": "'Q.e ha obtenido licencia eclesiástica p.a q.e trabajen algunos hombres el sigui"
+},
+{
+"key": "ca47-d1049-n264",
+"rating": 2,
+"summary": "'Q.e pasará y permanecerá á bordo una guardia, p.a asegurar q.e no levante el an"
+},
+{
+"key": "ca47-d1050-n264",
+"rating": 2,
+"summary": "'Orden de presenciar descarga de la 'Franklin' fungiendo como Com.te de Resguard"
+},
+{
+"key": "ca47-d1051-n266",
+"rating": 2,
+"summary": "'Traslada nota q.e pasó á Habilitado Domingo Carrillo' — forwards the note sent "
+},
+{
+"key": "ca47-d1053-n266",
+"rating": 2,
+"summary": "'Que solo pretende q.e Cargam.to de su buque quede en depósito mientras el Supmo"
+},
+{
+"key": "ca47-d1054-n266",
+"rating": 2,
+"summary": "'Enterado de q.e empezó á proceder á descargue de Fragata 'Franklin'' — acknowle"
+},
+{
+"key": "ca47-d1055-n267",
+"rating": 2,
+"summary": "'Sobre repetidas solicitudes de licencia p.a contraer matrimonio con una hija de"
+},
+{
+"key": "ca47-d1056-n267",
+"rating": 2,
+"summary": "'Pertenecer sitio de los Zanjones, q.e solicita Ten.te Martinez p.a construir un"
+},
+{
+"key": "ca47-d106-n16",
+"rating": 2,
+"summary": "(Sin dirección) 'No concede á José Verdugo el sitio que solicita' — denies José "
+},
+{
+"key": "ca47-d1060-n268",
+"rating": 2,
+"summary": "'No haber lugar á la solicitud de terreno q.e ha hecho' — that there is no groun"
+},
+{
+"key": "ca47-d1061-n268",
+"rating": 2,
+"summary": "'Informen si los españoles q.e hay en sus respectivas demarcaciones, de los Capi"
+},
+{
+"key": "ca47-d1062-n268",
+"rating": 2,
+"summary": "(2 Docs) 'Enterado de q.e las tropas del Pres.o carecen de viveres; de q.e habié"
+},
+{
+"key": "ca47-d1065-n269",
+"rating": 2,
+"summary": "(5 Docs — only 4 visible on leaf) 'Devuelve sumaria contra Ventura Villavicencio"
+},
+{
+"key": "ca47-d1066-n270",
+"rating": 2,
+"summary": "'No permitir q.e salte á tierra el español Ant.o José de Cot á quien le dió pasa"
+},
+{
+"key": "ca47-d1067-n270",
+"rating": 2,
+"summary": "'Concede permiso á español Vicente Cané, sold.o licenciado de Marina, p.a casars"
+},
+{
+"key": "ca47-d1070-n272",
+"rating": 2,
+"summary": "'No hay embarazo en q.e Guill.o Dana verifique su casam.to con hija del país, ya"
+},
+{
+"key": "ca47-d1071-n272",
+"rating": 2,
+"summary": "'Publicar bando q.e remite sobre elecciones de Diputados p.r el Territorio al So"
+},
+{
+"key": "ca47-d1072-n272",
+"rating": 2,
+"summary": "(2 Docs) 'Informar sobre pretensiones de Neófitos de Mision S.n Fernando' y 'Pas"
+},
+{
+"key": "ca47-d1078-n274",
+"rating": 2,
+"summary": "'Q.e ha nombrado á Juan Bandini y José Ant.o Estudillo, p.a cobro de derechos y "
+},
+{
+"key": "ca47-d1079-n274",
+"rating": 2,
+"summary": "'Haberse comprado un bote, q.e es el único q.e hace el servicio del P.to, á Cap."
+},
+{
+"key": "ca47-d1080-n274",
+"rating": 2,
+"summary": "(4 Docs) On the hides and tallow left in port by the American frigate 'Franklin'"
+},
+{
+"key": "ca47-d1081-n275",
+"rating": 2,
+"summary": "'Informe sobre estension, ganados, tierras de labranza + de Rancho de Semi' — re"
+},
+{
+"key": "ca47-d1082-n275",
+"rating": 2,
+"summary": "'Tomar providencias p.a socorrer á los vecinos y neófitos de la Mision con comes"
+},
+{
+"key": "ca47-d1083-n275",
+"rating": 2,
+"summary": "'Permiso p.a pasar p.r tierra á Mont.' — permission to travel overland to Monter"
+},
+{
+"key": "ca47-d1085-n276",
+"rating": 2,
+"summary": "'Enterado q.e no hay sino 2 españoles en su jurisdiccion; q.e Ant.o Suñol presta"
+},
+{
+"key": "ca47-d1086-n276",
+"rating": 2,
+"summary": "'Q.e 14 barriles de aguardiente, pertenecen al Am.o Julian Vill. y no á Fragata "
+},
+{
+"key": "ca47-d1087-n276",
+"rating": 2,
+"summary": "'Que no puede consignar á su disposicion á Alferez de Cab.a José M.a Ramirez, co"
+},
+{
+"key": "ca47-d1088-n277",
+"rating": 2,
+"summary": "'Que P.e Presidente le informa q.e ha abierto sus cartas con pretesto de enterar"
+},
+{
+"key": "ca47-d1089-n277",
+"rating": 2,
+"summary": "'Q.e es cierto q.e encargó á Com.te de Mont. no lo dejase embarcarse sin pasapor"
+},
+{
+"key": "ca47-d1090-n277",
+"rating": 2,
+"summary": "'Q.e José M.a Herrera puede andar en el Territorio, p.r tierra, p.r no se le per"
+},
+{
+"key": "ca47-d1091-n277",
+"rating": 2,
+"summary": "'Q.e pide cuenta á Alcalde de los Angeles, sobre sus quejas de haberle formado c"
+},
+{
+"key": "ca47-d1093-n278",
+"rating": 2,
+"summary": "'Enterado q.e en Bergantin Peruano Huascar q.e llegó el 14 de Julio, viene de So"
+},
+{
+"key": "ca47-d1095-n278",
+"rating": 2,
+"summary": "'Se recibiran los estrangeros q.e consignó con Agustin Machado' — the foreigners"
+},
+{
+"key": "ca47-d1096-n279",
+"rating": 2,
+"summary": "'Q.e de fondos de propios y arbitrios q.e se encuentran á su cargo se paguen á J"
+},
+{
+"key": "ca47-d1098-n279",
+"rating": 2,
+"summary": "(2 Docs) 'Circular sobre q.e los Militares no tienen derecho á mezclarse en cier"
+},
+{
+"key": "ca47-d1100-n280",
+"rating": 2,
+"summary": "'Q.e haga comparecer á Juan Baut.a Alvarado, y le exija el pago de $50 q.e debe "
+},
+{
+"key": "ca47-d1101-n280",
+"rating": 2,
+"summary": "'Le pide auxilios p.a sacar el ancla de Fragata Franklin q.e dejó su Cap.n al ma"
+},
+{
+"key": "ca47-d1102-n280",
+"rating": 2,
+"summary": "'Q.e se enviarán los soldados q.e solicita y q.e presenciaron la fuga de Fragata"
+},
+{
+"key": "ca47-d1104-n281",
+"rating": 2,
+"summary": "'Recibió ejemplar impreso del tratado de Comercio y navegacion entre Mexico y Fr"
+},
+{
+"key": "ca47-d1105-n281",
+"rating": 2,
+"summary": "'Recibo de Informe sobre estado de Misiones de Alta Cal.' — receipt of the repor"
+},
+{
+"key": "ca47-d1107-n281",
+"rating": 2,
+"summary": "'Traslada nota de M.tro de Relaciones en q.e avisa haber sido nombrado p.r la ci"
+},
+{
+"key": "ca47-d1108-n282",
+"rating": 2,
+"summary": "(2 Docs) 'Traslada nota de Ministro de Justicia, 7 Dic.e ... en q.e le suplica o"
+},
+{
+"key": "ca47-d1109-n282",
+"rating": 2,
+"summary": "'Q.e son infundados los defectos q.e le atribuye como Gob. de lo q.e ha resultad"
+},
+{
+"key": "ca47-d1110-n283",
+"rating": 2,
+"summary": "'Orden de pasar á S.n Diego p.a informar sobre puntos de la sumaria instruida á "
+},
+{
+"key": "ca47-d1111-n283",
+"rating": 2,
+"summary": "'Q.e se escoja uno de los neófitos q.e saben leer y escribir y se destine á ense"
+},
+{
+"key": "ca47-d1112-n283",
+"rating": 2,
+"summary": "'Q.e ha habido graves motivos p.a q.e la causa de Alferez José M.a Ramirez no se"
+},
+{
+"key": "ca47-d1115-n284",
+"rating": 2,
+"summary": "(2 Docs) 'Que las Misiones estan sujetas y estan obligadas al pago de 10 p.o de "
+},
+{
+"key": "ca47-d1116-n284",
+"rating": 2,
+"summary": "'Sobre Sumaria á Cabo Francisco Basualdo q.e estaba de guardia en la Bateria cua"
+},
+{
+"key": "ca47-d1119-n285",
+"rating": 2,
+"summary": "'Q.e ha dado disposiciones p.a q.e se saque el ancla q.e dejó Fragata 'Franklin'"
+},
+{
+"key": "ca47-d1121-n286",
+"rating": 2,
+"summary": "'Enterado de q.e p.r mas esfuerzos q.e se hicieron no se pudo hallar el ancla de"
+},
+{
+"key": "ca47-d1125-n287",
+"rating": 2,
+"summary": "'Ha dado órden se arreglen sus cuentas p.a espeditar su viaje' — has ordered his"
+},
+{
+"key": "ca47-d1133-n288",
+"rating": 2,
+"summary": "'Ordenandole q.e haga público q.e el S.r Presidente Sánchez queda libre del carg"
+},
+{
+"key": "ca47-d1135-n289",
+"rating": 2,
+"summary": "'No serle posible legalm.te concederle permiso p.a tocar á Rada de S.n Pedro' — "
+},
+{
+"key": "ca47-d1136-n289",
+"rating": 2,
+"summary": "'Convocar deudores de Cap.n Seth Rogers y tomarles declaracion' — to summon the "
+},
+{
+"key": "ca47-d1138-n289",
+"rating": 2,
+"summary": "'No serle posible concederle permiso p.a embarcar cueros y sebos valor de $1.336"
+},
+{
+"key": "ca47-d1139-n290",
+"rating": 2,
+"summary": "'Orden de concurrir á las sesiones de la Diputacion á las q.e hace un año falta'"
+},
+{
+"key": "ca47-d114-n18",
+"rating": 2,
+"summary": "'Manda pasaporte de P. Vicente Franᶜᵒ Sarria' — sends the passport of Padre Vice"
+},
+{
+"key": "ca47-d1140-n290",
+"rating": 2,
+"summary": "'Prevenir á Habilitado Anastacio Carrillo q.e concurra á las sesiones de la Dipu"
+},
+{
+"key": "ca47-d1141-n290",
+"rating": 2,
+"summary": "'Obligar á concurrir á sesiones de la Diputacion á Antonino Buelna, si no tuvies"
+},
+{
+"key": "ca47-d1143-n290",
+"rating": 2,
+"summary": "'Que efectos q.e dejó Fragata 'Franklin' deben ponerse en venta y no considerars"
+},
+{
+"key": "ca47-d1144-n291",
+"rating": 2,
+"summary": "'Esta conforme en el derecho q.e provisionalm.te piensa establecer p.a la Sal' —"
+},
+{
+"key": "ca47-d1146-n291",
+"rating": 2,
+"summary": "'Acredite cuanto antes razones q.e le asisten p.a permanecer en el país, conform"
+},
+{
+"key": "ca47-d1147-n291",
+"rating": 2,
+"summary": "'Lo mismo q.e al anterior' — same as to the previous one (expulsion warning unde"
+},
+{
+"key": "ca47-d1148-n291",
+"rating": 2,
+"summary": "'Remitir p.r cordillera un pliego p.a Ignacio Mancisidor' — to forward by cordil"
+},
+{
+"key": "ca47-d1150-n292",
+"rating": 2,
+"summary": "'Q.e á Sub-Com.o Provisional José M.a Herrera se le permita trancitar p.r tierra"
+},
+{
+"key": "ca47-d1151-n292",
+"rating": 2,
+"summary": "(2 docs) '[1] Traslada nota de Min.ro de Guerra, 22 Feb.o en q.e le previene q.e"
+},
+{
+"key": "ca47-d1152-n292",
+"rating": 2,
+"summary": "'Informará al Gob.no q.e es justa la deuda de $7.100 q.e reclama' — will report "
+},
+{
+"key": "ca47-d1157-n293",
+"rating": 2,
+"summary": "'No haber lugar á su solicitud de permanecer 6 meses en el país p.a arreglar asu"
+},
+{
+"key": "ca47-d1160-n294",
+"rating": 2,
+"summary": "'Q.e Cabo Ant.o Solorzano pasa en Fragata Mercante Inglesa 'Tomas Nowlan,' q.e d"
+},
+{
+"key": "ca47-d1161-n295",
+"rating": 2,
+"summary": "'No haber lugar á su solicitud del sitio del Pinole' — denies his petition for t"
+},
+{
+"key": "ca47-d1162-n295",
+"rating": 2,
+"summary": "'Haber quedado conforme Maitorena en retribuirle el valor de 27 pieles de nutria"
+},
+{
+"key": "ca47-d1163-n295",
+"rating": 2,
+"summary": "'Enterado de q.e su antecesor Luis Ant.o Argüello le concedió sitio del Pinole, "
+},
+{
+"key": "ca47-d1164-n295",
+"rating": 2,
+"summary": "'Ordene á los deudores de Ant.o José Cot salden sus cuentas, p.r tener q.e salir"
+},
+{
+"key": "ca47-d1166-n296",
+"rating": 2,
+"summary": "'Informe sobre efectos q.e condujo Goleta 'Waverley'' — report on the goods carr"
+},
+{
+"key": "ca47-d1168-n296",
+"rating": 2,
+"summary": "'Haberse pagado algunas sumas á Fragata Francesa 'Heros' p.r suministraciones q."
+},
+{
+"key": "ca47-d1171-n297",
+"rating": 2,
+"summary": "'No haber lugar á su solicitud de pasar al interior de la República, mientras no"
+},
+{
+"key": "ca47-d1172-n297",
+"rating": 2,
+"summary": "'No estar en sus atribuciones habilitar Rada de S.n Pedro p.a el comercio estran"
+},
+{
+"key": "ca47-d1177-n298",
+"rating": 2,
+"summary": "'Informe sobre efectos q.e trajo Bergantin de Islas de Sandwich, en cuyo comerci"
+},
+{
+"key": "ca47-d1178-n298",
+"rating": 2,
+"summary": "'Recibió su informe sobre efectos q.e trajo buque de Sandwich' — acknowledges re"
+},
+{
+"key": "ca47-d1179-n298",
+"rating": 2,
+"summary": "'Sobre tener en depósito algunos efectos q.e trajo un buque de Sandwich, hta q.e"
+},
+{
+"key": "ca47-d1182-n301",
+"rating": 2,
+"summary": "'Traslada la nota q.e paso a Ten.te Martinez.' Gloss: forwards to Arguello the c"
+},
+{
+"key": "ca47-d1183-n301",
+"rating": 2,
+"summary": "'Envia aprobada lista de P.s [Padres] q.e hay en Cal.' Gloss: sends the approved"
+},
+{
+"key": "ca47-d1185-n302",
+"rating": 2,
+"summary": "'Recibo de docs. militares.' Gloss: acknowledges receipt of military documents."
+},
+{
+"key": "ca47-d1186-n302",
+"rating": 2,
+"summary": "'Remision de docs militares.' Gloss: forwards military documents."
+},
+{
+"key": "ca47-d1187-n302",
+"rating": 2,
+"summary": "'Orden de enviar el dia 15 de cada mes un Sarg.to y 1 Cabo de Confianza a Mont. "
+},
+{
+"key": "ca47-d1188-n303",
+"rating": 2,
+"summary": "'Disponer q.e cada dia 15 se presenten en S.n Gabriel 1 Sarg.to y un Cabo de Con"
+},
+{
+"key": "ca47-d1189-n303",
+"rating": 2,
+"summary": "'Traslada oficio q.e paso a Com.te de S.ta Barb.a.' Gloss: forwards to Bandini t"
+},
+{
+"key": "ca47-d1190-n303",
+"rating": 2,
+"summary": "'No haber lugar a su solicitud de Paraje 'Talachichi.'' Gloss: denies (no ground"
+},
+{
+"key": "ca47-d1191-n303",
+"rating": 2,
+"summary": "'Obligar a Padres de familia q.e envien a sus hijos a la escuela, pues el Alcald"
+},
+{
+"key": "ca47-d1194-n304",
+"rating": 2,
+"summary": "'Ordenar pase a Mont. Cadete Raymundo Carrillo.' Gloss: orders Cadet Raimundo Ca"
+},
+{
+"key": "ca47-d1198-n305",
+"rating": 2,
+"summary": "'Acompaña avisos sobre nombram.tos de Electores de Partido, Diputados a Congreso"
+},
+{
+"key": "ca47-d1202-n307",
+"rating": 2,
+"summary": "'Avisandole su nombram.to p.r la Junta de Electores de Partido.' Gloss: circular"
+},
+{
+"key": "ca47-d1204-n307",
+"rating": 2,
+"summary": "'Trasladandole lo q.e le dice al anterior. Que luego q.e se reciba del mando ocu"
+},
+{
+"key": "ca47-d1205-n307",
+"rating": 2,
+"summary": "'Entregar a Ten.te Martinez $800.' Gloss: instruction to hand $800 to Lt. Martin"
+},
+{
+"key": "ca47-d1207-n308",
+"rating": 2,
+"summary": "'Cobro de derechos á Bergantin Nal. 'Maria Ester'' — collection of duties on the"
+},
+{
+"key": "ca47-d1208-n308",
+"rating": 2,
+"summary": "'Traslada lo qᵉ dice á Habᵒ Domingo Carrillo' — forwards to Bandini what he tell"
+},
+{
+"key": "ca47-d1212-n309",
+"rating": 2,
+"summary": "(2 Docs) 'Qᵉ Miⁿ de Guerra ha mandado á Tesoreria de Sn Blas qᵉ se abonen á la C"
+},
+{
+"key": "ca47-d1213-n309",
+"rating": 2,
+"summary": "'Qᵉ el Presidente de la República pr conducto de Miⁿ de Guerra, le dice qᵉ recib"
+},
+{
+"key": "ca47-d1214-n309",
+"rating": 2,
+"summary": "'Qᵉ envie á la mayor brevedad á Alferez Rodrigo del Pliego á Mision de Sn Luis O"
+},
+{
+"key": "ca47-d1215-n310",
+"rating": 2,
+"summary": "'Qᵉ secretario de Relaciones le participa haber sido nombrado pr el Presidente d"
+},
+{
+"key": "ca47-d1217-n310",
+"rating": 2,
+"summary": "'Sobre prisiones á soldados pr fuga' — concerning imprisonment of soldiers for d"
+},
+{
+"key": "ca47-d122-n19",
+"rating": 2,
+"summary": "'Que puede tocar el bergantín ruso Baycal en Sta Cruz' — the Russian brig Baykal"
+},
+{
+"key": "ca47-d1220-n311",
+"rating": 2,
+"summary": "'Que envien lista de soldados qᵉ se resistan á continuar en el servicio pa solic"
+},
+{
+"key": "ca47-d1221-n311",
+"rating": 2,
+"summary": "'Manifestar á soldados y oficiales de la guarnicion lo agradable qᵉ ha sido al G"
+},
+{
+"key": "ca47-d1222-n311",
+"rating": 2,
+"summary": "'Qᵉ esta conforme en qᵉ Pᵉ Luis Antᵒ Martinez no salga del pais y quede [en] Mis"
+},
+{
+"key": "ca47-d1223-n312",
+"rating": 2,
+"summary": "'Enterado qᵉ en la jurisdiccion de su mando se encuentran 43 vagos; 33 paisanos,"
+},
+{
+"key": "ca47-d1224-n312",
+"rating": 2,
+"summary": "'Enterado de qᵉ en poder de Cooper quedan depositados $430 interin Comᵈᵗᵉ Gral. "
+},
+{
+"key": "ca47-d1225-n312",
+"rating": 2,
+"summary": "'Qᵉ tampoco buques balleneros pueden tocar en Rada de Sn Pedro, si no llevan per"
+},
+{
+"key": "ca47-d1226-n313",
+"rating": 2,
+"summary": "'Qᵉ Bergantin Amᵒ 'Andes' tiene permiso pª tocar en Rada de Sn Pedro pª el embar"
+},
+{
+"key": "ca47-d1229-n313",
+"rating": 2,
+"summary": "'Qᵉ á Alferez José Fernandez, qᵉ acaba de desembarcar lo ha destinado á alojarse"
+},
+{
+"key": "ca47-d1232-n314",
+"rating": 2,
+"summary": "'Ordenar á Alferez Guadalupe Vallejo, de cuenta de suministraciones á Piquete de"
+},
+{
+"key": "ca47-d1234-n314",
+"rating": 2,
+"summary": "'No serle posible acceder á su solicitud de qᵉ arribe á Sn Luis Obispo Fragata I"
+},
+{
+"key": "ca47-d1237-n315",
+"rating": 2,
+"summary": "'Informe si es cierto qe Juan Lola (sic), Capn de Bergantín 'Karaymakú', estuvo "
+},
+{
+"key": "ca47-d1246-n317",
+"rating": 2,
+"summary": "'Traslada nota de Mtro. de Estado en qe se inserta la del Presidente de Comision"
+},
+{
+"key": "ca47-d1248-n317",
+"rating": 2,
+"summary": "'Remite impreso del plan revolucionario proclamado en Otumba, 23 de Dicre 827 pr"
+},
+{
+"key": "ca47-d1251-n318",
+"rating": 2,
+"summary": "'Qe Mtro. de Guerra y Marina en circular de 30 Junio le dice qe le Presidente de"
+},
+{
+"key": "ca47-d1253-n319",
+"rating": 2,
+"summary": "'Qe hay espresas órdenes del Gobno. Spmo. pa qe no se permita tocar á buques est"
+},
+{
+"key": "ca47-d1257-n320",
+"rating": 2,
+"summary": "'Qe añada á los puntos de averiguacion sobre faltas de Juan Lollar (sic), Capn d"
+},
+{
+"key": "ca47-d1258-n321",
+"rating": 2,
+"summary": "'Qe exija á Ingles Guillmo Villis $50 de multa y sacar el ganado del paraje de l"
+},
+{
+"key": "ca47-d1259-n321",
+"rating": 2,
+"summary": "'Informe si es cierto qe no prohibió á Capn de la 'Karimoko' qe tocase en Isla d"
+},
+{
+"key": "ca47-d1260-n321",
+"rating": 2,
+"summary": "'Traslada nota qe pasó á Tente Martinez, sobre multa á Ingles Villis' — forwards"
+},
+{
+"key": "ca47-d1261-n322",
+"rating": 2,
+"summary": "'Decreta á su memorial sobre ganado de Ingles Willis, qe pasta en sitio de los B"
+},
+{
+"key": "ca47-d1262-n322",
+"rating": 2,
+"summary": "'Orden de traer á tierra todo el velamen del Bergantin, qe se haya detenido hta "
+},
+{
+"key": "ca47-d1263-n322",
+"rating": 2,
+"summary": "'Traslada la órden qe da á Juan Lollar pa qe la haga efectiva en caso de resiste"
+},
+{
+"key": "ca47-d1264-n322",
+"rating": 2,
+"summary": "'Envia un modelo del juramento qe se debe tomar á los Españoles' — sends a model"
+},
+{
+"key": "ca47-d1265-n323",
+"rating": 2,
+"summary": "'Licencia pa qe Bergantin Nl. 'María Esther' pueda tocar á Sta Cruz, Sn Luis Obi"
+},
+{
+"key": "ca47-d1266-n323",
+"rating": 2,
+"summary": "'No serle posible conceder permiso pa qe Bergantin Ingles 'Buitre' arribe á Pto "
+},
+{
+"key": "ca47-d1267-n323",
+"rating": 2,
+"summary": "'Envia modelo qe previene como se debe tomar juramto á los Españoles, poniéndole"
+},
+{
+"key": "ca47-d1268-n323",
+"rating": 2,
+"summary": "'Lo mismo qe al anterior; qe lo ponga en práctica con ex-cabo José Fernandez' — "
+},
+{
+"key": "ca47-d1269-n324",
+"rating": 2,
+"summary": "'Lo mismo; qe lo ponga en práctica con Tente Narciso Fabregat, y Artilleros Ramo"
+},
+{
+"key": "ca47-d1270-n324",
+"rating": 2,
+"summary": "'Lo mismo: qe lo ponga en práctica con Manuel Gutierrez, el menos viejo (sic)' —"
+},
+{
+"key": "ca47-d1271-n324",
+"rating": 2,
+"summary": "'Lo mismo: qe lo ponga en práctica con Franco Suñol y Salvador Garcia' — same: t"
+},
+{
+"key": "ca47-d1272-n324",
+"rating": 2,
+"summary": "'Mantener con su sirviente á pasajero español Máximo Beristain, quien no ha pres"
+},
+{
+"key": "ca47-d1273-n325",
+"rating": 2,
+"summary": "'Qe vuelva á tomar á bordo á español Manuel Mancicidor, qe dejó en Rada de Sn Pe"
+},
+{
+"key": "ca47-d1274-n325",
+"rating": 2,
+"summary": "'Traslada lo qe dice en la nota anterior á Vermond' — forwards what is stated in"
+},
+{
+"key": "ca47-d1275-n325",
+"rating": 2,
+"summary": "'Pasaporte pa reembarque de español Manuel Mancicidor' — passport for the re-emb"
+},
+{
+"key": "ca47-d1276-n325",
+"rating": 2,
+"summary": "'Haber dado órden á Comte de Sn Franco le envie á español Manuel Mancicidor, qui"
+},
+{
+"key": "ca47-d1278-n326",
+"rating": 2,
+"summary": "'Entregará la compañia de su mando y se embarcará pa Mex. en 'Mª Esther' á desem"
+},
+{
+"key": "ca47-d1280-n326",
+"rating": 2,
+"summary": "'Inspeccionar con cuidado efectos qe trae Bergantin Ingles 'Buitre' pa cobrar lo"
+},
+{
+"key": "ca47-d1282-n327",
+"rating": 2,
+"summary": "'Qe no se le permitirá salir del Territorio hta qe el Spmo. Gobno. no lo dispong"
+},
+{
+"key": "ca47-d1283-n327",
+"rating": 2,
+"summary": "'Trasportar á Isla de Sta Catalina á Tente Santiago Argüello, su escribano, Cade"
+},
+{
+"key": "ca47-d1284-n327",
+"rating": 2,
+"summary": "'Embarcarse en Bergantin 'Mª Esther' pa Sta Catalina, con las personas qe se esp"
+},
+{
+"key": "ca47-d1287-n328",
+"rating": 2,
+"summary": "'Conforme en qe á [Sr.] del Ayuntamto se le aumenten $5 á los 15 qe disfruta al "
+},
+{
+"key": "ca47-d1289-n328",
+"rating": 2,
+"summary": "'Qe se gobierne con buques balleneros como está mandado' — to govern himself wit"
+},
+{
+"key": "ca47-d129-n21",
+"rating": 2,
+"summary": "'Que puede pescar nutrias' — that he may hunt otters"
+},
+{
+"key": "ca47-d1290-n329",
+"rating": 2,
+"summary": "(2 docs) '...Se le enviarán de Sn Gabriel $1.000 en efectos y metálico pa sumini"
+},
+{
+"key": "ca47-d1295-n330",
+"rating": 2,
+"summary": "'Envia las diligencias practicadas pr Alcalde de los Angeles contra Dn Juan Loll"
+},
+{
+"key": "ca47-d1297-n331",
+"rating": 2,
+"summary": "'Qe el Alferez Mariano G. Vallejo ha manifestado serle imposible desempeñar sati"
+},
+{
+"key": "ca47-d1298-n331",
+"rating": 2,
+"summary": "'Ha recibido diligencias practicadas contra Juan Lollar sobre compra de caballos"
+},
+{
+"key": "ca47-d1299-n331",
+"rating": 2,
+"summary": "'Que en virtud de su solicitud relativa á Aduana de Mont. y haber hecho renuncia"
+},
+{
+"key": "ca47-d130-n21",
+"rating": 2,
+"summary": "'Que el director Supremo en Chile nombró para Cónsul genᵉʳᵃˡ en México á Jᵉ Anto"
+},
+{
+"key": "ca47-d1300-n332",
+"rating": 2,
+"summary": "'Que hta. qe no se concluyan diligencias sobre su arribada á Isla de Sta Catarin"
+},
+{
+"key": "ca47-d1301-n332",
+"rating": 2,
+"summary": "'Que será exonerado de los ramos de Hacda qe estan á su cargo, como lo pide en s"
+},
+{
+"key": "ca47-d1302-n332",
+"rating": 2,
+"summary": "'Remitir diligencias contra Bergantin 'Kairamoko' á la posible brevedad' — to fo"
+},
+{
+"key": "ca47-d1306-n333",
+"rating": 2,
+"summary": "'Se tendran presentes prevenciones de ordenanza cuando buques natles. ó estranje"
+},
+{
+"key": "ca47-d1307-n333",
+"rating": 2,
+"summary": "(2 docs) 'Traslada notas qe pasó á Ps de Sn José, Sta Clara y Sn Franca sobre re"
+},
+{
+"key": "ca47-d1308-n334",
+"rating": 2,
+"summary": "'Trascribe nota de Mtro. de Guerra en qe le previene qe asistentes de Españoles "
+},
+{
+"key": "ca47-d1310-n335",
+"rating": 2,
+"summary": "'Enterado de qe ha hecho entrega del mando á Cap. Luis A. Argüello' — acknowledg"
+},
+{
+"key": "ca47-d1316-n336",
+"rating": 2,
+"summary": "'Enterado qe hizo entrega del mando á Tente Ignacio Martinez; qe pr ningun crime"
+},
+{
+"key": "ca47-d1319-n337",
+"rating": 2,
+"summary": "'Recibir á bordo en Bergantin Natl. de su propiedad 'Ma Esther' á Capn de Arta M"
+},
+{
+"key": "ca47-d132-n21",
+"rating": 2,
+"summary": "'Que se nombró Secretario del Gobⁿᵒ en el ramo político, á José Antᵒ Carrillo' —"
+},
+{
+"key": "ca47-d1322-n337",
+"rating": 2,
+"summary": "'Pagos á José Fernandez del Campo y á Capn de Arta Miguel Gonzales' — payments t"
+},
+{
+"key": "ca47-d1328-n338",
+"rating": 2,
+"summary": "'Puede conducir la madera qe solicita, el buque de Dr Guillo Dana, pa construcci"
+},
+{
+"key": "ca47-d1330-n339",
+"rating": 2,
+"summary": "'Emprender su marcha pa Mont.' — to set out on his march to Monterey."
+},
+{
+"key": "ca47-d1342-n341",
+"rating": 2,
+"summary": "'No permitir embarcarse á Sub Como Herrera, sin correspondte pasaporte' — not to"
+},
+{
+"key": "ca47-d1344-n342",
+"rating": 2,
+"summary": "'Prohibir á Guillo Dana, qe ha fletado Bergantin 'Waverley', qe ocupe á este en "
+},
+{
+"key": "ca47-d1346-n342",
+"rating": 2,
+"summary": "'Que á Guillo Dana le faltan pagar 2 de los cinco quintos del derecho de tonelaj"
+},
+{
+"key": "ca47-d1347-n342",
+"rating": 2,
+"summary": "'Se resolverá sobre venta de panocha qe hizo Guillo Dana' — a decision will be m"
+},
+{
+"key": "ca47-d1348-n342",
+"rating": 2,
+"summary": "(2 docs) 'Qe se observe estrictamte su órden circular 29 Eno en qe prohibe qe se"
+},
+{
+"key": "ca47-d1349-n343",
+"rating": 2,
+"summary": "'Se permite provisionalmte qe buques estrangeros, despues qe hayan hecho su desc"
+},
+{
+"key": "ca47-d1355-n344",
+"rating": 2,
+"summary": "'Nombrar péritos qe examinen efectos pa la tasacion de dros.' — to appoint exper"
+},
+{
+"key": "ca47-d1359-n346",
+"rating": 2,
+"summary": "'Que luego qe regrese de la Ysla y pague los dros qe adeuda a la hacienda public"
+},
+{
+"key": "ca47-d1363-n348",
+"rating": 2,
+"summary": "'Examinar con dos peritos inteligentes efectos de Fragata Franklin qe no vienen "
+},
+{
+"key": "ca47-d1364-n348",
+"rating": 2,
+"summary": "'Exigir a Guillermo Richardson $83 qe hace muchos anos debe a Mision de Sn Migue"
+},
+{
+"key": "ca47-d1365-n349",
+"rating": 2,
+"summary": "'Ha prevenido a Comte de Sn Franco exija en el termino de 8 dias a Guillermo Ric"
+},
+{
+"key": "ca47-d1369-n349",
+"rating": 2,
+"summary": "'Hacer contrata con Capn de Fragata Franklin de acuerdo con Comte de Sn Franco p"
+},
+{
+"key": "ca47-d1374-n350",
+"rating": 2,
+"summary": "'Remision de docs. relativos a Bergantin Ingles Buitre.' Forwards documents conc"
+},
+{
+"key": "ca47-d1375-n350",
+"rating": 2,
+"summary": "(part of '(3 Docs)' pp.625-7) 'No debia haber comerciado con Capn de Goleta Wash"
+},
+{
+"key": "ca47-d1376-n350",
+"rating": 2,
+"summary": "(part of '(3 Docs)' pp.625-7) 'Enterado de qe el 17 Nove anclaron Bergantin Ruso"
+},
+{
+"key": "ca47-d1378-n351",
+"rating": 2,
+"summary": "('(2 Docs)' pp.628-32) 'Instrucciones pa qe se proceda a la eleccion de Ayuntamt"
+},
+{
+"key": "ca47-d1380-n351",
+"rating": 2,
+"summary": "(2 of 2 docs, pp.632-3) 'Enrique Virmond le entregara $3000 en plata o efectos p"
+},
+{
+"key": "ca47-d1381-n352",
+"rating": 2,
+"summary": "'Enrique Virmond le entregara $1500 en efectos, de los qe trae en Bergantin Ma E"
+},
+{
+"key": "ca47-d1382-n352",
+"rating": 2,
+"summary": "'Envie docs. qe dice acreditan ha pagado los derechos qe ha causado su buque.' S"
+},
+{
+"key": "ca47-d1383-n352",
+"rating": 2,
+"summary": "Reply to Herrera's oficio of the 6th: rejects his claims (that he cannot obey or"
+},
+{
+"key": "ca47-d1386-n355",
+"rating": 2,
+"summary": "'Le amonesta pa qe pague los derechos qe tanto se ha resistido a satisfacer y qu"
+},
+{
+"key": "ca47-d1389-n356",
+"rating": 2,
+"summary": "'Trascribe la nota anterior.' Transmits to Bandini the preceding note (the Russi"
+},
+{
+"key": "ca47-d1399-n358",
+"rating": 2,
+"summary": "'No venir en orden manifiestos de Bergantin Peruano Huascar y Coleta Waverley.' "
+},
+{
+"key": "ca47-d1405-n359",
+"rating": 2,
+"summary": "'Que Enrique Virmound esta anuente a embarcarlo en su buque.' That Henry Virmond"
+},
+{
+"key": "ca47-d1406-n360",
+"rating": 2,
+"summary": "'Enterado qº el Sptmo. Gtno. ha concedido á estrangeros Ricardo Esther y Juan Wi"
+},
+{
+"key": "ca47-d1408-n360",
+"rating": 2,
+"summary": "'Acompaña copia de diligencia qº practicó Juan Bandini sobre suplantación en los"
+},
+{
+"key": "ca47-d141-n23",
+"rating": 2,
+"summary": "'Que para reglamentar las misiones del Sur se puede provisⁿᵗᵉ seguir el reglamen"
+},
+{
+"key": "ca47-d1410-n361",
+"rating": 2,
+"summary": "'Accede á solicitud de Amº Roberto Elwell pª casarse antes de pedir y obtener su"
+},
+{
+"key": "ca47-d1412-n361",
+"rating": 2,
+"summary": "'Qe Dn Estevan Anderson, dueño y sobrecargo de Bergantin Ingles 'Funchal' tiene "
+},
+{
+"key": "ca47-d1415-n362",
+"rating": 2,
+"summary": "'Ha recibido su nota en qº le pide permiso pª transitar pr tierra pª hacer comer"
+},
+{
+"key": "ca47-d1421-n363",
+"rating": 2,
+"summary": "'(Sta Barbª) Sobre derechos á Bergantin Ruso 'Baycal'' — on duties owed by the R"
+},
+{
+"key": "ca47-d1425-n364",
+"rating": 2,
+"summary": "'Que Bergantin Ingles de Comercio 'Fulham' (sic) tocara en Rada de Sn Juan Capº "
+},
+{
+"key": "ca47-d1426-n365",
+"rating": 2,
+"summary": "'Recibió averiguaciones de robo qº hicieron algunos marineros de Goleta Amª 'Agu"
+},
+{
+"key": "ca47-d1432-n366",
+"rating": 2,
+"summary": "'(2 Docs) Recomendando el pago de libramtos á favor de Dn Eduardo Virmond, uno d"
+},
+{
+"key": "ca47-d1439-n367",
+"rating": 2,
+"summary": "'Le entregará Virmond efectos suficientes pª suministraciones de la tropa del Pr"
+},
+{
+"key": "ca47-d1441-n368",
+"rating": 2,
+"summary": "'Lista de efectos qº le entregará Virmond' — list of goods Virmond will deliver "
+},
+{
+"key": "ca47-d1446-n369",
+"rating": 2,
+"summary": "'Que la Diputacion es la qº debe resolver de qº modo se pagará el sueldo á su sr"
+},
+{
+"key": "ca47-d1448-n369",
+"rating": 2,
+"summary": "'Devuelve representacion qº hicieron los vecinos, encargándoles les manifieste l"
+},
+{
+"key": "ca47-d1449-n369",
+"rating": 2,
+"summary": "'Puso el Vº Bº á libramtº suyo á favor de Virmond pr $1.185.00' — placed his app"
+},
+{
+"key": "ca47-d1460-n372",
+"rating": 2,
+"summary": "'Aprehender á Bergantin de Comercio Americano 'Harbinger', qº lleva á su bordo 2"
+},
+{
+"key": "ca47-d1462-n373",
+"rating": 2,
+"summary": "'Traslada nota del Ministro de Relaciones, 21 Julio [18]27... qº el Presidente h"
+},
+{
+"key": "ca47-d1464-n373",
+"rating": 2,
+"summary": "'Levantar averiguacion sobre robo qº se dice cometió Pe Altamira, antes de fugar"
+},
+{
+"key": "ca47-d1465-n374",
+"rating": 2,
+"summary": "'Enviar á los 2 marineros desertores de Fragata Inglesa 'Solitude', qº se hallan"
+},
+{
+"key": "ca47-d1466-n374",
+"rating": 2,
+"summary": "'Ha puesto Vº Bº á libramtº qº giró á favor de Virmond pr $1663' — placed his ap"
+},
+{
+"key": "ca47-d1467-n374",
+"rating": 2,
+"summary": "'Quedar sin efecto su Circular 20 Julio, pr haber recibido órden de Presidente d"
+},
+{
+"key": "ca47-d1468-n375",
+"rating": 2,
+"summary": "'No permitir qe tripulante ni pasajero alguno de buques estraujeros salten á tie"
+},
+{
+"key": "ca47-d148-n24",
+"rating": 2,
+"summary": "'Sobre solicitud de terreno' — concerning a request for land"
+},
+{
+"key": "ca47-d1485-n379",
+"rating": 2,
+"summary": "(2 docs) 'Tomar declaraciones á un Piloto y 3 Canacas (no dice de qe buque) de l"
+},
+{
+"key": "ca47-d1486-n379",
+"rating": 2,
+"summary": "(2 docs) 'Envia docs' and 'Que Tribunal de Circuito de Sinaloa, Sonora y ambas C"
+},
+{
+"key": "ca47-d149-n24",
+"rating": 2,
+"summary": "'Que si los terrenos delas Sauceitas y Cañada del Corte de Madera son ó nó ocupa"
+},
+{
+"key": "ca47-d1495-n382",
+"rating": 2,
+"summary": "'Sobre suspension de Capn Miguel Gonzales' — circular regarding the suspension o"
+},
+{
+"key": "ca47-d1502-n384",
+"rating": 2,
+"summary": "'Está conforme en qe se aprehenda vivo ó muerto al ladron y asesino en despoblad"
+},
+{
+"key": "ca47-d1519-n387",
+"rating": 2,
+"summary": "'Facilitar trabajadores á Comte de Sn Franco Antº Argüello, pª obras de Casa Mat"
+},
+{
+"key": "ca47-d1527-n389",
+"rating": 2,
+"summary": "'Poner cuantos medios sean posibles pª la adquisicion de pus vacuno, pª preserva"
+},
+{
+"key": "ca47-d1528-n389",
+"rating": 2,
+"summary": "'Exijir á Mª Vasquez reparaciones de calumnias contra el honor de Cayetana Jimen"
+},
+{
+"key": "ca47-d1532-n390",
+"rating": 2,
+"summary": "'Embarcar a los 3 desertores Canacas en buques de su Nacion cuando toquen al Pto"
+},
+{
+"key": "ca47-d1534-n390",
+"rating": 2,
+"summary": "'Embarcar a Ingles Juan Ainsworth en algun buque de Sandwich, qe se presente' — "
+},
+{
+"key": "ca47-d1542-n392",
+"rating": 2,
+"summary": "(2 docs) may permit 'inmigrantes de Sonora fabriquen aguardiente en puntos qe no"
+},
+{
+"key": "ca47-d1544-n393",
+"rating": 2,
+"summary": "'Que ha dado orden de qe se encause a Alferz Jose Ma Ramirez, pr delito de polig"
+},
+{
+"key": "ca47-d1545-n393",
+"rating": 2,
+"summary": "(2 docs) 'Perseguir a gentiles y cristianos alzados qe cometen robos, con una pa"
+},
+{
+"key": "ca47-d1548-n394",
+"rating": 2,
+"summary": "'Remite instancia de Raimundo Carrillo, qe solicita paraje de los Cordones, pa q"
+},
+{
+"key": "ca47-d155-n26",
+"rating": 2,
+"summary": "'Que remita, en calidad de presos, á los individuos extranjeros que se fugan de "
+},
+{
+"key": "ca47-d1550-n394",
+"rating": 2,
+"summary": "'Pase a Nopalillos, inmediatos a Misiones de Sn Rafael y Sn Franco Solano, y eli"
+},
+{
+"key": "ca47-d1552-n394",
+"rating": 2,
+"summary": "'Lo mismo' — the same (regarding the North Bay troop-house/garrison order)."
+},
+{
+"key": "ca47-d1554-n395",
+"rating": 2,
+"summary": "'Que se sirva abstenerse del conocimto de la causa de Alferez Ramirez pr bigamia"
+},
+{
+"key": "ca47-d1555-n395",
+"rating": 2,
+"summary": "'Enterado de qe ha recibido noticia cierta de qe Corsarios Espanoles se hallan e"
+},
+{
+"key": "ca47-d1559-n396",
+"rating": 2,
+"summary": "'Que ha llegado el tiempo en qe se deben reunir, segun acuerdo de la Diputacion "
+},
+{
+"key": "ca47-d1560-n396",
+"rating": 2,
+"summary": "'Lo mismo qe a los anteriores' — the same (summons to reconvene the Diputacion),"
+},
+{
+"key": "ca47-d1563-n397",
+"rating": 2,
+"summary": "'Informe en donde se encuentra la cantidad de $2,980. producto de venta de Golet"
+},
+{
+"key": "ca47-d1564-n397",
+"rating": 2,
+"summary": "'Instruya si es cierto esta casado en Mex. con Dolores Alvera, pr haber la Coma "
+},
+{
+"key": "ca47-d1565-n398",
+"rating": 2,
+"summary": "'Que se espera su carta de naturalizacion del Spmo Gobno. y tan luego como llegu"
+},
+{
+"key": "ca47-d1566-n398",
+"rating": 2,
+"summary": "'Que a Sobrecargo de Fragata 'Franklin,' ha permitido trancitar pr tierra' — tha"
+},
+{
+"key": "ca47-d1569-n398",
+"rating": 2,
+"summary": "'Informe sobre solicitud de los dos individuos de la Compa de Smith' — report on"
+},
+{
+"key": "ca47-d157-n26",
+"rating": 2,
+"summary": "'Que ponga en libertad al preso incestuoso — Que avise públicamente que la villa"
+},
+{
+"key": "ca47-d1573-n399",
+"rating": 2,
+"summary": "(2 docs) 'Instruya si es cierto qe a Sobrecargo de Bergantin Americano 'Elio' le"
+},
+{
+"key": "ca47-d1574-n399",
+"rating": 2,
+"summary": "'Se informara si es justo o no el do de tonelaje qe le impuso, pa resolver' — he"
+},
+{
+"key": "ca47-d1578-n400",
+"rating": 2,
+"summary": "'Facilitar 10 hombres bastimentados y herramientas pa obra de la Bateria de Sn D"
+},
+{
+"key": "ca47-d1582-n401",
+"rating": 2,
+"summary": "'Que Alferez Jose Ma Mata, Comte de Loreto, le participa pr orden de Comisario G"
+},
+{
+"key": "ca47-d1583-n401",
+"rating": 2,
+"summary": "'Tomar 40 arrobas de polvora de la qe dijo depositada Fragata Francesa 'Heros' y"
+},
+{
+"key": "ca47-d1585-n402",
+"rating": 2,
+"summary": "'Tomar providencias pa evitar una sorpresa del buque Corsario Espanol 'El Griego"
+},
+{
+"key": "ca47-d1587-n402",
+"rating": 2,
+"summary": "'Facilitar peones a Comte de Mont. pa dirigir los trabajos de la Bateria' — prov"
+},
+{
+"key": "ca47-d1591-n403",
+"rating": 2,
+"summary": "'Que al Americano Jose y a Antº Rocha les encargue construccion de curenas' — th"
+},
+{
+"key": "ca47-d1592-n403",
+"rating": 2,
+"summary": "'Ha recibido proceso qe el Tribl. Eclesiastico formaba pr delito de bigamia a Al"
+},
+{
+"key": "ca47-d1593-n403",
+"rating": 2,
+"summary": "'No aprueba qe reciba con bala roja al Bergantin 'Griego,' qe tiene informes es "
+},
+{
+"key": "ca47-d1597-n404",
+"rating": 2,
+"summary": "(2 docs) 'Haber sentenciado a 12 indios de diferentes Misiones, y pr varios deli"
+},
+{
+"key": "ca47-d1598-n405",
+"rating": 2,
+"summary": "'Estar mandado qe el individuo qe este radicado en un punto, no pueda pasar á ot"
+},
+{
+"key": "ca47-d1599-n405",
+"rating": 2,
+"summary": "(2 Docs, 1 of 2) 'Informe pr qe no dio licencia á Burke pa radicarse en el Presi"
+},
+{
+"key": "ca47-d1601-n405",
+"rating": 2,
+"summary": "'Sobre cobro de dros. de tonelaje á Capn de Bergantin Américano 'Andes', Seth Ro"
+},
+{
+"key": "ca47-d1605-n406",
+"rating": 2,
+"summary": "'Hacer qe los 4 indios cocopariopas (sic) qe traen un pliego del Gobno. Superior"
+},
+{
+"key": "ca47-d1610-n407",
+"rating": 2,
+"summary": "'Abonará regalos qe se hicieron á indios cocomaricopas qe condujeron pliegos de "
+},
+{
+"key": "ca47-d1614-n408",
+"rating": 2,
+"summary": "'Instrucciones de lo qe debe practicar Alferez Rodrigo del Pliego, qe ha de emba"
+},
+{
+"key": "ca47-d1617-n409",
+"rating": 2,
+"summary": "'Que Habo de Mont. le remite pr Bergantin Amo 'Elio', Capn William Williams, 25 "
+},
+{
+"key": "ca47-d163-n28",
+"rating": 2,
+"summary": "'Que comparezca el neófito Vicente en consejo de guerra' — that the neophyte Vic"
+},
+{
+"key": "ca47-d165-n28",
+"rating": 2,
+"summary": "'Que den cuenta de las subministraciones de víveres á la administración de renta"
+},
+{
+"key": "ca47-d174-n30",
+"rating": 2,
+"summary": "'Sobre representación de María Elisaldi que dice trata de despojarla Ygnacio Lug"
+},
+{
+"key": "ca47-d176-n31",
+"rating": 2,
+"summary": "'Que las misiones de Sn. Gabriel y S. Fernando dependen del ayuntamiento de los "
+},
+{
+"key": "ca47-d182-n32",
+"rating": 2,
+"summary": "'Dió orden se le remitan 5 hombres. — Que no haga ningun pago de sueldo al Capⁿ "
+},
+{
+"key": "ca47-d183-n32",
+"rating": 2,
+"summary": "'Que avisó al Comᵗᵉ de S. Franᶜᵒ (Extracto presente) — Dió orden para que Santia"
+},
+{
+"key": "ca47-d184-n32",
+"rating": 2,
+"summary": "'Se celebra la rendición del Castillo de S. Juan de Ulóa' — circular celebrating"
+},
+{
+"key": "ca47-d185-n33",
+"rating": 2,
+"summary": "'Que instruya el sumario del teniente de S. Blas, Antⁿ del Valle' — conduct the "
+},
+{
+"key": "ca47-d186-n33",
+"rating": 2,
+"summary": "'Que agrega de la neofía de la mision de S. Jn. Capistrano á Benavenuto' — attac"
+},
+{
+"key": "ca47-d194-n34",
+"rating": 2,
+"summary": "'Segrega á Gil Riela de la neofía de la misⁿ de S. Diego' — separates Gil Riela "
+},
+{
+"key": "ca47-d195-n35",
+"rating": 2,
+"summary": "'Segrega á Dimas de la neofía de S. Juan Capistrano' — separates Dimas from the "
+},
+{
+"key": "ca47-d200-n36",
+"rating": 2,
+"summary": "'Que se mantenga la guardia durante la noche para cuidar los presos, á cuyo efec"
+},
+{
+"key": "ca47-d204-n38",
+"rating": 2,
+"summary": "'Que la suspension de sueldos á oficiales tiene inconvenientes' — that suspendin"
+},
+{
+"key": "ca47-d205-n38",
+"rating": 2,
+"summary": "'Que no emprenda gastos de transporte de tropa, hasta llegada de buque de la arm"
+},
+{
+"key": "ca47-d206-n38",
+"rating": 2,
+"summary": "'El rancho de Simi pertenece á la jurisdⁿ de los Angeles' — declares Rancho Simi"
+},
+{
+"key": "ca47-d209-n39",
+"rating": 2,
+"summary": "'Que los productos que correspondan al erario Nacional se ingresen provisⁿᵗᵉ á l"
+},
+{
+"key": "ca47-d210-n39",
+"rating": 2,
+"summary": "'Que Santiago Argüello se encargue de la habilitación' — that Santiago Argüello "
+},
+{
+"key": "ca47-d211-n39",
+"rating": 2,
+"summary": "'Que Santiago Argüello está encargado de la habilitación' — that Santiago Argüel"
+},
+{
+"key": "ca47-d218-n40",
+"rating": 2,
+"summary": "'Que entregue, al que sea comisionado por el Capitán José de la Guerra, $500 á c"
+},
+{
+"key": "ca47-d220-n41",
+"rating": 2,
+"summary": "'Que sí es valdío el paraje de Saticoy que solicita Diego Olivera' — confirms th"
+},
+{
+"key": "ca47-d221-n41",
+"rating": 2,
+"summary": "'Que los derechos y demas relativos á los registros de buques que tocan en S. Pe"
+},
+{
+"key": "ca47-d222-n43",
+"rating": 2,
+"summary": "'Que reciba de la mision de S. Luis Rey, $800 de fr. Antⁿ Peyri' — that he recei"
+},
+{
+"key": "ca47-d223-n43",
+"rating": 2,
+"summary": "'Que entregue al Comisionado de Franᶜᵒ Mª Ruiz $800 á cta de los $1500 que prome"
+},
+{
+"key": "ca47-d224-n43",
+"rating": 2,
+"summary": "'Le mande la mitad de la pólvora que tiene' — send him half the gunpowder he hol"
+},
+{
+"key": "ca47-d225-n43",
+"rating": 2,
+"summary": "'Se le remita el inventario hecho del Rosario hasta Sto Tomas' — that the invent"
+},
+{
+"key": "ca47-d228-n44",
+"rating": 2,
+"summary": "'Manda relación de los individuos de la compañía de S. Franᶜᵒ con las filiacione"
+},
+{
+"key": "ca47-d229-n45",
+"rating": 2,
+"summary": "'Manda estado de fuerza de las compañías de presidios de alta California. (Sigue"
+},
+{
+"key": "ca47-d232-n46",
+"rating": 2,
+"summary": "'Que José de la Guerra es acreedor á la gracia que solicita — Manda instancia de"
+},
+{
+"key": "ca47-d237-n48",
+"rating": 2,
+"summary": "Bando 'Sobre contribuciones de las misiones' — proclamation on the contributions"
+},
+{
+"key": "ca47-d238-n48",
+"rating": 2,
+"summary": "Decreto 'Que se dé posesion a los individuos nombrados para renovar el ayuntamie"
+},
+{
+"key": "ca47-d239-n48",
+"rating": 2,
+"summary": "Decreto 'Confirma la separacion del Govᵈᵒ Sola del servicio.' — confirms the sep"
+},
+{
+"key": "ca47-d245-n50",
+"rating": 2,
+"summary": "Decreto 'Segrega á Benvenuto de la misión de S. Jⁿ Capistrano.' — segregates the"
+},
+{
+"key": "ca47-d247-n50",
+"rating": 2,
+"summary": "Decreto 'Que acredite Ygnacio Lugo la posesion que tiene del terreno de las lagu"
+},
+{
+"key": "ca47-d248-n50",
+"rating": 2,
+"summary": "Decreto 'Que informe el Comᵈᵗ de Monterey sobre la instancia de Ygnacio Vallejo."
+},
+{
+"key": "ca47-d249-n50",
+"rating": 2,
+"summary": "Decreto 'Que informe el Comᵈᵗ de Sⁿ Bárbara si es valdío el sitio de Saticoy.' —"
+},
+{
+"key": "ca47-d253-n51",
+"rating": 2,
+"summary": "Decreto 'Autoriza á Jⁿ Ygⁿ Mancisidor á recibir en su buque lo que le adeudan la"
+},
+{
+"key": "ca47-d254-n51",
+"rating": 2,
+"summary": "Decreto 'Puede Antᵒ Machado permanecer en el Rancho de S. Pedro.' — Antonio Mach"
+},
+{
+"key": "ca47-d256-n52",
+"rating": 2,
+"summary": "Decreto 'Autoriza á J. Mancisidor á embarcar sus efectos.' — authorizes J. Manci"
+},
+{
+"key": "ca47-d262-n54",
+"rating": 2,
+"summary": "'Que siempre que algun soldᵒ vaya á Los Angeles… manifieste el docᵗ que lo acred"
+},
+{
+"key": "ca47-d274-n57",
+"rating": 2,
+"summary": "'Que se forme el Acta de eleccion de Ayuntamiento… y que desde luego quedará exi"
+},
+{
+"key": "ca47-d282-n58",
+"rating": 2,
+"summary": "'Que no se comprenda á los oficiales á quienes falta la revalidacion, en la orᵈⁿ"
+},
+{
+"key": "ca47-d284-n59",
+"rating": 2,
+"summary": "'Que sabe algᵃ tropa ha pasado por la boca del Colorado, que destaque esplorador"
+},
+{
+"key": "ca47-d303-n63",
+"rating": 2,
+"summary": "'Que haga se incorporen á la Compᵃ los zapadores qᵉ le ayudaron' — that he have "
+},
+{
+"key": "ca47-d329-n69",
+"rating": 2,
+"summary": "'Que cargue las espadas y carabinas á 8 pˢ y los fusiles á 7½ pˢ, los que se le "
+},
+{
+"key": "ca47-d330-n70",
+"rating": 2,
+"summary": "'Que tome posesion del mando de las armas de este Puerto desde 1º de Febᵒ prox. "
+},
+{
+"key": "ca47-d333-n70",
+"rating": 2,
+"summary": "'Remisⁿ de Causa' — 'Que remita cuanto antes al Ministerio de Guerra la causa de"
+},
+{
+"key": "ca47-d336-n71",
+"rating": 2,
+"summary": "'Que informe porque no se ha dado la posesion de sitio qᵉ espresa Franᶜᵒ Castro'"
+},
+{
+"key": "ca47-d344-n73",
+"rating": 2,
+"summary": "'Que á los Neófitos de S. Juan Bautᵃ les estienda ó no sus licencias segun calif"
+},
+{
+"key": "ca47-d351-n74",
+"rating": 2,
+"summary": "'Que en consideracion de las necesidades que le representan los gefes de esta gu"
+},
+{
+"key": "ca47-d354-n75",
+"rating": 2,
+"summary": "'Envia lista de los indivˢ de la Compᵃ de Mazatlan (que se quejan) que no se asi"
+},
+{
+"key": "ca47-d362-n77",
+"rating": 2,
+"summary": "'Dice que vista la Sumaria formada al vecino de S. Vicente, Santiago Arce, ha de"
+},
+{
+"key": "ca47-d365-n77",
+"rating": 2,
+"summary": "'Queda impuesto del embarque de Fr. Tomas Esténaga y que es violenta la providen"
+},
+{
+"key": "ca47-d392-n84",
+"rating": 2,
+"summary": "'Que tiene que informar cual es la fᶻᵃ de su Compᵃ y qᵉ se va á proceder por la "
+},
+{
+"key": "ca47-d397-n85",
+"rating": 2,
+"summary": "(2 doc.) 'Enterado dará á reconocer provisionalmᵗᵉ en ese Distrito al alfᵣ Franᶜ"
+},
+{
+"key": "ca47-d399-n86",
+"rating": 2,
+"summary": "'Que entregue el mando de las armas de esa plaza de Monterey y su jurisdiccion a"
+},
+{
+"key": "ca47-d406-n87",
+"rating": 2,
+"summary": "'Que remita á Monterey al Indio cristiano Marcos y que premie al gentil José Ygn"
+},
+{
+"key": "ca47-d407-n87",
+"rating": 2,
+"summary": "'Decreto — Determina en vista de la Sumaria contra los soldˢ de Frontᵃ: que Teod"
+},
+{
+"key": "ca47-d422-n91",
+"rating": 2,
+"summary": "'Que mande pagar á los PP. de Sta Barbᵃ Misn 8735 pˢ 3rˢ 4½ gˢ por suministracio"
+},
+{
+"key": "ca47-d423-n92",
+"rating": 2,
+"summary": "'(Se dió ordᵃ del mismo tenor por las Misᶰˢ siguientes) Del mismo tenor' — five "
+},
+{
+"key": "ca47-d447-n97",
+"rating": 2,
+"summary": "'Dice que reasume el mando de la Comandᵃ de armas particular de este Distrito no"
+},
+{
+"key": "ca47-d479-n105",
+"rating": 2,
+"summary": "'Que el capⁿ Migᶫ Gonzalez solo ha pretendido lo que ya le comunicó... que en lo"
+},
+{
+"key": "ca47-d481-n106",
+"rating": 2,
+"summary": "'Que donde quiera que se halle Luis Bringas sea compelido á declarar ante Pablo "
+},
+{
+"key": "ca47-d482-n106",
+"rating": 2,
+"summary": "'Que vigile las operaciones de estrangeros y neófitos' — to watch the operations"
+},
+{
+"key": "ca47-d486-n107",
+"rating": 2,
+"summary": "'Que sobre que se le confiera la Compª presidial de Monterey, ha resuelto el Pre"
+},
+{
+"key": "ca47-d493-n109",
+"rating": 2,
+"summary": "'Que ha dispuesto que la fragª francesa 'Eros' y bergⁿ americano 'Harvinger' pue"
+},
+{
+"key": "ca47-d502-n111",
+"rating": 2,
+"summary": "'Que agregue las adjuntas declaraciones á las diligencias que practica contra el"
+},
+{
+"key": "ca47-d503-n111",
+"rating": 2,
+"summary": "'Que al salir pª Mexico como diputado propietario de este Territorio, entregue s"
+},
+{
+"key": "ca47-d504-n112",
+"rating": 2,
+"summary": "'Que disponga que en todas y cada una de las Misiones de este Territorio se esta"
+},
+{
+"key": "ca47-d511-n113",
+"rating": 2,
+"summary": "'Que si el neófito Macedonio Rafael no pide contra su muger, deje á esta en libe"
+},
+{
+"key": "ca47-d513-n114",
+"rating": 2,
+"summary": "'Sobre separacion de la neofía' — on separation from the neophyte community (neo"
+},
+{
+"key": "ca47-d514-n114",
+"rating": 2,
+"summary": "'Sobre lo mismo' — same subject (separation from the neofía)."
+},
+{
+"key": "ca47-d518-n115",
+"rating": 2,
+"summary": "'Enterado que hallándose miserabilísima su Compª no se le quiere dejar sino una "
+},
+{
+"key": "ca47-d519-n116",
+"rating": 2,
+"summary": "'Que ya previene al Comᵈᵗᵉ de S. Franᶜᵒ no estorbe las funciones del Habilitado "
+},
+{
+"key": "ca47-d520-n116",
+"rating": 2,
+"summary": "'Que los productos de la contribucion de licores deben invertirse desde 1º del p"
+},
+{
+"key": "ca47-d525-n117",
+"rating": 2,
+"summary": "'Sobre condena de dos neófitos' — about the sentencing of two neophytes."
+},
+{
+"key": "ca47-d526-n117",
+"rating": 2,
+"summary": "'Le dice que falta al órden, pues las quejas de los infelices deben comunicársel"
+},
+{
+"key": "ca47-d533-n119",
+"rating": 2,
+"summary": "'Que procure el embarque de los 4 estrangeros que quedaron en ese puerto y que s"
+},
+{
+"key": "ca47-d535-n119",
+"rating": 2,
+"summary": "'Sobre solicitud de dos pª salir de la Neofía' — decree on the petition of two ["
+},
+{
+"key": "ca47-d536-n119",
+"rating": 2,
+"summary": "'Que se destine al soldᵒ Severo Alviso á prision de un año y á la limpieza del c"
+},
+{
+"key": "ca47-d539-n120",
+"rating": 2,
+"summary": "'Que desde mañana concurra á la sala de juntas á tomar parte en las deliberacion"
+},
+{
+"key": "ca47-d542-n121",
+"rating": 2,
+"summary": "'Que provisionalmᵗᵉ pueden volver á tocar los buques de comercio en los puntos d"
+},
+{
+"key": "ca47-d543-n121",
+"rating": 2,
+"summary": "'Sobre un neófito complicado en un motín' — regarding a neophyte implicated in a"
+},
+{
+"key": "ca47-d549-n122",
+"rating": 2,
+"summary": "(entry begins foot of n122, continues top of n123) 'Enterado que algunos individ"
+},
+{
+"key": "ca47-d553-n124",
+"rating": 2,
+"summary": "'Que en la terna que la Exma Diputacion ha hecho de contador provisional pᵃ la C"
+},
+{
+"key": "ca47-d555-n125",
+"rating": 2,
+"summary": "'Licencia pᵃ salir de la Neofía á Jᵉ Jácome' — license for José Jácome to leave "
+},
+{
+"key": "ca47-d557-n125",
+"rating": 2,
+"summary": "'Que exija al Ingles un real por cada cuartillo de ron' — to charge the Englishm"
+},
+{
+"key": "ca47-d562-n126",
+"rating": 2,
+"summary": "'Que concurran en esta á tomar parte en las deliberaciones de la Diputⁿ' — that "
+},
+{
+"key": "ca47-d568-n127",
+"rating": 2,
+"summary": "'Que informe de Cárlos Antⁿ y Anastasio Carrillo que pretenden un terreno en la "
+},
+{
+"key": "ca47-d570-n128",
+"rating": 2,
+"summary": "'Que ha oficiado sobre el despacho de tenᵗᵉ coronel' — that he has written offic"
+},
+{
+"key": "ca47-d579-n129",
+"rating": 2,
+"summary": "'Que los Mtros de S. Gabⁱ y S. Luis Rey entregaron mil pesos cada uno al Habilⁿ "
+},
+{
+"key": "ca47-d580-n130",
+"rating": 2,
+"summary": "'Les agradece su socorro á este Gobⁿᵒ y que pasó al Comisⁿ los recibos por los q"
+},
+{
+"key": "ca47-d581-n130",
+"rating": 2,
+"summary": "'Que recoja algⁿ neófitos dispersos ahí, que son de S. Gabⁱ' — to round up some "
+},
+{
+"key": "ca47-d582-n130",
+"rating": 2,
+"summary": "'Que con qué objeto y pᵃ cuanto tiempo ha quedado en tierra el individuo del ber"
+},
+{
+"key": "ca47-d593-n132",
+"rating": 2,
+"summary": "'Licencia á Narciso Panocha pᵃ salir de neofía' — license for Narciso Panocha to"
+},
+{
+"key": "ca47-d594-n132",
+"rating": 2,
+"summary": "'Licencia pᵃ salir de neofía' — license (grantee unnamed) to leave the neophyte "
+},
+{
+"key": "ca47-d597-n133",
+"rating": 2,
+"summary": "'Que Joaqⁿ Moraga puede mantener sus ganados en los ejidos de S. José' — that Jo"
+},
+{
+"key": "ca47-d598-n133",
+"rating": 2,
+"summary": "'Que reencarga el puntual cumplimᵗᵒ del bando sobre el 10 por 100 de la contribu"
+},
+{
+"key": "ca47-d605-n135",
+"rating": 2,
+"summary": "'Que pᵃ el completo de vocales, asista el Ayuntamiento de este vecindario á la s"
+},
+{
+"key": "ca47-d606-n135",
+"rating": 2,
+"summary": "'Que para lo sucesivo á cualquier indivíduo que quede en tierra sin licencia de "
+},
+{
+"key": "ca47-d607-n135",
+"rating": 2,
+"summary": "'Que pase á reconocer los linderos del rancho de Sta Ana y de la Misⁿ S. Gabriel"
+},
+{
+"key": "ca47-d613-n136",
+"rating": 2,
+"summary": "'Que escepto el cuartelero, enfermos y presos, los demas artilleros rolaran sema"
+},
+{
+"key": "ca47-d616-n137",
+"rating": 2,
+"summary": "'Que entregue esa Comandancia á Pablo de la Portilla' — hand over that commandan"
+},
+{
+"key": "ca47-d619-n138",
+"rating": 2,
+"summary": "(bundle marked '6 doc.') 'Que tendrá presente el cargo de 4465 pˢ de esa Habilit"
+},
+{
+"key": "ca47-d622-n138",
+"rating": 2,
+"summary": "'Que entregue su Compª y Comandancia de esa jurisdiccion al alfz Joaqⁿ Maitorena"
+},
+{
+"key": "ca47-d624-n138",
+"rating": 2,
+"summary": "'Que pª la reparacion de la batería que defiende este fondeadero son necesarios "
+},
+{
+"key": "ca47-d643-n144",
+"rating": 2,
+"summary": "'Que la Diputacion ha acordado se declare por menor sobre la deposicion hecha al"
+},
+{
+"key": "ca47-d648-n146",
+"rating": 2,
+"summary": "'Trascribe el último oficio sobre atribucⁿ de Herrera' — circulates (transcribes"
+},
+{
+"key": "ca47-d649-n146",
+"rating": 2,
+"summary": "(bundle marked '2 doc.') 'Que de ningun modo puede admitir sus funciones ni tamp"
+},
+{
+"key": "ca47-d651-n146",
+"rating": 2,
+"summary": "'Le dice que ayer ha proferido que ha de matar de un balazo al alcalde de este v"
+},
+{
+"key": "ca47-d652-n147",
+"rating": 2,
+"summary": "'Que si considera espuesta su persona por la amenaza violenta de Gonzalez, puede"
+},
+{
+"key": "ca47-d653-n147",
+"rating": 2,
+"summary": "DECRETO. 'Sobre separacⁿ de neofía' — decree on the separation/emancipation of a"
+},
+{
+"key": "ca47-d654-n147",
+"rating": 2,
+"summary": "'Que su renuencia en ejercer sus atribuciones de subcomisario ó inmediato del Co"
+},
+{
+"key": "ca47-d655-n147",
+"rating": 2,
+"summary": "'Que de acuerdo con la Diputacion del Territorio previno al Subcomⁱᵒ Herrera ent"
+},
+{
+"key": "ca47-d657-n148",
+"rating": 2,
+"summary": "DECRETO. 'Sobre Neófitos' — decree concerning neophytes."
+},
+{
+"key": "ca47-d661-n149",
+"rating": 2,
+"summary": "'Que no ha dicho que no maneje los tesoros que entren á su oficina. Que si deja "
+},
+{
+"key": "ca47-d665-n150",
+"rating": 2,
+"summary": "(bundle marked '2 doc.') 'Que marche al instante al destacamento de S. Vicente á"
+},
+{
+"key": "ca47-d666-n150",
+"rating": 2,
+"summary": "'Que hoy lo nombra fiscal en la Sumaria contra Ramirez y que califique á las 48 "
+},
+{
+"key": "ca47-d679-n154",
+"rating": 2,
+"summary": "'Que pase á Los Angeles á formar Sumaria al paisano J. M. Herrera' — proceed to "
+},
+{
+"key": "ca47-d684-n155",
+"rating": 2,
+"summary": "(2 doc.) 'Que se recibieron los dos presos' (received the two prisoners); and 'Q"
+},
+{
+"key": "ca47-d687-n156",
+"rating": 2,
+"summary": "Pase: 'El bergⁿ goleta hamburgues Paraiso puede tocar en la rada de la Misⁿ S. L"
+},
+{
+"key": "ca47-d689-n157",
+"rating": 2,
+"summary": "Certificación: 'Certifica que el capitan de artillª Migˡ Gonzalez, siendo tenᵗᵉ "
+},
+{
+"key": "ca47-d690-n157",
+"rating": 2,
+"summary": "'Dice que nadie se atreva á decir con fundamento que habiendo faltado la Comisar"
+},
+{
+"key": "ca47-d711-n162",
+"rating": 2,
+"summary": "(2 doc.) 'Que recibió listas' (received the lists); and 'Que Pablo de la Portill"
+},
+{
+"key": "ca47-d714-n163",
+"rating": 2,
+"summary": "'Le dice que nunca podrá convenir en que su esposa (de Gonz.) intervenga la cuen"
+},
+{
+"key": "ca47-d720-n164",
+"rating": 2,
+"summary": "'Que lleva consigo al capⁿ de artª Migˡ Gonzalez por convenir así á la tranquili"
+},
+{
+"key": "ca47-d722-n166",
+"rating": 2,
+"summary": "'Le dice que el ningun fundamento que tiene pª reprender al Habilitᵈᵒ de S. Dieg"
+},
+{
+"key": "ca47-d732-n168",
+"rating": 2,
+"summary": "'Que el Presᵗᵉ de la Federacion resuelve que los sargtᵒˢ Españoles se comprenden"
+},
+{
+"key": "ca47-d739-n170",
+"rating": 2,
+"summary": "'Sobre libertad de un Neófito' — concerning the liberty (emancipation) of a neop"
+},
+{
+"key": "ca47-d744-n172",
+"rating": 2,
+"summary": "'Pase pª el bergⁿ ingles 'Fulham' á los puntos del Cojo y El Refugio á recibir c"
+},
+{
+"key": "ca47-d754-n174",
+"rating": 2,
+"summary": "'Que haga cumplir el requisito de que los individuos de ese Ayuntamiento 'sepan "
+},
+{
+"key": "ca47-d755-n174",
+"rating": 2,
+"summary": "'Dice que en la parte de la Constitucion Española que se halla vigente se advier"
+},
+{
+"key": "ca47-d756-n175",
+"rating": 2,
+"summary": "(2 ofˢ) 'Sobre una pólvora.' / 'Le devuelve para que lo firme su ofᵒ sobre la de"
+},
+{
+"key": "ca47-d758-n175",
+"rating": 2,
+"summary": "'Sobre la deuda del mismo Macdaugall' — concerning the debt of the same [Duncan]"
+},
+{
+"key": "ca47-d766-n177",
+"rating": 2,
+"summary": "'Que den á reconocer en sus nuevos empleos á J.M. Estudillo, S. Arguello, J.J. M"
+},
+{
+"key": "ca47-d767-n177",
+"rating": 2,
+"summary": "'Que el Supᵐᵒ Gobⁿᵒ dispone continúe desempeñando esta Secretaria militar de las"
+},
+{
+"key": "ca47-d769-n178",
+"rating": 2,
+"summary": "'Pide se releven por dos Compˢ de línea bien regladas los restos de las de Mazat"
+},
+{
+"key": "ca47-d777-n179",
+"rating": 2,
+"summary": "'Dice que el Tenᵗᵉ Padres le comunica que ha dispuesto la entrega de la Comᵃⁿᵈᵃⁿ"
+},
+{
+"key": "ca47-d785-n180",
+"rating": 2,
+"summary": "'Pide pª secretario propietario de esta Comᵃ Grᵃˡ á Agⁿ Zamorano' — asks that Ag"
+},
+{
+"key": "ca47-d794-n181",
+"rating": 2,
+"summary": "'Insistiendo en el relevo de las Compⁱ de Mazatlan y S. Blas y que queden en el "
+},
+{
+"key": "ca47-d796-n181",
+"rating": 2,
+"summary": "'Que se halla en ejercicio la Exma Diputacion del territ° y que si el Subcom° de"
+},
+{
+"key": "ca47-d800-n182",
+"rating": 2,
+"summary": "'Que el P. Pto de estas Misⁱ Vicente F. de Sarria pide pasar á las islas Sandwic"
+},
+{
+"key": "ca47-d803-n183",
+"rating": 2,
+"summary": "'Manifestando que el capⁿ D. A. Argüello reclama el despacho de teniente coronel"
+},
+{
+"key": "ca47-d804-n183",
+"rating": 2,
+"summary": "'Envia el Censo de la poblacion de A. California' — sends the census of the popu"
+},
+{
+"key": "ca47-d807-n183",
+"rating": 2,
+"summary": "'Envia acta de la Diputacion en solicitud de esenciones pª el comercio con los b"
+},
+{
+"key": "ca47-d812-n185",
+"rating": 2,
+"summary": "'Avisando que Victe Gomez (confinado á vivir en este Territorio) ya debe estar e"
+},
+{
+"key": "ca47-d817-n185",
+"rating": 2,
+"summary": "'Envia docto y dice que si el Subcom° Herrera abandonare completamente sus oblig"
+},
+{
+"key": "ca47-d819-n186",
+"rating": 2,
+"summary": "'Dice que esta Jefatura Política no puede estar bien servida sin secretario part"
+},
+{
+"key": "ca47-d820-n186",
+"rating": 2,
+"summary": "'Dice que nunca podrá atender cumplidamente á sus deberes esta Comⁱᵃ Gl, mientra"
+},
+{
+"key": "ca47-d821-n187",
+"rating": 2,
+"summary": "'Dice que no basta un Secretario para este Gobno y que hoy nombró á Jᵉ Antᵒ Carr"
+},
+{
+"key": "ca47-d822-n187",
+"rating": 2,
+"summary": "'Adjunta solicitud de Fr. Antᵒ Peyri é informa que es verdad lo que expone y que"
+},
+{
+"key": "ca47-d836-n189",
+"rating": 2,
+"summary": "'Que interinamente ha nombrado jefe político subalterno de la B. Califª al Alcal"
+},
+{
+"key": "ca47-d849-n191",
+"rating": 2,
+"summary": "'Dice que el Subcom° J. M. Herrera no ha usado la mejor conducta ya en el manejo"
+},
+{
+"key": "ca47-d864-n194",
+"rating": 2,
+"summary": "'Dice que ha dispuesto que Pablo Gonzalez desempeñe el encargo de vista de esta "
+},
+{
+"key": "ca47-d882-n205",
+"rating": 2,
+"summary": "Junio 30: 'Envia proceso contra Pedro Alamea, qe asesino alevosamte en Sn Ant.o "
+},
+{
+"key": "ca47-d889-n207",
+"rating": 2,
+"summary": "Set.15: 'Qe de resultas de haber trabajado energicamte pa el arreglo de Ramos de"
+},
+{
+"key": "ca47-d890-n208",
+"rating": 2,
+"summary": "Set.16: 'Qe Comerciante Ingles, en Mont, Guill.o Ed.o Hartuell (Hartnell), ha he"
+},
+{
+"key": "ca47-d892-n208",
+"rating": 2,
+"summary": "Nov.o 24: 'Qe ha resuelto qe Aduana y demas ramos de Hda. al cargo de Hab.o de M"
+},
+{
+"key": "ca47-d908-n213",
+"rating": 2,
+"summary": "'Acompaña acta de eleccion de Diputados Territoriales, y avisa ha remitido á Spm"
+},
+{
+"key": "ca47-d930-n220",
+"rating": 2,
+"summary": "'Pide se nombre Gefe Político especial pa. la Baja Cal. y qe. se señale pa. este"
+},
+{
+"key": "ca47-d935-n221",
+"rating": 2,
+"summary": "'Manifiesta el orígen del Comercio en las Costas con buques estrangeros' — expla"
+},
+{
+"key": "ca47-d936-n221",
+"rating": 2,
+"summary": "'Avisando qe. Sub Como. José Ma. Herrera ha quedado fuera del ejercicio de las f"
+},
+{
+"key": "ca47-d943-n223",
+"rating": 2,
+"summary": "(2 docs) 'Acompaña solicitud de Capn. de Escuadron de Mazatlan, Pablo de la Port"
+},
+{
+"key": "ca47-d970-n231",
+"rating": 2,
+"summary": "'(2 Docs)' — 'Haber enviado á Sria. de Relaciones noticias de población del Terr"
+},
+{
+"key": "ca47-d973-n232",
+"rating": 2,
+"summary": "'Que ignora cuales sean los Españoles expulsos de otros Estados que se hayan int"
+},
+{
+"key": "ca47-d979-n233",
+"rating": 2,
+"summary": "'Envía un pliego de Pe Prefecto pª su Prelado y manifiesta las causas que aquel "
+},
+{
+"key": "ca47-d983-n234",
+"rating": 2,
+"summary": "'Acompaña espediente sobre elección de Diputados al Congreso General pr Alta Cal"
+},
+{
+"key": "ca47-d984-n234",
+"rating": 2,
+"summary": "'No haberse formado espediente sobre elecciones de Diputados á Congreso Gral. pr"
+},
+{
+"key": "ca47-d986-n235",
+"rating": 2,
+"summary": "'Acompaña copia de la acta pª la renovación de Diputación de Alta Cal.' — transm"
+},
+{
+"key": "ca47-d987-n235",
+"rating": 2,
+"summary": "'Acompaña relación de españoles que han prestado juramto mandado pr ley y de los"
+},
+{
+"key": "ca47-d991-n249",
+"rating": 2,
+"summary": "'Acompanando dicho proyecto' — cover/transmittal letter accompanying the said mi"
+},
+{
+"key": "ca47-d992-n249",
+"rating": 2,
+"summary": "'Solicita q. Pto. de Cabotaje, S. Diego, se habilite pa. el Comercio estranjero'"
+},
+{
+"key": "ca47-d995-n250",
+"rating": 2,
+"summary": "'Acompana varias copias de circulares q. ha espedido pa. regularizar el Comercio"
+},
+{
+"key": "ca47-d996-n250",
+"rating": 2,
+"summary": "'Acompana espediente contra Fragata mercante Am.a 'Franklin,' y consulta si cred"
 },
 {
 "key": "ca48-d26-n15",
@@ -11720,6 +14525,121 @@
 "summary": "tells Pedrorena the Rancho de Pala cannot be granted to him 'por pertenecer á lo"
 },
 {
+"key": "ca54-d101-n134",
+"rating": 2,
+"summary": "the artisan-instruction program (Argüello ↔ Arrillaga ↔ Padre Presidente Lasuén)"
+},
+{
+"key": "ca54-d117-n155",
+"rating": 2,
+"summary": "Pedro de Alberni — 'Relación de la Artillería, pertrechos y municiones que exist"
+},
+{
+"key": "ca54-d124-n174",
+"rating": 2,
+"summary": "Nicolás Soler & Gov. Pedro Fages → Diego González — military discipline. — (1) E"
+},
+{
+"key": "ca54-d134-n189",
+"rating": 2,
+"summary": "Arrillaga → commandants of San Diego & San Francisco — bar foreign ships from th"
+},
+{
+"key": "ca54-d135-n190",
+"rating": 2,
+"summary": "Pedro Cevallos (Secretary of State) → Viceroy — Royal Order on foreign whaling-c"
+},
+{
+"key": "ca54-d160-n259",
+"rating": 2,
+"summary": "Hermenegildo Sal, Habilitado → Gov. Arrillaga — bundle (8+ items). — ⭐⭐ 'Enterad"
+},
+{
+"key": "ca54-d172-n283",
+"rating": 2,
+"summary": "*Hoja de Servicios* of Alférez Hermenegildo Sal. — ⭐ Sal's service record: serve"
+},
+{
+"key": "ca54-d181-n294",
+"rating": 2,
+"summary": "muster & artillery 'extractos de revista' cluster. — ⭐⭐ Garrison/artillery stren"
+},
+{
+"key": "ca54-d186-n309",
+"rating": 2,
+"summary": "muster 'extractos de revista' cluster (cont.). — Garrison data (→ [[presidio-gar"
+},
+{
+"key": "ca54-d202-n341",
+"rating": 2,
+"summary": "Doc IV-12 — Sal → Arrillaga — fort-builders arrive. — ⭐ Sal reports the arrival "
+},
+{
+"key": "ca54-d208-n353",
+"rating": 2,
+"summary": "José Argüello — the death of Lt. Hermenegildo Sal. — After Sal (Comandante & Hab"
+},
+{
+"key": "ca54-d211-n356",
+"rating": 2,
+"summary": "Hermenegildo Sal → Arrillaga — his retirement petition. — ⭐ Sal petitions the Ki"
+},
+{
+"key": "ca54-d218-n380",
+"rating": 2,
+"summary": "Gov. Borica → Viceroy — 'Sobre inconveniencia de construir fortalezas.' — ⭐⭐ Wit"
+},
+{
+"key": "ca54-d225-n393",
+"rating": 2,
+"summary": "Borica → Viceroy — Otter deserters + foreign-trade ban + Fort San Joaquín rain d"
+},
+{
+"key": "ca54-d227-n397",
+"rating": 2,
+"summary": "Viceroy Azanza → Gov. Borica — leave, the Russia war, and succession. — On Boric"
+},
+{
+"key": "ca54-d243-n434",
+"rating": 2,
+"summary": "convicts to CA + Goycoechea on troop pay arrears. — Branciforte sends convicts ("
+},
+{
+"key": "ca54-d246-n443",
+"rating": 2,
+"summary": "Krusenstern aid order + SB fiscal. — ⭐⭐ Viceroy Iturrigaray (9 Dec 1803) transmi"
+},
+{
+"key": "ca54-d250-n457",
+"rating": 2,
+"summary": "the Bouchard deserters' *causa* + a Russian brig. — ⭐⭐ Viceroy Conde del Venadit"
+},
+{
+"key": "ca54-d252-n463",
+"rating": 2,
+"summary": "the Colorado/Yuma Indians' overtures to the missions. — ⭐ Ignacio Pacheco → Sal "
+},
+{
+"key": "ca54-d253-n468",
+"rating": 2,
+"summary": "ambush near San Vicente / Santa Catalina. — ⭐⭐ An escort transporting 5 captured"
+},
+{
+"key": "ca54-d256-n477",
+"rating": 2,
+"summary": "officer-promotion *ternas* (incl. Sal's). — Romeu 1791 (SF alférez: Carrillo, Pé"
+},
+{
+"key": "ca54-d259-n489",
+"rating": 2,
+"summary": "Doc IV-69 — Romeu: Eliza's Nootka dispatches + the *Saturnina* from Nootka. — ⭐⭐"
+},
+{
+"key": "ca54-d260-n493",
+"rating": 2,
+"summary": "Romeu: the Malaspina & Longinos Martínez expeditions + governance. — Romeu's che"
+},
+{
 "key": "ca55-d75-n42",
 "rating": 2,
 "summary": "Two frigates anchored at Monterey: the Spanish merchantman *Reyna de los Ángeles"
@@ -12058,11 +14978,6 @@
 "key": "ca61-d12-n30",
 "rating": 2,
 "summary": "objects that Figueroa let the Russian 'Pedro Gastonitroff' [Kostromitinov] build"
-},
-{
-"key": "ca61-d19-n136",
-"rating": 2,
-"summary": "micheltorena-deposed, pio-pico, de-la-guerra, asamblea, 1845, californio, ⚠verba"
 },
 {
 "key": "ca62-d14-n8",
