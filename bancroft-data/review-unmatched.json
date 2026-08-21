@@ -816,21 +816,6 @@
 "tomo": 1,
 "pages": [
 [
-119,
-119
-]
-],
-"leaf": 484,
-"page": "462",
-"raw": "embers. Dept. Rec., MS., i. 119; A",
-"src": "direct"
-},
-{
-"hv": 2,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
 321,
 321
 ]
@@ -857,21 +842,6 @@
 },
 {
 "hv": 2,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-76,
-76
-]
-],
-"leaf": 541,
-"page": "519",
-"raw": "easury. Dept. Rec., MS., i. 76. D",
-"src": "direct"
-},
-{
-"hv": 2,
 "series": "LegRec",
 "tomo": 4,
 "pages": [
@@ -891,13 +861,13 @@
 "tomo": 1,
 "pages": [
 [
-76,
-76
+284,
+284
 ]
 ],
-"leaf": 548,
-"page": "526",
-"raw": "ter. 86 Dept. Rec., MS., i. 76; O",
+"leaf": 547,
+"page": "525",
+"raw": "185-7); Dept. Rec., MS., i. 284; S",
 "src": "direct"
 },
 {
@@ -1187,21 +1157,6 @@
 },
 {
 "hv": 2,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-214,
-214
-]
-],
-"leaf": 695,
-"page": "673",
-"raw": "panies. Dept. Rec., MS., i. 214. I",
-"src": "direct"
-},
-{
-"hv": 2,
 "series": "BenMil",
 "tomo": 6,
 "pages": [
@@ -1262,21 +1217,6 @@
 },
 {
 "hv": 2,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-259,
-259
-]
-],
-"leaf": 700,
-"page": "678",
-"raw": "iality. Dept. Rec., MS., i. 259. 1",
-"src": "direct"
-},
-{
-"hv": 2,
 "series": "BenMil",
 "tomo": 15,
 "pages": [
@@ -1303,21 +1243,6 @@
 "leaf": 700,
 "page": "678",
 "raw": "Jose\". Id., Ixvi. 61-2. 1",
-"src": "Id"
-},
-{
-"hv": 2,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-159,
-159
-]
-],
-"leaf": 700,
-"page": "678",
-"raw": "obbery. Id., i. 159. T",
 "src": "Id"
 },
 {
@@ -1352,21 +1277,6 @@
 },
 {
 "hv": 3,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-116,
-116
-]
-],
-"leaf": 28,
-"page": "6",
-"raw": "lected. Dept Rec., MS., i. 116; S",
-"src": "direct"
-},
-{
-"hv": 3,
 "series": "BenMil",
 "tomo": 6,
 "pages": [
@@ -1378,21 +1288,6 @@
 "leaf": 29,
 "page": "7",
 "raw": "padres. Dept St. Pap., Ben. Mil., MS., Ivii. 23. 9",
-"src": "direct"
-},
-{
-"hv": 3,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-119,
-119
-]
-],
-"leaf": 29,
-"page": "7",
-"raw": "refect. Dept Rec., MS., i. 119. M",
 "src": "direct"
 },
 {
@@ -1416,36 +1311,6 @@
 "tomo": 1,
 "pages": [
 [
-117,
-117
-]
-],
-"leaf": 39,
-"page": "17",
-"raw": "office. Dept Rec., MS., i. 117; A",
-"src": "direct"
-},
-{
-"hv": 3,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-117,
-117
-]
-],
-"leaf": 48,
-"page": "26",
-"raw": "plans. Id., i. 117. M",
-"src": "Id"
-},
-{
-"hv": 3,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
 830,
 830
 ]
@@ -1454,21 +1319,6 @@
 "page": "26",
 "raw": "0 paid. Id., 1830, p",
 "src": "Id"
-},
-{
-"hv": 3,
-"series": "DeptRec",
-"tomo": 1,
-"pages": [
-[
-115,
-115
-]
-],
-"leaf": 50,
-"page": "28",
-"raw": "rey. 63 DeptRec., MS., i. 115. 5",
-"src": "direct"
 },
 {
 "hv": 3,
@@ -2009,6 +1859,21 @@
 "tomo": 1,
 "pages": [
 [
+289,
+293
+]
+],
+"leaf": 640,
+"page": "618",
+"raw": "- gust. Id., 289-93. W",
+"src": "Id"
+},
+{
+"hv": 4,
+"series": "DeptRec",
+"tomo": 1,
+"pages": [
+[
 407,
 407
 ]
@@ -2050,6 +1915,36 @@
 "leaf": 640,
 "page": "618",
 "raw": "in Oct. Id., 540. C",
+"src": "Id"
+},
+{
+"hv": 4,
+"series": "DeptRec",
+"tomo": 1,
+"pages": [
+[
+269,
+269
+]
+],
+"leaf": 640,
+"page": "618",
+"raw": "taxes. Id. , 269. M",
+"src": "Id"
+},
+{
+"hv": 4,
+"series": "DeptRec",
+"tomo": 1,
+"pages": [
+[
+269,
+269
+]
+],
+"leaf": 640,
+"page": "618",
+"raw": "affles. Id., 269. M",
 "src": "Id"
 },
 {
@@ -2294,6 +2189,21 @@
 "leaf": 690,
 "page": "668",
 "raw": "esidio. Id., i. 273-4. F",
+"src": "Id"
+},
+{
+"hv": 4,
+"series": "DeptRec",
+"tomo": 1,
+"pages": [
+[
+288,
+288
+]
+],
+"leaf": 690,
+"page": "668",
+"raw": "nterey. Id., i. 288. F",
 "src": "Id"
 },
 {
