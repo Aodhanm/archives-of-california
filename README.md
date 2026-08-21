@@ -17,8 +17,8 @@ A searchable, item-level **calendar (finding aid) of the Archives of California*
 
 ## 📊 What's here
 
-- **26,902 catalog records** across **63 volumes** — 26,902 item-level documents (+ leaf/section survey rows)
-- **723 verbatim transcriptions** identified
+- **28,241 catalog records** across **63 volumes** — 28,241 item-level documents (+ leaf/section survey rows)
+- **722 verbatim transcriptions** identified
 - Both page-number systems (Internet Archive scan + original tomo page), source type (Savage abstract vs. verbatim transcription), dates with an explicit confidence flag, people/places/themes where the source recorded them
 
 ## 📁 Files
