@@ -1620,11 +1620,6 @@
 "summary": "[May–Jul cluster] Viceroy requests iron/steel; powder; ⭐ Eugenio Olachea mismana"
 },
 {
-"key": "ca23-d92-n51",
-"rating": 3,
-"summary": "'Sobre crueles castigos á indios' — Fages critiques mission cruelty. VERBATIM: '"
-},
-{
 "key": "ca23-d118-n67",
 "rating": 3,
 "summary": "'Quejas contra los PP de la Mision de Sn Diego' — VERBATIM: 'Participa qe el Ten"
@@ -1653,6 +1648,16 @@
 "key": "ca23-d1528-n519",
 "rating": 3,
 "summary": "MISSION FLOGGING DEATHS — viceroy's sentence on 'los indios Florido, Ynocito(?) "
+},
+{
+"key": "ca23-d153-n83",
+"rating": 3,
+"summary": "VERBATIM: 'Aprobacion del nombramᵗᵒ de Alcalde hecho pr el pueblo de Sn José en "
+},
+{
+"key": "ca23-d162-n87",
+"rating": 3,
+"summary": "'Quejas contra el P. Serra' — FULL VERBATIM (key passages): 'Dice qe es ya decla"
 },
 {
 "key": "ca23-d337-n154",
@@ -1713,11 +1718,6 @@
 "key": "ca23-d412-n178",
 "rating": 3,
 "summary": "'Noticia haber arribado el 22 Lancha 'S.ta Lucia' con su esposa y niño.' — the l"
-},
-{
-"key": "ca23-d436-n184",
-"rating": 3,
-"summary": "'Envia parte de Com.te de Mont. sobre oponer el P.e Serra resistencia á las órde"
 },
 {
 "key": "ca23-d454-n187",
@@ -7550,49 +7550,9 @@
 "summary": "'Fundación de la Misión de San Fernando': '...haberse fundado el 8 del mes anter"
 },
 {
-"key": "ca23-d1045-n380",
-"rating": 2,
-"summary": "'Catarro epidémico': 'Siento que entre los indios cristianos y gentiles y gente "
-},
-{
-"key": "ca23-d1049-n381",
-"rating": 2,
-"summary": "'Llegada de la fragata 'Concepción'' (doc spans n381-n383): 'Queda entendido de "
-},
-{
-"key": "ca23-d1071-n388",
-"rating": 2,
-"summary": "'Exploración para fundar misión': 'en el paraje llamado 'Calahuasa' hay rancherí"
-},
-{
-"key": "ca23-d1096-n392",
-"rating": 2,
-"summary": "(of 3 docs) 'Queda impuesto que Arrillaga avistó 3 buques enemigos' — informed A"
-},
-{
-"key": "ca23-d1100-n393",
-"rating": 2,
-"summary": "Though he doesn't believe the 19 enemy vessels seen at sea will put in at Califo"
-},
-{
 "key": "ca23-d1113-n395",
 "rating": 2,
 "summary": "BORICA'S DEPARTURE / handover of command: '...por Gob.[ernador] interino de la P"
-},
-{
-"key": "ca23-d1118-n397",
-"rating": 2,
-"summary": "'Primera expedicion de Cádiz á San Blas y Californias': 'Se traslada real órden "
-},
-{
-"key": "ca23-d1120-n398",
-"rating": 2,
-"summary": "'que le dice el Rey que en la 'Princesa' sale para Nootka el brigadier Don Juan "
-},
-{
-"key": "ca23-d1121-n398",
-"rating": 2,
-"summary": "'Auxilio en guerra de España é Inglaterra': 'Que en virtud de la guerra que á Es"
 },
 {
 "key": "ca23-d1124-n399",
@@ -7600,34 +7560,9 @@
 "summary": "'que todos los prisioneros franceses sean instruidos, al entrar á los depósitos,"
 },
 {
-"key": "ca23-d1125-n400",
-"rating": 2,
-"summary": "'Expediciones de Cádiz á San Blas y Californias': 'saldrá de Cádiz el navío 'Fer"
-},
-{
-"key": "ca23-d1127-n400",
-"rating": 2,
-"summary": "Royal order prorogating 10 yrs the grace declaring free commerce between the por"
-},
-{
-"key": "ca23-d1130-n402",
-"rating": 2,
-"summary": "VANCOUVER: 'Al Comand.te de la expedicion inglesa Jorge Vancouber y Peter Pungei"
-},
-{
 "key": "ca23-d1145-n407",
 "rating": 2,
 "summary": "(7 docs) 'Estadística; fundación de pueblos': 'si en dicha jurisdiccion hay prop"
-},
-{
-"key": "ca23-d1171-n417",
-"rating": 2,
-"summary": "'No admision de mercancías extrangeras' (doc continues n418): 'debe entenderse d"
-},
-{
-"key": "ca23-d1172-n418",
-"rating": 2,
-"summary": "'El Rey concedió á Don Nicolás Manzanelli, vecino de San Blas, mandar navíos á C"
 },
 {
 "key": "ca23-d1187-n421",
@@ -7638,11 +7573,6 @@
 "key": "ca23-d1196-n423",
 "rating": 2,
 "summary": "'disposicion del Virey sobre el modo de recibir á los estrangeros': 'Que no se h"
-},
-{
-"key": "ca23-d1201-n425",
-"rating": 2,
-"summary": "'Disposiciones penales para estirpar el abigeato' — full-text bando spanning n42"
 },
 {
 "key": "ca23-d1206-n428",
@@ -7695,6 +7625,11 @@
 "summary": "Auxilio de 2 fragatas: 'Que ha llegado á Sn Francisco la fragata 'Concepcion' ar"
 },
 {
+"key": "ca23-d127-n71",
+"rating": 2,
+"summary": "'Elecciones de Alcaldes' — VERBATIM: 'Que pr estar cumplidos los 5 años señalado"
+},
+{
 "key": "ca23-d1277-n444",
 "rating": 2,
 "summary": "Cordillera: 'Que en la Mision de Sn Miguel se avistaron 10 buques que se dirijia"
@@ -7708,6 +7643,11 @@
 "key": "ca23-d1279-n445",
 "rating": 2,
 "summary": "(Sin fecha) 'Que luego que sean invadidos retiren los ganados, tapen semillas y "
+},
+{
+"key": "ca23-d128-n71",
+"rating": 2,
+"summary": "Warns him to oversee the election of Alcaldes & Regidores on the same terms as t"
 },
 {
 "key": "ca23-d1280-n445",
@@ -7760,6 +7700,11 @@
 "summary": "'Mala interpretacion de orden sobre arreglos [de Justicias]' — VERBATIM: 'Le man"
 },
 {
+"key": "ca23-d147-n80",
+"rating": 2,
+"summary": "'No querer pagar franqueo de cartas P. Serra' — sends note from P. Serra manifes"
+},
+{
 "key": "ca23-d1472-n503",
 "rating": 2,
 "summary": "'Que efectos regaló Vancouver en 92 y 93' — what goods Vancouver gave as gifts i"
@@ -7785,6 +7730,16 @@
 "summary": "'Le propone establecer una escuela de primeras letras en Mont, Sn Franco ó Sta B"
 },
 {
+"key": "ca23-d150-n81",
+"rating": 2,
+"summary": "'Sobre franqueo de correspondᵃ' — San Cárlos. VERBATIM: 'Dice qe pr razon de su "
+},
+{
+"key": "ca23-d151-n82",
+"rating": 2,
+"summary": "'Persecucion de gentiles' — VERBATIM: 'Que queda enterado pr su oficio 20 de aqu"
+},
+{
 "key": "ca23-d1512-n514",
 "rating": 2,
 "summary": "'Que en Sn Diego le dará Gobor $550 anuales y 400 los vecinos porque desempeñe l"
@@ -7793,6 +7748,11 @@
 "key": "ca23-d1514-n514",
 "rating": 2,
 "summary": "'Que dá órden al Comdte del pueblo obligue á los padres de familia á enviar los "
+},
+{
+"key": "ca23-d152-n82",
+"rating": 2,
+"summary": "'Sobre nombramᵗᵒ de Alcalde' — VERBATIM: 'Que acompaña aprobado el nombramᵗᵒ del"
 },
 {
 "key": "ca23-d1535-n522",
@@ -7885,11 +7845,6 @@
 "summary": "VERBATIM: 'Que vaya con gente en persecucion de los gentiles malhechores que ase"
 },
 {
-"key": "ca23-d1726-n576",
-"rating": 2,
-"summary": "VERBATIM: 'Virey manda pagar $187 3 Rls suplidos al Comdte de la fragata amª [am"
-},
-{
 "key": "ca23-d1770-n588",
 "rating": 2,
 "summary": "VERBATIM: 'Que reuna al vecindario y pr mayoría voten un juez de aguas que haga "
@@ -7898,6 +7853,46 @@
 "key": "ca23-d1781-n591",
 "rating": 2,
 "summary": "VERBATIM: 'Que lo ha dado á reconocer como Administrador principal de los ramos "
+},
+{
+"key": "ca23-d183-n96",
+"rating": 2,
+"summary": "VERBATIM: 'Lo mismo qe al anterior, añadiendo qe active la formacion de diligenc"
+},
+{
+"key": "ca23-d228-n114",
+"rating": 2,
+"summary": "'Depredaciones de Indios' (spans n114–n115). VERBATIM: 'Que pr su oficio 21 Mayo"
+},
+{
+"key": "ca23-d236-n118",
+"rating": 2,
+"summary": "'Sobre gentiles.' VERBATIM: 'Que se ha enterado pr su relacion de todos los gent"
+},
+{
+"key": "ca23-d237-n118",
+"rating": 2,
+"summary": "'Examen del campo/gentiles' (spans n118–n119). VERBATIM: 'En vista de los inform"
+},
+{
+"key": "ca23-d244-n122",
+"rating": 2,
+"summary": "'Captura de gentiles de Sn Fernando.' VERBATIM: 'Le reprende pr no haber obedeci"
+},
+{
+"key": "ca23-d256-n126",
+"rating": 2,
+"summary": "'Sobre su viaje á Monterrey' (begins n126, spans n126–n127; explicit orig cite p"
+},
+{
+"key": "ca23-d264-n130",
+"rating": 2,
+"summary": "'Sobre juegos prohibidos.' VERBATIM: 'Que ha recibido el estado de fuerza y revi"
+},
+{
+"key": "ca23-d270-n132",
+"rating": 2,
+"summary": "'Suspension de hostilidades contra Indios.' VERBATIM: 'Le dice, entre otras cosa"
 },
 {
 "key": "ca23-d330-n152",
@@ -8055,9 +8050,59 @@
 "summary": "'Haber recibido su nota sobre haber condenado á Indio Toribio de S.n Luis q.e ma"
 },
 {
+"key": "ca23-d426-n182",
+"rating": 2,
+"summary": "'Haber quedado enterado q.e sus facultades como Gob. estan ceñidas al mando Mili"
+},
+{
+"key": "ca23-d428-n183",
+"rating": 2,
+"summary": "'Haber ascendido la cosecha de trigo en S.ta Bárbara á 100 f.s' — the Santa Barb"
+},
+{
+"key": "ca23-d429-n183",
+"rating": 2,
+"summary": "'No emprender su regreso p.r no haber llegado Lancha 'Santa Lucia'' — cannot beg"
+},
+{
+"key": "ca23-d431-n183",
+"rating": 2,
+"summary": "'Haber llegado 'S.ta Lucia' del Yaqui y embarcarse p.a S.n Luis el 20 - (Julio)."
+},
+{
 "key": "ca23-d434-n184",
 "rating": 2,
 "summary": "'Haberse embarcado con su fam.a en Loreto; abortado su esposa en Mulegé donde de"
+},
+{
+"key": "ca23-d438-n184",
+"rating": 2,
+"summary": "'Haber reprendido á Cañete p.r q.e permitió pasasen al otro lado, sin su permiso"
+},
+{
+"key": "ca23-d439-n185",
+"rating": 2,
+"summary": "'Que no hay ningun Curato en la Península, p.r lo q.e creé no se puede llevar á "
+},
+{
+"key": "ca23-d441-n185",
+"rating": 2,
+"summary": "'Haber recibido copia certificada de Cédula 15 Feb.o p.r la q.e se le concede la"
+},
+{
+"key": "ca23-d443-n185",
+"rating": 2,
+"summary": "'Haber publicado Bando en q.e se incluye R.l órden 12 Feb.o 82, declarando Capit"
+},
+{
+"key": "ca23-d444-n186",
+"rating": 2,
+"summary": "'Haber recibido decreto del Com.te Gral. anterior con dictámen de Asesor Gral. s"
+},
+{
+"key": "ca23-d445-n186",
+"rating": 2,
+"summary": "'Haber ordenado á Com.te de Loreto procediese á separacion de P.e Naranjo de Mul"
 },
 {
 "key": "ca23-d450-n187",
@@ -8460,54 +8505,14 @@
 "summary": "'Que le envía sentencias de Audiencia de Guad.ª contra Ygn.o Rochin y M.ª Bernar"
 },
 {
-"key": "ca23-d800-n297",
-"rating": 2,
-"summary": "'Llegada de la fragata ing.[lesa] 'Fénix' y disposiciones relativas' — FÉNIX FRI"
-},
-{
 "key": "ca23-d819-n308",
 "rating": 2,
 "summary": "Heading 'Prevenciones contra los extrangeros = Acuse del Gob = Donativo al Rey ="
 },
 {
-"key": "ca23-d828-n313",
-"rating": 2,
-"summary": "'Sobre una escaramuza con los gentiles' — VERBATIM: 'yendo los indios gentiles á"
-},
-{
-"key": "ca23-d841-n320",
-"rating": 2,
-"summary": "'Sobre expedicion á N.[uev]o México' — Moqui/New Mexico expedition inquiry. VERB"
-},
-{
-"key": "ca23-d856-n325",
-"rating": 2,
-"summary": "'Sobre la expedicion á Nuevo México' — pleased with the news on how to carry out"
-},
-{
-"key": "ca23-d876-n336",
-"rating": 2,
-"summary": "(sin fecha) 'Sobre elecciones' — VERBATIM: 'Que le devuelve la lista de los regi"
-},
-{
-"key": "ca23-d904-n348",
-"rating": 2,
-"summary": "(sin fecha) 'Precauciones contra la fragata de guerra 'Providencia'' — VERBATIM:"
-},
-{
-"key": "ca23-d952-n365",
-"rating": 2,
-"summary": "'Sentencia de los asesinos de Márcos': 'se limita la pena á cuatro años de prisi"
-},
-{
 "key": "ca23-d984-n369",
 "rating": 2,
 "summary": "'...infundirles ideas contra los ingleses, diciéndoles que son enemigos de la re"
-},
-{
-"key": "ca23-d988-n370",
-"rating": 2,
-"summary": "'Creación de la Villa de Branciforte' (doc spans n370-n371): 'me manda el Exmo V"
 },
 {
 "key": "ca24-d17-n8",
