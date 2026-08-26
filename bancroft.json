@@ -82027,6 +82027,22 @@
 }
 ]
 },
+"ca51-d409-n281": {
+"cited": [
+{
+"v": 3,
+"p": "345",
+"cite": "better. St. Pap., Miss., MS., xi. 49-53; H",
+"tier": "orig-page"
+},
+{
+"v": 5,
+"p": "619",
+"cite": "d Pico. St. Pap., Miss., MS., xi. 53. J",
+"tier": "orig-page"
+}
+]
+},
 "ca16-d568-n334": {
 "cited": [
 {
@@ -82035,6 +82051,28 @@
 "cite": "De.pt. St. Pap., Ben. Mil., MS., Ixxxviii. 18. A",
 "tier": "leaf",
 "shared": 6
+}
+]
+},
+"ca51-d255-n184": {
+"cited": [
+{
+"v": 3,
+"p": "345",
+"cite": "by him. St. Pap., Miss., MS.,ix. 66-71; x",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "353",
+"cite": "he Ind. Id., ix. 66-7. I",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "693",
+"cite": "10,576. St. Pap. Miss., MS., ix. 66-7. D",
+"tier": "orig-page"
 }
 ]
 },
@@ -82081,6 +82119,81 @@
 "cite": "debts. Leg. Rec., MS., ii. 148-51, 1C3.",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca51-d250-n179": {
+"cited": [
+{
+"v": 3,
+"p": "352",
+"cite": "needed. St. Pap., Miss., MS., ix. 10. 1",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "352",
+"cite": "goods. St. Pap., Miss., MS., ix. 8; x",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "663",
+"cite": "rtnell. Id., ix. 7; V",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "681",
+"cite": "trator. St. Pap., Miss., MS., ix. 14-15. 1",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "621",
+"cite": "salary. St. Pap., Miss., MS., ix. 10-12. P",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "645",
+"cite": "operty. St. Pap., Miss., MS., ix. 1-6. F",
+"tier": "orig-page",
+"shared": 3
+},
+{
+"v": 4,
+"p": "647",
+"cite": "e govt. St. Pap., Miss., ix. 6. P",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "682",
+"cite": "rayers. St. Pap. Miss., MS., ix. 9G-7",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d405-n279": {
+"cited": [
+{
+"v": 3,
+"p": "352",
+"cite": ". 3. In Id., xi. 3-4, i",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "624",
+"cite": "91, 94; St. Pap. Miss., MS., xi. 5-9. F",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "626",
+"cite": "rabuco. Id., 3-4. J",
+"tier": "orig-page"
 }
 ]
 },
@@ -85625,6 +85738,39 @@
 }
 ]
 },
+"ca51-d376-n259": {
+"cited": [
+{
+"v": 3,
+"p": "611",
+"cite": "pueblo. Id., 32. I",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d406-n279": {
+"cited": [
+{
+"v": 3,
+"p": "618",
+"cite": "ijoles. Id., xi. 23-5. F",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "619",
+"cite": "padre. St. Pap. Miss., MS., xi. 24-5. 1",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "57",
+"cite": "rnando. St. Pap., Miss., MS., xi. 23-30, P",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
 "ca51-d68-n50": {
 "cited": [
 {
@@ -85702,7 +85848,7 @@
 }
 ]
 },
-"ca51-d81-n58": {
+"ca51-d82-n58": {
 "cited": [
 {
 "v": 3,
@@ -85721,6 +85867,22 @@
 "cite": "y-Sept. Id., 326-32. 1",
 "tier": "orig-page",
 "shared": 4
+}
+]
+},
+"ca51-d408-n280": {
+"cited": [
+{
+"v": 3,
+"p": "619",
+"cite": "hority. Id., xi. 35, M",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "686",
+"cite": "- tion. St. Pap. Miss., MS., xi. 32-7. A",
+"tier": "orig-page"
 }
 ]
 },
@@ -85822,6 +85984,28 @@
 }
 ]
 },
+"ca51-d410-n282": {
+"cited": [
+{
+"v": 3,
+"p": "624",
+"cite": "esting. Id., 58; H",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "686",
+"cite": "nister. Id., 57; L",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "623",
+"cite": ", 40-1; St. Pap., Miss., MS., xi. 59; D",
+"tier": "orig-page"
+}
+]
+},
 "ca49-d541-n211": {
 "cited": [
 {
@@ -85874,6 +86058,23 @@
 "cite": "turbed. Dept. Rec., MS., xi. 51-2. P",
 "tier": "orig-page",
 "shared": 5
+}
+]
+},
+"ca51-d407-n280": {
+"cited": [
+{
+"v": 3,
+"p": "625",
+"cite": "$5,000. Id., xi. 26. 1",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "57",
+"cite": "rnando. St. Pap., Miss., MS., xi. 23-30, P",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -86529,6 +86730,84 @@
 }
 ]
 },
+"ca51-d232-n167": {
+"cited": [
+{
+"v": 3,
+"p": "647",
+"cite": "April. Id., 556. A",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d174-n123": {
+"cited": [
+{
+"v": 3,
+"p": "647",
+"cite": "Flores. Id., 5G2-",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "655",
+"cite": "$3,276. Id., viii. 6-8. 1",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "656",
+"cite": "ordomo. St. Pap., Miss., MS., viii. 6-8; V",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "657",
+"cite": "caldes. St. Pap., Miss., MS., viii. 6. J",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "657",
+"cite": "y 15th. St. Pap., Miss., MS., viii. 6; D",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "659",
+"cite": ". $421. Id., viii. 8-12. 1",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "659",
+"cite": "of Dec. Id., viii. 9. D",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "665",
+"cite": "nzuela. St. Pap. Miss., MS., viii. 2, 4. 1",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "76",
+"cite": "97-8. ™St. Pap., Miss., MS., viii. 4; i",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d235-n169": {
+"cited": [
+{
+"v": 3,
+"p": "647",
+"cite": "huenga. Id., 585. F",
+"tier": "orig-page"
+}
+]
+},
 "ca28-d35-n23": {
 "cited": [
 {
@@ -86716,6 +86995,22 @@
 "v": 4,
 "p": "46",
 "cite": "ii. 64; St. Pap., Miss. MS., vii. 49-51. \"",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d251-n181": {
+"cited": [
+{
+"v": 3,
+"p": "656",
+"cite": "t work. Id., ix. 38. 1",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "657",
+"cite": "e wars. St. Pap., Miss., MS., ix. 38-9. J",
 "tier": "orig-page"
 }
 ]
@@ -87271,6 +87566,117 @@
 }
 ]
 },
+"ca51-d175-n123": {
+"cited": [
+{
+"v": 3,
+"p": "685",
+"cite": "dings). St. Pap. Miss., MS., viii. 27-29. G",
+"tier": "orig-page"
+},
+{
+"v": 3,
+"p": "686",
+"cite": ". 30th. St. Pap. Miss., MS., viii. 27, 29, 38. P",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d209-n146": {
+"cited": [
+{
+"v": 3,
+"p": "686",
+"cite": "zation. Id., 335. L",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d202-n138": {
+"cited": [
+{
+"v": 3,
+"p": "686",
+"cite": "plots. Id., 281. S",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d211-n147": {
+"cited": [
+{
+"v": 3,
+"p": "686",
+"cite": "amento. Id., 348. 1",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d212-n149": {
+"cited": [
+{
+"v": 3,
+"p": "686",
+"cite": ". 16th. Id., 353-4; S",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d176-n123": {
+"cited": [
+{
+"v": 3,
+"p": "689",
+"cite": "$1,587. Id., 77. M",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d309-n218": {
+"cited": [
+{
+"v": 3,
+"p": "693",
+"cite": "ouglas. Id., 404. F",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca51-d310-n220": {
+"cited": [
+{
+"v": 3,
+"p": "693",
+"cite": "ouglas. Id., 404. F",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca51-d249-n178": {
+"cited": [
+{
+"v": 3,
+"p": "694",
+"cite": "lumber. Id., 4. D",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "645",
+"cite": "operty. St. Pap., Miss., MS., ix. 1-6. F",
+"tier": "orig-page",
+"shared": 3
+},
+{
+"v": 4,
+"p": "647",
+"cite": "ission. Id., ix. 5. I",
+"tier": "orig-page"
+}
+]
+},
 "ca27-d10-n9": {
 "cited": [
 {
@@ -87380,6 +87786,16 @@
 "cite": "ntment. Dept. Rec., MS., x. 2, 8, 11; S",
 "tier": "orig-page",
 "shared": 5
+}
+]
+},
+"ca51-d287-n205": {
+"cited": [
+{
+"v": 3,
+"p": "713",
+"cite": "lands. Id., 249. R",
+"tier": "leaf"
 }
 ]
 },
@@ -87827,6 +88243,16 @@
 }
 ]
 },
+"ca51-d377-n259": {
+"cited": [
+{
+"v": 4,
+"p": "61",
+"cite": "rcular. Id., x. 34. 3",
+"tier": "orig-page"
+}
+]
+},
 "ca29-d63-n87": {
 "cited": [
 {
@@ -87863,6 +88289,22 @@
 "v": 4,
 "p": "74",
 "cite": "horses. Id., v. 211. ^",
+"tier": "orig-page"
+}
+]
+},
+"ca51-d254-n183": {
+"cited": [
+{
+"v": 4,
+"p": "101",
+"cite": "xv. 8; St. Pap., Miss., MS., ix. 59,)",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "75",
+"cite": "exi- 68 St. Pap., Miss., MS., ix. 60-1; V",
 "tier": "orig-page"
 }
 ]
@@ -88561,6 +89003,23 @@
 "p": "660",
 "cite": "lcalde. Dept. St. Pap., MS., v. 36-7. A",
 "tier": "orig-page"
+}
+]
+},
+"ca51-d252-n181": {
+"cited": [
+{
+"v": 4,
+"p": "193",
+"cite": "person. St. Pap. Miss., MS., ix. 43. T",
+"tier": "orig-page"
+},
+{
+"v": 4,
+"p": "682",
+"cite": "in Aug. St. Pap. Miss., MS., ix. 41-6; D",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -90752,6 +91211,17 @@
 }
 ]
 },
+"ca51-d248-n178": {
+"cited": [
+{
+"v": 4,
+"p": "645",
+"cite": "operty. St. Pap., Miss., MS., ix. 1-6. F",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
 "ca35-d726-n269": {
 "cited": [
 {
@@ -91195,6 +91665,17 @@
 "p": "681",
 "cite": "he gov. Dept. St. Pap., v. 81, 84. J",
 "tier": "orig-page"
+}
+]
+},
+"ca51-d253-n182": {
+"cited": [
+{
+"v": 4,
+"p": "682",
+"cite": "in Aug. St. Pap. Miss., MS., ix. 41-6; D",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -92547,6 +93028,16 @@
 "cite": "nsults. Dept. St. Pap., MS., vii. 42-3. M",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca51-d419-n300": {
+"cited": [
+{
+"v": 5,
+"p": "640",
+"cite": "plains. Id., 283. M",
+"tier": "orig-page"
 }
 ]
 },

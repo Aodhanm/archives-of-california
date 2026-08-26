@@ -89,16 +89,16 @@
 "ProvRec tomo 19": 1,
 "ProvRec tomo 20": 4,
 "ProvRec tomo 7": 1,
-"SP-Miss tomo 10": 21,
-"SP-Miss tomo 11": 31,
+"SP-Miss tomo 10": 19,
+"SP-Miss tomo 11": 16,
 "SP-Miss tomo 2": 7,
 "SP-Miss tomo 28": 2,
 "SP-Miss tomo 4": 4,
 "SP-Miss tomo 5": 22,
 "SP-Miss tomo 6": 23,
 "SP-Miss tomo 7": 12,
-"SP-Miss tomo 8": 39,
-"SP-Miss tomo 9": 53,
+"SP-Miss tomo 8": 21,
+"SP-Miss tomo 9": 32,
 "SP-Sac tomo 2": 19,
 "SP-Sac tomo 20": 1,
 "SP-Sac tomo 21": 3,
@@ -5209,18 +5209,6 @@
 },
 {
 "hv": 3,
-"page": "611",
-"tomo": 10,
-"pages": [
-[
-32,
-32
-]
-],
-"raw": "pueblo. Id., 32. I"
-},
-{
-"hv": 3,
 "page": "624",
 "tomo": 10,
 "pages": [
@@ -5329,18 +5317,6 @@
 },
 {
 "hv": 4,
-"page": "61",
-"tomo": 10,
-"pages": [
-[
-34,
-34
-]
-],
-"raw": "rcular. Id., x. 34. 3"
-},
-{
-"hv": 4,
 "page": "65",
 "tomo": 10,
 "pages": [
@@ -5431,71 +5407,11 @@
 "tomo": 11,
 "pages": [
 [
-49,
-53
-]
-],
-"raw": "better. St. Pap., Miss., MS., xi. 49-53; H"
-},
-{
-"hv": 3,
-"page": "345",
-"tomo": 11,
-"pages": [
-[
 23,
 23
 ]
 ],
 "raw": "in Nov. Id., xi. 23. T"
-},
-{
-"hv": 3,
-"page": "352",
-"tomo": 11,
-"pages": [
-[
-3,
-4
-]
-],
-"raw": ". 3. In Id., xi. 3-4, i"
-},
-{
-"hv": 3,
-"page": "618",
-"tomo": 11,
-"pages": [
-[
-23,
-25
-]
-],
-"raw": "ijoles. Id., xi. 23-5. F"
-},
-{
-"hv": 3,
-"page": "619",
-"tomo": 11,
-"pages": [
-[
-35,
-35
-]
-],
-"raw": "hority. Id., xi. 35, M"
-},
-{
-"hv": 3,
-"page": "619",
-"tomo": 11,
-"pages": [
-[
-24,
-25
-]
-],
-"raw": "padre. St. Pap. Miss., MS., xi. 24-5. 1"
 },
 {
 "hv": 3,
@@ -5508,42 +5424,6 @@
 ]
 ],
 "raw": "14,429. St. Pap. Miss., MS., xi. 63. 1"
-},
-{
-"hv": 3,
-"page": "624",
-"tomo": 11,
-"pages": [
-[
-5,
-9
-]
-],
-"raw": "91, 94; St. Pap. Miss., MS., xi. 5-9. F"
-},
-{
-"hv": 3,
-"page": "624",
-"tomo": 11,
-"pages": [
-[
-58,
-58
-]
-],
-"raw": "esting. Id., 58; H"
-},
-{
-"hv": 3,
-"page": "625",
-"tomo": 11,
-"pages": [
-[
-26,
-26
-]
-],
-"raw": "$5,000. Id., xi. 26. 1"
 },
 {
 "hv": 3,
@@ -5595,18 +5475,6 @@
 },
 {
 "hv": 3,
-"page": "626",
-"tomo": 11,
-"pages": [
-[
-3,
-4
-]
-],
-"raw": "rabuco. Id., 3-4. J"
-},
-{
-"hv": 3,
 "page": "647",
 "tomo": 11,
 "pages": [
@@ -5619,30 +5487,6 @@
 },
 {
 "hv": 3,
-"page": "686",
-"tomo": 11,
-"pages": [
-[
-32,
-37
-]
-],
-"raw": "- tion. St. Pap. Miss., MS., xi. 32-7. A"
-},
-{
-"hv": 3,
-"page": "686",
-"tomo": 11,
-"pages": [
-[
-57,
-57
-]
-],
-"raw": "nister. Id., 57; L"
-},
-{
-"hv": 3,
 "page": "717",
 "tomo": 11,
 "pages": [
@@ -5652,18 +5496,6 @@
 ]
 ],
 "raw": "debts. St. Pap., Miss., MS., xi. 12-17. O"
-},
-{
-"hv": 4,
-"page": "57",
-"tomo": 11,
-"pages": [
-[
-23,
-30
-]
-],
-"raw": "rnando. St. Pap., Miss., MS., xi. 23-30, P"
 },
 {
 "hv": 4,
@@ -5688,18 +5520,6 @@
 ]
 ],
 "raw": "to gov. St. Pap., Miss., MS., xi. 18. O"
-},
-{
-"hv": 4,
-"page": "623",
-"tomo": 11,
-"pages": [
-[
-59,
-59
-]
-],
-"raw": ", 40-1; St. Pap., Miss., MS., xi. 59; D"
 },
 {
 "hv": 4,
@@ -5739,18 +5559,6 @@
 },
 {
 "hv": 5,
-"page": "619",
-"tomo": 11,
-"pages": [
-[
-53,
-53
-]
-],
-"raw": "d Pico. St. Pap., Miss., MS., xi. 53. J"
-},
-{
-"hv": 5,
 "page": "627",
 "tomo": 11,
 "pages": [
@@ -5784,18 +5592,6 @@
 ]
 ],
 "raw": "110-13; St. Pap. Miss., MS., xi. 66. T"
-},
-{
-"hv": 5,
-"page": "640",
-"tomo": 11,
-"pages": [
-[
-283,
-283
-]
-],
-"raw": "plains. Id., 283. M"
 }
 ],
 "SP-Miss tomo 2": [
@@ -6669,78 +6465,6 @@
 },
 {
 "hv": 3,
-"page": "647",
-"tomo": 8,
-"pages": [
-[
-556,
-556
-]
-],
-"raw": "April. Id., 556. A"
-},
-{
-"hv": 3,
-"page": "647",
-"tomo": 8,
-"pages": [
-[
-5,
-5
-]
-],
-"raw": "Flores. Id., 5G2-"
-},
-{
-"hv": 3,
-"page": "647",
-"tomo": 8,
-"pages": [
-[
-585,
-585
-]
-],
-"raw": "huenga. Id., 585. F"
-},
-{
-"hv": 3,
-"page": "655",
-"tomo": 8,
-"pages": [
-[
-6,
-8
-]
-],
-"raw": "$3,276. Id., viii. 6-8. 1"
-},
-{
-"hv": 3,
-"page": "656",
-"tomo": 8,
-"pages": [
-[
-6,
-8
-]
-],
-"raw": "ordomo. St. Pap., Miss., MS., viii. 6-8; V"
-},
-{
-"hv": 3,
-"page": "657",
-"tomo": 8,
-"pages": [
-[
-6,
-6
-]
-],
-"raw": "caldes. St. Pap., Miss., MS., viii. 6. J"
-},
-{
-"hv": 3,
 "page": "657",
 "tomo": 8,
 "pages": [
@@ -6765,58 +6489,6 @@
 },
 {
 "hv": 3,
-"page": "657",
-"tomo": 8,
-"pages": [
-[
-6,
-6
-]
-],
-"raw": "y 15th. St. Pap., Miss., MS., viii. 6; D"
-},
-{
-"hv": 3,
-"page": "659",
-"tomo": 8,
-"pages": [
-[
-8,
-12
-]
-],
-"raw": ". $421. Id., viii. 8-12. 1"
-},
-{
-"hv": 3,
-"page": "659",
-"tomo": 8,
-"pages": [
-[
-9,
-9
-]
-],
-"raw": "of Dec. Id., viii. 9. D"
-},
-{
-"hv": 3,
-"page": "665",
-"tomo": 8,
-"pages": [
-[
-2,
-2
-],
-[
-4,
-4
-]
-],
-"raw": "nzuela. St. Pap. Miss., MS., viii. 2, 4. 1"
-},
-{
-"hv": 3,
 "page": "684",
 "tomo": 8,
 "pages": [
@@ -6826,18 +6498,6 @@
 ]
 ],
 "raw": "s, etc. Id., viii. 17-20. 1"
-},
-{
-"hv": 3,
-"page": "685",
-"tomo": 8,
-"pages": [
-[
-27,
-29
-]
-],
-"raw": "dings). St. Pap. Miss., MS., viii. 27-29. G"
 },
 {
 "hv": 3,
@@ -6898,74 +6558,6 @@
 ]
 ],
 "raw": "S., 27; St. Pap. Miss., MS., viii. 30. D"
-},
-{
-"hv": 3,
-"page": "686",
-"tomo": 8,
-"pages": [
-[
-335,
-335
-]
-],
-"raw": "zation. Id., 335. L"
-},
-{
-"hv": 3,
-"page": "686",
-"tomo": 8,
-"pages": [
-[
-281,
-281
-]
-],
-"raw": "plots. Id., 281. S"
-},
-{
-"hv": 3,
-"page": "686",
-"tomo": 8,
-"pages": [
-[
-348,
-348
-]
-],
-"raw": "amento. Id., 348. 1"
-},
-{
-"hv": 3,
-"page": "686",
-"tomo": 8,
-"pages": [
-[
-353,
-354
-]
-],
-"raw": ". 16th. Id., 353-4; S"
-},
-{
-"hv": 3,
-"page": "686",
-"tomo": 8,
-"pages": [
-[
-27,
-27
-],
-[
-29,
-29
-],
-[
-38,
-38
-]
-],
-"raw": ". 30th. St. Pap. Miss., MS., viii. 27, 29, 38. P"
 },
 {
 "hv": 3,
@@ -7089,18 +6681,6 @@
 },
 {
 "hv": 3,
-"page": "689",
-"tomo": 8,
-"pages": [
-[
-77,
-77
-]
-],
-"raw": "$1,587. Id., 77. M"
-},
-{
-"hv": 3,
 "page": "690",
 "tomo": 8,
 "pages": [
@@ -7122,18 +6702,6 @@
 ]
 ],
 "raw": "iendly. Id., viii. 46. I"
-},
-{
-"hv": 4,
-"page": "76",
-"tomo": 8,
-"pages": [
-[
-4,
-4
-]
-],
-"raw": "97-8. ™St. Pap., Miss., MS., viii. 4; i"
 }
 ],
 "SP-Miss tomo 9": [
@@ -7155,18 +6723,6 @@
 "tomo": 9,
 "pages": [
 [
-66,
-71
-]
-],
-"raw": "by him. St. Pap., Miss., MS.,ix. 66-71; x"
-},
-{
-"hv": 3,
-"page": "345",
-"tomo": 9,
-"pages": [
-[
 62,
 62
 ]
@@ -7179,47 +6735,11 @@
 "tomo": 9,
 "pages": [
 [
-10,
-10
-]
-],
-"raw": "needed. St. Pap., Miss., MS., ix. 10. 1"
-},
-{
-"hv": 3,
-"page": "352",
-"tomo": 9,
-"pages": [
-[
-8,
-8
-]
-],
-"raw": "goods. St. Pap., Miss., MS., ix. 8; x"
-},
-{
-"hv": 3,
-"page": "352",
-"tomo": 9,
-"pages": [
-[
 24,
 25
 ]
 ],
 "raw": "as maj. Id., ix. 24-5. A"
-},
-{
-"hv": 3,
-"page": "353",
-"tomo": 9,
-"pages": [
-[
-66,
-67
-]
-],
-"raw": "he Ind. Id., ix. 66-7. I"
 },
 {
 "hv": 3,
@@ -7315,30 +6835,6 @@
 },
 {
 "hv": 3,
-"page": "656",
-"tomo": 9,
-"pages": [
-[
-38,
-38
-]
-],
-"raw": "t work. Id., ix. 38. 1"
-},
-{
-"hv": 3,
-"page": "657",
-"tomo": 9,
-"pages": [
-[
-38,
-39
-]
-],
-"raw": "e wars. St. Pap., Miss., MS., ix. 38-9. J"
-},
-{
-"hv": 3,
 "page": "659",
 "tomo": 9,
 "pages": [
@@ -7372,30 +6868,6 @@
 ]
 ],
 "raw": "e them. Id., 907. I"
-},
-{
-"hv": 3,
-"page": "663",
-"tomo": 9,
-"pages": [
-[
-7,
-7
-]
-],
-"raw": "rtnell. Id., ix. 7; V"
-},
-{
-"hv": 3,
-"page": "681",
-"tomo": 9,
-"pages": [
-[
-14,
-15
-]
-],
-"raw": "trator. St. Pap., Miss., MS., ix. 14-15. 1"
 },
 {
 "hv": 3,
@@ -7439,18 +6911,6 @@
 "tomo": 9,
 "pages": [
 [
-66,
-67
-]
-],
-"raw": "10,576. St. Pap. Miss., MS., ix. 66-7. D"
-},
-{
-"hv": 3,
-"page": "693",
-"tomo": 9,
-"pages": [
-[
 69,
 69
 ]
@@ -7471,18 +6931,6 @@
 },
 {
 "hv": 3,
-"page": "693",
-"tomo": 9,
-"pages": [
-[
-404,
-404
-]
-],
-"raw": "ouglas. Id., 404. F"
-},
-{
-"hv": 3,
 "page": "694",
 "tomo": 9,
 "pages": [
@@ -7492,18 +6940,6 @@
 ]
 ],
 "raw": "spared. St. Pap. Miss., MS., ix. 70. N"
-},
-{
-"hv": 3,
-"page": "694",
-"tomo": 9,
-"pages": [
-[
-4,
-4
-]
-],
-"raw": "lumber. Id., 4. D"
 },
 {
 "hv": 3,
@@ -7528,18 +6964,6 @@
 ]
 ],
 "raw": "10,089. St. Pap. Miss., MS., ix. 65. I"
-},
-{
-"hv": 3,
-"page": "713",
-"tomo": 9,
-"pages": [
-[
-249,
-249
-]
-],
-"raw": "lands. Id., 249. R"
 },
 {
 "hv": 3,
@@ -7607,54 +7031,6 @@
 },
 {
 "hv": 4,
-"page": "75",
-"tomo": 9,
-"pages": [
-[
-60,
-61
-]
-],
-"raw": "exi- 68 St. Pap., Miss., MS., ix. 60-1; V"
-},
-{
-"hv": 4,
-"page": "101",
-"tomo": 9,
-"pages": [
-[
-59,
-59
-]
-],
-"raw": "xv. 8; St. Pap., Miss., MS., ix. 59,)"
-},
-{
-"hv": 4,
-"page": "193",
-"tomo": 9,
-"pages": [
-[
-43,
-43
-]
-],
-"raw": "person. St. Pap. Miss., MS., ix. 43. T"
-},
-{
-"hv": 4,
-"page": "621",
-"tomo": 9,
-"pages": [
-[
-10,
-12
-]
-],
-"raw": "salary. St. Pap., Miss., MS., ix. 10-12. P"
-},
-{
-"hv": 4,
 "page": "643",
 "tomo": 9,
 "pages": [
@@ -7715,42 +7091,6 @@
 },
 {
 "hv": 4,
-"page": "645",
-"tomo": 9,
-"pages": [
-[
-1,
-6
-]
-],
-"raw": "operty. St. Pap., Miss., MS., ix. 1-6. F"
-},
-{
-"hv": 4,
-"page": "647",
-"tomo": 9,
-"pages": [
-[
-5,
-5
-]
-],
-"raw": "ission. Id., ix. 5. I"
-},
-{
-"hv": 4,
-"page": "647",
-"tomo": 9,
-"pages": [
-[
-6,
-6
-]
-],
-"raw": "e govt. St. Pap., Miss., ix. 6. P"
-},
-{
-"hv": 4,
 "page": "657",
 "tomo": 9,
 "pages": [
@@ -7760,30 +7100,6 @@
 ]
 ],
 "raw": "e left. St. Pap. Miss., MS., ix. 78. S"
-},
-{
-"hv": 4,
-"page": "682",
-"tomo": 9,
-"pages": [
-[
-41,
-46
-]
-],
-"raw": "in Aug. St. Pap. Miss., MS., ix. 41-6; D"
-},
-{
-"hv": 4,
-"page": "682",
-"tomo": 9,
-"pages": [
-[
-9,
-9
-]
-],
-"raw": "rayers. St. Pap. Miss., MS., ix. 9G-7"
 }
 ],
 "SP-Sac tomo 2": [
