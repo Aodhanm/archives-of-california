@@ -298,51 +298,6 @@
 "tomo": 17,
 "pages": [
 [
-97,
-97
-]
-],
-"leaf": 655,
-"page": "555",
-"raw": "ission. Id., xvii. 97. A",
-"src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 17,
-"pages": [
-[
-101,
-101
-]
-],
-"leaf": 655,
-"page": "555",
-"raw": "stians. Id., xvii. 101. T",
-"src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 17,
-"pages": [
-[
-100,
-100
-]
-],
-"leaf": 655,
-"page": "555",
-"raw": "rposes. Id. , xvii. 100. J",
-"src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 17,
-"pages": [
-[
 1,
 1
 ]
@@ -388,44 +343,14 @@
 "tomo": 17,
 "pages": [
 [
-134,
-134
+111,
+111
 ]
 ],
-"leaf": 705,
-"page": "605",
-"raw": "Franco. Prov. St. Pap., MS., xvii. 134. C",
+"leaf": 738,
+"page": "638",
+"raw": "ission. Prov. St. Pap., MS., xvii. 111. 1",
 "src": "direct"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 17,
-"pages": [
-[
-97,
-97
-]
-],
-"leaf": 727,
-"page": "627",
-"raw": "ousand. Id., xvii. 97. B",
-"src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 17,
-"pages": [
-[
-103,
-103
-]
-],
-"leaf": 727,
-"page": "627",
-"raw": "ls, $4. Id., xvii. 103. C",
-"src": "Id"
 },
 {
 "hv": 1,
@@ -456,21 +381,6 @@
 "page": "699",
 "raw": "lanade. Id., xi. 174. J",
 "src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 17,
-"pages": [
-[
-97,
-97
-]
-],
-"leaf": 814,
-"page": "714",
-"raw": "ousand. Prov. St. Pap., MS., xvii. 97; x",
-"src": "direct"
 },
 {
 "hv": 1,
