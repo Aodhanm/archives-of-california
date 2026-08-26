@@ -4680,169 +4680,49 @@
 }
 ]
 },
-"ca5-d118-n199": {
+"ca5-d169-n177": {
 "cited": [
 {
 "v": 1,
 "p": "399",
 "cite": "ostage. Id., ix. 314. O",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "399",
-"cite": "vilege. Id., ix. 325-6. S",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "416",
-"cite": "tacles. Prov. St. Pap., MS., ix. 350. H",
-"tier": "orig-page",
-"shared": 2
-},
-{
-"v": 1,
-"p": "481",
-"cite": "ansfer. Id., ix. 308, 346-7. S",
-"tier": "orig-page",
-"shared": 3
+"tier": "orig-page"
 },
 {
 "v": 1,
 "p": "487",
 "cite": ", 1790. Prov. St. Pap., ix. 313-19.",
 "tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "598",
-"cite": "8, 296; Prov. St. Pap., MS., ix. 241; x",
-"tier": "orig-page",
-"shared": 2
-},
-{
-"v": 1,
-"p": "629",
-"cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
-"tier": "orig-page",
-"shared": 5
+"shared": 7
 },
 {
 "v": 1,
 "p": "629",
 "cite": "counts. Id., ix. 313-19. S",
 "tier": "orig-page",
-"shared": 3
+"shared": 7
+}
+]
 },
+"ca5-d179-n182": {
+"cited": [
 {
 "v": 1,
-"p": "639",
-"cite": "xiv. 6; Prov. St. Pap., MS., ix. 215-16; x",
+"p": "399",
+"cite": "vilege. Id., ix. 325-6. S",
 "tier": "orig-page",
 "shared": 2
 }
 ]
 },
-"ca5-d141-n291": {
+"ca5-d180-n183": {
 "cited": [
 {
 "v": 1,
 "p": "399",
-"cite": "ostage. Id., ix. 314. O",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "399",
 "cite": "vilege. Id., ix. 325-6. S",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "416",
-"cite": "tacles. Prov. St. Pap., MS., ix. 350. H",
 "tier": "orig-page",
 "shared": 2
-},
-{
-"v": 1,
-"p": "481",
-"cite": "ansfer. Id., ix. 308, 346-7. S",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "487",
-"cite": ", 1790. Prov. St. Pap., ix. 313-19.",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "629",
-"cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
-"tier": "orig-page",
-"shared": 5
-},
-{
-"v": 1,
-"p": "629",
-"cite": "counts. Id., ix. 313-19. S",
-"tier": "orig-page",
-"shared": 3
-}
-]
-},
-"ca5-d98-n169": {
-"cited": [
-{
-"v": 1,
-"p": "399",
-"cite": "ostage. Id., ix. 314. O",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "399",
-"cite": "vilege. Id., ix. 325-6. S",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "481",
-"cite": "ansfer. Id., ix. 308, 346-7. S",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "487",
-"cite": ", 1790. Prov. St. Pap., ix. 313-19.",
-"tier": "orig-page",
-"shared": 3
-},
-{
-"v": 1,
-"p": "629",
-"cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
-"tier": "orig-page",
-"shared": 5
-},
-{
-"v": 1,
-"p": "629",
-"cite": "counts. Id., ix. 313-19. S",
-"tier": "orig-page",
-"shared": 3
 }
 ]
 },
@@ -5276,6 +5156,16 @@
 "cite": "health. Prov. Rec., MS., iii. 50. S",
 "tier": "leaf",
 "shared": 12
+}
+]
+},
+"ca5-d202-n197": {
+"cited": [
+{
+"v": 1,
+"p": "416",
+"cite": "tacles. Prov. St. Pap., MS., ix. 350. H",
+"tier": "orig-page"
 }
 ]
 },
@@ -6421,7 +6311,7 @@
 }
 ]
 },
-"ca5-d25-n88": {
+"ca5-d51-n95": {
 "cited": [
 {
 "v": 1,
@@ -7532,20 +7422,13 @@
 }
 ]
 },
-"ca5-d44-n96": {
+"ca5-d57-n99": {
 "cited": [
 {
 "v": 1,
 "p": "459",
 "cite": "os, 39. Prov. St. Pap., MS., ix. 152. 2",
 "tier": "orig-page"
-},
-{
-"v": 1,
-"p": "609",
-"cite": "400-2; Prov. St. Pap., MS., ix. 163-6. T",
-"tier": "orig-page",
-"shared": 2
 }
 ]
 },
@@ -9083,6 +8966,39 @@
 }
 ]
 },
+"ca5-d163-n175": {
+"cited": [
+{
+"v": 1,
+"p": "481",
+"cite": "ansfer. Id., ix. 308, 346-7. S",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
+"ca5-d199-n195": {
+"cited": [
+{
+"v": 1,
+"p": "481",
+"cite": "ansfer. Id., ix. 308, 346-7. S",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
+"ca5-d200-n196": {
+"cited": [
+{
+"v": 1,
+"p": "481",
+"cite": "ansfer. Id., ix. 308, 346-7. S",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
 "ca6-d41-n32": {
 "cited": [
 {
@@ -9149,6 +9065,96 @@
 "cite": "rrival. Prov. St. Pap., MS., x. 38. a",
 "tier": "orig-page",
 "shared": 2
+}
+]
+},
+"ca5-d168-n177": {
+"cited": [
+{
+"v": 1,
+"p": "487",
+"cite": ", 1790. Prov. St. Pap., ix. 313-19.",
+"tier": "orig-page",
+"shared": 7
+},
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Id., ix. 313-19. S",
+"tier": "orig-page",
+"shared": 7
+}
+]
+},
+"ca5-d170-n177": {
+"cited": [
+{
+"v": 1,
+"p": "487",
+"cite": ", 1790. Prov. St. Pap., ix. 313-19.",
+"tier": "orig-page",
+"shared": 7
+},
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Id., ix. 313-19. S",
+"tier": "orig-page",
+"shared": 7
+}
+]
+},
+"ca5-d171-n178": {
+"cited": [
+{
+"v": 1,
+"p": "487",
+"cite": ", 1790. Prov. St. Pap., ix. 313-19.",
+"tier": "orig-page",
+"shared": 7
+},
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Id., ix. 313-19. S",
+"tier": "orig-page",
+"shared": 7
+}
+]
+},
+"ca5-d172-n178": {
+"cited": [
+{
+"v": 1,
+"p": "487",
+"cite": ", 1790. Prov. St. Pap., ix. 313-19.",
+"tier": "orig-page",
+"shared": 7
+},
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Id., ix. 313-19. S",
+"tier": "orig-page",
+"shared": 7
+}
+]
+},
+"ca5-d173-n178": {
+"cited": [
+{
+"v": 1,
+"p": "487",
+"cite": ", 1790. Prov. St. Pap., ix. 313-19.",
+"tier": "orig-page",
+"shared": 7
+},
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Id., ix. 313-19. S",
+"tier": "orig-page",
+"shared": 7
 }
 ]
 },
@@ -23020,37 +23026,42 @@
 }
 ]
 },
-"ca5-d75-n121": {
+"ca5-d116-n136": {
 "cited": [
 {
 "v": 1,
 "p": "598",
 "cite": "8, 296; Prov. St. Pap., MS., ix. 241; x",
-"tier": "orig-page",
-"shared": 2
-},
-{
-"v": 1,
-"p": "639",
-"cite": "xiv. 6; Prov. St. Pap., MS., ix. 215-16; x",
-"tier": "orig-page",
-"shared": 2
+"tier": "orig-page"
 }
 ]
 },
-"ca5-d64-n114": {
+"ca5-d86-n115": {
 "cited": [
 {
 "v": 1,
 "p": "598",
 "cite": "tos. * wProv. St. Pap., MS., ix. 194-5; x",
-"tier": "orig-page"
+"tier": "orig-page",
+"shared": 2
 },
 {
 "v": 1,
 "p": "634",
 "cite": "y paid. Prov. St. Pap., MS., ix. 192-3; V",
-"tier": "orig-page"
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca5-d87-n116": {
+"cited": [
+{
+"v": 1,
+"p": "598",
+"cite": "tos. * wProv. St. Pap., MS., ix. 194-5; x",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
@@ -23298,14 +23309,36 @@
 }
 ]
 },
-"ca5-d58-n105": {
+"ca5-d64-n103": {
 "cited": [
 {
 "v": 1,
 "p": "609",
 "cite": "400-2; Prov. St. Pap., MS., ix. 163-6. T",
 "tier": "orig-page",
-"shared": 2
+"shared": 3
+}
+]
+},
+"ca5-d65-n104": {
+"cited": [
+{
+"v": 1,
+"p": "609",
+"cite": "400-2; Prov. St. Pap., MS., ix. 163-6. T",
+"tier": "orig-page",
+"shared": 3
+}
+]
+},
+"ca5-d66-n104": {
+"cited": [
+{
+"v": 1,
+"p": "609",
+"cite": "400-2; Prov. St. Pap., MS., ix. 163-6. T",
+"tier": "orig-page",
+"shared": 3
 }
 ]
 },
@@ -26538,25 +26571,69 @@
 }
 ]
 },
-"ca5-d96-n160": {
+"ca5-d148-n160": {
 "cited": [
 {
 "v": 1,
 "p": "629",
 "cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
 "tier": "orig-page",
-"shared": 5
+"shared": 10
 }
 ]
 },
-"ca5-d97-n155": {
+"ca5-d149-n166": {
 "cited": [
 {
 "v": 1,
 "p": "629",
 "cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
 "tier": "orig-page",
-"shared": 5
+"shared": 10
+}
+]
+},
+"ca5-d150-n169": {
+"cited": [
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
+"tier": "orig-page",
+"shared": 10
+}
+]
+},
+"ca5-d151-n169": {
+"cited": [
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
+"tier": "orig-page",
+"shared": 10
+}
+]
+},
+"ca5-d152-n170": {
+"cited": [
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
+"tier": "orig-page",
+"shared": 10
+}
+]
+},
+"ca5-d153-n170": {
+"cited": [
+{
+"v": 1,
+"p": "629",
+"cite": "counts. Prov. St. Pap., MS., ix. 289-99, 305. V",
+"tier": "orig-page",
+"shared": 10
 }
 ]
 },
@@ -27293,6 +27370,17 @@
 "v": 1,
 "p": "636",
 "cite": "jour- \" Prov. St. Pap., MS., xiii. 185-6. M",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca5-d85-n114": {
+"cited": [
+{
+"v": 1,
+"p": "634",
+"cite": "y paid. Prov. St. Pap., MS., ix. 192-3; V",
 "tier": "orig-page",
 "shared": 2
 }
@@ -28294,6 +28382,28 @@
 "cite": "Avila. Prov. St. Pap., Ben. Mil., MS., xiv. 6; P",
 "tier": "leaf",
 "shared": 20
+}
+]
+},
+"ca5-d102-n124": {
+"cited": [
+{
+"v": 1,
+"p": "639",
+"cite": "xiv. 6; Prov. St. Pap., MS., ix. 215-16; x",
+"tier": "orig-page",
+"shared": 2
+}
+]
+},
+"ca5-d103-n125": {
+"cited": [
+{
+"v": 1,
+"p": "639",
+"cite": "xiv. 6; Prov. St. Pap., MS., ix. 215-16; x",
+"tier": "orig-page",
+"shared": 2
 }
 ]
 },
