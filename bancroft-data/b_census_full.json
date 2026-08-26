@@ -730,6 +730,91 @@
 "summary": "Recibió aviso de que el día 11 en la noche aprehendió á un inglés y le mandó á C"
 },
 {
+"key": "ca25-d533-n277",
+"rating": 4,
+"summary": "'+ 1803 = Agosto 10 = Loreto / Gob.r a Virrey. Sobre asesinato cometido por los "
+},
+{
+"key": "ca25-d583-n345",
+"rating": 4,
+"summary": "'18 ... (1 doc.) - Captura de 2 indios de establecimiento Ruso.' Capture of two "
+},
+{
+"key": "ca25-d587-n346",
+"rating": 4,
+"summary": "'+ 1806. = Diciembre = Sn Diego. / Gobr á Virrey. Sobre linia divisoria de Alta "
+},
+{
+"key": "ca25-d601-n348",
+"rating": 4,
+"summary": "'27 ... (1 doc. - Que respecto á noticia dada pr Consul Español en Nueva Yorch q"
+},
+{
+"key": "ca25-d609-n349",
+"rating": 4,
+"summary": "'Junio 1o ... (1 doc) - Que buque anclado en Sn Quintín, se cree Ockain.' The ve"
+},
+{
+"key": "ca25-d631-n363",
+"rating": 4,
+"summary": "MARQUEE Russian item. Heading '+ 1809 = Marzo 31 = Monterrey. / Gobr al Virrey S"
+},
+{
+"key": "ca25-d695-n388",
+"rating": 4,
+"summary": "[Mzo?] 6 (pp.453-60, 7 doc): parte de arribada de fragata Rusa 'Sowaroff' [Suvor"
+},
+{
+"key": "ca25-d697-n390",
+"rating": 4,
+"summary": "Leaf 138: sentences in the Quintana causa — the asesinos 200 azotes y 10 años [d"
+},
+{
+"key": "ca25-d706-n393",
+"rating": 4,
+"summary": "'Avisa arribo de fragata Americana llamada 'Sultan,' y su salida pa establecimie"
+},
+{
+"key": "ca25-d710-n395",
+"rating": 4,
+"summary": "'Contesta sobre averiguacion de arribada de S Franco de Navio Ruso 'Coscoff.'' —"
+},
+{
+"key": "ca25-d711-n395",
+"rating": 4,
+"summary": "'Queda enterado de permiso qe dió antesesor Rey [?] pa qe Cambiara Goleta Rusa S"
+},
+{
+"key": "ca25-d717-n396",
+"rating": 4,
+"summary": "VERBATIM, spans n396-n402 (top). Head: 'o 1816 = Octubre 10 = Monterey / Gobr So"
+},
+{
+"key": "ca25-d718-n396",
+"rating": 4,
+"summary": "Detail of the n396-n402 letter, for the record: the padres of San Juan and Santa"
+},
+{
+"key": "ca25-d719-n402",
+"rating": 4,
+"summary": "Under '+ 1816. Monterey / Borradores de comunicaciones del Gobr al Virrey', regi"
+},
+{
+"key": "ca25-d722-n403",
+"rating": 4,
+"summary": "'Conferencia con Comte de buque Ruso 'Rubic.' qe en expedicion cientifica da vue"
+},
+{
+"key": "ca25-d726-n406",
+"rating": 4,
+"summary": "Entry text opens at the head of n406: 'Acusa recibo de órden reservada sobre val"
+},
+{
+"key": "ca25-d735-n407",
+"rating": 4,
+"summary": "'1817. = Enero 2 = Monterrey. Gob.r Sola al Virrey Sobre que se pueble N.a Cal e"
+},
+{
 "key": "ca26-d80-n23",
 "rating": 4,
 "summary": "The Il'men capture: remitir con escolta a los 25 hombres apresados con su 'Capit"
@@ -1530,14 +1615,239 @@
 "summary": "CONQUEST-EVE MOBILIZATION + bar-settlers cluster: Reglamento to raise troop corp"
 },
 {
-"key": "ca61-d19-n136",
+"key": "ca61-d13-n31",
+"rating": 4,
+"summary": "Hdg '1836 Ag.to 30 Monterey / Manl. Crespo'. Comision de gob.no: 'Castromitinoff"
+},
+{
+"key": "ca61-d20-n33",
+"rating": 4,
+"summary": "Hdg '1836 Jul. 29 Monterey de la A. California / Juan B. Alvarado al M.tro de Re"
+},
+{
+"key": "ca61-d23-n35",
+"rating": 4,
+"summary": "Hdg 'Sin fha una lista de los espedientes que han pasado á comisión, de los desp"
+},
+{
+"key": "ca61-d28-n38",
+"rating": 4,
+"summary": "Hdg 'Feb. 27' (1839 inherited); spans n38-n39. 'Se aprobó lo siguiente: El Depar"
+},
+{
+"key": "ca61-d30-n39",
+"rating": 4,
+"summary": "Hdg 'Mzo 6' (1839 inherited). 'Se devolvió el dictámen sobre juzgados de 1a inst"
+},
+{
+"key": "ca61-d36-n74",
+"rating": 4,
+"summary": "'1840 Abril 1º Monterey / Sesion secreta estraordinaria de la Junta Dep.l'. Gob."
+},
+{
+"key": "ca61-d37-n80",
+"rating": 4,
+"summary": "'La comision especial encargada para dictaminar sobre la manifestacion que el E."
+},
+{
+"key": "ca61-d43-n89",
+"rating": 4,
+"summary": "CAPITAL DISPUTE. Jimeno recalls that in 1836 the Junta reproduced its reasons “p"
+},
+{
+"key": "ca61-d59-n93",
+"rating": 4,
+"summary": "MARQUEE LAND ITEM. “Acompaña 53 esped.tes de terrenos concedidos.” [= forwards 5"
+},
+{
+"key": "ca61-d68-n95",
+"rating": 4,
+"summary": "MARQUEE LAND-LAW DOCUMENT. Jimeno: “La ley de colonizacion de 18 de Agosto de 18"
+},
+{
+"key": "ca61-d85-n105",
+"rating": 4,
+"summary": "'Acta electoral lebantada con motivo del nombram.to de Siete compromisarios q. d"
+},
+{
+"key": "ca61-d93-n109",
+"rating": 4,
+"summary": "'Acta de la Junta Electoral - Despues de aprovados los prosedimientos del dia an"
+},
+{
+"key": "ca61-d109-n114",
+"rating": 4,
+"summary": "'Sesion Estraord. de la Junta Departam.l - La firman los vocales Manuel Jimeno, "
+},
+{
+"key": "ca61-d112-n121",
+"rating": 4,
+"summary": "'1844. Agosto 24. Mont. / Sesion Extraord. de este dia.' Spans n121-n124. Gob's "
+},
+{
+"key": "ca61-d119-n127",
+"rating": 4,
+"summary": "'(Dictámen de la Comision de 'Hacienda y Guerra' á que hase alusion la Sesion St"
+},
+{
+"key": "ca61-d128-n136",
 "rating": 4,
 "summary": "✓ VERIFIED vs scan n136 (2026-07-07): dateline '1845 — Febº 11' (✎ resolves the "
 },
 {
-"key": "ca61-d24-n246",
+"key": "ca61-d133-n246",
 "rating": 4,
 "summary": "the Micheltorena–Sutter 'treason' dossier — ✓ CHARGE QUOTE PINNED & VERIFIED on "
+},
+{
+"key": "ca61-d134-n336",
+"rating": 4,
+"summary": "Acta, heading '1846. - Abril 29. - Ang.s (Sesion 3.a)[?] / Presid. de Pico.' 2nd"
+},
+{
+"key": "ca61-d135-n338",
+"rating": 4,
+"summary": "Decreto of 7 articles approved in the Abril 29 sesion after Figueroa moved dispe"
+},
+{
+"key": "ca61-d136-n340",
+"rating": 4,
+"summary": "Acta, heading '1846. - Mayo 8 - Ang.s (Sesion 4.)' with '(Dup. á p. 328.)' at th"
+},
+{
+"key": "ca61-d137-n341",
+"rating": 4,
+"summary": "Acta, heading '1846. - Mayo 11 - Ang.s (Sesion 5.)'. Nota of D.n Fran.co de la G"
+},
+{
+"key": "ca61-d138-n345",
+"rating": 4,
+"summary": "Acta, heading '1846. - Mayo 13. - Ang.s (Sesion 6.a)[?]', opening items only wit"
+},
+{
+"key": "ca61-d139-n346",
+"rating": 4,
+"summary": "Ten-article decree, Sesion 7.a, spans n346-n348: 'El dia 15 de Junio del present"
+},
+{
+"key": "ca61-d147-n350",
+"rating": 4,
+"summary": "Proposición and 5-article proyecto of vocal F.co Figueroa, spans n350-n352: 'Sie"
+},
+{
+"key": "ca61-d154-n353",
+"rating": 4,
+"summary": "Land expediente no.7 approved: 'Ydem. del indígena Pio Cristoval Marcos del para"
+},
+{
+"key": "ca61-d157-n353",
+"rating": 4,
+"summary": "Land expediente no.10 approved: 'Ydem. del indígena Felipe. parage de Buena Vist"
+},
+{
+"key": "ca61-d158-n353",
+"rating": 4,
+"summary": "Land expediente no.11 approved: 'Ydem. ind.s de San Fernando; Urbano, Odon y Man"
+},
+{
+"key": "ca61-d160-n353",
+"rating": 4,
+"summary": "Land expediente no.13 approved: 'Ydem. del indígena Lino Maria de un terreno de "
+},
+{
+"key": "ca61-d167-n354",
+"rating": 4,
+"summary": "Land expediente no.20 approved: 'Yd. de Juan Nepomuceno Padilla del parage Robla"
+},
+{
+"key": "ca61-d169-n354",
+"rating": 4,
+"summary": "Land expediente no.22 approved: 'Ydem. de Pio Pico del parage Jamul jurisdiccion"
+},
+{
+"key": "ca61-d170-n354",
+"rating": 4,
+"summary": "Land expediente no.23 approved (entry spans n354-n355): 'Ydem. de José de Jesus "
+},
+{
+"key": "ca61-d175-n355",
+"rating": 4,
+"summary": "Land expediente no.28 approved: 'Yd. del Ministro de la Mision de Santo Tomás de"
+},
+{
+"key": "ca61-d181-n356",
+"rating": 4,
+"summary": "MARQUEE. 'Se dio asimismo lectura a una comunicacion de la Comand.a Gral. en que"
+},
+{
+"key": "ca61-d182-n356",
+"rating": 4,
+"summary": "Acuerdo of the Asamblea in 3 arts., spans n356-n357. Art. 1: 'Se suspende la reu"
+},
+{
+"key": "ca61-d183-n357",
+"rating": 4,
+"summary": "Heading: '1846. - Junio 10. - Ang.s' / '(Sesion &c.)' [the parenthetical glyph i"
+},
+{
+"key": "ca61-d192-n358",
+"rating": 4,
+"summary": "No. 9: 'Ydem. de Fernando Tico, de un terreno de 400 varas en cuadro en la Misio"
+},
+{
+"key": "ca61-d199-n361",
+"rating": 4,
+"summary": "Nota oficial referred in consulta by the Ayuntamiento of the capital, enclosing "
+},
+{
+"key": "ca61-d200-n362",
+"rating": 4,
+"summary": "MARQUEE. Castro's nota of 8 June 1846, inserted in Pico's despatch, 'en q. dho. "
+},
+{
+"key": "ca61-d201-n362",
+"rating": 4,
+"summary": "'Se da c.ta con una Communicacion del Gob.r del Dep.to fechada en San Buenaventu"
+},
+{
+"key": "ca61-d202-n362",
+"rating": 4,
+"summary": "Heading: '1846.- Julio 1.o - Ang.s' / '(Sesion &.)' / 'Presid. de Figueroa.' Spa"
+},
+{
+"key": "ca61-d203-n363",
+"rating": 4,
+"summary": "MARQUEE. Nota of 23 June with 'tres copias de los documentos recividos de los pu"
+},
+{
+"key": "ca61-d204-n363",
+"rating": 4,
+"summary": "MARQUEE. Spans n363-n364. Pico's nota of 27 June with 'ocho documentos relativos"
+},
+{
+"key": "ca61-d205-n364",
+"rating": 4,
+"summary": "PRIORITY - Californio political speech. 'Bandini haciendo uso de la palabra, man"
+},
+{
+"key": "ca61-d209-n367",
+"rating": 4,
+"summary": "Acta. Gob. nota of 24 June laid before the Asamblea 'acompañando tres documentos"
+},
+{
+"key": "ca61-d210-n368",
+"rating": 4,
+"summary": "Acta + verbatim 7-article dictamen on the McNamara colony. Art. 2 fixes the land"
+},
+{
+"key": "ca61-d211-n372",
+"rating": 4,
+"summary": "Acta. Comision de Valdios dictamen on the expediente of 'D. Miguel de Pedrorena'"
+},
+{
+"key": "ca61-d212-n373",
+"rating": 4,
+"summary": "Acta. The Gob. lays before the Asamblea 'los documentos relativos á la invasion "
 },
 {
 "key": "ca62-d20-n18",
@@ -3835,7 +4145,7 @@
 "summary": "Corsarios: aparición de fragatas inglesas en Cabo S. Lúcas y Cerralvo; el 17 lev"
 },
 {
-"key": "ca25-d90-n29",
+"key": "ca25-d91-n29",
 "rating": 3,
 "summary": "Corsarios Ingleses: han capturado el Bergantín 'Garland' (Acapulco→S. Blas) y la"
 },
@@ -3858,6 +4168,216 @@
 "key": "ca25-d443-n134",
 "rating": 3,
 "summary": "Buque americano 'Betsy': el americano 'Betsy', su capitán Cárlos Winship, entró "
+},
+{
+"key": "ca25-d475-n261",
+"rating": 3,
+"summary": "Ditto entry (month and day carried down from Julio 30): 'Individuos recien llega"
+},
+{
+"key": "ca25-d487-n264",
+"rating": 3,
+"summary": "Ditto entry (Octubre 1): 'Que remite libranzas pa qe ponga V.B., la 1a de $550 p"
+},
+{
+"key": "ca25-d548-n292",
+"rating": 3,
+"summary": "(top, cont. of Apr-6 otter letter, pp.128-29): 'q.e Americano Okam [I believe = "
+},
+{
+"key": "ca25-d554-n309",
+"rating": 3,
+"summary": "Continuous-prose letter on the nature of the Alta California government (ends fo"
+},
+{
+"key": "ca25-d565-n342",
+"rating": 3,
+"summary": "Heading '+ 1806 = Julio 18 = Monterey. / Gobr al Virrey. Sobre estado qe guarda "
+},
+{
+"key": "ca25-d576-n344",
+"rating": 3,
+"summary": "'Octubre 1o ... (3 doc) - Sentencia ejecutada en 3 asesinos de Padre Eudaldo Sur"
+},
+{
+"key": "ca25-d579-n344",
+"rating": 3,
+"summary": "'Nbre. 8 ... (1 doc. - Embarque de 4 Anglo-Americanos.' Embarkation of four Angl"
+},
+{
+"key": "ca25-d584-n345",
+"rating": 3,
+"summary": "'19 ... (3 doc.) - Se prohibe dar palos á Soldados y otros castigos arbitrarios."
+},
+{
+"key": "ca25-d593-n347",
+"rating": 3,
+"summary": "'17 ... (3 doc.) - Despachos, á favor de Raymundo Carrillo pa Captn de Preso Sn "
+},
+{
+"key": "ca25-d595-n347",
+"rating": 3,
+"summary": "Underlined year change: '1807.= Fbro. 18 Sta Barbara. pp 253-56. (6 doc)'. First"
+},
+{
+"key": "ca25-d598-n348",
+"rating": 3,
+"summary": "'19. Sobre barco Americano pp 256-57 (2 doc.)' On an American ship. Savage gives"
+},
+{
+"key": "ca25-d599-n348",
+"rating": 3,
+"summary": "'Abril 22 - Monterey - pp. 257-58. (3 doc.) - Que cuando Gobr de baja Cal. mande"
+},
+{
+"key": "ca25-d605-n349",
+"rating": 3,
+"summary": "'26 ... (5 doc. - Que está entrado sobre espedicion Maritima Ynglesa; qe cumplir"
+},
+{
+"key": "ca25-d611-n350",
+"rating": 3,
+"summary": "'24 ... (1 doc - Se comunica mal estado de fensa de Presos.' Reports the poor st"
+},
+{
+"key": "ca25-d612-n350",
+"rating": 3,
+"summary": "'26. ... (1 doc.) - Pide 15 qq de fierro platina para clabazon de esplanadas de "
+},
+{
+"key": "ca25-d613-n350",
+"rating": 3,
+"summary": "'29 ... (3 doc.) Nota de Bulas de la Sta Cruzada y cuadragesimales qe se solicit"
+},
+{
+"key": "ca25-d617-n351",
+"rating": 3,
+"summary": "'24 ... (1 doc.) - Relacion de gastos en Concervacion de Bateria y barca plana d"
+},
+{
+"key": "ca25-d618-n351",
+"rating": 3,
+"summary": "'28 ... (1 doc. - Que no tenga lugar cange de prisioneros de guerra de Corsarios"
+},
+{
+"key": "ca25-d626-n362",
+"rating": 3,
+"summary": "Foreign-ship warning: 'Que esta enterado qe Fragata Americana Dromo se armaba en"
+},
+{
+"key": "ca25-d642-n366",
+"rating": 3,
+"summary": "Armament collapse. Heading '+ 1809 = Mayo 31 = Monterey. / Gobr al Virrey. Sobre"
+},
+{
+"key": "ca25-d643-n367",
+"rating": 3,
+"summary": "'Que fondeo fragata Princesa, conduciendo a religiosos de S. Fernando Vicente Sa"
+},
+{
+"key": "ca25-d648-n367",
+"rating": 3,
+"summary": "'Orden qe manda cese la enagenacion de fincas de obras pias y exaccion de contri"
+},
+{
+"key": "ca25-d650-n368",
+"rating": 3,
+"summary": "'Que Reynos, Provincias e Yslas de Dominios de america tendran representacion na"
+},
+{
+"key": "ca25-d652-n368",
+"rating": 3,
+"summary": "'Bando sobre extrangeros especialmente Franceses' [= proclamation on foreigners,"
+},
+{
+"key": "ca25-d658-n369",
+"rating": 3,
+"summary": "'Que a desertores de fragatas extrangeras, se destinen a reparos de obras de Pre"
+},
+{
+"key": "ca25-d660-n369",
+"rating": 3,
+"summary": "HEMP. 'Embarque de 3,329 @ 20 lb. de Canamo; y a mas habente[?] quedado en depos"
+},
+{
+"key": "ca25-d663-n369",
+"rating": 3,
+"summary": "'Bando con insercion de Artºs bajo los qe se ha contratado la paz con la Gran Br"
+},
+{
+"key": "ca25-d676-n371",
+"rating": 3,
+"summary": "Mission-state land conflict. Heading '+ 1810 = Febrero 20 = Monterey. / Gobr a V"
+},
+{
+"key": "ca25-d677-n372",
+"rating": 3,
+"summary": "'Que se han tomado declaraciones a desertores de Fragatas Ma-carc[?] y Mercurio'"
+},
+{
+"key": "ca25-d680-n372",
+"rating": 3,
+"summary": "'Que se formo Compª de Artª de a Caballo de 70 plazas hace 3 años, y aun carece "
+},
+{
+"key": "ca25-d691-n383",
+"rating": 3,
+"summary": "Sbre 7 (pp.416-21, 10 doc): bando on the wholesale-commerce war contribution; th"
+},
+{
+"key": "ca25-d692-n385",
+"rating": 3,
+"summary": "'Sobre remisión de capitán de buque apresado' — de resultas de haberse hecho á l"
+},
+{
+"key": "ca25-d701-n392",
+"rating": 3,
+"summary": "'Dirije diligencias practicadas en el inventario de Testamentaria de finado Corl"
+},
+{
+"key": "ca25-d702-n393",
+"rating": 3,
+"summary": "'Dirije cuenta de raciones con qe por habilitacion de Sn Franco han sido socorri"
+},
+{
+"key": "ca25-d707-n393",
+"rating": 3,
+"summary": "Spans n393-n394. Heading: '+ 1816. = Agosto 21. = Monterey / Gobr Sola á Virrey."
+},
+{
+"key": "ca25-d708-n394",
+"rating": 3,
+"summary": "Under a second '+ 1816. = Monterey / Borradores de Comunicaciones de Gobr al Vir"
+},
+{
+"key": "ca25-d720-n402",
+"rating": 3,
+"summary": "'Haber tomado 2 desertores Rusos' — reports having taken up two Russian deserter"
+},
+{
+"key": "ca25-d723-n405",
+"rating": 3,
+"summary": "First entry under series header '+ 1816. = Monterey. / Borradores de Comunicacio"
+},
+{
+"key": "ca25-d733-n406",
+"rating": 3,
+"summary": "First bullet under the double-ditto line '' ' 20 pp 530 32 (3 doc.)' [= 1817 Ene"
+},
+{
+"key": "ca25-d734-n406",
+"rating": 3,
+"summary": "Second bullet of the Enero 20 run, its text completing at the head of n407 (Sava"
+},
+{
+"key": "ca25-d736-n415",
+"rating": 3,
+"summary": "Long continuous-prose Solá memorial on the state of Alta California (leaves 162-"
+},
+{
+"key": "ca25-d738-n429",
+"rating": 3,
+"summary": "Solá's comprehensive report to the Viceroy (Monterey, 3 Apr 1818, ~21 MS pages):"
 },
 {
 "key": "ca26-d81-n24",
@@ -7313,6 +7833,351 @@
 "key": "ca57-d140-n176",
 "rating": 3,
 "summary": "1845 Aug 6 — Pres. HERRERA's FISCAL-AUTONOMY decree: al Departamento de Californ"
+},
+{
+"key": "ca61-d21-n34",
+"rating": 3,
+"summary": "Hdg '1836 Dic. 7 Monterey / Congreso de California Decreto sobre comercio fijand"
+},
+{
+"key": "ca61-d22-n34",
+"rating": 3,
+"summary": "Hdg 'Doc.to Trunco (Este es el dictámen q.e se cita en la p. 35 de estos M.S.)';"
+},
+{
+"key": "ca61-d24-n36",
+"rating": 3,
+"summary": "Hdg 'Lista de Comisiones' (UNDATED; marginal 'o' tick, not the usual '+'; foot c"
+},
+{
+"key": "ca61-d25-n36",
+"rating": 3,
+"summary": "Hdg '1839 Feb. 25 Monterey / Alvarado'; spans n36-n37. 'Dice que los electores p"
+},
+{
+"key": "ca61-d26-n37",
+"rating": 3,
+"summary": "Hdg '1839 Monterey / Juan B. Alvarado P.te, Ant.o M. Osio Srio, José Ant.o de la"
+},
+{
+"key": "ca61-d39-n83",
+"rating": 3,
+"summary": "'Se aprobó la ampliacion hecha por José Figueroa en 20 Ag.to 1835 del terreno co"
+},
+{
+"key": "ca61-d47-n91",
+"rating": 3,
+"summary": "LAND EXPEDIENTE. Second of three documents under the same heading: “Comunicando "
+},
+{
+"key": "ca61-d49-n91",
+"rating": 3,
+"summary": "DEFENCE/SEDITION. Proposition made and approved: “El Gob.dor pedirá las municion"
+},
+{
+"key": "ca61-d50-n91",
+"rating": 3,
+"summary": "LAND EXPEDIENTES, NAMED GRANTEES. “Trasmite acuerdo sobre esped.tes de Sepúlveda"
+},
+{
+"key": "ca61-d53-n92",
+"rating": 3,
+"summary": "INDIAN-RELATED CENSUS. Proposition made and approved, quoted verbatim by Savage:"
+},
+{
+"key": "ca61-d64-n94",
+"rating": 3,
+"summary": "LAND EXPEDIENTE, NAMED GRANTEE. “Envia esped.te del terreno concedido á Jaq.n Ca"
+},
+{
+"key": "ca61-d66-n94",
+"rating": 3,
+"summary": "MISSION LANDS. “Envia acuerdo sobre terrenos de misiones.” [= transmits the Junt"
+},
+{
+"key": "ca61-d67-n94",
+"rating": 3,
+"summary": "Committee dictamen, approved 1 May 1840: “Se aprobó en 1.o de Mayo el sigt.e dic"
+},
+{
+"key": "ca61-d69-n97",
+"rating": 3,
+"summary": "“Sigue la anterior proposicion y su dictámen agregando que son suficientes sin l"
+},
+{
+"key": "ca61-d71-n97",
+"rating": 3,
+"summary": "INDIAN CAMPAIGN. Second of the two undated, unsigned documents: “Que el Gob.dor "
+},
+{
+"key": "ca61-d72-n97",
+"rating": 3,
+"summary": "ISLAND LAND GRANTS. “Contestando haberse recibido la suprema disposicion 20 Juli"
+},
+{
+"key": "ca61-d76-n98",
+"rating": 3,
+"summary": "CAPITAL DISPUTE, ANGELENO VOCAL. “Dice que el mal estado de su salud unido al co"
+},
+{
+"key": "ca61-d77-n98",
+"rating": 3,
+"summary": "JUDICIAL/CONSTITUTIONAL. “Envia decreto 15 Julio 1839 que faculta á la Jta Dep.l"
+},
+{
+"key": "ca61-d79-n99",
+"rating": 3,
+"summary": "Second of five: “Que el Presidente lo nombró Gobern.r propietario de este Depart"
+},
+{
+"key": "ca61-d81-n99",
+"rating": 3,
+"summary": "DIVISION OF THE DEPARTMENT. Fourth of five: “Que pasó al Consejo en consulta su "
+},
+{
+"key": "ca61-d94-n110",
+"rating": 3,
+"summary": "'Dictámen presentado por la Comision del Colegio Electoral Compuesta de los C.C."
+},
+{
+"key": "ca61-d96-n110",
+"rating": 3,
+"summary": "'Vando del Gob. Michelt. publicando la lista del Ayuntam.to q. habia de fungir l"
+},
+{
+"key": "ca61-d99-n111",
+"rating": 3,
+"summary": "'Testimonio del Acta lebantada en la Eleccion de Ygn.o Peralta, por la seccion d"
+},
+{
+"key": "ca61-d107-n114",
+"rating": 3,
+"summary": "'Acta de la Junta Departam.l eligiendo p.a Presid.te de la Rep. Mejicana á D. An"
+},
+{
+"key": "ca61-d110-n115",
+"rating": 3,
+"summary": "'Acta del Colegio Electoral. - El Presid.te del Colegio nombra dos Comisiones qu"
+},
+{
+"key": "ca61-d114-n125",
+"rating": 3,
+"summary": "'Comunicandole: que en virtud de una nota Suprema de 11 de Mayo del corriente añ"
+},
+{
+"key": "ca61-d121-n130",
+"rating": 3,
+"summary": "'Enero 28. / Instalacion de la Asamblea.' Opened with four vocales under the pre"
+},
+{
+"key": "ca61-d123-n131",
+"rating": 3,
+"summary": "'1845. Enero 28 - Ang.s / Sesion Extraord. de este dia.' Opened at four in the a"
+},
+{
+"key": "ca61-d124-n131",
+"rating": 3,
+"summary": "'Enero 29. Sesion de este dia.' Spans n131-n132. Same number of vocales. Alvarad"
+},
+{
+"key": "ca61-d142-n349",
+"rating": 3,
+"summary": "'1.a Lectura al dictamen de la Comision de Valdios que corre en el espediente pr"
+},
+{
+"key": "ca61-d145-n350",
+"rating": 3,
+"summary": "'Una solicitud de D. Manuel Jimeno pidiendo la aprovacion de la Concecion de un "
+},
+{
+"key": "ca61-d146-n350",
+"rating": 3,
+"summary": "'Otra de D. Manuel Garfias por la del parage Rincon de San Pascual. - A la misma"
+},
+{
+"key": "ca61-d148-n352",
+"rating": 3,
+"summary": "Land expediente no.1 of the list approved with dispensa de tramites on the dictá"
+},
+{
+"key": "ca61-d149-n352",
+"rating": 3,
+"summary": "Land expediente no.2 approved: 'Un Ydem. de Juan Foster parage del Trabuco juris"
+},
+{
+"key": "ca61-d150-n352",
+"rating": 3,
+"summary": "Land expediente no.3 approved: 'Un Yd. de Jorge Morillo y Teodoro Romero parage "
+},
+{
+"key": "ca61-d151-n352",
+"rating": 3,
+"summary": "Land expediente no.4 approved: 'Yd. de Juan Foster de los Potreros de la Sierra "
+},
+{
+"key": "ca61-d152-n352",
+"rating": 3,
+"summary": "Land expediente no.5 approved (entry spans n352-n353): 'Ydem. de Ramon Malo para"
+},
+{
+"key": "ca61-d153-n353",
+"rating": 3,
+"summary": "Land expediente no.6 approved: 'Un esped.te de M.a Ant.a Dominguz. de Caballero,"
+},
+{
+"key": "ca61-d155-n353",
+"rating": 3,
+"summary": "Land expediente no.8 approved: 'Idem. de Ant.o M.a Villa del parage Tequapes jur"
+},
+{
+"key": "ca61-d156-n353",
+"rating": 3,
+"summary": "Land expediente no.9 approved: 'Idem. Calletano Juarez parage Yokaya jurisdiccio"
+},
+{
+"key": "ca61-d159-n353",
+"rating": 3,
+"summary": "Land expediente no.12 approved: 'Ydem. de Agustin Olvera parage llamado Cuyamaca"
+},
+{
+"key": "ca61-d161-n353",
+"rating": 3,
+"summary": "Land expediente no.14 approved: 'Ydem. del C. José M.a Orosco del parage Guejeto"
+},
+{
+"key": "ca61-d162-n354",
+"rating": 3,
+"summary": "Land expediente no.15 approved: 'Esped.te de José Dominguez del parage Prietos y"
+},
+{
+"key": "ca61-d163-n354",
+"rating": 3,
+"summary": "Land expediente no.16 approved: 'Ydem. de D.a Maria Josefa Carrillo de Fitch y D"
+},
+{
+"key": "ca61-d164-n354",
+"rating": 3,
+"summary": "Land expediente no.17 approved: 'Ydem. de los hermanos Joaquin y José Ant. Carri"
+},
+{
+"key": "ca61-d165-n354",
+"rating": 3,
+"summary": "Land expediente no.18 approved: 'Ydem. de Maximo Saiz parage de Santa Getrudis e"
+},
+{
+"key": "ca61-d166-n354",
+"rating": 3,
+"summary": "Land expediente no.19 approved: 'Ydem. Bartolomé Bojorquez del parage Laguna de "
+},
+{
+"key": "ca61-d168-n354",
+"rating": 3,
+"summary": "Land expediente no.21 approved: 'Ydem. de Juan Foster del parage conosido con el"
+},
+{
+"key": "ca61-d171-n355",
+"rating": 3,
+"summary": "Land expediente no.24 approved: 'Esped.te de Juan Lopez del parage San Visente y"
+},
+{
+"key": "ca61-d172-n355",
+"rating": 3,
+"summary": "Land expediente no.25 approved: 'Yd. de Juan Machado del parage conosido por el "
+},
+{
+"key": "ca61-d173-n355",
+"rating": 3,
+"summary": "Land expediente no.26 approved: 'Yd. á los C.C. Julian Manriquez, Ramon Sorva[?]"
+},
+{
+"key": "ca61-d174-n355",
+"rating": 3,
+"summary": "Land expediente no.27 approved: 'Yd. de Juan Moreno parage de Santa Rosa, jurisd"
+},
+{
+"key": "ca61-d176-n355",
+"rating": 3,
+"summary": "Land expediente no.29 approved: 'Yd. de Abel Stearns parage los Vallecitos juris"
+},
+{
+"key": "ca61-d177-n355",
+"rating": 3,
+"summary": "Land expediente no.30 approved: 'Yd. de Francisco Berreyesa del parage conosido "
+},
+{
+"key": "ca61-d178-n355",
+"rating": 3,
+"summary": "Land expediente no.31 approved: 'Yd. á los C.C. Santiago Nemecio y F.co Berreyes"
+},
+{
+"key": "ca61-d179-n355",
+"rating": 3,
+"summary": "Land expediente no.32 approved: 'Ydem. de la Sra. D.a Maria del Rosario Estudill"
+},
+{
+"key": "ca61-d180-n356",
+"rating": 3,
+"summary": "Pico lays before the Asamblea a copy of an acta drawn at Monterey by a junta of "
+},
+{
+"key": "ca61-d184-n357",
+"rating": 3,
+"summary": "No. 1 of the approved list: 'Esped.te de Santiago Black del paraje 'Jonive' juri"
+},
+{
+"key": "ca61-d185-n358",
+"rating": 3,
+"summary": "No. 2: 'Esped.te de Ramon Rodrig.z del parage 'San Miguel' conocido tambien por "
+},
+{
+"key": "ca61-d186-n358",
+"rating": 3,
+"summary": "No. 3: 'Ydem. de D.a M.a Arellanes del parage [blank/illegible] en San Luis Obis"
+},
+{
+"key": "ca61-d187-n358",
+"rating": 3,
+"summary": "No. 4: 'Ydem. de Jose Mariano Bonilla tres sitios de ganado mayor, en el parage "
+},
+{
+"key": "ca61-d188-n358",
+"rating": 3,
+"summary": "No. 5: 'Ydem. de Ernesto Rufus, parage conocido por el Rancho de German jurisdic"
+},
+{
+"key": "ca61-d189-n358",
+"rating": 3,
+"summary": "No. 6: 'Ydem. de Pedro Sansivain del parage llamado 'Rincon' en el Rio de Sacram"
+},
+{
+"key": "ca61-d190-n358",
+"rating": 3,
+"summary": "No. 7: 'Ydem. de Ysac J. Spark del parage 'Huasna' jurisdiccion de Santa Barbara"
+},
+{
+"key": "ca61-d191-n358",
+"rating": 3,
+"summary": "No. 8: 'Ydem. de los C.C. Ramon y Leandro Osuna del parage llamado 'Valle de las"
+},
+{
+"key": "ca61-d193-n358",
+"rating": 3,
+"summary": "Spans n358-n359. 'Se da cuenta con una solicitud del C. Francisco Guerrero pidie"
+},
+{
+"key": "ca61-d197-n359",
+"rating": 3,
+"summary": "Spans n359-n360. Dictamen of the Comision de policia on the Ayuntamiento of the "
+},
+{
+"key": "ca61-d198-n361",
+"rating": 3,
+"summary": "Heading: '1846- Junio 15.- Ang.s' / '(Sesion &.)' / 'Presid.a de Figueroa.' Span"
+},
+{
+"key": "ca61-d206-n365",
+"rating": 3,
+"summary": "Heading: '1846- Julio 2.- Ang.s' / '(Sesion Extraord. &.)' / 'Presid. de Figuero"
 },
 {
 "key": "ca62-d15-n10",
@@ -12605,7 +13470,7 @@
 "summary": "Avisa que se avistaron 16 buques cerca de la costa de la Misn de S. Miguel [abst"
 },
 {
-"key": "ca25-d51-n15",
+"key": "ca25-d52-n15",
 "rating": 2,
 "summary": "Avisa qe el Tente de Fragata José Martínez hizo testamento [I infer = Esteban Jo"
 },
@@ -12620,12 +13485,12 @@
 "summary": "Avisa la llegada de los buques ingleses á Cerralvo y pide de órden del Gobernado"
 },
 {
-"key": "ca25-d89-n29",
+"key": "ca25-d90-n29",
 "rating": 2,
 "summary": "Ordena que tome declaración á los 4 ingleses marineros que se aprehendieron"
 },
 {
-"key": "ca25-d93-n30",
+"key": "ca25-d92-n30",
 "rating": 2,
 "summary": "Prohibición de que salgan buques nacs: el Virey ordena (6 Jul últº) que á cualqu"
 },
@@ -12640,12 +13505,12 @@
 "summary": "Nov 3 Llegada de la Goleta 'Saturnina' p.66; ' 17 envío de la tripulacn de id. p"
 },
 {
-"key": "ca25-d221-n63",
+"key": "ca25-d222-n63",
 "rating": 2,
 "summary": "(2 doc) Fragata inglesa en Guaymas"
 },
 {
-"key": "ca25-d222-n63",
+"key": "ca25-d223-n63",
 "rating": 2,
 "summary": "Misioneros licenciados: permiso de retirarse á su Colegio los Padres Fr. Magín C"
 },
@@ -12658,6 +13523,11 @@
 "key": "ca25-d324-n90",
 "rating": 2,
 "summary": "Nutrias: contesta que las 491 pieles que le pide se mandaron tirar por inservibl"
+},
+{
+"key": "ca25-d351-n97",
+"rating": 2,
+"summary": "Testamentaría de Hermenegildo Sal"
 },
 {
 "key": "ca25-d356-n98",
@@ -12680,7 +13550,7 @@
 "summary": "Precauciones contra la viruela: envía ejemplares para el tratamiento de la virue"
 },
 {
-"key": "ca25-d420-n125",
+"key": "ca25-d419-n125",
 "rating": 2,
 "summary": "Instruido de lo ocurrido en el Cabo de Sn Lúcas el 10 y 11 del corriente, manda "
 },
@@ -12693,6 +13563,331 @@
 "key": "ca25-d437-n132",
 "rating": 2,
 "summary": "Avisa que se ha encargado del mando de las Californias, por haberse embarcado el"
+},
+{
+"key": "ca25-d488-n264",
+"rating": 2,
+"summary": "'Setiembre 29 - Haber sido herido pr Jose Barbosa. pp. 54=55.' Reports having be"
+},
+{
+"key": "ca25-d493-n265",
+"rating": 2,
+"summary": "'+ 1800 Abril 4 = (no dice lugar.) (Sin firma) Sobre reglamento 15 Dbre 1798, de"
+},
+{
+"key": "ca25-d494-n267",
+"rating": 2,
+"summary": "'+ 1800. = Abril 4 (no dice lugar.) (Sin firma) Ynstruccion pa regimen en recaud"
+},
+{
+"key": "ca25-d495-n269",
+"rating": 2,
+"summary": "Under series header '+ 1803. = Loreto / Borradores de comunicaciones del Gob.r a"
+},
+{
+"key": "ca25-d551-n302",
+"rating": 2,
+"summary": "Jul 1 (p.245), 'Sobre dos soldados muertos por indios': the cabo of Santa Catali"
+},
+{
+"key": "ca25-d564-n341",
+"rating": 2,
+"summary": "Gobr al Virrey, 'Sobre artilleria &a.' 'Que causa lastima estado de las habitaci"
+},
+{
+"key": "ca25-d567-n343",
+"rating": 2,
+"summary": "Register line: 'Julio 21 ... (1 doc.) - Salida de fragata Princesa' [Savage puts"
+},
+{
+"key": "ca25-d568-n343",
+"rating": 2,
+"summary": "Ditto-marked line: '29 Salida de fragata.' (1 doc.) Departure of a frigate; Sava"
+},
+{
+"key": "ca25-d570-n343",
+"rating": 2,
+"summary": "'Que el dia 5. de Julio Comte de Loreto, dió á reconocer á Goycochea, Gobr de Ba"
+},
+{
+"key": "ca25-d572-n344",
+"rating": 2,
+"summary": "'Septiembre 22 = Sn Juan Capistrano - pp 241-42 (1 doc.) - Arribo de fragata Con"
+},
+{
+"key": "ca25-d577-n344",
+"rating": 2,
+"summary": "'Que Cirujano José Benites se retirará de la Pena cuando arribe Manuel Quijano, "
+},
+{
+"key": "ca25-d580-n345",
+"rating": 2,
+"summary": "'Nbre. 10. Sn Diego ... (2 doc.) - Fragata Concepcion conduce 74 1/2 @ Cáñamo, c"
+},
+{
+"key": "ca25-d581-n345",
+"rating": 2,
+"summary": "Second item of the Nbre 10 line: 'Se embarcaron [the word embarcaron is struck t"
+},
+{
+"key": "ca25-d582-n345",
+"rating": 2,
+"summary": "'11 ... (1 doc - Se embarcó, con destino á la Capital Captn Manuel Rodriguez ele"
+},
+{
+"key": "ca25-d585-n345",
+"rating": 2,
+"summary": "'Que todo militar puede entrar con espada en Ayuntamientos y actos publicos, y c"
+},
+{
+"key": "ca25-d586-n345",
+"rating": 2,
+"summary": "'Que militares deben jurar bajo palabra de honor, en Juzgados politicos y milita"
+},
+{
+"key": "ca25-d590-n347",
+"rating": 2,
+"summary": "'Dbre. 9 ... (5 doc.) - Embarcar dinero en buques que conducen memorias.' Shippi"
+},
+{
+"key": "ca25-d591-n347",
+"rating": 2,
+"summary": "'Formacion de Compa de Arta.' Formation of an artillery company. Second describe"
+},
+{
+"key": "ca25-d594-n347",
+"rating": 2,
+"summary": "'Se anulan las 12 pagas concedidas a Gobs de America, y solo tenga fuerza órden "
+},
+{
+"key": "ca25-d596-n348",
+"rating": 2,
+"summary": "Continuation of the Fbro 18 line from n347 (double ditto): relaciones 'de Compa "
+},
+{
+"key": "ca25-d600-n348",
+"rating": 2,
+"summary": "'26 ... (2 doc) - Soldado de Arta cometió crimen bestial.' An artillery soldier "
+},
+{
+"key": "ca25-d603-n349",
+"rating": 2,
+"summary": "'Mayo 4 ... (3 doc.) - Arribo de fragata Princesa y Bergantin Activo.' Arrival o"
+},
+{
+"key": "ca25-d604-n349",
+"rating": 2,
+"summary": "'25 ... (1 doc) - José de la Guerra condujo 2 reclutas para Preso de Monterey.' "
+},
+{
+"key": "ca25-d607-n349",
+"rating": 2,
+"summary": "'Orden sobre pronta remesa anual de memorias, pr habilitados.' Order on prompt a"
+},
+{
+"key": "ca25-d608-n349",
+"rating": 2,
+"summary": "'27. ... (1 doc.) - Comts de presos piden efectos pa la tropa.' The presidio com"
+},
+{
+"key": "ca25-d610-n350",
+"rating": 2,
+"summary": "'Junio 2 ... (1 doc.) - Remite extractos de los 4 Presos de Piquete de Arta y Po"
+},
+{
+"key": "ca25-d615-n351",
+"rating": 2,
+"summary": "'15. ... (1 doc - Remite Cta de Rl Hda de Preso Monterrey de $ 729. 2 rs.' Forwa"
+},
+{
+"key": "ca25-d620-n351",
+"rating": 2,
+"summary": "'Agosto 1o. Sn Antonio ... (2 doc.) - Adjunta docs de José de la Guerra Comte de"
+},
+{
+"key": "ca25-d621-n351",
+"rating": 2,
+"summary": "Second item of the Agosto 1 line and last entry on n351: 'Precio de cáñamo á $31"
+},
+{
+"key": "ca25-d628-n362",
+"rating": 2,
+"summary": "'Que con motivo de exaltacion de Fernando 7º hubo salvas de Artª y funciones de "
+},
+{
+"key": "ca25-d629-n362",
+"rating": 2,
+"summary": "'Adjunta lista de individuos qe voluntariamente han contribuido pª urgencias del"
+},
+{
+"key": "ca25-d634-n365",
+"rating": 2,
+"summary": "'Causa criminal contra un neofito, por homicidio (Presº San Diego)' [= criminal "
+},
+{
+"key": "ca25-d635-n365",
+"rating": 2,
+"summary": "'Yd de tres indios por igual motivo, en Pres de S. Franco' [= same, of three Ind"
+},
+{
+"key": "ca25-d636-n365",
+"rating": 2,
+"summary": "'Sobre compostura de p[ie]zas[?] en Pres. de S. Franco' [= on the repair of (art"
+},
+{
+"key": "ca25-d638-n365",
+"rating": 2,
+"summary": "'Que dependientes seculares de la vicaria castrense, gosen fuero militar en caus"
+},
+{
+"key": "ca25-d639-n365",
+"rating": 2,
+"summary": "'Que Alferez retirado Ygnacio Muñoz solicita licencia pª casarse con Ana M. Ruba"
+},
+{
+"key": "ca25-d640-n365",
+"rating": 2,
+"summary": "'Arribo de Bergantin San Carlos' [= arrival of the brig San Carlos]. Line reads "
+},
+{
+"key": "ca25-d645-n367",
+"rating": 2,
+"summary": "'Sobre Americanos desertores' [= on American deserters]. (1 doc.) Follows the Ma"
+},
+{
+"key": "ca25-d646-n367",
+"rating": 2,
+"summary": "'Retiro con gracia de invalidos, de cabos Manuel Espinosa, Manuel Briones, Anton"
+},
+{
+"key": "ca25-d647-n367",
+"rating": 2,
+"summary": "'Noticias sobre guerra de España' [= news of the war in Spain; Peninsular War di"
+},
+{
+"key": "ca25-d649-n368",
+"rating": 2,
+"summary": "'Que ha ordenado, qe durante la guerra, en Presºs y Misiones despues de misa may"
+},
+{
+"key": "ca25-d655-n368",
+"rating": 2,
+"summary": "'Bando sobre reforma de profusion y exceso qe se acostumbra en entierros y lutos"
+},
+{
+"key": "ca25-d659-n369",
+"rating": 2,
+"summary": "'Le anuncia embarque con licencia, de Pº[s] José Faura y Domingo Santiago Yturra"
+},
+{
+"key": "ca25-d662-n369",
+"rating": 2,
+"summary": "'Bando sobre qe se restablescan instituciones qe hicieron en otro tiempo la feli"
+},
+{
+"key": "ca25-d665-n370",
+"rating": 2,
+"summary": "'Retiro de Sargtº de Presº Stª Barbara Javier Alvarado' [= retirement of Santa B"
+},
+{
+"key": "ca25-d667-n370",
+"rating": 2,
+"summary": "'Pide nombre persona qe cubra vacante de captn de Sn Diego' [= asks that someone"
+},
+{
+"key": "ca25-d668-n370",
+"rating": 2,
+"summary": "'Sobre cañamo' [= on hemp]. (1 doc.) Part of the 1809 hemp-programme corresponde"
+},
+{
+"key": "ca25-d670-n370",
+"rating": 2,
+"summary": "'Sobre junta de seguridad' [= on the junta de seguridad, the wartime security bo"
+},
+{
+"key": "ca25-d671-n370",
+"rating": 2,
+"summary": "First entry under new series header '+ 1810 = Monterey. / Borradores de comunica"
+},
+{
+"key": "ca25-d672-n371",
+"rating": 2,
+"summary": "'Pide cureñage pª los cañones' [= asks for gun carriages for the cannon]. Line r"
+},
+{
+"key": "ca25-d673-n371",
+"rating": 2,
+"summary": "'Hallarse en poder de habilitado, utencilios de telares y alfarceria[= alfareria"
+},
+{
+"key": "ca25-d685-n373",
+"rating": 2,
+"summary": "Abril 26 sobre bandos (pp.360-61); 28 'Que adjunta cuenta errogada por desertore"
+},
+{
+"key": "ca25-d686-n374",
+"rating": 2,
+"summary": "'Sobre encuentro y campaña con gentiles' — Arrillaga reports he ordered Alférez "
+},
+{
+"key": "ca25-d688-n378",
+"rating": 2,
+"summary": "Octubre 26 (pp.384-86): que dispuso se embarque José de la Guerra y Noriega por "
+},
+{
+"key": "ca25-d690-n380",
+"rating": 2,
+"summary": "(top, continuing) 'Que está enterado de papeles sediciosos del Cura Hidalgo y te"
+},
+{
+"key": "ca25-d694-n387",
+"rating": 2,
+"summary": "Octubre 3 (pp.441-47½, 11 doc): acusa recibo de decreto de Junio 1814 q.e previe"
+},
+{
+"key": "ca25-d699-n392",
+"rating": 2,
+"summary": "'Sobre conceder á rebeldes nuevo indulto.' — on granting the insurgents a fresh "
+},
+{
+"key": "ca25-d700-n392",
+"rating": 2,
+"summary": "'Queda enterado hallarse en Acapulco memorias: pide mande á Yntendente de Guadal"
+},
+{
+"key": "ca25-d705-n393",
+"rating": 2,
+"summary": "'Que recibio Plan de descuentos pa empleados y oficiales qe no esten en sus dest"
+},
+{
+"key": "ca25-d725-n405",
+"rating": 2,
+"summary": "'Enterado de haberse ordenado á Comte Gral. de N.a Galicia remi[ta] lo qe falte "
+},
+{
+"key": "ca25-d727-n406",
+"rating": 2,
+"summary": "'Da parte haberse embarcado pa Sn Blas y trasladarse á Guadalajara el Cadete Ger"
+},
+{
+"key": "ca25-d729-n406",
+"rating": 2,
+"summary": "Bare register line, no abstract prose: 'Dbre. 15. Sobre estado de la Prov.a pp 5"
+},
+{
+"key": "ca25-d730-n406",
+"rating": 2,
+"summary": "Register line only, ditto month: '' 31, Sobre arribo de Fragata. pp 524.-27. (4 "
+},
+{
+"key": "ca25-d731-n406",
+"rating": 2,
+"summary": "Register line '' 3 pp 527.-30 (5 doc.)' with one bullet only: 'Felicita á Juan R"
+},
+{
+"key": "ca25-d732-n406",
+"rating": 2,
+"summary": "Bare register line, year written out: '1817 = Enero 1.o Sobre buque. p 530 (1doc"
 },
 {
 "key": "ca26-d69-n19",
@@ -21958,6 +23153,181 @@
 "key": "ca61-d12-n30",
 "rating": 2,
 "summary": "objects that Figueroa let the Russian 'Pedro Gastonitroff' [Kostromitinov] build"
+},
+{
+"key": "ca61-d16-n32",
+"rating": 2,
+"summary": "Hdg '1836 Jul. 18 Sta Barb.a / Santiago Burke al Jefe Polit.co'. 'Dice que es el"
+},
+{
+"key": "ca61-d17-n32",
+"rating": 2,
+"summary": "Hdg '1836 Jul. 25 Monterey / Manl. Crespo'. 'La comis.n de gob.no propone asi: N"
+},
+{
+"key": "ca61-d19-n33",
+"rating": 2,
+"summary": "Hdg '1836 Jul. 29' with underlined sub-heading 'Sobre instrucciones p.a el agent"
+},
+{
+"key": "ca61-d27-n38",
+"rating": 2,
+"summary": "Hdg 'Feb. 26' (year 1839 NOT repeated; inherited from the '1839 Monterey' headin"
+},
+{
+"key": "ca61-d29-n39",
+"rating": 2,
+"summary": "Hdg 'Marzo 5' (1839 inherited from the n37 heading). Entire entry: 'Pasó á comis"
+},
+{
+"key": "ca61-d31-n39",
+"rating": 2,
+"summary": "Hdg 'Mzo 7' (1839 inherited). Entry opens 'Se dió cuenta con la siguiente consul"
+},
+{
+"key": "ca61-d44-n90",
+"rating": 2,
+"summary": "Resignation as vocal. “Pide su renuncia porque dice conoce muy de cerca la fuert"
+},
+{
+"key": "ca61-d48-n91",
+"rating": 2,
+"summary": "Third of three documents under the same heading: “Que dé la órden se pague á est"
+},
+{
+"key": "ca61-d52-n92",
+"rating": 2,
+"summary": "“Pide licencia mientras vuelve el prefecto José Castro para ir á continuar la fá"
+},
+{
+"key": "ca61-d56-n93",
+"rating": 2,
+"summary": "Second of the two documents: “Envia acuerdo sobre padrones” [= transmits the Jun"
+},
+{
+"key": "ca61-d60-n93",
+"rating": 2,
+"summary": "“Sigue Indice de proposiciones en la Jta Dep.l” [= continuation of the index of "
+},
+{
+"key": "ca61-d63-n94",
+"rating": 2,
+"summary": "“Su proposicion sobre padrones” [= González's proposition on the censuses; compa"
+},
+{
+"key": "ca61-d65-n94",
+"rating": 2,
+"summary": "“Índice de oficios de la Jta Dep.l al Gob.dor” [= index of the Junta Departament"
+},
+{
+"key": "ca61-d74-n98",
+"rating": 2,
+"summary": "“Que se aprobó la prohibicion en el departam.to de aguardientes de trigo, maiz ó"
+},
+{
+"key": "ca61-d75-n98",
+"rating": 2,
+"summary": "“Que se aprobó una proposicion sobre que se pidan los padrones para formar la es"
+},
+{
+"key": "ca61-d78-n99",
+"rating": 2,
+"summary": "First of five documents Savage marks “(5 doc.)”: “Que el Presidente de la Repúbl"
+},
+{
+"key": "ca61-d80-n99",
+"rating": 2,
+"summary": "Third of five: “Que los acuerdos de la Jta sobre diputados han pasado en consult"
+},
+{
+"key": "ca61-d83-n99",
+"rating": 2,
+"summary": "“Circular del M.rio de Hac.da nulificando varios artículos del reglam.to del Tri"
+},
+{
+"key": "ca61-d86-n105",
+"rating": 2,
+"summary": "'Comunicacion de la Junta Electoral á Manuel Jimeno participandole haber salido "
+},
+{
+"key": "ca61-d88-n106",
+"rating": 2,
+"summary": "'Participando á José Amesti haber resultado electo Compromisario con 33 vot.s' ["
+},
+{
+"key": "ca61-d89-n106",
+"rating": 2,
+"summary": "'Pasando su Credencial á Estevan Munris de haber sido electo con 330 vot.s p.a C"
+},
+{
+"key": "ca61-d92-n109",
+"rating": 2,
+"summary": "'Dictámen de la Comision compuesta de Juan Malarin y David Spence, - Aprovando l"
+},
+{
+"key": "ca61-d95-n110",
+"rating": 2,
+"summary": "'Dando cuenta con el acta respectiva del nombram.to de los miembros q. han de Co"
+},
+{
+"key": "ca61-d97-n111",
+"rating": 2,
+"summary": "'Remitiendo testimonio de la Acta electoral, lebantada por la Junta Celebrada en"
+},
+{
+"key": "ca61-d106-n113",
+"rating": 2,
+"summary": "'Acta electoral de la Junta secundaria del Partido de Sta. Barbara, relativa á l"
+},
+{
+"key": "ca61-d113-n124",
+"rating": 2,
+"summary": "'1844. Agosto 26. — Sesion Extraord.a' One-sentence entry: 'Estando concluidos l"
+},
+{
+"key": "ca61-d118-n126",
+"rating": 2,
+"summary": "'Acta de instalacion de la Asamblea Dep.l en las Sesiones extraord.s para que fu"
+},
+{
+"key": "ca61-d140-n348",
+"rating": 2,
+"summary": "Sesion 8.a opens: 'Se presentó de 1.a lectura el dictamen de la Comision puesta "
+},
+{
+"key": "ca61-d141-n349",
+"rating": 2,
+"summary": "Sesion 9.a opens: 'La Comision de propios y Arbitrios dió 2.a lectura al dictame"
+},
+{
+"key": "ca61-d143-n350",
+"rating": 2,
+"summary": "'Una Comunicacion y Acuerdo del Ayuntam.to de la Cap.l en que pide que para mayo"
+},
+{
+"key": "ca61-d144-n350",
+"rating": 2,
+"summary": "'Otra del mismo Ayuntam.to contestando de enterado á la que en 16 del ppdo. le d"
+},
+{
+"key": "ca61-d194-n359",
+"rating": 2,
+"summary": "One of three expedientes reported in a single sentence as still awaiting approva"
+},
+{
+"key": "ca61-d195-n359",
+"rating": 2,
+"summary": "Second of the three pending expedientes named in the same sentence (see the Cast"
+},
+{
+"key": "ca61-d196-n359",
+"rating": 2,
+"summary": "Third of the three pending expedientes: 'Don Cesario Lataillade' [= Cesareo Lata"
+},
+{
+"key": "ca61-d207-n365",
+"rating": 2,
+"summary": "'El Sr. Noriega hiso presente haberle recomendado el Gob.o su pronto regreso a S"
 },
 {
 "key": "ca62-d14-n8",
