@@ -1445,19 +1445,14 @@
 "summary": "Recibió aviso de que el día 11 en la noche aprehendió á un inglés y le mandó á C"
 },
 {
-"key": "ca25-d501-n270",
+"key": "ca25-d479-n262",
 "rating": 4,
-"summary": "Heading '+ 1803. = Mayo 1.o = (Loreto) / Gob.r a Virrey. Sobre guardia a bordo d"
+"summary": "'+ 1800 = Agosto 25 = Monterrey. Comandante (no dice a quien. Sobre llegada de f"
 },
 {
 "key": "ca25-d511-n273",
 "rating": 4,
 "summary": "Ditto month (= Junio), day 24: 'Recibio orden de 14 de Abril en la q.e se previe"
-},
-{
-"key": "ca25-d533-n277",
-"rating": 4,
-"summary": "'+ 1803 = Agosto 10 = Loreto / Gob.r a Virrey. Sobre asesinato cometido por los "
 },
 {
 "key": "ca25-d583-n345",
@@ -1493,11 +1488,6 @@
 "key": "ca25-d726-n406",
 "rating": 4,
 "summary": "Entry text opens at the head of n406: 'Acusa recibo de órden reservada sobre val"
-},
-{
-"key": "ca25-d735-n407",
-"rating": 4,
-"summary": "'1817. = Enero 2 = Monterrey. Gob.r Sola al Virrey Sobre que se pueble N.a Cal e"
 },
 {
 "key": "ca26-d80-n23",
@@ -1885,19 +1875,39 @@
 "summary": "«Estrangeros Conspiradores»: trascribe nota del Min. del Interior (23 Set) — el "
 },
 {
-"key": "ca39-d189-n142",
+"key": "ca39-d37-n142",
 "rating": 4,
 "summary": "Figueroa's political manifesto against the Híjar colony directors — Torres & Apa"
 },
 {
-"key": "ca39-d194-n151",
+"key": "ca39-d43-n151",
 "rating": 4,
 "summary": "Complying with orders: Berduzco & Lara and others seized & secured; took at the "
 },
 {
-"key": "ca39-d207-n155",
+"key": "ca39-d55-n155",
 "rating": 4,
 "summary": "Doc. in French w/ Savage's literal translation. THE RUSSIAN ABANDONMENT OF FORT "
+},
+{
+"key": "ca39-d79-n219",
+"rating": 4,
+"summary": "Long communication of 1 June 1836 urging that California appoint a standing agen"
+},
+{
+"key": "ca39-d138-n356",
+"rating": 4,
+"summary": "'Trascribiéndole la Comunicacion q. con esta fha. dirije á Juan B. Alvarado, dan"
+},
+{
+"key": "ca39-d139-n357",
+"rating": 4,
+"summary": "'Remitiéndole una relacion de los empleados que percibian su sueldo de aquella o"
+},
+{
+"key": "ca39-d140-n358",
+"rating": 4,
+"summary": "'Relacion de los SS. Empleados que tienen sueldo por esta Tesoreria Departamenta"
 },
 {
 "key": "ca42-d1267-n452",
@@ -3920,7 +3930,17 @@
 "summary": "Savage heading: '1789 - Novre. 14 - Chihuahua. / Jn. Gasiot y Miralles: Instrucn"
 },
 {
-"key": "ca52-d52-n371",
+"key": "ca52-d49-n355",
+"rating": 4,
+"summary": "Heading verbatim: 'Diego de Borica: Instrucc.n de dirigir la fundacion de la nue"
+},
+{
+"key": "ca52-d50-n358",
+"rating": 4,
+"summary": "Heading verbatim: 'Branciforte al Gob.r de Calif.a'. By decree of the 12th of th"
+},
+{
+"key": "ca52-d55-n371",
 "rating": 4,
 "summary": "Savage's rubric: 'Informe acerca del sitio de Branciforte'. The engineer's compa"
 },
@@ -4005,24 +4025,29 @@
 "summary": "✓ HEADER + opening VERIFIED vs scan n144 (2026-07-06): '1823 Julio 6, San Franci"
 },
 {
-"key": "ca57-d59-n39",
+"key": "ca57-d58-n39",
 "rating": 4,
 "summary": "Coastal-foreigner colonization policy: acusa recibo del despacho nº32 (lista de "
 },
 {
-"key": "ca57-d66-n45",
+"key": "ca57-d65-n45",
 "rating": 4,
 "summary": "The relayed Padrés report (30 Mar 1829): José M. Padrés diagnoses el «mal estado"
 },
 {
-"key": "ca57-d82-n60",
+"key": "ca57-d79-n60",
 "rating": 4,
 "summary": "Victoria's denunciation of Padrés & the 1831 secularization plan: llegado á rele"
 },
 {
-"key": "ca57-d86-n65",
+"key": "ca57-d84-n65",
 "rating": 4,
 "summary": "The official account of the 1831 OVERTHROW OF VICTORIA (briefing the incoming go"
+},
+{
+"key": "ca57-d86-n65",
+"rating": 4,
+"summary": "Savage's heading: “1832 = Mayo 17 = México. / Alaman á Figueroa, Le informa circ"
 },
 {
 "key": "ca57-d94-n96",
@@ -4045,7 +4070,7 @@
 "summary": "«RECLAMOS DE INGLESES EXPULSADOS DE CALIFORNIA» — the Graham-Affair deportees' ("
 },
 {
-"key": "ca57-d132-n154",
+"key": "ca57-d133-n154",
 "rating": 4,
 "summary": "«RUMORES DE ANEXIÓN»: trascribe comunicación de la legación en Washington sobre "
 },
@@ -4313,6 +4338,26 @@
 "key": "ca62-d146-n294",
 "rating": 4,
 "summary": "CLOSE + DECREE. Signs off «hasta que S.M. resuelva… México 19 de Junio de 1773 ="
+},
+{
+"key": "ca63-d407-n279",
+"rating": 4,
+"summary": "Savage's head: '1849. - July 23.d - Sta. Clara. W. Campbell & Jas. Alex. Forbes "
+},
+{
+"key": "ca63-d408-n280",
+"rating": 4,
+"summary": "Doc N.o 1 of 3 in the packet headed '1847. -- Oct. 19th. Ang.s / Ant.o José Cot."
+},
+{
+"key": "ca63-d411-n281",
+"rating": 4,
+"summary": "Doc N.o 2 of 3 in the Cot packet; spans n281-n282. Savage: 'Doct. N.o 2: - A Mem"
+},
+{
+"key": "ca63-d414-n283",
+"rating": 4,
+"summary": "Savage's head: '1846. - Junio 15. Ang.s / Gob.r Pico y Moreno Srio.' Abstract: '"
 },
 {
 "key": "ca1-d66-n178",
@@ -4638,11 +4683,6 @@
 "key": "ca4-d328-n269",
 "rating": 3,
 "summary": "Savage heading: 'Remision de Inventarios'. Encloses the inventory of this habili"
-},
-{
-"key": "ca4-d330-n269",
-"rating": 3,
-"summary": "spans n269-n270. Savage heading: 'sobre un pleito'. Acknowledging Hidalgo's ofic"
 },
 {
 "key": "ca4-d338-n275",
@@ -7800,6 +7840,11 @@
 "summary": "Ditto entry (Abril 3): 'Dispone pase a Villa de Branciforte Fernando de la Toba "
 },
 {
+"key": "ca25-d499-n270",
+"rating": 3,
+"summary": "'Le adjunta Sumaria formada p.r Comandante de Presidio de S.n Diego, Sobre lo ac"
+},
+{
 "key": "ca25-d510-n272",
 "rating": 3,
 "summary": "Ditto line (= Junio 25): 'Sobre haber recibido copia de lo informado p.r el Fisc"
@@ -8870,102 +8915,152 @@
 "summary": "Reglamento para las Amigas (SD/LA/Sta Bárbara/Monterey/San José/Guadalupe/San Fr"
 },
 {
-"key": "ca39-d158-n126",
+"key": "ca39-d6-n126",
 "rating": 3,
 "summary": "Denies the rumor 'que él ha permitido la pesca de nutrias' (permitted otter-hunt"
 },
 {
-"key": "ca39-d170-n130",
+"key": "ca39-d18-n130",
 "rating": 3,
 "summary": "The Fr. Jesús María Vázquez del Mercado atrocity at Mission San Rafael — 'Asesin"
 },
 {
-"key": "ca39-d175-n133",
+"key": "ca39-d23-n133",
 "rating": 3,
 "summary": "'Sobre dar azotes á los indios' — an extended friar's defense of whipping neophy"
 },
 {
-"key": "ca39-d176-n135",
+"key": "ca39-d24-n135",
 "rating": 3,
 "summary": "Circular sobre emancipación de Neófitos — remits the reglamento de emancipación "
 },
 {
-"key": "ca39-d184-n138",
+"key": "ca39-d32-n138",
 "rating": 3,
 "summary": "This dawn a pronunciamiento by unos Sonorenses; the Ilustre Ayuntamiento in junt"
 },
 {
-"key": "ca39-d187-n140",
+"key": "ca39-d35-n140",
 "rating": 3,
 "summary": "Full ayuntamiento session on the Sonorenses alarm — a partida of armed Sonorense"
 },
 {
-"key": "ca39-d190-n147",
+"key": "ca39-d38-n147",
 "rating": 3,
 "summary": "Narrative of the Los Angeles revolution: learned the 6th that Sonorenses were ga"
 },
 {
-"key": "ca39-d192-n148",
+"key": "ca39-d40-n148",
 "rating": 3,
 "summary": "Suspension of Híjar & Padrés: 'he dispuesto que V.S. y el Ayudante Inspector D. "
 },
 {
-"key": "ca39-d193-n150",
+"key": "ca39-d41-n150",
 "rating": 3,
 "summary": "Communicates the Los Angeles events; no doubt of the enemigos del órden's intent"
 },
 {
-"key": "ca39-d196-n151",
+"key": "ca39-d44-n151",
 "rating": 3,
 "summary": "'Sobre embarque y arresto de Híjar y Padrés' — informed of the Berduzco embarque"
 },
 {
-"key": "ca39-d197-n152",
+"key": "ca39-d45-n152",
 "rating": 3,
 "summary": "Híjar & Padrés, having delivered their charges, to be embarked & held arrested a"
 },
 {
-"key": "ca39-d210-n157",
+"key": "ca39-d58-n157",
 "rating": 3,
 "summary": "'Sobre nombramiento de gefe militar' — transcribes the Comandante genl's 6 Oct. "
 },
 {
-"key": "ca39-d227-n167",
+"key": "ca39-d74-n167",
 "rating": 3,
 "summary": "VERBATIM installation acta + Figueroa's long installation DISCOURSE (1 May 1834)"
 },
 {
-"key": "ca39-d231-n228",
+"key": "ca39-d82-n226",
+"rating": 3,
+"summary": "'Que como anualm.te tocan en esta costa uno ó dos buques Rusos con el fin de est"
+},
+{
+"key": "ca39-d85-n227",
+"rating": 3,
+"summary": "'Que por última vez se ha permitido á Don Alejandro, Gobernador de los estableci"
+},
+{
+"key": "ca39-d86-n228",
 "rating": 3,
 "summary": "Cluster: the establecimientos de Ross y Bodega' ship may enter San Francisco 'ba"
 },
 {
-"key": "ca39-d232-n230",
+"key": "ca39-d87-n230",
 "rating": 3,
 "summary": "'El Gobernador del establecimiento Ruso en Ross tiene permiso del Gobierno para "
 },
 {
-"key": "ca39-d233-n234",
+"key": "ca39-d89-n234",
 "rating": 3,
 "summary": "On the Bergantín Ruso *Baikal* anchored at SF: he must bring no article of comme"
 },
 {
-"key": "ca39-d238-n250",
+"key": "ca39-d102-n250",
 "rating": 3,
 "summary": "A year ago foreign ships were prohibited cabotage on this coast; 'en tal virtud "
 },
 {
-"key": "ca39-d255-n420",
+"key": "ca39-d126-n352",
+"rating": 3,
+"summary": "'Trascribiéndole la Comunicacion fha. 16 del cortte. del Juez de Paz y de 1a Ins"
+},
+{
+"key": "ca39-d127-n352",
+"rating": 3,
+"summary": "'Participa la renuncia hecha por D. José Ramon Argüello de la Sria. de la Prefec"
+},
+{
+"key": "ca39-d128-n352",
+"rating": 3,
+"summary": "'Trascribiéndole la Comunicacion fha. 20 del corriente del Pref.to interino del "
+},
+{
+"key": "ca39-d129-n352",
+"rating": 3,
+"summary": "'Ordenando el pago de $3000 - á Larkins q. adeudan varios empleados civiles y mi"
+},
+{
+"key": "ca39-d130-n353",
+"rating": 3,
+"summary": "'Mandando abonar al Batallon del Departam.to á razon de un real y medio por plaz"
+},
+{
+"key": "ca39-d132-n353",
+"rating": 3,
+"summary": "'Designando una pension mensual de $60 - á la viuda de D.a Maria Luisa Argüello "
+},
+{
+"key": "ca39-d133-n354",
+"rating": 3,
+"summary": "'Ynst.a original en solicitud de una subvencion ó montepio q. por su clace Corre"
+},
+{
+"key": "ca39-d135-n355",
+"rating": 3,
+"summary": "'Ordenando se abone al Capitan de infanteria permanente C. Victor Prudon su suel"
+},
+{
+"key": "ca39-d151-n420",
 "rating": 3,
 "summary": "Santa Bárbara sedition/pronunciamiento causa — a vecindario representation & ass"
 },
 {
-"key": "ca39-d256-n433",
+"key": "ca39-d152-n433",
 "rating": 3,
 "summary": "José Salazar's Indian expedition & skirmish — a partida de indios gentiles at a "
 },
 {
-"key": "ca39-d260-n449",
+"key": "ca39-d156-n449",
 "rating": 3,
 "summary": "The William Glen Rae suicide investigation — the death of D. Guillermo (William)"
 },
@@ -13400,7 +13495,12 @@
 "summary": "Savage heading: '+ 1786 - Junio 21 - Chihuahua. / Jacobo Ugarte y Loyola á Pedro"
 },
 {
-"key": "ca52-d51-n369",
+"key": "ca52-d51-n359",
+"rating": 3,
+"summary": "Heading verbatim: 'Diego de Borica a Pedro Alberni'. At Mission Santa Clara Bori"
+},
+{
+"key": "ca52-d54-n369",
 "rating": 3,
 "summary": "Borica instructs the engineer Córdova to submit an informe on where to plant the"
 },
@@ -13690,62 +13790,62 @@
 "summary": "relays that the Ministry of Foreign Relations issued Thomas O. Larkin his exequa"
 },
 {
-"key": "ca57-d10-n7",
+"key": "ca57-d9-n7",
 "rating": 3,
 "summary": "Art. cited verbatim: «Las Californias y el partido de Colima (sin el pueblo de T"
 },
 {
-"key": "ca57-d17-n10",
+"key": "ca57-d16-n10",
 "rating": 3,
 "summary": "Orden de APREHENSIÓN del P. Vicente Francisco de SARRÍA por no querer jurar la C"
 },
 {
-"key": "ca57-d32-n18",
+"key": "ca57-d31-n18",
 "rating": 3,
 "summary": "«Fuga de misioneros»: la huida en el bergantín americano 'Harbinger' de los misi"
 },
 {
-"key": "ca57-d34-n19",
+"key": "ca57-d33-n19",
 "rating": 3,
 "summary": "Decreto: reorganización militar de California — se formarán 6 compañías de cabal"
 },
 {
-"key": "ca57-d38-n23",
+"key": "ca57-d37-n23",
 "rating": 3,
 "summary": "DECRETO DE EXPULSIÓN DE ESPAÑOLES: salgan de la República en 2 meses; define «Es"
 },
 {
-"key": "ca57-d49-n28",
+"key": "ca57-d48-n28",
 "rating": 3,
 "summary": "The 1832 Figueroa-appointment dossier (incoming governor): charge to create Comp"
 },
 {
-"key": "ca57-d62-n41",
+"key": "ca57-d61-n41",
 "rating": 3,
 "summary": "Gubernatorial appointments: el Presidente nombra al Tenⁱᵉ Coronel Manuel VICTORI"
 },
 {
-"key": "ca57-d64-n43",
+"key": "ca57-d63-n43",
 "rating": 3,
 "summary": "SOLÍS REVOLT, Mexico-City response: persíganse como TRAIDORES al faccioso Joaquí"
 },
 {
-"key": "ca57-d71-n50",
+"key": "ca57-d70-n50",
 "rating": 3,
 "summary": "Secularization step: el proyecto de transformar las misiones de Alta California "
 },
 {
-"key": "ca57-d73-n50",
+"key": "ca57-d72-n50",
 "rating": 3,
 "summary": "SINGLE-PORT POLICY: para el comercio extranjero, sólo en Monterey podrán los buq"
 },
 {
-"key": "ca57-d76-n53",
+"key": "ca57-d75-n53",
 "rating": 3,
 "summary": "Acusa recibo de la noticia de los acontecimientos políticos en el Territorio par"
 },
 {
-"key": "ca57-d78-n55",
+"key": "ca57-d77-n55",
 "rating": 3,
 "summary": "DECRETO SOBRE ARRENDAMIENTO DE LAS FINCAS DEL FONDO PIADOSO DE CALIFORNIAS: el G"
 },
@@ -14215,7 +14315,7 @@
 "summary": "On state of missions Santa Clara & San José: in obedience to orders proceeded to"
 },
 {
-"key": "ca63-d172-n74",
+"key": "ca63-d171-n74",
 "rating": 3,
 "summary": "Arrangement with Indian Chief; hostility of Californians in the district toward "
 },
@@ -14245,62 +14345,97 @@
 "summary": "On affairs of San Diego mission: occupant of the mission states he was left in c"
 },
 {
-"key": "ca63-d224-n124",
+"key": "ca63-d225-n124",
 "rating": 3,
 "summary": "Proceedings in trial of Antº Armijo, Robt. Smith ('Growling Smith') & John Egger"
 },
 {
-"key": "ca63-d311-n211",
+"key": "ca63-d313-n211",
 "rating": 3,
 "summary": "Acta de fidelidad al Gobierno Mexicano: 'En el puerto de Monterey á los 13 días "
 },
 {
-"key": "ca63-d414-n293",
+"key": "ca63-d403-n277",
+"rating": 3,
+"summary": "Savage's head: '1849. Julio 23. - S. José. (Copia N.o 3.) Ant. Mª Pico — al P.dr"
+},
+{
+"key": "ca63-d404-n277",
+"rating": 3,
+"summary": "Savage's head: '1849. Julio 23. - Sta. Clara. P.dre Real. a Ant.o Mª Pico.' Abst"
+},
+{
+"key": "ca63-d405-n278",
+"rating": 3,
+"summary": "Savage's head: '1847. - Oct. 14. - Mont. Fr. J. Mª S. del Real. — al Gob.r &'; u"
+},
+{
+"key": "ca63-d406-n279",
+"rating": 3,
+"summary": "Savage's head: '1848. - April 4. - Mont. Cal. Thos. O. Larkin. — to Gov.r Mason."
+},
+{
+"key": "ca63-d409-n280",
+"rating": 3,
+"summary": "Savage's head: '1847. - Sept. 16. - Mont. Thomas O. Larkin. — to Gov.r Mason.' A"
+},
+{
+"key": "ca63-d412-n282",
+"rating": 3,
+"summary": "Savage's head: '1846. -- Junio 8. - Ang.s / Gob.r Pio Pico. — y José Matias More"
+},
+{
+"key": "ca63-d413-n282",
+"rating": 3,
+"summary": "Doc N.o 3 of 3 in the Cot packet. Savage: 'Doc. N.o 3. = Explanatory letter to C"
+},
+{
+"key": "ca63-d421-n293",
 "rating": 3,
 "summary": "THE ARMIJO/EGGER/SMITH TRIAL (Spanish version, cf. ⭐⭐⭐ doc 185): per instruction"
 },
 {
-"key": "ca63-d415-n295",
+"key": "ca63-d422-n295",
 "rating": 3,
 "summary": "(Doctº en inglés) DISTURBANCES BETWEEN INDIANS & WHITES alarmingly frequent in t"
 },
 {
-"key": "ca63-d425-n305",
+"key": "ca63-d432-n305",
 "rating": 3,
 "summary": "(Doctº en inglés) DISTURBANCES between whites & Indians alarmingly frequent; ban"
 },
 {
-"key": "ca63-d426-n306",
+"key": "ca63-d433-n306",
 "rating": 3,
 "summary": "THE SACRAMENTO-DISTRICT CENSUS TABLE (Spanish version of doc 187, w/ the actual "
 },
 {
-"key": "ca63-d429-n310",
+"key": "ca63-d436-n310",
 "rating": 3,
 "summary": "'Relación de su viaje en busca de oro': a first-person GOLD-PROSPECTING EXPEDITI"
 },
 {
-"key": "ca63-d479-n348",
+"key": "ca63-d486-n348",
 "rating": 3,
 "summary": "THE 30-OCT-1846 ASSEMBLY MISSION-DECREE (verbatim abstract, cf. docs 380/385/464"
 },
 {
-"key": "ca63-d497-n366",
+"key": "ca63-d504-n366",
 "rating": 3,
 "summary": "THE FALSE-BISHOP WARNING: 'Más ha de un mes que arribó al Puerto de San Francisc"
 },
 {
-"key": "ca63-d513-n381",
+"key": "ca63-d520-n381",
 "rating": 3,
 "summary": "THE PADRE GABRIEL GONZÁLEZ WAR-CONDUCT INQUIRY: Col. Burton ordered (13 Apr 1848"
 },
 {
-"key": "ca63-d514-n383",
+"key": "ca63-d521-n383",
 "rating": 3,
 "summary": "THE PINEDA–GONZÁLEZ BAJA-WAR CORRESPONDENCE (continuous dossier attached to the "
 },
 {
-"key": "ca63-d515-n392",
+"key": "ca63-d522-n392",
 "rating": 3,
 "summary": "(Doctº en inglés) Asks the approval of the Governor for the renting or leasing o"
 },
@@ -20575,9 +20710,9 @@
 "summary": "Ditto entry (Abril 3): 'Remite noticia de estado de fuerza del Presidio, y no ha"
 },
 {
-"key": "ca25-d493-n265",
+"key": "ca25-d507-n272",
 "rating": 2,
-"summary": "'+ 1800 Abril 4 = (no dice lugar.) (Sin firma) Sobre reglamento 15 Dbre 1798, de"
+"summary": "'Junio 29. - Adjunta contestacion Sobre valuacion de efectos de Paquebot 'S.n Ca"
 },
 {
 "key": "ca25-d508-n272",
@@ -20698,6 +20833,11 @@
 "key": "ca25-d705-n393",
 "rating": 2,
 "summary": "'Que recibio Plan de descuentos pa empleados y oficiales qe no esten en sus dest"
+},
+{
+"key": "ca25-d725-n405",
+"rating": 2,
+"summary": "'Enterado de haberse ordenado á Comte Gral. de N.a Galicia remi[ta] lo qe falte "
 },
 {
 "key": "ca25-d727-n406",
@@ -23145,149 +23285,194 @@
 "summary": "Presidente orders the Adm. de la Aduana Marít. de Mazatlán deliver monthly, in p"
 },
 {
-"key": "ca39-d153-n122",
+"key": "ca39-d1-n122",
 "rating": 2,
 "summary": "Public celebration at Mission San Miguel on Echeandía's oficios — repiques, salv"
 },
 {
-"key": "ca39-d156-n124",
+"key": "ca39-d4-n124",
 "rating": 2,
 "summary": "Monterey ayuntamiento election: secondary electors chose Alcalde Antonio Buelna,"
 },
 {
-"key": "ca39-d157-n124",
+"key": "ca39-d5-n124",
 "rating": 2,
 "summary": "Secondary electors, presided by G. Político Echeandía, elected Malarín President"
 },
 {
-"key": "ca39-d160-n126",
+"key": "ca39-d8-n126",
 "rating": 2,
 "summary": "Certifies (at Tenente Romualdo Pacheco's request) that Guillermo (William) Dana "
 },
 {
-"key": "ca39-d166-n129",
+"key": "ca39-d14-n129",
 "rating": 2,
 "summary": "Consejo de guerra to hear (a) the causa of the 7 Neófitos (after the misa de Esp"
 },
 {
-"key": "ca39-d167-n130",
+"key": "ca39-d16-n130",
 "rating": 2,
 "summary": "Accompanies an instancia by D. Guillermo E.P. Hartnell for an establishment of p"
 },
 {
-"key": "ca39-d185-n139",
-"rating": 2,
-"summary": "'Sobre reunión de ciudadanos para acordar medidas contra la Admón. del Gral. Fig"
-},
-{
-"key": "ca39-d186-n139",
+"key": "ca39-d33-n139",
 "rating": 2,
 "summary": "Gives a pormenor of the 7 March levantamiento made by the 'adictos al Sr. Híjar,"
 },
 {
-"key": "ca39-d188-n142",
+"key": "ca39-d34-n139",
+"rating": 2,
+"summary": "'Sobre reunión de ciudadanos para acordar medidas contra la Admón. del Gral. Fig"
+},
+{
+"key": "ca39-d36-n142",
 "rating": 2,
 "summary": "Representation in the name of the pronounced force: invited by Antonio Apalátegu"
 },
 {
-"key": "ca39-d191-n148",
+"key": "ca39-d39-n148",
 "rating": 2,
 "summary": "Informed of the Sonorenses pronunciamiento; they be assured absolved of the falt"
 },
 {
-"key": "ca39-d195-n151",
+"key": "ca39-d42-n151",
 "rating": 2,
 "summary": "Orders D. Francisco Berduzco & D. Romualdo Lara imprisoned on the fragata *Rosa*"
 },
 {
-"key": "ca39-d208-n156",
+"key": "ca39-d56-n156",
 "rating": 2,
 "summary": "Declares D. Guillermo G. Dana (William G. Dana) naturalized in the E.U. Mexicano"
 },
 {
-"key": "ca39-d211-n159",
+"key": "ca39-d59-n159",
 "rating": 2,
 "summary": "Suspends the vista y oficial 1º encargado interino de la Aduana Marítima for an "
 },
 {
-"key": "ca39-d218-n162",
+"key": "ca39-d66-n162",
 "rating": 2,
 "summary": "'Sobre pocas existencias en la Misión' — the mission has very few/no existencias"
 },
 {
-"key": "ca39-d228-n183",
+"key": "ca39-d76-n183",
 "rating": 2,
 "summary": "BOUNDED verbatim minutes run of the 1834 Diputación sessions: ⭐ a moderate expor"
 },
 {
-"key": "ca39-d229-n215",
+"key": "ca39-d77-n215",
 "rating": 2,
 "summary": "Minutes continue: ⭐⭐ debate on the Híjar commission & mission lands — the secula"
 },
 {
-"key": "ca39-d230-n218",
+"key": "ca39-d78-n218",
 "rating": 2,
 "summary": "Alocución en la Junta Departamental — 'Sobre un Diputado en el congreso nacional"
 },
 {
-"key": "ca39-d234-n235",
+"key": "ca39-d80-n224",
 "rating": 2,
-"summary": "Received the expediente of what was practiced with D. Abel Stearns's embargoed e"
+"summary": "'La Excma. Asamblea Departamental de Californias ha tenido á bien decretar lo si"
 },
 {
-"key": "ca39-d235-n231",
+"key": "ca39-d81-n226",
+"rating": 2,
+"summary": "'Que no existiendo papel sellado en las poblaciones, procederá á imprimir los se"
+},
+{
+"key": "ca39-d83-n227",
+"rating": 2,
+"summary": "'Que los derechos del cargamento de la fragata Monsoon ascienden á $27,432.5 r.s"
+},
+{
+"key": "ca39-d88-n231",
 "rating": 2,
 "summary": "Circular on foreign-ship cabotage & contraband: lacking supreme-govt organizatio"
 },
 {
-"key": "ca39-d236-n237",
+"key": "ca39-d90-n235",
 "rating": 2,
-"summary": "Fined the Fragata *Barnstable* $300 for permitting boarding by persons ashore be"
+"summary": "Received the expediente of what was practiced with D. Abel Stearns's embargoed e"
 },
 {
-"key": "ca39-d239-n235",
+"key": "ca39-d91-n235",
 "rating": 2,
 "summary": "Abel Stearns embargo case, resolution: the original expediente sent to the Promo"
 },
 {
-"key": "ca39-d241-n240",
+"key": "ca39-d92-n237",
+"rating": 2,
+"summary": "Fined the Fragata *Barnstable* $300 for permitting boarding by persons ashore be"
+},
+{
+"key": "ca39-d95-n240",
 "rating": 2,
 "summary": "Announces the President of Mexico named him Gobernador interino of this Departam"
 },
 {
-"key": "ca39-d245-n246",
+"key": "ca39-d99-n246",
 "rating": 2,
 "summary": "Names an interim Comandante de Celadores (1,000 pesos/yr); ⭐⭐ customs-payment re"
 },
 {
-"key": "ca39-d251-n310",
-"rating": 2,
-"summary": "Ordered Antonio Mª Lugo [⚠ CORRECTED 2026-07-28 from 'Osio' — the ms. reads Lugo"
-},
-{
-"key": "ca39-d252-n397",
-"rating": 2,
-"summary": "The Francisco Limón rape causa — José Mª Villavicencio (admor de Mission San Fer"
-},
-{
-"key": "ca39-d253-n401",
-"rating": 2,
-"summary": "The Daniel Ferguson murder causa — the assassination of Daniel Ferguson; Mª del "
-},
-{
-"key": "ca39-d257-n435",
-"rating": 2,
-"summary": "A Los Angeles political-disturbance causa (the flag affair) — a bandera raised a"
-},
-{
-"key": "ca39-d276-n295",
+"key": "ca39-d118-n295",
 "rating": 2,
 "summary": "Political narrative of the Micheltorena period — 'tropa… viciosa é inmoral,' 'gr"
 },
 {
-"key": "ca39-d283-n392",
+"key": "ca39-d120-n310",
+"rating": 2,
+"summary": "Ordered Antonio Mª Lugo [⚠ CORRECTED 2026-07-28 from 'Osio' — the ms. reads Lugo"
+},
+{
+"key": "ca39-d124-n351",
+"rating": 2,
+"summary": "'Comunica en via de aclaracion que las Cantidades q. suministró de su peculio al"
+},
+{
+"key": "ca39-d125-n351",
+"rating": 2,
+"summary": "'Aprobando los adelantos hechos en cta. á los oficiales Mejía y Villa por la Adu"
+},
+{
+"key": "ca39-d131-n353",
+"rating": 2,
+"summary": "'Ordena se pague á D. José Zenon Fernand.z Juez de 1a Inst.a de aquella Capital,"
+},
+{
+"key": "ca39-d134-n355",
+"rating": 2,
+"summary": "'Comunica que para hacer cargo á los Oficiales de la Comp.a de Mont. al ajustar "
+},
+{
+"key": "ca39-d136-n356",
+"rating": 2,
+"summary": "'Orden p.a q. librase $200 - unicamente contra Park [?] y á fabor de Prudón: de "
+},
+{
+"key": "ca39-d137-n356",
+"rating": 2,
+"summary": "'Ordena dar al Sr. Prudon los $150 - q. tiene designados Mont.' — Orders the $15"
+},
+{
+"key": "ca39-d145-n392",
 "rating": 2,
 "summary": "Abrego informs against Comandte Gral Vallejo — 'se había vuelto un monstruo… que"
+},
+{
+"key": "ca39-d148-n397",
+"rating": 2,
+"summary": "The Francisco Limón rape causa — José Mª Villavicencio (admor de Mission San Fer"
+},
+{
+"key": "ca39-d149-n401",
+"rating": 2,
+"summary": "The Daniel Ferguson murder causa — the assassination of Daniel Ferguson; Mª del "
+},
+{
+"key": "ca39-d153-n435",
+"rating": 2,
+"summary": "A Los Angeles political-disturbance causa (the flag affair) — a bandera raised a"
 },
 {
 "key": "ca40-d23-n16",
@@ -32610,22 +32795,22 @@
 "summary": "plan for founding NEW FRONTIER ESTABLISHMENTS (the San Diego–Baja frontier: new "
 },
 {
-"key": "ca52-d49-n360",
+"key": "ca52-d52-n360",
 "rating": 2,
 "summary": "*parecer* on the site to found the Villa de Branciforte (soil, water, timber, gr"
 },
 {
-"key": "ca52-d50-n365",
+"key": "ca52-d53-n365",
 "rating": 2,
 "summary": "order on erecting the Villa de Branciforte — sending settler families + 'vagos y"
 },
 {
-"key": "ca52-d53-n375",
+"key": "ca52-d56-n375",
 "rating": 2,
 "summary": "1798 roster of the 9 salaried pobladores of Villa de Branciforte ($116.3.22/yr) "
 },
 {
-"key": "ca52-d54-n380",
+"key": "ca52-d57-n380",
 "rating": 2,
 "summary": "Villa de Branciforte settler roster recruited from Guadalajara — table of poblad"
 },
@@ -33155,27 +33340,27 @@
 "summary": "La Junta Nacional, ante un déficit de 6 millones de pesos en el presupuesto de 1"
 },
 {
-"key": "ca57-d2-n4",
+"key": "ca57-d3-n4",
 "rating": 2,
 "summary": "«Queda enterado S.M.I. [Su Majestad Imperial — Iturbide] de la llegada en Sⁿ Fra"
 },
 {
-"key": "ca57-d11-n7",
+"key": "ca57-d10-n7",
 "rating": 2,
 "summary": "Church-state: aprueba la conducta patriótica del padre Tomás Estenaga durante la"
 },
 {
-"key": "ca57-d13-n9",
+"key": "ca57-d12-n9",
 "rating": 2,
 "summary": "Tribunales de Circuito y Jueces de Distrito: art. 18 une Baja Cal. á Sonora/Sina"
 },
 {
-"key": "ca57-d14-n9",
+"key": "ca57-d13-n9",
 "rating": 2,
 "summary": "Participa el nombramiento de Echeandía como Comandante General de las California"
 },
 {
-"key": "ca57-d19-n11",
+"key": "ca57-d18-n11",
 "rating": 2,
 "summary": "Parte de una acción/encuentro de la compañía con los Cosumnes [indios del valle "
 },
@@ -33190,72 +33375,72 @@
 "summary": "Aprehensión del bergantín español 'Águila': si llega en demanda de víveres, no d"
 },
 {
-"key": "ca57-d26-n15",
+"key": "ca57-d25-n15",
 "rating": 2,
 "summary": "Que dé parte circunstanciado sobre la suspensión de la Diputación y proponga el "
 },
 {
-"key": "ca57-d28-n17",
+"key": "ca57-d27-n17",
 "rating": 2,
 "summary": "Que mande MENSUALMENTE noticias circunstanciadas de los EXTRANJEROS que lleguen "
 },
 {
-"key": "ca57-d30-n17",
+"key": "ca57-d29-n17",
 "rating": 2,
 "summary": "Que informe si es cierto que Fr. Luis [Antonio] Martínez, encargado de la misión"
 },
 {
-"key": "ca57-d31-n18",
+"key": "ca57-d30-n18",
 "rating": 2,
 "summary": "Presupuesto de gastos de California 1-jun-1827 → 30-jun-1828: sueldo del Jefe po"
 },
 {
-"key": "ca57-d33-n19",
+"key": "ca57-d32-n19",
 "rating": 2,
 "summary": "Reparto de 24,000 fusiles entre estados/territorios por diputados y población: C"
 },
 {
-"key": "ca57-d35-n20",
+"key": "ca57-d34-n20",
 "rating": 2,
 "summary": "Estado de la fuerza de las 6 compañías (Monterey/San Francisco/Sta Bárbara/San D"
 },
 {
-"key": "ca57-d36-n22",
+"key": "ca57-d35-n22",
 "rating": 2,
 "summary": "Nota circunstanciada: qué pueblos tienen Ayuntamientos y cuáles son Cabeceras de"
 },
 {
-"key": "ca57-d40-n24",
+"key": "ca57-d39-n24",
 "rating": 2,
 "summary": "Comunica que Vicente Guerrero tomó posesión de la Presidencia de la República"
 },
 {
-"key": "ca57-d41-n24",
+"key": "ca57-d40-n24",
 "rating": 2,
 "summary": "Rafael [Vélez?] aprobado por el Presidente como Jefe de la Comandancia Genⁱ de l"
 },
 {
-"key": "ca57-d45-n26",
+"key": "ca57-d44-n26",
 "rating": 2,
 "summary": "«Lista de Españoles exceptuados» de la expulsión — the roster of who may remain "
 },
 {
-"key": "ca57-d52-n33",
+"key": "ca57-d51-n33",
 "rating": 2,
 "summary": "Los soldados de Monterey arrestados por AMOTINARSE en pelotón, armados, reclaman"
 },
 {
-"key": "ca57-d54-n33",
+"key": "ca57-d53-n33",
 "rating": 2,
 "summary": "Comunica la capitulación del Genⁱ Barradas, jefe de la expedición Española [la r"
 },
 {
-"key": "ca57-d63-n41",
+"key": "ca57-d62-n41",
 "rating": 2,
 "summary": "Comisión del Museo Nacional: que preste auxilios al comisionado del Gobⁿ para co"
 },
 {
-"key": "ca57-d68-n47",
+"key": "ca57-d67-n47",
 "rating": 2,
 "summary": "Circular de pasaportes: todos los extranjeros residentes se presenten la 1ª sema"
 },
@@ -33265,12 +33450,12 @@
 "summary": "Briefing de Figueroa (3 docs): que de Manuel Victoria obtenga instrucciones para"
 },
 {
-"key": "ca57-d83-n63",
+"key": "ca57-d82-n63",
 "rating": 2,
 "summary": "«Sobre Misiones» — Victoria's own missions report (the pro-mission / anti-secula"
 },
 {
-"key": "ca57-d84-n64",
+"key": "ca57-d83-n64",
 "rating": 2,
 "summary": "El Presidente aprueba el convenio de los Misioneros (vía el P. Guardián de San F"
 },
@@ -33675,7 +33860,7 @@
 "summary": "On calclas[?] & their district, for mining: advises of his election as alcalde f"
 },
 {
-"key": "ca63-d132-n51",
+"key": "ca63-d131-n51",
 "rating": 2,
 "summary": "Sale of property by priest: Indians complain the priest is trying to sell horses"
 },
@@ -33700,7 +33885,7 @@
 "summary": "On irregularities of his predecessor [J.H.] Nash: reports Nash surrendered the r"
 },
 {
-"key": "ca63-d180-n83",
+"key": "ca63-d179-n83",
 "rating": 2,
 "summary": "On the nature of civil govt in Cal.: says he fully agrees with Alcalde Walter Co"
 },
@@ -33725,129 +33910,129 @@
 "summary": "About Indians & property of the mission [San Luis Rey]: on 25 Aug had meeting at"
 },
 {
-"key": "ca63-d201-n109",
+"key": "ca63-d202-n109",
 "rating": 2,
 "summary": "Re a public meeting to depose Geo. Hyde as Alcalde: encloses a placard calling a"
 },
 {
-"key": "ca63-d208-n115",
+"key": "ca63-d209-n115",
 "rating": 2,
 "summary": "About civil authority in San Bernardino dist.: Indians in the dist. quite troubl"
 },
 {
-"key": "ca63-d228-n128",
+"key": "ca63-d229-n128",
 "rating": 2,
 "summary": "On election of proper persons for 1º & 2º Alcaldes; necessity of annulling such "
 },
 {
-"key": "ca63-d235-n133",
+"key": "ca63-d236-n133",
 "rating": 2,
 "summary": "Pardon: by virtue of his power, 'and in the intention of contributing to the tra"
 },
 {
-"key": "ca63-d237-n135",
+"key": "ca63-d238-n135",
 "rating": 2,
 "summary": "Arrival of Pío and Andrés Pico: announces arrival of Don Pío Pico at San Juan Ca"
 },
 {
-"key": "ca63-d242-n140",
+"key": "ca63-d243-n140",
 "rating": 2,
 "summary": "On organizing a govt for Cal.: apologizes he did not convey his exact meaning in"
 },
 {
-"key": "ca63-d243-n141",
+"key": "ca63-d244-n141",
 "rating": 2,
 "summary": "On supplies of ammunition & condition of Oregon: rec'd the liberal supplies of a"
 },
 {
-"key": "ca63-d250-n146",
+"key": "ca63-d251-n146",
 "rating": 2,
 "summary": "On missions of San José & Santa Clara — horse-thieves & necessity for a prison o"
 },
 {
-"key": "ca63-d252-n151",
+"key": "ca63-d254-n151",
 "rating": 2,
 "summary": "Proceedings about a cannon stolen at Sta Bárbara; inhabitants made to pay for it"
 },
 {
-"key": "ca63-d257-n159",
+"key": "ca63-d258-n159",
 "rating": 2,
 "summary": "Civil-Govt troubles with the Alcaldes & satisfactory results (the full LA Alcald"
 },
 {
-"key": "ca63-d259-n168",
+"key": "ca63-d262-n168",
 "rating": 2,
 "summary": "Indian depredations — bad state of society at San Luis Obispo: society reduced t"
 },
 {
-"key": "ca63-d266-n173",
+"key": "ca63-d268-n173",
 "rating": 2,
 "summary": "Effects existing in the mission this day rec'd by him from E.L. Brown: a lot of "
 },
 {
-"key": "ca63-d282-n182",
+"key": "ca63-d284-n182",
 "rating": 2,
 "summary": "Informe sobre solicitud del Juez de San Juan Bautista (apoyada por el Sub-Prefec"
 },
 {
-"key": "ca63-d287-n190",
+"key": "ca63-d289-n190",
 "rating": 2,
 "summary": "Sobre autorización de un matrimonio por sacerdote protestante, siendo uno de los"
 },
 {
-"key": "ca63-d296-n197",
+"key": "ca63-d298-n197",
 "rating": 2,
 "summary": "Sobre dificultades para poner en vigor su Decreto prohibiendo la venta de licore"
 },
 {
-"key": "ca63-d297-n202",
+"key": "ca63-d299-n202",
 "rating": 2,
 "summary": "Acordando de robo é incendio de su rancho por una partida de gente de Frémont: e"
 },
 {
-"key": "ca63-d301-n204",
+"key": "ca63-d303-n204",
 "rating": 2,
 "summary": "Participando que en la elección pª Alcaldes de la jurisdicción, celebrada en 9 d"
 },
 {
-"key": "ca63-d305-n206",
+"key": "ca63-d307-n206",
 "rating": 2,
 "summary": "Conservar íntegros todos los ingresos á disposición de la Comandancia Gral de su"
 },
 {
-"key": "ca63-d321-n219",
+"key": "ca63-d323-n219",
 "rating": 2,
 "summary": "Memorial on civil/military authority in the LA district (English version paralle"
 },
 {
-"key": "ca63-d381-n254",
+"key": "ca63-d383-n254",
 "rating": 2,
 "summary": "Decreto ordenando recoger la moneda de plata en pesos, acuñada con un troquel en"
 },
 {
-"key": "ca63-d382-n254",
+"key": "ca63-d384-n254",
 "rating": 2,
 "summary": "(Spanish full of docs 12–16 in the register — the Sta Clara/San José mission dis"
 },
 {
-"key": "ca63-d384-n259",
+"key": "ca63-d385-n259",
 "rating": 2,
 "summary": "Solano project]]"
 },
 {
-"key": "ca63-d385-n262",
+"key": "ca63-d387-n262",
 "rating": 2,
 "summary": "Informe respecto de las Misiones: siendo el Sr Col. Pío Pico el medio que se ha "
 },
 {
-"key": "ca63-d387-n264",
-"rating": 2,
-"summary": "Protesta de varios indígenas de la Misión, que el Alcalde eleva al Col. en perso"
-},
-{
-"key": "ca63-d388-n264",
+"key": "ca63-d389-n264",
 "rating": 2,
 "summary": "Solicitando su aprobación para el contrato celebrado con D. James D. Steinberger"
+},
+{
+"key": "ca63-d390-n264",
+"rating": 2,
+"summary": "Protesta de varios indígenas de la Misión, que el Alcalde eleva al Col. en perso"
 },
 {
 "key": "ca63-d400-n270",
@@ -33855,147 +34040,157 @@
 "summary": "THE STA CLARA/SAN JOSÉ MISSION-SALE CONFLICT DOSSIER (running Spanish correspond"
 },
 {
-"key": "ca63-d409-n284",
+"key": "ca63-d410-n280",
+"rating": 2,
+"summary": "Savage's head: '1848. - Junio 8. - S. Francisco. Jas. A. Haidie. — to Col. R. B."
+},
+{
+"key": "ca63-d415-n283",
+"rating": 2,
+"summary": "Savage's head: '1847. Oct. 23. - Sta. Ynes. J. Mª. Covarrubias y J. Carrillo. — "
+},
+{
+"key": "ca63-d416-n284",
 "rating": 2,
 "summary": "THE FRENCH-CONSUL PROPERTY-SEIZURE DOSSIER (running Spanish, 'Doctº en francés' "
 },
 {
-"key": "ca63-d411-n290",
+"key": "ca63-d418-n290",
 "rating": 2,
 "summary": "(Doctº en francés) THE ROSS-SALE-DEBT ITEM: the pueblo de Ross, on the coast of "
 },
 {
-"key": "ca63-d418-n299",
+"key": "ca63-d425-n299",
 "rating": 2,
 "summary": "(Doctº en inglés) HORSE-RAID: the Indians are stealing horses more than ever; on"
 },
 {
-"key": "ca63-d421-n301",
+"key": "ca63-d428-n301",
 "rating": 2,
 "summary": "(Docts en inglés) THE ROSS-SALE PRICE STATED: after the annihilation of the Ross"
 },
 {
-"key": "ca63-d422-n302",
+"key": "ca63-d429-n302",
 "rating": 2,
 "summary": "(Doctº en inglés) Per Gen. Vallejo, reports the Indians of the lake vicinity hav"
 },
 {
-"key": "ca63-d427-n307",
+"key": "ca63-d434-n307",
 "rating": 2,
 "summary": "Several distant rancheros complain of depredations by the Indians, esp. on cattl"
 },
 {
-"key": "ca63-d428-n310",
+"key": "ca63-d435-n310",
 "rating": 2,
 "summary": "(Doctº en inglés) THE ENCLOSED KELSEY CLEAR-LAKE REPORT (✅ re-verified): sends 2"
 },
 {
-"key": "ca63-d436-n314",
+"key": "ca63-d443-n314",
 "rating": 2,
 "summary": "THE VALLEJO FRONTIER-TRIBES REPORT: could not write sooner, occupied with the tr"
 },
 {
-"key": "ca63-d453-n326",
+"key": "ca63-d460-n326",
 "rating": 2,
 "summary": "(Doctº en inglés) PRIVATE GOLD-COIN MINT REQUEST: asking permission to issue gol"
 },
 {
-"key": "ca63-d455-n327",
+"key": "ca63-d461-n327",
 "rating": 2,
 "summary": "(Doctº en inglés) THE CHILE-EMIGRATION LETTER: says he is a native of the Nether"
 },
 {
-"key": "ca63-d462-n330",
+"key": "ca63-d467-n330",
 "rating": 2,
 "summary": "(Doctº en inglés) ORDERING that every rancho send one or two good men well mount"
 },
 {
-"key": "ca63-d464-n331",
+"key": "ca63-d470-n331",
 "rating": 2,
 "summary": "THE SAN BUENAVENTURA MISSION FRAUDULENT-SALE DOSSIER: Narciso Botello states he "
 },
 {
-"key": "ca63-d466-n334",
+"key": "ca63-d473-n334",
 "rating": 2,
 "summary": "THE SAN BUENAVENTURA ALCALDE DISPUTE: Ortega, alcalde at San Buenaventura, annou"
 },
 {
-"key": "ca63-d467-n336",
+"key": "ca63-d474-n336",
 "rating": 2,
 "summary": "THE VICENTA SÁNCHEZ AGUARDIENTE CASE: Stevenson (16 May) re Mrs. Vicenta [Sánche"
 },
 {
-"key": "ca63-d469-n341",
-"rating": 2,
-"summary": "(Doctº en inglés) Reports that twelve jurors sentenced Mathew Fracer[Frazer], Wm"
-},
-{
-"key": "ca63-d470-n341",
+"key": "ca63-d476-n341",
 "rating": 2,
 "summary": "(Doctº en inglés) That Francisco Rico created suspicion of his intention to orga"
 },
 {
-"key": "ca63-d482-n350",
+"key": "ca63-d477-n341",
+"rating": 2,
+"summary": "(Doctº en inglés) Reports that twelve jurors sentenced Mathew Fracer[Frazer], Wm"
+},
+{
+"key": "ca63-d489-n350",
 "rating": 2,
 "summary": "Pide que se le absuelva de la pena pecuniaria de $50 que le aplicó un Juez por h"
 },
 {
-"key": "ca63-d484-n352",
+"key": "ca63-d491-n352",
 "rating": 2,
 "summary": "(Doctº en inglés) Encloses the resignation of [Jean-Baptiste] Col. J.B. Charbonn"
 },
 {
-"key": "ca63-d485-n353",
+"key": "ca63-d492-n353",
 "rating": 2,
 "summary": "THE FOXEN HOMICIDE TRIAL: on 11 May 1848 Pedro Carrillo & Everardo Addison were "
 },
 {
-"key": "ca63-d486-n354",
+"key": "ca63-d493-n354",
 "rating": 2,
 "summary": "THE FOXEN TRIAL TESTIMONY (cont. of doc 485): defense by F.M. Leavenworth; the a"
 },
 {
-"key": "ca63-d487-n356",
+"key": "ca63-d494-n356",
 "rating": 2,
 "summary": "THE FOXEN VERDICT: 'Por decisión unánime del Jurado la corte sentenció á Foxen á"
 },
 {
-"key": "ca63-d491-n359",
+"key": "ca63-d498-n359",
 "rating": 2,
 "summary": "THE MAJORS NATURALIZATION PROCEEDINGS: 'Naturalización de ciudadano americano y "
 },
 {
-"key": "ca63-d495-n363",
+"key": "ca63-d502-n363",
 "rating": 2,
 "summary": "THE SAN JUAN BAUTISTA ELECTION-FRAUD + VAIL/WAIT LAND-DESPOLIATION AFFAIR: (a) t"
 },
 {
-"key": "ca63-d503-n374",
-"rating": 2,
-"summary": "THE STA BÁRBARA BOUNDARY & REPRESENTATION PROTEST: encloses an acta in which the"
-},
-{
-"key": "ca63-d504-n373",
+"key": "ca63-d509-n373",
 "rating": 2,
 "summary": "THE PASQUÍN (LIBELOUS PLACARD) AFFAIR: declares having discovered a pasquín (pla"
 },
 {
-"key": "ca63-d511-n380",
+"key": "ca63-d512-n374",
+"rating": 2,
+"summary": "THE STA BÁRBARA BOUNDARY & REPRESENTATION PROTEST: encloses an acta in which the"
+},
+{
+"key": "ca63-d518-n380",
 "rating": 2,
 "summary": "THE BAJA-CALIFORNIA ARMISTICE: avisa que el 27 de Febrero se firmó un armisticio"
 },
 {
-"key": "ca63-d512-n381",
+"key": "ca63-d519-n381",
 "rating": 2,
 "summary": "THE CASTRO SELF-VINDICATION: supposes that by this date Mason has received his c"
 },
 {
-"key": "ca63-d517-n394",
+"key": "ca63-d524-n394",
 "rating": 2,
 "summary": "THE SAN FERNANDO MISSION LEASE: 'Que D. Juan Manso y D. Andrés Pico han tomado e"
 },
 {
-"key": "ca63-d521-n396",
+"key": "ca63-d528-n396",
 "rating": 2,
 "summary": "THE MINERS' PETITION vs THE ABOLITION OF THE MINING ORDINANCES: the undersigned "
 }
