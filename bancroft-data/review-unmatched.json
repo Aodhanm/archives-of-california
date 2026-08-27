@@ -1,51 +1,6 @@
 [
 {
 "hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-2,
-2
-]
-],
-"leaf": 337,
-"page": "237",
-"raw": "i. 191; Id. xxii. 2. \"",
-"src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-19,
-19
-]
-],
-"leaf": 385,
-"page": "285",
-"raw": "arture. Prov. St. Pap., MS., xxii. 19.",
-"src": "direct"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-3,
-3
-]
-],
-"leaf": 406,
-"page": "306",
-"raw": "ents in Prov. St. Pap., MS., xxii. 3, a",
-"src": "direct"
-},
-{
-"hv": 1,
 "series": "SP-Sac",
 "tomo": 8,
 "pages": [
@@ -58,21 +13,6 @@
 "page": "321",
 "raw": "y says, Id. , 253, t",
 "src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-29,
-29
-]
-],
-"leaf": 444,
-"page": "344",
-"raw": "f 1785, Prov. St. Pap., MS., xxii. 29, i",
-"src": "direct"
 },
 {
 "hv": 1,
@@ -118,21 +58,6 @@
 "page": "368",
 "raw": "majabs. Id., 233. A",
 "src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-20,
-21
-]
-],
-"leaf": 482,
-"page": "382",
-"raw": "ceived. Prov. St. Pap., MS., xxii. 20-1. A",
-"src": "direct"
 },
 {
 "hv": 1,
@@ -216,55 +141,6 @@
 {
 "hv": 1,
 "series": "PSP",
-"tomo": 22,
-"pages": [
-[
-7,
-9
-],
-[
-14,
-14
-]
-],
-"leaf": 589,
-"page": "489",
-"raw": "ghting uProv. St. Pap., MS., xxii. 7-9, 14; x",
-"src": "direct"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-101,
-101
-]
-],
-"leaf": 594,
-"page": "494",
-"raw": ". Mesa. Id., xxii. 101. R",
-"src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-13,
-15
-]
-],
-"leaf": 601,
-"page": "501",
-"raw": "e date. Prov. St. Pap., MS., xxii. 13-15. 3",
-"src": "direct"
-},
-{
-"hv": 1,
-"series": "PSP",
 "tomo": 11,
 "pages": [
 [
@@ -310,36 +186,6 @@
 {
 "hv": 1,
 "series": "PSP",
-"tomo": 22,
-"pages": [
-[
-24,
-24
-]
-],
-"leaf": 697,
-"page": "597",
-"raw": "ackled. Prov. St. Pap., MS., xxii. 24.",
-"src": "direct"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-15,
-15
-]
-],
-"leaf": 705,
-"page": "605",
-"raw": "Loreto. Prov. St. Pap., MS., xxii. 15. S",
-"src": "direct"
-},
-{
-"hv": 1,
-"series": "PSP",
 "tomo": 17,
 "pages": [
 [
@@ -380,21 +226,6 @@
 "leaf": 799,
 "page": "699",
 "raw": "lanade. Id., xi. 174. J",
-"src": "Id"
-},
-{
-"hv": 1,
-"series": "PSP",
-"tomo": 21,
-"pages": [
-[
-2,
-2
-]
-],
-"leaf": 818,
-"page": "718",
-"raw": "ordoba. Id., xxi. 2T>7",
 "src": "Id"
 },
 {
@@ -539,21 +370,6 @@
 {
 "hv": 2,
 "series": "PSP",
-"tomo": 22,
-"pages": [
-[
-26,
-26
-]
-],
-"leaf": 209,
-"page": "187",
-"raw": "Mexico. Prov. St. Pap., MS., xxii. 26. 8",
-"src": "direct"
-},
-{
-"hv": 2,
-"series": "PSP",
 "tomo": 18,
 "pages": [
 [
@@ -628,36 +444,6 @@
 "leaf": 314,
 "page": "292",
 "raw": "st (?). Dept. Rec., i. 273. 6",
-"src": "direct"
-},
-{
-"hv": 2,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-28,
-28
-]
-],
-"leaf": 332,
-"page": "310",
-"raw": "fornia. Prov. St. Pap., MS., xxii. 28; N",
-"src": "direct"
-},
-{
-"hv": 2,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-27,
-27
-]
-],
-"leaf": 361,
-"page": "339",
-"raw": "Mexico. Prov. St. Pap., MS., xxii. 27. <",
 "src": "direct"
 },
 {
@@ -883,21 +669,6 @@
 "leaf": 603,
 "page": "581",
 "raw": "n 1828. Dept. St. Pap., Ben. Mil., MS., Ivii. 27; I",
-"src": "direct"
-},
-{
-"hv": 2,
-"series": "PSP",
-"tomo": 22,
-"pages": [
-[
-24,
-24
-]
-],
-"leaf": 605,
-"page": "583",
-"raw": "4, 55; Prov. St. Pap., MS., xxii. 24. A",
 "src": "direct"
 },
 {
