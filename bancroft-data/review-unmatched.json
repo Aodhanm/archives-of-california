@@ -156,21 +156,6 @@
 {
 "hv": 1,
 "series": "PSP",
-"tomo": 18,
-"pages": [
-[
-23,
-23
-]
-],
-"leaf": 645,
-"page": "545",
-"raw": "chatka. Prov. St. Pap., MS., xviii. 23; P",
-"src": "direct"
-},
-{
-"hv": 1,
-"series": "PSP",
 "tomo": 17,
 "pages": [
 [
@@ -212,6 +197,21 @@
 "page": "648",
 "raw": ", $539. Id., xvii. 1. 1",
 "src": "Id"
+},
+{
+"hv": 1,
+"series": "PSP",
+"tomo": 18,
+"pages": [
+[
+11,
+11
+]
+],
+"leaf": 781,
+"page": "681",
+"raw": "xpense. Prov. St. Pap., MS., xviii. 11. 1",
+"src": "direct"
 },
 {
 "hv": 1,

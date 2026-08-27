@@ -905,37 +905,37 @@
 "summary": "'Disposicn sobre marints ingleses = qe remitirá armas.' 'qe ha ordenado á Arrill"
 },
 {
-"key": "ca11-d16-n31",
+"key": "ca11-d21-n31",
 "rating": 4,
 "summary": "Savage heading: 'Lista de niños y niñas de la Cuna embarcadas en la Concepcion ("
 },
 {
-"key": "ca11-d17-n31",
+"key": "ca11-d22-n31",
 "rating": 4,
 "summary": "Savage heading: 'Muertes de indios cristianos; declaraciones de gentiles acusado"
 },
 {
-"key": "ca11-d285-n256",
+"key": "ca11-d290-n256",
 "rating": 4,
 "summary": "The Lelia Byrd affair told by the San Diego commandant; spans n256-n262, the lon"
 },
 {
-"key": "ca11-d292-n265",
+"key": "ca11-d297-n265",
 "rating": 4,
 "summary": "Spans n265-n268 (verified by reading past the chunk boundary; ends at n268, stam"
 },
 {
-"key": "ca11-d298-n272",
+"key": "ca11-d303-n272",
 "rating": 4,
 "summary": "'Iturrigaray á Gob de Cals - Reclusion de indios' — 'Que ha resuelto no se haga "
 },
 {
-"key": "ca11-d299-n273",
+"key": "ca11-d304-n273",
 "rating": 4,
 "summary": "'Fr. Fermin Fran.co de Lasuen á Fr. José Gasob, Guardian - Informe sobre inconve"
 },
 {
-"key": "ca11-d385-n338",
+"key": "ca11-d390-n338",
 "rating": 4,
 "summary": "MAJOR DOCUMENT — spans n338-n354. Heading: '1804 - Nov.e 10 - Loreto - (Borrador"
 },
@@ -1580,6 +1580,31 @@
 "summary": "Entry text opens at the head of n406: 'Acusa recibo de órden reservada sobre val"
 },
 {
+"key": "ca25-d747-n424",
+"rating": 4,
+"summary": "Heading: '1817.= Septiembre 10 = Sn Gabriel. Gobr al Virrey = Sobre arribada de "
+},
+{
+"key": "ca25-d755-n428",
+"rating": 4,
+"summary": "Heading: '1818 = Marzo 2 = Monterey / Gobr al Virrey. Sobre llegada de Bergantin"
+},
+{
+"key": "ca25-d776-n464",
+"rating": 4,
+"summary": "Llegada de buques Activo y Valdez. Se concede permiso de retiro a Fr. Antonio Sa"
+},
+{
+"key": "ca25-d806-n467",
+"rating": 4,
+"summary": "El teniente Coronel Pedro Alberni fallecio en Monterrey el 11 del Marzo ultimo. "
+},
+{
+"key": "ca25-d827-n468",
+"rating": 4,
+"summary": "Se aprobaron los gastos de compostura de los fuertes de S. Joaquin y Yerbabuena "
+},
+{
 "key": "ca26-d80-n23",
 "rating": 4,
 "summary": "The Il'men capture: remitir con escolta a los 25 hombres apresados con su 'Capit"
@@ -2048,6 +2073,76 @@
 "key": "ca39-d140-n358",
 "rating": 4,
 "summary": "'Relacion de los SS. Empleados que tienen sueldo por esta Tesoreria Departamenta"
+},
+{
+"key": "ca40-d88-n76",
+"rating": 4,
+"summary": "Spans n76-n79; the longest item in this run (13 pp). 'Sobre cobro de derechos de"
+},
+{
+"key": "ca40-d89-n77",
+"rating": 4,
+"summary": "Spans n77-n78. Enclosure inside the 10 July Herrera abstract; Savage transcribes"
+},
+{
+"key": "ca40-d90-n78",
+"rating": 4,
+"summary": "Spans n78-n79. Second enclosure quoted verbatim inside the 10 July Herrera abstr"
+},
+{
+"key": "ca40-d94-n81",
+"rating": 4,
+"summary": "'Derechos de aduana. Cobrados en el 2o cuatrimestre de este ano' -- customs duti"
+},
+{
+"key": "ca41-d110-n95",
+"rating": 4,
+"summary": "Spans n95-n96. Sobre pago de derechos y sus intenciones de establecerse aquí con"
+},
+{
+"key": "ca41-d118-n102",
+"rating": 4,
+"summary": "spans n102-n103. Full payroll of the Monterey custom house. Heading: 'Lista de l"
+},
+{
+"key": "ca41-d127-n108",
+"rating": 4,
+"summary": "spans n108-n110. FIRST document of Vol. VII, and the opening shot of the Ramirez"
+},
+{
+"key": "ca41-d138-n118",
+"rating": 4,
+"summary": "'sobre facilidades p.a hacer contrabando' [on the facilities for smuggling]. 'Se"
+},
+{
+"key": "ca41-d151-n127",
+"rating": 4,
+"summary": "'Remite el Reglam.to a q.e habian de sujetarse los buques balleneros y las lanch"
+},
+{
+"key": "ca41-d153-n129",
+"rating": 4,
+"summary": "'Comunica ciertas medidas restringiendo el uso depravado del juego y la embriagu"
+},
+{
+"key": "ca41-d154-n130",
+"rating": 4,
+"summary": "'Comunica: que al llegar a este Puerto, se encontro fondeada la barca Rusa Joven"
+},
+{
+"key": "ca41-d155-n131",
+"rating": 4,
+"summary": "'Comunica haber recalado a este Puerto la barca Inglesa Los Hermanos procedente "
+},
+{
+"key": "ca41-d156-n132",
+"rating": 4,
+"summary": "'Comunica: que el pretesto que los buques balleneros alegaban para ir al Sausali"
+},
+{
+"key": "ca41-d158-n133",
+"rating": 4,
+"summary": "'Cuenta Gral. de Cargo y Data con otros documentos q.e la justifican, del costo "
 },
 {
 "key": "ca42-d1267-n452",
@@ -3805,14 +3900,49 @@
 "summary": "*Estragos del terremoto de 1812* — the Great Stone Church (cal y canto, blessed "
 },
 {
-"key": "ca50-d439-n405",
+"key": "ca50-d440-n405",
 "rating": 4,
 "summary": "La Purísima SECULARIZATION INVENTORY — *Inventario general de los bienes de la M"
 },
 {
-"key": "ca50-d442-n407",
+"key": "ca50-d441-n407",
 "rating": 4,
 "summary": "*Exposición sobre el derecho que tienen los indios á los bienes de las Misiones*"
+},
+{
+"key": "ca50-d460-n422",
+"rating": 4,
+"summary": "Spans n422-n423. Heading: 1836. Abril 27. Sn Antonio. / Inventario General y ava"
+},
+{
+"key": "ca50-d461-n423",
+"rating": 4,
+"summary": "Spans n423-n424. Heading: 1835. Abril 27 Sn Antonio / Manuel Crespo (Comisionado"
+},
+{
+"key": "ca50-d463-n425",
+"rating": 4,
+"summary": "Heading: 1835. Dic. 1o. Sta. Cruz. / Inventario general y avaluo de los bienes d"
+},
+{
+"key": "ca50-d465-n426",
+"rating": 4,
+"summary": "Spans n426-n427 (n427 carries the pencil running head Dec 1834). Heading: 1834. "
+},
+{
+"key": "ca50-d467-n428",
+"rating": 4,
+"summary": "Heading: 1835. Agosto 12. La Soledad. / Inventario general y avaluo de los biene"
+},
+{
+"key": "ca50-d468-n429",
+"rating": 4,
+"summary": "Heading: 1834. Dic. 31. Sn Rafael (pueblo) / Ignacio Martinez : Estado de Bienes"
+},
+{
+"key": "ca50-d469-n429",
+"rating": 4,
+"summary": "Spans n429-n430. Heading: 1834. Set. 31. San Rafael. / Inventario general y aval"
 },
 {
 "key": "ca51-d15-n10",
@@ -4223,6 +4353,21 @@
 "key": "ca57-d138-n168",
 "rating": 4,
 "summary": "CONQUEST-EVE MOBILIZATION + bar-settlers cluster: Reglamento to raise troop corp"
+},
+{
+"key": "ca58-d35-n80",
+"rating": 4,
+"summary": "Fagoaga 'decretando efectivo el:' 'Tratado para la demarcacion de los Limites de"
+},
+{
+"key": "ca58-d54-n84",
+"rating": 4,
+"summary": "SPANS n84-n85. 'Copia de un decreto del sup.mo Gob.no, pidiendo informe sobre 'l"
+},
+{
+"key": "ca58-d61-n86",
+"rating": 4,
+"summary": "SPANS n86-n87. Heading: 'Estado lamentable de la Comisaria g.l de Sonora.' Mendo"
 },
 {
 "key": "ca61-d13-n31",
@@ -6870,102 +7015,102 @@
 "summary": "Heading: '1799 = Julio 6 = México / Azanza á Borica. Sobre licencª qe le concedi"
 },
 {
-"key": "ca11-d12-n28",
+"key": "ca11-d17-n28",
 "rating": 3,
 "summary": "Savage heading: 'Marcha p.a Monterrey de Alberni: se lleva consigo la mayor part"
 },
 {
-"key": "ca11-d13-n29",
+"key": "ca11-d18-n29",
 "rating": 3,
 "summary": "Savage heading: 'Traslado de indios presos' [= transfer of imprisoned Indians]. "
 },
 {
-"key": "ca11-d14-n29",
+"key": "ca11-d19-n29",
 "rating": 3,
 "summary": "Savage heading: 'Sobre no poseer titulo el Cirujano Morelos: q.e reemplaze á Pab"
 },
 {
-"key": "ca11-d284-n256",
+"key": "ca11-d289-n256",
 "rating": 3,
 "summary": "Extract of the papers of the American vessel that would raid San Diego in 1803: "
 },
 {
-"key": "ca11-d286-n263",
+"key": "ca11-d291-n263",
 "rating": 3,
 "summary": "Rubric: 'De la Guerra a Arrillaga. Fabricacion de loza' [= pottery manufacture]."
 },
 {
-"key": "ca11-d291-n265",
+"key": "ca11-d296-n265",
 "rating": 3,
 "summary": "'Onofre Villalva (*) a Arrillaga. Devolucion de pieles' [= return of skins]. 'Pi"
 },
 {
-"key": "ca11-d293-n269",
+"key": "ca11-d298-n269",
 "rating": 3,
 "summary": "Savage heading: 'José Velasquez al Gob Arrillaga. Acusa de haber sido cohechado "
 },
 {
-"key": "ca11-d295-n271",
+"key": "ca11-d300-n271",
 "rating": 3,
 "summary": "'Iturrigaray á Gob de Cals - Sobre buques balleneros contrabandistas' — 'Que env"
 },
 {
-"key": "ca11-d296-n271",
+"key": "ca11-d301-n271",
 "rating": 3,
 "summary": "'Pedro Ceballos al Virey de N.E. = Relativa á buques contrabandistas' — 'Partici"
 },
 {
-"key": "ca11-d362-n323",
+"key": "ca11-d367-n323",
 "rating": 3,
 "summary": "'Sobre pobladores.' 'Traslada nota del Virrey en qe le dice qe en virtud de su i"
 },
 {
-"key": "ca11-d365-n324",
+"key": "ca11-d370-n324",
 "rating": 3,
 "summary": "spans n324-n325. 'Noticias de buques qe arriben.' 'Les previene qe inmediatamte."
 },
 {
-"key": "ca11-d367-n325",
+"key": "ca11-d372-n325",
 "rating": 3,
 "summary": "spans n325-n327. 'Sobre medidas de granos.' 'El Exmo. Sr. Virrey á solicitud mia"
 },
 {
-"key": "ca11-d369-n328",
+"key": "ca11-d374-n328",
 "rating": 3,
 "summary": "'Cédula sobre matrimonios.' 'Traslada la Rl. órden qe le fué comunicada pr el Vi"
 },
 {
-"key": "ca11-d374-n330",
+"key": "ca11-d379-n330",
 "rating": 3,
 "summary": "'Sobre Fragata Alexander.' 'Que recibió el parte de haber llegado á aquel Pto. e"
 },
 {
-"key": "ca11-d375-n334",
+"key": "ca11-d380-n334",
 "rating": 3,
 "summary": "Warning circulated by express about an American frigate. Heading: '1804 - Set.e "
 },
 {
-"key": "ca11-d376-n335",
+"key": "ca11-d381-n335",
 "rating": 3,
 "summary": "Complaint against the Habilitado General. Heading: '1804 - Set.e 3 - Mont - José"
 },
 {
-"key": "ca11-d377-n335",
+"key": "ca11-d382-n335",
 "rating": 3,
 "summary": "Report of a failed campaign against unconverted Indians. Heading: '1804 - Set.e "
 },
 {
-"key": "ca11-d379-n336",
+"key": "ca11-d384-n336",
 "rating": 3,
 "summary": "Heading: '1804 - Set.e 28 - S.n Fran.co - Argüello á Arrillaga.' Abstract: 'Avis"
 },
 {
-"key": "ca11-d382-n337",
+"key": "ca11-d387-n337",
 "rating": 3,
 "summary": "Ecclesiastical jurisdiction over the province. Heading: '1804 - Oct.e 30 - S.n F"
 },
 {
-"key": "ca11-d384-n337",
+"key": "ca11-d389-n337",
 "rating": 3,
 "summary": "Heading: '1804 - Nov.e 28 - S.n Fran.co - Argüello á Arrillaga.' Abstract: 'Que "
 },
@@ -8555,6 +8700,81 @@
 "summary": "Second bullet of the Enero 20 run, its text completing at the head of n407 (Sava"
 },
 {
+"key": "ca25-d744-n423",
+"rating": 3,
+"summary": "'Que continue el derecho de 6 rs por barril de Mescal.' [= that the duty of 6 re"
+},
+{
+"key": "ca25-d778-n464",
+"rating": 3,
+"summary": "Considera Como muy util el proyecto de Luis Perez de Tagle. [= he considers Luis"
+},
+{
+"key": "ca25-d800-n466",
+"rating": 3,
+"summary": "Que no ha recibido queja sobre la no asistencia espiritual de los ministros. [= "
+},
+{
+"key": "ca25-d801-n466",
+"rating": 3,
+"summary": "Sobre Representacion del guardian de S. Fernando. [= on the representation of th"
+},
+{
+"key": "ca25-d804-n467",
+"rating": 3,
+"summary": "En mal estado estan los almacenes del presidio de Monterrey. [= the warehouses o"
+},
+{
+"key": "ca25-d805-n467",
+"rating": 3,
+"summary": "Sobre huracan. [= on a hurricane]"
+},
+{
+"key": "ca25-d816-n467",
+"rating": 3,
+"summary": "Se cumplen los religiosos? [= are the religious fulfilling their duties?] - Sava"
+},
+{
+"key": "ca25-d819-n468",
+"rating": 3,
+"summary": "Sobre misas. Que el teniente Jose Perez puede remplasar a Felipe Goycoechea en l"
+},
+{
+"key": "ca25-d826-n468",
+"rating": 3,
+"summary": "Se sembro Canamo. [= hemp was sown]"
+},
+{
+"key": "ca25-d829-n468",
+"rating": 3,
+"summary": "Se traslado Joaquin Sanchez a S. Jose. [= Joaquin Sanchez was transferred to San"
+},
+{
+"key": "ca25-d831-n468",
+"rating": 3,
+"summary": "Que no hay efectos para los voluntarios de Cataluna. [= that there are no suppli"
+},
+{
+"key": "ca25-d833-n469",
+"rating": 3,
+"summary": "Envio de Cedulas de retiro. Queda interado de la sentencia de S. M. contra los i"
+},
+{
+"key": "ca25-d834-n469",
+"rating": 3,
+"summary": "Sobre misas. Que se recojan datos sobre existencia de fabricas y telares. [= on "
+},
+{
+"key": "ca25-d837-n469",
+"rating": 3,
+"summary": "Que Jose Lujan [?] no es apto al mando de un presidio. [= that Jose Lujan[?] is "
+},
+{
+"key": "ca25-d839-n469",
+"rating": 3,
+"summary": "Sobre rechazos [?], memorias, jornales y fallecimiento del Coronel Pedro Alberni"
+},
+{
 "key": "ca26-d81-n24",
 "rating": 3,
 "summary": "(5 docs) instruir la conducta del Sgto. retirado José Ortega, sospechoso de obra"
@@ -8895,17 +9115,102 @@
 "summary": "The capstone dispatch to Mexico City: relata la revolución del 7 de Marzo en Los"
 },
 {
-"key": "ca29-d91-n117",
+"key": "ca29-d84-n117",
 "rating": 3,
 "summary": "'Sobre sublevaciones' (the Chico overthrow in detail): el contrato con Guillermo"
 },
 {
-"key": "ca29-d92-n118",
+"key": "ca29-d85-n118",
 "rating": 3,
 "summary": "Chico's departure circular: las perturbaciones que agitaron el sosiego público —"
 },
 {
-"key": "ca29-d186-n245",
+"key": "ca29-d93-n124",
+"rating": 3,
+"summary": "'Sobre haberse declarado bloqueados los ptos. de la Republica Mejicana pr. el co"
+},
+{
+"key": "ca29-d95-n124",
+"rating": 3,
+"summary": "'Que el Vocal 1o. qe. fuese de la junta de este Departamto. reasuma el Gobno. Po"
+},
+{
+"key": "ca29-d101-n125",
+"rating": 3,
+"summary": "'Sobre la ley de amnistia y de qe. no se persiga a persona algo. pr. sus hechos "
+},
+{
+"key": "ca29-d102-n125",
+"rating": 3,
+"summary": "'Sobre el nombramto. qe. se le da al Capitan Dn. Guadalupe Vallejo, de Comte. Mi"
+},
+{
+"key": "ca29-d104-n125",
+"rating": 3,
+"summary": "'Sobre nombramto. del Capitan Dn. Andres Castillero de comisionado del Supo. Gob"
+},
+{
+"key": "ca29-d136-n128",
+"rating": 3,
+"summary": "'Sobre la eleccion qe. se hizo pa. Obispo al R.P.F. Franco. Garcia Diego' [the e"
+},
+{
+"key": "ca29-d141-n129",
+"rating": 3,
+"summary": "'Sobre autorizar pa. hacer una fortificacion en la Isla de los Angeles pa. el ob"
+},
+{
+"key": "ca29-d148-n129",
+"rating": 3,
+"summary": "'Sobre haberse recibido la calificacion de las elecciones y de qe. el Sr. Diputa"
+},
+{
+"key": "ca29-d153-n130",
+"rating": 3,
+"summary": "'Aprobando la division de ambas Californias en Distritos y Partidos, y de la dot"
+},
+{
+"key": "ca29-d163-n131",
+"rating": 3,
+"summary": "'Sobre declaracion de Supo. Poder Conservador pa. la reforma de la leyes Constit"
+},
+{
+"key": "ca29-d185-n133",
+"rating": 3,
+"summary": "'Sobre haberse dado pasaporte pa. hacer un viaje cientifico en este Departamto. "
+},
+{
+"key": "ca29-d189-n133",
+"rating": 3,
+"summary": "'Pidiendo informe sobre una cantidad qe. ecsigio Dn. Carlos Carrillo a unos estr"
+},
+{
+"key": "ca29-d194-n133",
+"rating": 3,
+"summary": "'Sobre el juramto. qe. ha prestado el Sr. Obispo de Californias' [the oath taken"
+},
+{
+"key": "ca29-d196-n134",
+"rating": 3,
+"summary": "'Permitiendo qe. los estrangeros casados con Mejicas. qe. se ingirieran en la re"
+},
+{
+"key": "ca29-d197-n134",
+"rating": 3,
+"summary": "'Providenciando qe. los estrangeros qe. se introduscan ilegalmte. al pais sean e"
+},
+{
+"key": "ca29-d205-n134",
+"rating": 3,
+"summary": "'Pidiendo una noticia sobre el valor de las propiedades qe. dicen algs. estrange"
+},
+{
+"key": "ca29-d214-n135",
+"rating": 3,
+"summary": "'Previniendo se tome posesion del establecimto. de Ross qe. ocupaban los Rusos, "
+},
+{
+"key": "ca29-d306-n245",
 "rating": 3,
 "summary": "Castro's inaugural speech as Prefect — 'Discurso pronunciado pr. el Tente. Corl."
 },
@@ -9870,14 +10175,179 @@
 "summary": "The full Open-Door defense. Quoting the Comisº Genⁿ's 7-Dec reprimand (for letti"
 },
 {
-"key": "ca40-d253-n163",
+"key": "ca40-d82-n72",
+"rating": 3,
+"summary": "Spans n72-n73. Complaint that since entering the Comisaria in Aug. 1825 he has b"
+},
+{
+"key": "ca40-d84-n74",
+"rating": 3,
+"summary": "'Sobre toma de razon de despachos de Ofic.s' [on the registration of officers' c"
+},
+{
+"key": "ca40-d86-n75",
+"rating": 3,
+"summary": "'Sobre sueldos de ofic.s'. Reports that Comisario Herrera has warned him that if"
+},
+{
+"key": "ca40-d87-n75",
+"rating": 3,
+"summary": "'Sobre nombramto de Comiso subalto en San Franco.' Notifies him that he has appo"
+},
+{
+"key": "ca40-d91-n79",
+"rating": 3,
+"summary": "'Escasez de viveres pa la guarnicion - falta de recursos.' Reports that despite "
+},
+{
+"key": "ca40-d92-n80",
+"rating": 3,
+"summary": "'Falta de viveres pa la tropa.' Having absolutely no grain with which to ration "
+},
+{
+"key": "ca40-d93-n80",
+"rating": 3,
+"summary": "'Suministros por las misiones. En el 2o cuatrimestre de este ano' [mission suppl"
+},
+{
+"key": "ca40-d95-n81",
+"rating": 3,
+"summary": "Spans n81-n82 (ends at top of n82, cite pp 617-20). 'Compa Presidial': Capt. Jos"
+},
+{
+"key": "ca40-d268-n163",
 "rating": 3,
 "summary": "Sobre colonización. Transcribes Suprema órden: por orden de la Tesorería Gral (2"
 },
 {
-"key": "ca40-d254-n165",
+"key": "ca40-d269-n165",
 "rating": 3,
 "summary": "PRESUPUESTO pª marcha y colonización en Californias (itemized, Pesos/Rs/Gs): Teo"
+},
+{
+"key": "ca41-d97-n86",
+"rating": 3,
+"summary": "Sobre receptor en S. Fran.co. 'Se da por enterado de que el Gob.r no aprueba á D"
+},
+{
+"key": "ca41-d98-n86",
+"rating": 3,
+"summary": "Spans n86-n87. Sobre comercio de cabotage y menudeo por buques estrangeros. 'Tra"
+},
+{
+"key": "ca41-d101-n88",
+"rating": 3,
+"summary": "Spans n88-n89. Reglam.to p.a el comercio estrangero. 'Hoy ha circulado á los sob"
+},
+{
+"key": "ca41-d104-n90",
+"rating": 3,
+"summary": "Sobre esped.n en la sierra contra indios. 'Dice que las frecuentes invasiones de"
+},
+{
+"key": "ca41-d105-n90",
+"rating": 3,
+"summary": "Spans n90-n91. Sobre ausilios p.a una fuerza ausiliar. 'Dice que en los dias de "
+},
+{
+"key": "ca41-d106-n91",
+"rating": 3,
+"summary": "Sobre estraccion de efectos de los buques. 'Orden terminante que ningun empleado"
+},
+{
+"key": "ca41-d107-n92",
+"rating": 3,
+"summary": "Spans n92-n93. Sobre la colectacion de derechos de los buques. 'Dice que á causa"
+},
+{
+"key": "ca41-d108-n93",
+"rating": 3,
+"summary": "Spans n93-n94. Sueldos de oficiales y tripulantes, 'Desde 14 Ag.to 1837 hasta 31"
+},
+{
+"key": "ca41-d109-n94",
+"rating": 3,
+"summary": "In English in the original: 'Invoice ship.d on Schr 'Julia Ann', W.m A. Leidesdo"
+},
+{
+"key": "ca41-d111-n96",
+"rating": 3,
+"summary": "Spans n96-n97. 'El Gob.r Micheltorena el mismo dia 31 de Mayo, decretó: 'En la c"
+},
+{
+"key": "ca41-d120-n104",
+"rating": 3,
+"summary": "'Enterado de las instrucciones dadas a Jose Maria de Hijar nombrado por el Sup.o"
+},
+{
+"key": "ca41-d121-n104",
+"rating": 3,
+"summary": "'Que habiendo recibido orden del Com.te Gen.l de entrar en servicio activo como "
+},
+{
+"key": "ca41-d128-n110",
+"rating": 3,
+"summary": "spans n110-n111. Savage's rubric: 'Sobre su comision de Visitador de Aduanas.' '"
+},
+{
+"key": "ca41-d129-n111",
+"rating": 3,
+"summary": "spans n111-n112. Savage's rubric: 'Sobre la inspeccion de la aduana de Mont.' Po"
+},
+{
+"key": "ca41-d130-n113",
+"rating": 3,
+"summary": "spans n113-n114. Savage's rubric: 'Sobre la inspeccion de la Aduana de Mont.' If"
+},
+{
+"key": "ca41-d131-n114",
+"rating": 3,
+"summary": "Savage's rubric: 'sobre inspeccion de la aduana de Mont.' 'Dice que no ve justic"
+},
+{
+"key": "ca41-d136-n117",
+"rating": 3,
+"summary": "'Gob.r Figueroa - al Admor Ramirez - sobre la sub-comisaria.' The sub-comisaria "
+},
+{
+"key": "ca41-d139-n119",
+"rating": 3,
+"summary": "'Sobre facilidades p.a el contrabando en San Pedro.' 'Pone en su conoc.to lo que"
+},
+{
+"key": "ca41-d140-n119",
+"rating": 3,
+"summary": "'Sobre destitucion de Bandini, del empleo de Visitador.' 'Por el oficio de V. de"
+},
+{
+"key": "ca41-d142-n120",
+"rating": 3,
+"summary": "'Sobre intereses federales.' Osio tells Alvarado that his steps in the case of t"
+},
+{
+"key": "ca41-d144-n121",
+"rating": 3,
+"summary": "'Sobre inspeccion de aduanas por Bandini.' 'Le dice que D.n Juan Bandini en cart"
+},
+{
+"key": "ca41-d145-n122",
+"rating": 3,
+"summary": "'Que ha hecho averig.n sobre la internacion de una lancha hasta el embarcadero d"
+},
+{
+"key": "ca41-d146-n125",
+"rating": 3,
+"summary": "'Acusando recibo a su nota f.ha 5 del presente mes, y dice, haber hecho saber la"
+},
+{
+"key": "ca41-d150-n126",
+"rating": 3,
+"summary": "'Participandole que el dia 12 del p.te tomo posesion de la Sub-recept.a de este "
+},
+{
+"key": "ca41-d157-n132",
+"rating": 3,
+"summary": "'Avisa que en cumplimiento de su nota oficial de 27 del pp.do habia hecho entreg"
 },
 {
 "key": "ca42-d1033-n353",
@@ -13812,57 +14282,72 @@
 {
 "key": "ca50-d359-n335",
 "rating": 3,
-"summary": "*Efectos del terremoto de 1812* — buildings much damaged by 3 earthquakes ('nos "
+"summary": "*Informe sobre los efectos del terremoto en las Iglesias de su jurisdicción* — t"
 },
 {
 "key": "ca50-d360-n335",
 "rating": 3,
-"summary": "*Informe sobre los efectos del terremoto en las Iglesias de su jurisdicción* — t"
+"summary": "*Efectos del terremoto de 1812* — buildings much damaged by 3 earthquakes ('nos "
 },
 {
-"key": "ca50-d427-n398",
+"key": "ca50-d428-n398",
 "rating": 3,
 "summary": "1833 cumulative *Cuadro Estadístico* of the 13 Fernandino (southern) missions (⚠"
 },
 {
-"key": "ca50-d443-n408",
+"key": "ca50-d444-n408",
 "rating": 3,
 "summary": "Sta Bárbara secularization inventory (church/sacristy/library extract of the gen"
 },
 {
-"key": "ca50-d446-n410",
+"key": "ca50-d447-n410",
 "rating": 3,
 "summary": "San Juan Capistrano inventory + avalúo — active credits $13,183; habitation bldg"
 },
 {
-"key": "ca50-d447-n411",
+"key": "ca50-d448-n411",
 "rating": 3,
 "summary": "full Sta Bárbara general inventory + avalúo — active credits $14,953.44; buildin"
 },
 {
-"key": "ca50-d449-n413",
+"key": "ca50-d450-n413",
 "rating": 3,
 "summary": "San Antonio general inventory + avalúo — active credits $18,642.62; buildings $1"
 },
 {
-"key": "ca50-d452-n416",
+"key": "ca50-d453-n416",
 "rating": 3,
 "summary": "Santa Cruz secularization inventory + avalúo — active credits $2,333.12; buildin"
 },
 {
-"key": "ca50-d456-n419",
+"key": "ca50-d457-n419",
 "rating": 3,
 "summary": "La Soledad secularization inventory + avalúo — buildings $1,764; furniture/tools"
 },
 {
-"key": "ca50-d457-n420",
+"key": "ca50-d458-n420",
 "rating": 3,
 "summary": "*Estado de Bienes semovientes repartidos á los indios* — by order of Comandante "
 },
 {
-"key": "ca50-d458-n420",
+"key": "ca50-d459-n420",
 "rating": 3,
 "summary": "San Rafael secularization inventory + avalúo (the volume's LAST document) — acti"
+},
+{
+"key": "ca50-d462-n424",
+"rating": 3,
+"summary": "Heading: 1834. Dic. 31. Pueblo Sn Antonio / Manuel Crespo. : Padron general de l"
+},
+{
+"key": "ca50-d464-n426",
+"rating": 3,
+"summary": "Heading: 1839. Marzo 22. San Diego / Sueldos de los empleados de la Ex-mision de"
+},
+{
+"key": "ca50-d466-n427",
+"rating": 3,
+"summary": "Heading: 1834. Nov. 12 San Antonio (pueblo) / Manuel Crespo. = Padron de habitan"
 },
 {
 "key": "ca51-d4-n5",
@@ -14688,6 +15173,61 @@
 "key": "ca57-d140-n176",
 "rating": 3,
 "summary": "1845 Aug 6 — Pres. HERRERA's FISCAL-AUTONOMY decree: al Departamento de Californ"
+},
+{
+"key": "ca58-d36-n80",
+"rating": 3,
+"summary": "'Decreto sobre destierro de estrang.s perjudiciales al orden publico.' [= decree"
+},
+{
+"key": "ca58-d39-n81",
+"rating": 3,
+"summary": "'Decreto sobre rehabilitac.n de Gefes, oficiales y tropa suspensos por la ley de"
+},
+{
+"key": "ca58-d42-n81",
+"rating": 3,
+"summary": "'Decreto de [word struck out] nombrando a Farias secretario de Hac.a' [= decree "
+},
+{
+"key": "ca58-d45-n82",
+"rating": 3,
+"summary": "'Decreto que anula la division del ejercito nac.l en Libertador y Federal.' [= d"
+},
+{
+"key": "ca58-d46-n82",
+"rating": 3,
+"summary": "Decreto: 'Se declara vigente la Ley de 23 de Mayo 32.' (2 ejemplr.s) [= decree d"
+},
+{
+"key": "ca58-d48-n83",
+"rating": 3,
+"summary": "'Disposiciones sobre formacion de listas de individuos que perciben por cualq.r "
+},
+{
+"key": "ca58-d53-n84",
+"rating": 3,
+"summary": "'mandan el decr.o sig.te:' 'Decreto sobre estracc.n de efectos estrang.s de las "
+},
+{
+"key": "ca58-d56-n85",
+"rating": 3,
+"summary": "'Decreto sobre pago del Ejercito nacional y demas servidores de la federacion.' "
+},
+{
+"key": "ca58-d58-n85",
+"rating": 3,
+"summary": "'Decreto sobre calificacion de despachos provisionales espedidos por A. Bustaman"
+},
+{
+"key": "ca58-d59-n86",
+"rating": 3,
+"summary": "'Decreto, admitiendo, todas personas libres y que carezcan de compromisos locale"
+},
+{
+"key": "ca58-d62-n87",
+"rating": 3,
+"summary": "'Autoriza que la tesoreria de cada Estado espida los certificados de sueldos dev"
 },
 {
 "key": "ca61-d21-n34",
@@ -18655,57 +19195,57 @@
 "summary": "Heading: '1799 = Julio 28 = México / Azanza al Gobr de Cal.' Abstract verbatim: "
 },
 {
-"key": "ca11-d283-n253",
+"key": "ca11-d288-n253",
 "rating": 2,
 "summary": "Annual post-office account of the San Diego presidio for 1803; spans n253-n255. "
 },
 {
-"key": "ca11-d290-n264",
+"key": "ca11-d295-n264",
 "rating": 2,
 "summary": "Spans n264-n265. 'Informa qe. el soldado Herrera ha cumplido, durante el largo t"
 },
 {
-"key": "ca11-d294-n270",
+"key": "ca11-d299-n270",
 "rating": 2,
 "summary": "'Arrillaga á Comand.tes de Presidios. Sobre Fletes.' — 'Traslada nota del Virrey"
 },
 {
-"key": "ca11-d360-n322",
+"key": "ca11-d365-n322",
 "rating": 2,
 "summary": "'Sobre cultivo de cáñamo' [on hemp cultivation]. 'Que envia órden del Virrey en "
 },
 {
-"key": "ca11-d364-n324",
+"key": "ca11-d369-n324",
 "rating": 2,
 "summary": "'El Fiscal Borbon al Virrey. Pedimento relativo al expediente sobre reparaciones"
 },
 {
-"key": "ca11-d366-n325",
+"key": "ca11-d371-n325",
 "rating": 2,
 "summary": "'Sellos á medidas de granos.' 'Le participa qe el gasto de sellos qe se deben po"
 },
 {
-"key": "ca11-d368-n327",
+"key": "ca11-d373-n327",
 "rating": 2,
 "summary": "spans n327-n328. 'Memorial del Cirujano Benites.' 'Que ha recibido el memorial q"
 },
 {
-"key": "ca11-d370-n329",
+"key": "ca11-d375-n329",
 "rating": 2,
 "summary": "'Nota de las diferentes clases de bulas qe se ha prevenido al Habilitado de Lore"
 },
 {
-"key": "ca11-d373-n330",
+"key": "ca11-d378-n330",
 "rating": 2,
 "summary": "'Lista de Reales órdenes qe se han comunicado pa conocimto. de los habitantes de"
 },
 {
-"key": "ca11-d380-n336",
+"key": "ca11-d385-n336",
 "rating": 2,
 "summary": "Heading: '1804 - Oct.e 30 - S.n Fran.co - Argüello á Arrillaga.' Abstract: 'Avis"
 },
 {
-"key": "ca11-d381-n336",
+"key": "ca11-d386-n336",
 "rating": 2,
 "summary": "Heading: '1804 - Oct.e 31 - S.n Fran.co - Argüello á Arrillaga. Solicitudes de i"
 },
@@ -22075,6 +22615,131 @@
 "summary": "Bare register line, year written out: '1817 = Enero 1.o Sobre buque. p 530 (1doc"
 },
 {
+"key": "ca25-d742-n423",
+"rating": 2,
+"summary": "'Que se suspenda descuento qe se hacia á oficiales Militares civiles y politicos"
+},
+{
+"key": "ca25-d743-n423",
+"rating": 2,
+"summary": "'Queda enterado de órden pasada á Comte Gral. de N Galicia, y pide se atienda á "
+},
+{
+"key": "ca25-d745-n423",
+"rating": 2,
+"summary": "'Adjunta proposiciones hechas ál Capn de Sta Barbara pa qe venga á su compaña' ["
+},
+{
+"key": "ca25-d746-n424",
+"rating": 2,
+"summary": "'Manifiesta no haber recibido correspondencia, y suplica se apuren resortes pa h"
+},
+{
+"key": "ca25-d779-n464",
+"rating": 2,
+"summary": "Que en vista hay 2 buques. [= that 2 ships are in sight]. Savage restates the ye"
+},
+{
+"key": "ca25-d780-n464",
+"rating": 2,
+"summary": "Que salieron para el Colegio de Sn. Fernando los misioneros Lorenzo Morelos [?] "
+},
+{
+"key": "ca25-d781-n464",
+"rating": 2,
+"summary": "Sobre mal estado de la Iglesia de Monterrey y llegada de las fragatas Princesa y"
+},
+{
+"key": "ca25-d798-n466",
+"rating": 2,
+"summary": "Sobre vigilancia y Condena de un reo. [= on surveillance and the sentencing of a"
+},
+{
+"key": "ca25-d799-n466",
+"rating": 2,
+"summary": "Sobre representacion de un padre, beneficio de Canamo, recibo de documentos. [= "
+},
+{
+"key": "ca25-d802-n466",
+"rating": 2,
+"summary": "Cuentas y recibo del arancel del Govr Felipe Neve. [= accounts, and receipt of t"
+},
+{
+"key": "ca25-d808-n467",
+"rating": 2,
+"summary": "Se autorisa al Capitan Jose Font el ir a mejico. Recibo de ordenes. [= Captain J"
+},
+{
+"key": "ca25-d810-n467",
+"rating": 2,
+"summary": "Condena de un reo. Cuentas. [= sentencing of a prisoner; accounts]"
+},
+{
+"key": "ca25-d813-n467",
+"rating": 2,
+"summary": "Cuentas. Retiro de habilitado. [= accounts; retirement of a habilitado]"
+},
+{
+"key": "ca25-d824-n468",
+"rating": 2,
+"summary": "Envia de extractos. Llegada de la fragata Princesa. [= sends extracts; arrival o"
+},
+{
+"key": "ca25-d835-n469",
+"rating": 2,
+"summary": "En el ano de 98 no toco en bergantin Activo en Monterrey. [= in the year 98 the "
+},
+{
+"key": "ca25-d836-n469",
+"rating": 2,
+"summary": "Salida de fragata Princesa. [= departure of the frigate Princesa]"
+},
+{
+"key": "ca25-d838-n469",
+"rating": 2,
+"summary": "Pedido de azogue y tabaco. [= request for quicksilver and tobacco]"
+},
+{
+"key": "ca25-d842-n469",
+"rating": 2,
+"summary": "Inventario de bienes. [= inventory of goods/estate]"
+},
+{
+"key": "ca25-d853-n511",
+"rating": 2,
+"summary": "'Dn José dela Guerra trajo Cajones dela Comisaria de Sn Blas. — Sobre efectos.' "
+},
+{
+"key": "ca25-d855-n511",
+"rating": 2,
+"summary": "'Los artilleros de este presidio, solicitan sus sueldos atrazados.' [The artille"
+},
+{
+"key": "ca25-d857-n512",
+"rating": 2,
+"summary": "'Manda una denuncia — Le pagaron los artilleros.' [He forwards a denuncia/compla"
+},
+{
+"key": "ca25-d862-n513",
+"rating": 2,
+"summary": "'Aprueba el castigo que impuso á un artillero - Recibió su presupuesto - Que se "
+},
+{
+"key": "ca25-d863-n513",
+"rating": 2,
+"summary": "'Recibió sus oficios y dio orden al artillero José Varias de trasladarse á este "
+},
+{
+"key": "ca25-d865-n514",
+"rating": 2,
+"summary": "'Que despache 2 artilleros para Sn. Francisco. - Manda 2 nombramientos de Sargen"
+},
+{
+"key": "ca25-d868-n514",
+"rating": 2,
+"summary": "'Manda un Reo; aprueba que Juan Martinez se encargue del destacamento de S. Dieg"
+},
+{
 "key": "ca26-d69-n19",
 "rating": 2,
 "summary": "Enterado de que capturó en Santa Bárbara la fragata [americana] *Mercurio* (cuyo"
@@ -22850,92 +23515,392 @@
 "summary": "The split succession: por oficio de Figueroa del 29 de Sep (gravemente enfermo) "
 },
 {
-"key": "ca29-d94-n120",
+"key": "ca29-d87-n120",
 "rating": 2,
 "summary": "Indian-raiding complaint: los robos de caballada a los Tulares aumentan y los la"
 },
 {
-"key": "ca29-d99-n154",
+"key": "ca29-d94-n124",
+"rating": 2,
+"summary": "'Sobre el cumplimto. de los arts. de las tratadas de amistad, comercio y navegac"
+},
+{
+"key": "ca29-d99-n124",
+"rating": 2,
+"summary": "'Sobre qe. se hagan entregar todos los bienes raices y muebles u otras perteneci"
+},
+{
+"key": "ca29-d100-n125",
+"rating": 2,
+"summary": "'Dandose las gracias al Gobr. del Departamto. donativo qe. se le habia hecho al "
+},
+{
+"key": "ca29-d105-n125",
+"rating": 2,
+"summary": "'Sobre dar una noticia de los terrenos colonizables, establecimtos. qe. se han f"
+},
+{
+"key": "ca29-d110-n126",
+"rating": 2,
+"summary": "'Pidiendo se enpadronen los estrangeros qe. existan en este pais, y se remita un"
+},
+{
+"key": "ca29-d112-n126",
+"rating": 2,
+"summary": "'Participando haber fondeado nuevas fuerzas Navales Francesas en las aguas de Ve"
+},
+{
+"key": "ca29-d114-n126",
+"rating": 2,
+"summary": "'Pidiendo una lista del numo. de estrangeros qe. reciben en este Departamento' ["
+},
+{
+"key": "ca29-d115-n126",
+"rating": 2,
+"summary": "'Comisionando al Mnstro. el Sr. Cueva pa. el arreglo de las diferencias subcitad"
+},
+{
+"key": "ca29-d116-n126",
+"rating": 2,
+"summary": "'Emplazando a los subditos Franpa. [Franceses] qe. salgan fuera de la Republica'"
+},
+{
+"key": "ca29-d117-n126",
+"rating": 2,
+"summary": "'Suspendiendo provicionalmte. la salida de los Franceses qe. esten dando algn. s"
+},
+{
+"key": "ca29-d118-n126",
+"rating": 2,
+"summary": "'Comunicando el tpo. adquirido contra los franceses' [reporting the tpo. [= triu"
+},
+{
+"key": "ca29-d119-n127",
+"rating": 2,
+"summary": "'Que se proceda enterar en las tesorerias Departamentales, todo lo qe. hay exist"
+},
+{
+"key": "ca29-d121-n127",
+"rating": 2,
+"summary": "'Que el certificado con qe. pidan pasaporte y carta de seguridad los estrangeros"
+},
+{
+"key": "ca29-d122-n127",
+"rating": 2,
+"summary": "'Contraida a la Supa. disposicion sobre qe. los pasaportes y cartas de seguridad"
+},
+{
+"key": "ca29-d123-n127",
+"rating": 2,
+"summary": "'Que anuncie pr. rotulones el dia en qe. se cumple el termino pa. la salida a lo"
+},
+{
+"key": "ca29-d124-n127",
+"rating": 2,
+"summary": "'Que los cuidadanos Mejicanos presten. sus reclamacs. pr. perdidas sufridas a co"
+},
+{
+"key": "ca29-d126-n128",
+"rating": 2,
+"summary": "'Sobre qe. se dicten las providas. oportunas pa. impedir o aliviar la epidemia d"
+},
+{
+"key": "ca29-d128-n128",
+"rating": 2,
+"summary": "'Cuando los consultados de Francia en Mexo. a consecuencia de la grra. sucitada "
+},
+{
+"key": "ca29-d131-n128",
+"rating": 2,
+"summary": "'Sobre qe. se ponga a disposicion de los respectivos Gobs. la mitad de las renta"
+},
+{
+"key": "ca29-d132-n128",
+"rating": 2,
+"summary": "'Participando el tpo. adquirido pr. las armas nacionales contra los enemigos del"
+},
+{
+"key": "ca29-d133-n128",
+"rating": 2,
+"summary": "'Aplicando a los gastos del departamto. la mitad de sus rentas' [half the Depart"
+},
+{
+"key": "ca29-d134-n128",
+"rating": 2,
+"summary": "'Previniendo se formen las ordenanzas municipales y los reglamtos. de policia in"
+},
+{
+"key": "ca29-d137-n128",
+"rating": 2,
+"summary": "'Sobre privarse al Gral. Dn. Jose Urrea de toda decoracion y empleo' [Gen. Dn. J"
+},
+{
+"key": "ca29-d138-n129",
+"rating": 2,
+"summary": "'Comunicando la vuelta a la Capital del Sr. Presidte. Bustamante' [announcing Pr"
+},
+{
+"key": "ca29-d142-n129",
+"rating": 2,
+"summary": "'Sobre quedar enterado con satisfaccion del restablecimiento del orn. de este pa"
+},
+{
+"key": "ca29-d145-n129",
+"rating": 2,
+"summary": "'Sobre de estar enterado de la division qe. se hizo de las Californias en Distri"
+},
+{
+"key": "ca29-d146-n129",
+"rating": 2,
+"summary": "'Sobre aprobarse la medida de habilitar a los Jueces de Paz pa. qe. funcionen de"
+},
+{
+"key": "ca29-d147-n129",
+"rating": 2,
+"summary": "'Aprobando los nombramtos. de los Prefectos' [approving the appointments of the "
+},
+{
+"key": "ca29-d150-n130",
+"rating": 2,
+"summary": "'Aprobando las elecciones de Diputados propietario y suplente al Congreso gral. "
+},
+{
+"key": "ca29-d151-n130",
+"rating": 2,
+"summary": "'Que los Alcaldes de los Pueblos no pueden ausentarse sin licencia del respecto."
+},
+{
+"key": "ca29-d157-n130",
+"rating": 2,
+"summary": "'Sobre quedar enterado del nombramto. qe. se hizo en Dn. Jose Abrego pa. Comiso."
+},
+{
+"key": "ca29-d161-n131",
+"rating": 2,
+"summary": "'Que la mitad del producto de las rentas Departamentales inviertan a satisfaccio"
+},
+{
+"key": "ca29-d165-n131",
+"rating": 2,
+"summary": "'Sobre el dar su debido cumplimto. al reglamto. de 1o. de Mayo de 1828 sobre pas"
+},
+{
+"key": "ca29-d166-n131",
+"rating": 2,
+"summary": "'Pidiendo informes de los estrangeros qe. habitan en este Departamento' [reports"
+},
+{
+"key": "ca29-d167-n131",
+"rating": 2,
+"summary": "'Pidiendo una noticia de los nombres de los pueblos de este departamento' [retur"
+},
+{
+"key": "ca29-d170-n131",
+"rating": 2,
+"summary": "'Pidiendo noticia cronologica de los intendentes Gobs. y Comts. grales. qe. ya h"
+},
+{
+"key": "ca29-d171-n131",
+"rating": 2,
+"summary": "'Pidiendo varias noticias pa. la carta gral. y Diccionario Geographico de la Rep"
+},
+{
+"key": "ca29-d172-n132",
+"rating": 2,
+"summary": "'Dando algs. Provids. pa. impedir la peste de Viruelas' [measures to check the s"
+},
+{
+"key": "ca29-d173-n132",
+"rating": 2,
+"summary": "'Otras provids. con el propio fin de evitar la peste de Viruelas' [further measu"
+},
+{
+"key": "ca29-d174-n132",
+"rating": 2,
+"summary": "'Facultando a los Sres Gobs. pa. qe. pr. conducto de los gefes de hcda. se invie"
+},
+{
+"key": "ca29-d175-n132",
+"rating": 2,
+"summary": "'Sobre la publicacion de la ley contra Ladrones' [publication of the law against"
+},
+{
+"key": "ca29-d179-n132",
+"rating": 2,
+"summary": "'De quedar enterado de qe. se conserva la paz en este Departamento' [noting that"
+},
+{
+"key": "ca29-d181-n132",
+"rating": 2,
+"summary": "'Pidiendo una lista nominal de los estrangeros avecindados en el pais, y de los "
+},
+{
+"key": "ca29-d182-n132",
+"rating": 2,
+"summary": "'Dando licencia al Gobernador de este Departamento para que visite la Alta Calif"
+},
+{
+"key": "ca29-d184-n133",
+"rating": 2,
+"summary": "'Providenciando qe. se castiguen a los qe. alteran a la tranquilidad publica' [o"
+},
+{
+"key": "ca29-d186-n133",
+"rating": 2,
+"summary": "'Sobre el establecimto. del Consulado Gral. de Espana en Mexo.' [establishment o"
+},
+{
+"key": "ca29-d188-n133",
+"rating": 2,
+"summary": "'Acompanando la ley sobre ladrones' [enclosing the law on robbers]"
+},
+{
+"key": "ca29-d191-n133",
+"rating": 2,
+"summary": "'Participando haberse puesto a disposicion del Supo. Gobo. las fuerza sublevadas"
+},
+{
+"key": "ca29-d192-n133",
+"rating": 2,
+"summary": "'Participando qe. todas las corporaciones y funcionarios de la Capl. de Mexo. ha"
+},
+{
+"key": "ca29-d198-n134",
+"rating": 2,
+"summary": "'Pidiendo el senso de la poblacn. de este Departamento' [census of the Departmen"
+},
+{
+"key": "ca29-d199-n134",
+"rating": 2,
+"summary": "'Ecsigiendo qe. los estrangeros deben obtener sus cartas de seguridad correspste"
+},
+{
+"key": "ca29-d200-n134",
+"rating": 2,
+"summary": "'Permitiendo la entrada a este Departamto. varias estrangeros' [permitting sever"
+},
+{
+"key": "ca29-d203-n134",
+"rating": 2,
+"summary": "'Sobre varias declaraciones hecha pr. el Supremo Poder conserbador' [various dec"
+},
+{
+"key": "ca29-d204-n134",
+"rating": 2,
+"summary": "'Recomendando la proteccion de varios estrangeros' [recommending protection for "
+},
+{
+"key": "ca29-d206-n134",
+"rating": 2,
+"summary": "'Referente al mismo asunto' [a second order on the same subject, i.e. the expell"
+},
+{
+"key": "ca29-d207-n135",
+"rating": 2,
+"summary": "'Se contesta con satisfaccion sobre las fuerzas ausiliares qe. se formaran en es"
+},
+{
+"key": "ca29-d209-n135",
+"rating": 2,
+"summary": "'Avisando qe. la Goleta California se admita carga de Dn. Enrique Wirmonte' [the"
+},
+{
+"key": "ca29-d213-n135",
+"rating": 2,
+"summary": "'Declarando la Ciudad de los Alamos pa. residencia del tribl. de Circuito de Occ"
+},
+{
+"key": "ca29-d215-n135",
+"rating": 2,
+"summary": "'Aprobando varias disposiciones qe. el Gobo. de este Departamto. formo en el ram"
+},
+{
+"key": "ca29-d218-n135",
+"rating": 2,
+"summary": "'Agto. 11 - Contraido al mismo asunto' [a further order on the same subject, i.e"
+},
+{
+"key": "ca29-d221-n154",
 "rating": 2,
 "summary": "Foreigner census / arrivals register (parallels C-A 33 naturalization): (a) padr"
 },
 {
-"key": "ca29-d102-n177",
+"key": "ca29-d224-n177",
 "rating": 2,
 "summary": "Deseando terminar todas las desavenencias políticas: Carrillo (investido de 'leg"
 },
 {
-"key": "ca29-d107-n185",
+"key": "ca29-d228-n185",
 "rating": 2,
 "summary": "Battle report — the siege of San Buenaventura (1838 Alvarado–Carrillo civil war)"
 },
 {
-"key": "ca29-d110-n195",
+"key": "ca29-d230-n195",
 "rating": 2,
 "summary": "The 1838 Alvarado–Carrillo civil-war campaign dossier: Castro congratulating on "
 },
 {
-"key": "ca29-d112-n203",
+"key": "ca29-d232-n203",
 "rating": 2,
 "summary": "The 1838 smallpox epidemic warning (public-health / Russian-frontier): 'La epide"
 },
 {
-"key": "ca29-d113-n204",
+"key": "ca29-d233-n204",
 "rating": 2,
 "summary": "Civil-war triumph rhetoric (north vs south): congratulates on the defeat of the "
 },
 {
-"key": "ca29-d114-n206",
+"key": "ca29-d234-n206",
 "rating": 2,
 "summary": "(CORRECTS survey 'n210') prisoner-arrival + secularization-corruption critique: "
 },
 {
-"key": "ca29-d119-n212",
+"key": "ca29-d239-n212",
 "rating": 2,
 "summary": "Carrillo's capitulation / decision to flee (end of the 1838 civil war): 'Que est"
 },
 {
-"key": "ca29-d136-n221",
+"key": "ca29-d256-n221",
 "rating": 2,
 "summary": "The flight/escape of Cárlos Antº Carrillo: 'Participándole la fuga de Cárlos': O"
 },
 {
-"key": "ca29-d159-n232",
+"key": "ca29-d279-n232",
 "rating": 2,
 "summary": "The Spear-&-Hinckley vs. Leese company suit (foreigner-commerce dispute, Yerba B"
 },
 {
-"key": "ca29-d179-n242",
+"key": "ca29-d299-n242",
 "rating": 2,
 "summary": "Post-civil-war reconciliation: 'Desde el dia que salí de San Buenavª me atacó un"
 },
 {
-"key": "ca29-d184-n244",
+"key": "ca29-d304-n244",
 "rating": 2,
 "summary": "Territorial reorganization proposal: 'Propone que el Departamto. se divida en 3 "
 },
 {
-"key": "ca29-d196-n251",
+"key": "ca29-d316-n251",
 "rating": 2,
 "summary": "The ciphered Carrillista letter (Savage's translation; 'escrita con signos espec"
 },
 {
-"key": "ca29-d219-n269",
+"key": "ca29-d339-n269",
 "rating": 2,
 "summary": "Fuero-militar jurisdictional clash: the Sta Bárbara Juez de Paz imprisoned a *cr"
 },
 {
-"key": "ca29-d225-n274",
+"key": "ca29-d345-n274",
 "rating": 2,
 "summary": "'Sobre organización de fuerzas militares': cites 'la parte 2ª del Artº 3 de la l"
 },
 {
-"key": "ca29-d227-n277",
+"key": "ca29-d347-n277",
 "rating": 2,
 "summary": "'Dice que el Presidente de México lo ha nombrado Gobernador Propietario' (Alvara"
 },
 {
-"key": "ca29-d239-n280",
+"key": "ca29-d359-n280",
 "rating": 2,
 "summary": "'Sobre propuesto viage del 1[er]o. á Méj[ico]' — Vallejo's rebuttal to Alvarado'"
 },
@@ -24995,22 +25960,37 @@
 "summary": "Complete 1826 customs ledger for the port of Santa Bárbara, ship-by-ship: *Washi"
 },
 {
-"key": "ca40-d82-n82",
+"key": "ca40-d81-n72",
+"rating": 2,
+"summary": "Transmits the two keys to the newly built mail pouches for the Monterey-San Dieg"
+},
+{
+"key": "ca40-d83-n73",
+"rating": 2,
+"summary": "'Sobre cuentas.' Reiterates his petition of 1 Dec. 1826 that Tente Jose Estrada "
+},
+{
+"key": "ca40-d85-n74",
+"rating": 2,
+"summary": "'Sobre requisitos para revalidar los despachos del Capn Pablo de la Portilla, Te"
+},
+{
+"key": "ca40-d97-n82",
 "rating": 2,
 "summary": "Codified *Reglamento* for foreign-ship traffic: a year's experience showed the h"
 },
 {
-"key": "ca40-d323-n189",
+"key": "ca40-d336-n189",
 "rating": 2,
 "summary": "FULL TEXT: exposition on fiscal collapse (situados unremitted ~20 yrs; Federatio"
 },
 {
-"key": "ca40-d324-n194",
+"key": "ca40-d339-n194",
 "rating": 2,
 "summary": "BUDGET: Relación de artículos de proveeduría y equipo de 1ª necesidad consumed m"
 },
 {
-"key": "ca40-d325-n197",
+"key": "ca40-d340-n197",
 "rating": 2,
 "summary": "FOLD-OUT 'ESTADO': mission-by-mission apportionment (San Antonio, Soledad, San C"
 },
@@ -25025,22 +26005,22 @@
 "summary": "Roster of 'Prisioneros americanos' from the Am. frigate *Albatross* (Capt. Willi"
 },
 {
-"key": "ca41-d7-n8",
+"key": "ca41-d8-n8",
 "rating": 2,
 "summary": "English. Object of voyage & capture: sailed from New Archangel [Sitka], 'possess"
 },
 {
-"key": "ca41-d15-n19",
+"key": "ca41-d16-n19",
 "rating": 2,
 "summary": "✓ FULLY VERIFIED vs scans n19–n22 (2026-07-06): date/parties, the '9 Nov 1824' M"
 },
 {
-"key": "ca41-d21-n25",
+"key": "ca41-d22-n25",
 "rating": 2,
 "summary": "The Eng. scientific frigate HMS *Blossom* anchored 7 Nov: 450 t, 16 guns (12-pdr"
 },
 {
-"key": "ca41-d38-n34",
+"key": "ca41-d39-n34",
 "rating": 2,
 "summary": "Long account of his delayed voyage to Cal. as comandante gral./jefe político: em"
 },
@@ -25050,37 +26030,37 @@
 "summary": "Customs regime for the Russian Bodega trade. Orders the SF receiver to stop merc"
 },
 {
-"key": "ca41-d47-n45",
+"key": "ca41-d48-n45",
 "rating": 2,
 "summary": "On the need for a custom-house & wharf. Presidio buildings collapsing ('no hay u"
 },
 {
-"key": "ca41-d48-n47",
+"key": "ca41-d49-n47",
 "rating": 2,
 "summary": "✓ VERIFIED vs scan n47 (2026-07-06): '1833 Feb 15 Mont… Sobre balleneros y las v"
 },
 {
-"key": "ca41-d49-n48",
+"key": "ca41-d50-n48",
 "rating": 2,
 "summary": "Foreign commerce & contraband. Frigate *Califa*(?) despatched to Boston with seb"
 },
 {
-"key": "ca41-d57-n53",
+"key": "ca41-d58-n53",
 "rating": 2,
 "summary": "'Tiranías y excesos de los buques nacionales': foreign ships are the only ones p"
 },
 {
-"key": "ca41-d64-n58",
+"key": "ca41-d65-n58",
 "rating": 2,
 "summary": "✓ VERIFIED vs scan n58 (2026-07-06): '1833 Julio 27 Mont… sobre buques rusos, y "
 },
 {
-"key": "ca41-d65-n59",
+"key": "ca41-d66-n59",
 "rating": 2,
 "summary": "Answers González's consultation on whalers & Russian ships. Institutional memory"
 },
 {
-"key": "ca41-d77-n70",
+"key": "ca41-d78-n70",
 "rating": 2,
 "summary": "✓ VERIFIED vs scan n70 (2026-07-06): '1843 Julio 21 Mont, Guillermo E. Hartnell…"
 },
@@ -25088,6 +26068,121 @@
 "key": "ca41-d90-n81",
 "rating": 2,
 "summary": "✓ opening VERIFIED vs scan n81 (2026-07-06): '1839 Nov 16 Mont… sobre Contraband"
+},
+{
+"key": "ca41-d95-n85",
+"rating": 2,
+"summary": "Sobre juramento y fianza. 'Promete presentarse mañana en la casa de Gob.o á pres"
+},
+{
+"key": "ca41-d96-n85",
+"rating": 2,
+"summary": "Sobre la sub-comisaría. 'Acusa recibo del oficio anunciando nombram.to de José M"
+},
+{
+"key": "ca41-d99-n87",
+"rating": 2,
+"summary": "Spans n87-n88. Sobre J. A. Carrillo, José Castro, armamento &a. 'Que Sant.o E. A"
+},
+{
+"key": "ca41-d100-n88",
+"rating": 2,
+"summary": "'Quedó interinam.te de Cap.n del Puerto, (por ausentarse el prop.o Pedro Narváez"
+},
+{
+"key": "ca41-d102-n89",
+"rating": 2,
+"summary": "'Enterado de que Alv. por quebrantam.to de salud ha entregado el Gob.o interinam"
+},
+{
+"key": "ca41-d103-n89",
+"rating": 2,
+"summary": "Spans n89-n90. 'Enterado que los empleados de la Ad.a marítima deben percibir su"
+},
+{
+"key": "ca41-d113-n99",
+"rating": 2,
+"summary": "'Manda decreto del Congreso por el cual quedan libres de derechos de amortizacio"
+},
+{
+"key": "ca41-d114-n99",
+"rating": 2,
+"summary": "Continues past n99 onto n100 (outside this range). 'Lista de empleados de aduana"
+},
+{
+"key": "ca41-d116-n101",
+"rating": 2,
+"summary": "Appointment notice. 'Que J.e M.a Cruz ha sido nombrado Alcayde de la aduana de M"
+},
+{
+"key": "ca41-d117-n101",
+"rating": 2,
+"summary": "Appointment notice. 'Que Antonio Trejo ha sido nombrado Celador de la aduana de "
+},
+{
+"key": "ca41-d119-n104",
+"rating": 2,
+"summary": "'Le agradece que le haya nombrado adm.r de la aduana Maritima de Monterrey y que"
+},
+{
+"key": "ca41-d122-n105",
+"rating": 2,
+"summary": "'Que Conforme a su orden puso en posesion del empleo de adm.r de la aduana a J. "
+},
+{
+"key": "ca41-d123-n105",
+"rating": 2,
+"summary": "'Que el dia 20 del p.p.o recibio de J. B. Alvarado la adm.n interina de la aduan"
+},
+{
+"key": "ca41-d124-n105",
+"rating": 2,
+"summary": "'Que hace renuncia formal de la receptoria del puerto de S.n Diego.' [= Henry De"
+},
+{
+"key": "ca41-d125-n106",
+"rating": 2,
+"summary": "'Que en el dia presto juramento del destino de receptor quedando en actividad de"
+},
+{
+"key": "ca41-d132-n115",
+"rating": 2,
+"summary": "Savage's rubric: 'sobre la inspeccion de la Ad.a de Mont.' The curt close of the"
+},
+{
+"key": "ca41-d133-n115",
+"rating": 2,
+"summary": "HEADING AND PAGE CITE ONLY - Savage wrote no abstract. Verbatim, in full: '+ 183"
+},
+{
+"key": "ca41-d134-n115",
+"rating": 2,
+"summary": "'Acepta el nombram.to recaido provisionalm.te en el p.a vista de la Ad.a maritim"
+},
+{
+"key": "ca41-d141-n120",
+"rating": 2,
+"summary": "'Reconoce a Osio como Receptor de Alcabalas de este punto, a quien dara aviso de"
+},
+{
+"key": "ca41-d143-n121",
+"rating": 2,
+"summary": "'Nombrandole Receptor de Santa Barb.a con 400$ anuales.' [Appointment of Benito "
+},
+{
+"key": "ca41-d147-n125",
+"rating": 2,
+"summary": "'Aceptando el nombramiento de Receptor de Santa Barbara. y pide, se le adhiera u"
+},
+{
+"key": "ca41-d148-n126",
+"rating": 2,
+"summary": "'Comunicandole su nombram.to de Admor. de la Aduana de Sta. Barb.a' [Pablo de la"
+},
+{
+"key": "ca41-d149-n126",
+"rating": 2,
+"summary": "'Comunica: que en esta f.ha. han entrado dos marineros con sueldo de $6. al mes "
 },
 {
 "key": "ca42-d62-n15",
@@ -33525,7 +34620,7 @@
 "summary": "*Estado de población de la jurisdicción del Presidio de S. Francisco 1797* — mis"
 },
 {
-"key": "ca50-d235-n263",
+"key": "ca50-d234-n263",
 "rating": 2,
 "summary": "*Listas de individuos* — a nominal roster of the Compañía de Voluntarios de Cata"
 },
@@ -33570,82 +34665,82 @@
 "summary": "*Cambio de la Misión á causa del terremoto de 1812* — La Purísima RELOCATED 23 A"
 },
 {
-"key": "ca50-d369-n342",
+"key": "ca50-d369-n341",
 "rating": 2,
 "summary": "*Padrón de todas las Misiones y Presidios de la Nueva California 1814* (dated Ma"
 },
 {
-"key": "ca50-d387-n355",
+"key": "ca50-d388-n355",
 "rating": 2,
 "summary": "*Estado que manifiesta el número de indios bautizados, muertos y existentes desd"
 },
 {
-"key": "ca50-d399-n367",
+"key": "ca50-d400-n367",
 "rating": 2,
 "summary": "1827 SB *padrón* (4,008 souls, sin castas) with an extended *Notas* that is real"
 },
 {
-"key": "ca50-d401-n371",
+"key": "ca50-d402-n371",
 "rating": 2,
 "summary": "1828 SF *padrón* (5,720 / 5,465 Indians; −120 Indians, +12 gente de razón). *Not"
 },
 {
-"key": "ca50-d402-n372",
+"key": "ca50-d403-n372",
 "rating": 2,
 "summary": "*Informe sobre terrenos de la Misión San Carlos* — first of a systematic pre-sec"
 },
 {
-"key": "ca50-d415-n385",
+"key": "ca50-d416-n385",
 "rating": 2,
 "summary": "1827 Alta California general *estado* (no castas): 24,010 souls (4 jurisdictions"
 },
 {
-"key": "ca50-d416-n387",
+"key": "ca50-d417-n387",
 "rating": 2,
 "summary": "1828 Alta California general *estado*: 23,105 souls; livestock — 235,081 cattle,"
 },
 {
-"key": "ca50-d419-n391",
+"key": "ca50-d420-n391",
 "rating": 2,
 "summary": "1828 Monterey jurisdiction *estado* (1,074 souls / 287 Indians; 2 ministers) — n"
 },
 {
-"key": "ca50-d420-n391",
+"key": "ca50-d421-n391",
 "rating": 2,
 "summary": "1828 SB jurisdiction *estado* (2,854 souls / ~2,348 Indians; 4 ministers) — name"
 },
 {
-"key": "ca50-d425-n396",
+"key": "ca50-d426-n396",
 "rating": 2,
 "summary": "1830 SF jurisdiction *padrón* (5,469 / 5,240 Indians) — names the ranchos: San L"
 },
 {
-"key": "ca50-d426-n397",
+"key": "ca50-d427-n397",
 "rating": 2,
 "summary": "1830 SB jurisdiction *padrón* (3,771 / 3,126 Indians) — names the ranchos: El Re"
 },
 {
-"key": "ca50-d429-n399",
+"key": "ca50-d430-n399",
 "rating": 2,
 "summary": "1830 San Diego jurisdiction *padrón* (7,851 / 7,294 Indians) — names the mission"
 },
 {
-"key": "ca50-d445-n410",
+"key": "ca50-d446-n410",
 "rating": 2,
 "summary": "San Fernando secularization inventory — *entrega* of the mission's *enseres* to "
 },
 {
-"key": "ca50-d448-n412",
+"key": "ca50-d449-n412",
 "rating": 2,
 "summary": "San Antonio secularization inventory — *entrega* comprising 5 partial inventorie"
 },
 {
-"key": "ca50-d450-n414",
+"key": "ca50-d451-n414",
 "rating": 2,
 "summary": "*Cuenta de los efectos y bienes de campo distribuidos entre los indios de la ex-"
 },
 {
-"key": "ca50-d453-n417",
+"key": "ca50-d454-n417",
 "rating": 2,
 "summary": "1839 ex-Mission San Diego salary roll — Fr. Fernando Martín ($500/yr, served Dec"
 },
@@ -34975,7 +36070,82 @@
 "summary": "Fr. Francisco García Diego (Obispo de California) ha jurado [installed] (p.119);"
 },
 {
-"key": "ca58-d18-n88",
+"key": "ca58-d18-n76",
+"rating": 2,
+"summary": "'Decreto sobre fletes de bagajes del ejercito' fha Mej.o Ag. 8./29. (4 ejemplr.s"
+},
+{
+"key": "ca58-d21-n76",
+"rating": 2,
+"summary": "'Decreto sobre Correos.' - Mej.o En.o 23./30. (6 ejemplr.s) [= decree on the pos"
+},
+{
+"key": "ca58-d26-n77",
+"rating": 2,
+"summary": "'Decreto sobre derechos de efectos prohibidos.' [= decree on duties levied on pr"
+},
+{
+"key": "ca58-d29-n79",
+"rating": 2,
+"summary": "'Reglamento provisional para la direccion general de rentas.' [= provisional reg"
+},
+{
+"key": "ca58-d31-n79",
+"rating": 2,
+"summary": "'Modelo para planta de empleados de aduanas, administrac.s o colecturas.' [= mod"
+},
+{
+"key": "ca58-d32-n79",
+"rating": 2,
+"summary": "'Decreto sobre premio de servicios de eclesiasticos durante los 11 primeros anos"
+},
+{
+"key": "ca58-d34-n80",
+"rating": 2,
+"summary": "'Decreto dando licencia al Vice Presidente para mandar personalm.te las armas.' "
+},
+{
+"key": "ca58-d38-n81",
+"rating": 2,
+"summary": "'Decreto pidiendo informes sobre los ramos de Guerra y Marina a todos q.e quiera"
+},
+{
+"key": "ca58-d40-n81",
+"rating": 2,
+"summary": "'Decreto sobre modo de facilitar el comercio.' [= decree on means of facilitatin"
+},
+{
+"key": "ca58-d43-n82",
+"rating": 2,
+"summary": "'Decreto derogando el art. 2.o del decreto de 7 Feb.o/31 que concedio una espada"
+},
+{
+"key": "ca58-d44-n82",
+"rating": 2,
+"summary": "'Decreto nombrando a J.e M.a Bocanegra, secr.o de Estado y del Despacho de Hac.a"
+},
+{
+"key": "ca58-d47-n83",
+"rating": 2,
+"summary": "'Decreto sobre la ley de Abril 12/24.' [= decree concerning the law of 12 April "
+},
+{
+"key": "ca58-d49-n83",
+"rating": 2,
+"summary": "'Decreto sobre el asunto anter.r' [= decree on the preceding matter, i.e. lists "
+},
+{
+"key": "ca58-d50-n83",
+"rating": 2,
+"summary": "'Decreto de adhesion del Estado de N. Leon a la 'coaligacion de los Estados de O"
+},
+{
+"key": "ca58-d55-n85",
+"rating": 2,
+"summary": "'Decreto ordenando que no se entreguen caudales de la Federacion sino a personas"
+},
+{
+"key": "ca58-d64-n88",
 "rating": 2,
 "summary": "The 1836 Texas-war liability decree (dated Mexico 9 Apr 1836, remitted via Hermo"
 },
