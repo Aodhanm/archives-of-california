@@ -1780,36 +1780,6 @@
 "tomo": 4,
 "pages": [
 [
-315,
-371
-]
-],
-"leaf": 57,
-"page": "35",
-"raw": "846, in Leg. Rec., MS., iv. 315-71. E",
-"src": "direct"
-},
-{
-"hv": 5,
-"series": "LegRec",
-"tomo": 4,
-"pages": [
-[
-320,
-321
-]
-],
-"leaf": 59,
-"page": "37",
-"raw": "i. 129; Leg. Rec., MS., iv. 320-1. M",
-"src": "direct"
-},
-{
-"hv": 5,
-"series": "LegRec",
-"tomo": 4,
-"pages": [
-[
 337,
 337
 ]
@@ -1855,21 +1825,6 @@
 "tomo": 4,
 "pages": [
 [
-317,
-318
-]
-],
-"leaf": 65,
-"page": "43",
-"raw": ", 29th. Leg. Rec., MS., iv. 317-18; D",
-"src": "direct"
-},
-{
-"hv": 5,
-"series": "LegRec",
-"tomo": 4,
-"pages": [
-[
 370,
 371
 ]
@@ -1892,21 +1847,6 @@
 "leaf": 581,
 "page": "559",
 "raw": "166-7; Leg. Rec., MS., iv. 325-8; D",
-"src": "direct"
-},
-{
-"hv": 5,
-"series": "LegRec",
-"tomo": 4,
-"pages": [
-[
-321,
-321
-]
-],
-"leaf": 640,
-"page": "618",
-"raw": "andini. Leg. Rec., MS., iv. 321. I",
 "src": "direct"
 },
 {
@@ -1979,25 +1919,6 @@
 "tomo": 4,
 "pages": [
 [
-319,
-319
-],
-[
-325,
-325
-]
-],
-"leaf": 649,
-"page": "627",
-"raw": "14-16; Leg. Rec., MS., iv. 319, 325. I",
-"src": "direct"
-},
-{
-"hv": 5,
-"series": "LegRec",
-"tomo": 4,
-"pages": [
-[
 354,
 354
 ]
@@ -2006,21 +1927,6 @@
 "page": "633",
 "raw": "o Tico. Leg. Rec., MS., iv. 354. J",
 "src": "direct"
-},
-{
-"hv": 5,
-"series": "LegRec",
-"tomo": 4,
-"pages": [
-[
-317,
-317
-]
-],
-"leaf": 655,
-"page": "633",
-"raw": "in Oct. Id., 317. 1",
-"src": "Id"
 },
 {
 "hv": 5,
