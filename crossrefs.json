@@ -1,10 +1,10 @@
 {
  "_comment": "Cross-archive concordance overlay. Keyed by record permalink key (caV-dN-nSCAN). Maintained by hand from vault projects/ca-archives/ca-cross-archive-concordance.md. kind: original|copy|counterpart|related|published. SJ = San José Pueblo Papers, History San José (Drive: https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx; scans keyed by the HSJ Current Index CSV).",
- "ca12-d465-n391": {
+ "ca12-d465-n389": {
   "kind": "counterpart",
   "text": "The Mexico-City end of this affair survives as an original: Boris Tarasov's asylum petition, AGN (Mexico City), Provincias Internas, vol. 23, exp. 4, ff. 44–57 — enclosing Gov. Solá's 10 Nov 1815 dispatch. The Californian and viceregal sides of the same capture. Cf. Mathes, La frontera ruso-mexicana (1990). — Published: Mathes (1990), Doc 30 (p. 99)."
  },
- "ca12-d466-n391": {
+ "ca12-d466-n389": {
   "kind": "counterpart",
   "text": "The Mexico-City end of this affair survives as an original: Boris Tarasov's asylum petition, AGN (Mexico City), Provincias Internas, vol. 23, exp. 4, ff. 44–57. Cf. Mathes (1990)."
  },
@@ -28,7 +28,7 @@
   "kind": "counterpart",
   "text": "The interrogated prisoner's Mexico-City file survives: AGN, Provincias Internas, vol. 23, exp. 4, ff. 44–57 (Tarasov asylum petition; encloses Solá's 10 Nov 1815 dispatch)."
  },
- "ca14-d160-n177": {
+ "ca14-d160-n171": {
   "kind": "counterpart",
   "text": "The pueblo's received original survives: San José Pueblo Papers (History San José), scan 1979-861-0021 — Arrillaga to Cabo Macario Castro, 29 Dec 1793, 'Sobre repartición de tierras,' the settler land-distribution rules (English translation by Pinoris on the HSJ Drive). Pairing verified against this Savage abstract (leaf n178), 2026-07-05.",
   "link": "https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx"
@@ -63,16 +63,11 @@
   "text": "The instruction behind this report survives: San José Pueblo Papers scan 1979-861-0136 — Sal to Moraga, 2 May 1797, the firearms-distribution and registration instructions whose lists ('la adjunta lista… sus distribuciones') Moraga forwards here to Borica. Verified on leaf n358, 2026-07-05.",
   "link": "https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx"
  },
- "ca14-d1122-n272": {
-  "kind": "related",
-  "text": "The San José end of the same invasion-contingency package survives: San José Pueblo Papers scan 1979-861-0166 — Alberni to the comisionado, 22 Oct 1797, transmitting Borica's decree that if the governor were captured, authorities must resist and ignore orders extracted from him; two days before these instructions to Córdoba in the same English-invasion scare. C-A side verified on leaf n272, 2026-07-05.",
-  "link": "https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx"
- },
- "ca6-d192-n276": {
+ "ca6-d192-n237": {
   "kind": "related",
   "text": "The viceregal end of the Bodega-occupation operation survives: AGN (Mexico City), Californias 9, cuaderno 19 — the Revillagigedo ↔ Bodega y Quadra occupation orders and schooner instructions of Feb–Mar 1793 (per Inglis 2012). This 6 Jul 1793 order to the governor is the provincial arm of the same operation. C-A side scan-verified 2026-07-02."
  },
- "ca55-d335-n297": {
+ "ca55-d335-n288": {
   "kind": "related",
   "text": "Matute's own report survives at Mexico City: AGN, Historia vol. 70 — Juan Bautista Matute on the naval attempt at Bodega (Jul–Oct 1793), published in English by Wagner, California Historical Society Quarterly X:4 (1931), 339–341. The naval-chain twin of the report Sal forwards here. C-A side scan-verified 2026-07-02."
  },
@@ -84,7 +79,7 @@
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 2 (pp. 64)."
  },
- "ca12-d324b-n269": {
+ "ca12-d325-n269": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 3 (pp. 65–66)."
  },
@@ -96,10 +91,6 @@
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 6 (pp. 69)."
  },
- "ca12-d331b-n278": {
-  "kind": "published",
-  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 7 (pp. 70)."
- },
  "ca17-d238-n185": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 8 (pp. 71)."
@@ -108,39 +99,31 @@
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 9 (pp. 72)."
  },
- "ca12-d401b-n330": {
+ "ca12-d407-n330": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 10 (pp. 73–74)."
- },
- "ca12-d332b-n279": {
-  "kind": "published",
-  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 11 (pp. 75–76). ⚠ Mathes prints the diary under 3 Oct 1812; the manuscript reads 3 Oct 1810 (year verified at full resolution; the orig-page chain and the following 26 Nov 1810 abstract confirm)."
  },
  "ca17-d113-n72": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 12 (pp. 77)."
  },
- "ca12-d417-n349": {
+ "ca12-d417-n345": {
   "kind": "published",
   "text": "Published edition: two pieces of this record are in W. Michael Mathes, *La frontera ruso-mexicana* (1990) — Doc 13 (the 31 Jan 1813 'Visita á los rusos,' p. 78) and Doc 5 (the appended Moraga-certified copy of the 15 Mar 1810 RAC letter, p. 68; Savage's own note 'vide pp. 271–3 de este tomo' points to doc 329, the letter's other copy)."
  },
- "ca12-d404b-n335": {
-  "kind": "published",
-  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 14 (pp. 79)."
- },
- "ca12-d424-n360": {
+ "ca12-d424-n349": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 15 (pp. 80)."
  },
- "ca12-d431-n372": {
+ "ca12-d431-n360": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 16 (pp. 81–82)."
  },
- "ca12-d433-n376": {
+ "ca12-d433-n368": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 17 (pp. 83–84)."
  },
- "ca12-d432-n371": {
+ "ca12-d432-n367": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 18 (pp. 85–88)."
  },
@@ -148,7 +131,7 @@
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 19 (pp. 87)."
  },
- "ca12-d427-n368": {
+ "ca12-d427-n356": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 20 (pp. 89)."
  },
@@ -156,7 +139,7 @@
   "kind": "published",
   "text": "Published edition: seven orders from this register are transcribed and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990) — Docs 21 (p. 90), 22 (p. 91), 23 (p. 92), 24 (p. 93), 27 (p. 96), 29 (p. 98), and 38 (p. 107; Mathes notes Doc 38 = the Doc 21 text re-filed); Docs 41–42 (pp. 110–111) re-file Docs 22, 24, and 29."
  },
- "ca12-d453-n386": {
+ "ca12-d453-n383": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 28 (pp. 97)."
  },
@@ -232,7 +215,7 @@
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 77 (pp. 188–189)."
  },
- "ca12-d464-n391": {
+ "ca12-d464-n388": {
   "kind": "published",
   "text": "Published edition: transcribed and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Docs 31 (p. 100) and 34 (p. 103) — Sarría's 23 Oct 1815 cart directive, printed twice."
  },
@@ -248,15 +231,15 @@
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 56 (pp. 125)."
  },
- "ca12-d468-n392": {
+ "ca12-d468-n390": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 33 (pp. 102)."
  },
- "ca12-d463-n390": {
+ "ca12-d463-n387": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 35 (pp. 104)."
  },
- "ca12-d459-n389": {
+ "ca12-d459-n385": {
   "kind": "published",
   "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 36 (pp. 105). ⚠ Mathes dates this letter 28 Oct 1815; our record reads 21 Oct — leaf check pending."
  },
@@ -297,12 +280,34 @@
   "kind": "counterpart",
   "text": "The governor's side of this exchange survives in the Pueblo Papers: R. B. Mason → James W. Weeks on the San José councilmen elections, 20 Nov 1847 (History San José, Pueblo Papers Current Index 1979-861-3675). This C-A record is Weeks & other citizens → Gov. Mason objecting to the town's municipal elections as illegal and recommending the governor appoint a 3-Californian / 3-American town council (proposed: Dolores Pacheco, José Noriega, Salvio Pacheco…) — the two sides of the same San José 1847 municipal-election dispute. — SJ counterpart, index-level pairing (Ludwig/HSJ index; PP scan not directly inspected), 2026-07-15."
  },
- "ca63-d326-n224": {
+ "ca63-d326-n223": {
   "kind": "counterpart",
   "text": "The San José alcalde's own case file survives in the Pueblo Papers: K. H. Dimmick's 8 May 1849 order summoning the jury in People v. Antonio Valencia — accused of the murder of Edward Piles — jurors incl. J. D. Hoppe, Charles White, Isaac Branham (History San José, Pueblo Papers Current Index 1979-861-4077). This C-A record is Dimmick's 11 May 1849 report to Capt. H. W. Halleck of the trial, sentence & execution of the same Antonio Valencia, enclosing a copy of the trial — the same proceeding at two stages. — SJ counterpart, index-level pairing (Ludwig/HSJ index; PP scan not directly inspected), 2026-07-15."
  },
  "ca48-d879-n312–n313": {
   "kind": "related",
   "text": "Same affair in the San José Pueblo Papers (History San José), scan 1979-861-0961: the Willis / Laguna de los Bolbones (monte del Diablo) grazing dispute. This C-A 48 record is Echeandía's 25 May 1830 PERMIT to Guillermo Willis ('an Englishman') to establish at the monte del Diablo — the governor-side companion to Willis's pasture-use request (PP 0961) and to ca45-d26/d29 (the San José-alcalde order + the 1830 voiding). — SJ related, index-level pairing (Ludwig/HSJ index; PP scan not directly inspected), 2026-07-17."
+ },
+ "ca14-d328-n272": {
+  "kind": "related",
+  "text": "The San José end of the same invasion-contingency package survives: San José Pueblo Papers scan 1979-861-0166 — Alberni to the comisionado, 22 Oct 1797, transmitting Borica's decree that if the governor were captured, authorities must resist and ignore orders extracted from him; two days before these instructions to Córdoba in the same English-invasion scare. C-A side verified on leaf n272, 2026-07-05.",
+  "link": "https://drive.google.com/drive/folders/1ypmXyghhLi0wiL9HjNJ8kQAx7ZtRiHbx"
+ },
+ "ca12-d335-n279": {
+  "kind": "published",
+  "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 11 (pp. 75–76). ⚠ Mathes prints the diary under 3 Oct 1812; the manuscript reads 3 Oct 1810 (year verified at full resolution; the orig-page chain and the following 26 Nov 1810 abstract confirm)."
+ },
+ "_unanchored": {
+  "note": "Cross-references whose original record key no longer exists and whose correct target is AMBIGUOUS: several records share the cited leaf and the entry does not say which. Preserved here so the scholarship is not lost, deliberately NOT given a record key, because a guessed anchor would present as a working link to the wrong document. Re-anchor by reading the leaf. (2026-08-29 repair.)",
+  "entries": {
+   "ca12-d331b-n278": {
+    "kind": "published",
+    "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 7 (pp. 70)."
+   },
+   "ca12-d404b-n335": {
+    "kind": "published",
+    "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 14 (pp. 79)."
+   }
+  }
  }
 }
