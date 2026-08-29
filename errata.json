@@ -537,5 +537,14 @@
   "was": "1845 Texas-annexation manifesto quoted as «…por los Estados del Norte-América» and «para vindicar su honor ultrajado y recobrar el territorio usurpado».",
   "reads": "Quotes-vs-leaf sweep (2026-07-20), leaf n163: the docket reads «Anexación de Tejas, por el Gob.º Norte-Am.º», and the manuscript quotes «…para vindicar su honor ultrajado, y relevarse del intolerante territorio que se ha ocupado» — the words «recobrar»/«usurpado» are not on the leaf. Two misquotes-inside-quotation-marks corrected.",
   "_was_key": "ca57-d136-n163"
+ },
+ {
+  "key": "ca1-d1790-n212",
+  "vol": "1",
+  "doc": "1790",
+  "type": "record-split",
+  "was": "Published under ca1-d92, whose row had two documents fused into it.",
+  "reads": "2026-08-29: C-A 1 line 142 carried TWO documents in one table row. Because the parser anchors the trailing block from the right, ca1-d92 was publishing THIS document (San Diego's founding, 16 Jul 1769, dia del Triunfo de la Santa Cruz) as its summary, while the record's own subject, Virrey Bucareli's 1776 comunicacion, sat unreachable in the middle of the row. The row has been split: ca1-d92 is now the Bucareli comunicacion, and this San Diego document has its own id. A citation of ca1-d92 made before 2026-08-29 for the San Diego text should be read as ca1-d1790.",
+  "added": "2026-08-29"
  }
 ]
