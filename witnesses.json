@@ -6320,7 +6320,7 @@
  },
  "_repair_note": "2026-08-29: witness keys re-bound to live records after the doc_id restoration. 206 re-bound, 6 left on their original key because the target is ambiguous or absent.",
  "_known_unbound": {
-  "note": "Witness keys whose target record no longer exists under that id+leaf and whose correct target is AMBIGUOUS (several records share the cited leaf, or the leaf is now uncatalogued). Listed here so check_publish_contract gate 2 can tell a DOCUMENTED gap from NEW breakage. Re-anchor by reading the leaf; do not guess. (2026-08-29.)",
+  "note": "NOT drifted keys. Verified 2026-08-29 against the live export: these six Hittell citations name Prov. St. Pap. tomo XXI pages 629-671, and NO record in ANY of the 63 volumes covers those pages (ca14's XXI coverage stops at p.400). Their old doc_ids (d1080-d1130) also exceed ca14's current maximum, so they date from an earlier, larger ca14. They are therefore evidence of a COVERAGE GAP: a 19th-century historian cited manuscript pages this archive has never catalogued. Do not re-anchor them to a record; there is none. They resolve only by cataloguing PSP XXI 629-671.",
   "keys": [
    "ca14-d1080-n253",
    "ca14-d1082-n254",
@@ -6328,6 +6328,7 @@
    "ca14-d1092-n258",
    "ca14-d1104-n266",
    "ca14-d1130-n275"
-  ]
+  ],
+  "classification": "uncatalogued-source-pages"
  }
 }
