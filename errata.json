@@ -19,7 +19,8 @@
   "reads": "The manuscript dateline reads 3 Oct 1810 (crop-verified) — in 1810 the vessel at Bodega was \"frag.ta no… rusa sino Americana\": an American otter camp, two years before Fort Ross.",
   "note": "A two-year misdate in the standard published edition, proven at the leaf.",
   "ia": "https://archive.org/details/168036075_79_14/page/n279",
-  "logged": "2026-07"
+  "logged": "2026-07",
+  "_unbound": "ambiguous: 2 records on ca12 leaf n279"
  },
  {
   "key": "ca56-d97-n83",
@@ -77,7 +78,7 @@
   "logged": "2026-07"
  },
  {
-  "key": "ca12-d453-n386",
+  "key": "ca12-d453-n383",
   "vol": "12",
   "doc": "453",
   "type": "catalog-correction",
@@ -85,10 +86,11 @@
   "reads": "\"Sbre\" — 30 September 1815 (crop-verified).",
   "note": "",
   "ia": "https://archive.org/details/168036075_79_14/page/n386",
-  "logged": "2026-07"
+  "logged": "2026-07",
+  "_was_key": "ca12-d453-n386"
  },
  {
-  "key": "ca12-d404-n335",
+  "key": "ca12-d404-n327",
   "vol": "12",
   "doc": "404",
   "type": "catalog-correction",
@@ -96,10 +98,11 @@
   "reads": "March 1813 (crop-verified).",
   "note": "",
   "ia": "https://archive.org/details/168036075_79_14/page/n335",
-  "logged": "2026-07"
+  "logged": "2026-07",
+  "_was_key": "ca12-d404-n335"
  },
  {
-  "key": "ca12-d325-n271",
+  "key": "ca12-d325-n269",
   "vol": "12",
   "doc": "325",
   "type": "catalog-correction",
@@ -107,7 +110,8 @@
   "reads": "Dated 10 December 1809 from the leaf.",
   "note": "",
   "ia": "https://archive.org/details/168036075_79_14/page/n271",
-  "logged": "2026-07"
+  "logged": "2026-07",
+  "_was_key": "ca12-d325-n271"
  },
  {
   "key": "ca56-d355-n310",
@@ -176,7 +180,7 @@
   "logged": "2026-07"
  },
  {
-  "key": "ca25-d4-n284",
+  "key": "ca25-d4-n2",
   "vol": "25",
   "doc": "4",
   "type": "page-system",
@@ -184,10 +188,11 @@
   "reads": "Leaf-verified 2026-07-12: every leaf of C-A 25 carries TWO numbering systems — the original tomo pages (which this record's 122–24 gives) and a handwritten per-tomo LEAF number top-right. Bancroft's footnotes cite the LEAF numbers: his 'Prov. Rec., MS., ix. 122-3' (Hist. Cal. II:90 n.21) is NOT this document but Arrillaga's 28 Jun 1810 Suisun-campaign report at tomo leaves 122–123 = scans n374–375 (now ca25-d37).",
   "note": "Applies to all 36 gap-read records of this volume: their orig_page values are original tomo pages, their scan links run ~2 behind the true BookReader position, and Tomo X records were mislabeled Tomo IX (fixed). Full re-verification queued.",
   "ia": "https://archive.org/details/168036074_80_7_2/page/n284",
-  "logged": "2026-07"
+  "logged": "2026-07",
+  "_was_key": "ca25-d4-n284"
  },
  {
-  "key": "ca25-d37-n374",
+  "key": "ca25-d37-n11",
   "vol": "25",
   "doc": "37",
   "type": "provenance",
@@ -195,16 +200,18 @@
   "reads": "Added 2026-07-12 after the resolver audit: Bancroft's 'Prov. Rec., MS., ix. 122-3' resolved to the wrong documents because the catalog and Bancroft use different page systems in this volume. This record was located and read at the leaf (scans n374–375, handwritten leaf numbers 122–123, orig. pp. 367–71).",
   "note": "The tomo_leaf field carries Bancroft's cited numbering; the resolver indexes both systems for this volume.",
   "ia": "https://archive.org/details/168036074_80_7_2/page/n374",
-  "logged": "2026-07"
+  "logged": "2026-07",
+  "_was_key": "ca25-d37-n374"
  },
  {
-  "key": "ca4-d107-n72",
+  "key": "ca4-d107-n71",
   "vol": "4",
   "doc": "107",
   "type": "catalog-correction",
   "was": "Summary read Alférez Argüello's departure from the Santa Bárbara company as \"going as *sereno* to the San Francisco presidio company.\"",
   "reads": "Full-resolution crop (2026-07-17, blind sample audit #10/200): \"quien va de Ten.te á la compañía del Pres.º de S.n Fran.co\" — he went as TENIENTE (a promotion; José Darío Argüello's attested 1787 transfer), not as sereno.",
-  "note": "Found by the blind 200-record sample audit (sample committed sha256:70765ef5…). Class: abbreviated-rank misread (Ten.te)."
+  "note": "Found by the blind 200-record sample audit (sample committed sha256:70765ef5…). Class: abbreviated-rank misread (Ten.te).",
+  "_was_key": "ca4-d107-n72"
  },
  {
   "key": "ca5-d7-n7",
@@ -216,22 +223,24 @@
   "note": "Class: day-digit misread (8 read as 2). Sample committed sha256:70765ef5…"
  },
  {
-  "key": "ca6-d191-n268",
+  "key": "ca6-d191-n236",
   "vol": "6",
   "doc": "191",
   "type": "catalog-correction",
   "was": "The dispute principals recorded as \"Domingo Olvera\" vs \"Fr. José Lapuente.\"",
   "reads": "The leaf (n268) and the case header (n266, full-resolution crops, 2026-07-17) read \"D. Domingo OTERO\" and \"el P. LAFUENTE\" — Otero, not Olvera; Lafuente, not Lapuente.",
-  "note": "Found by the blind sample audit (#16/200). Same correction applies to ca6-d190 (the dispute's opening record). Class: name misread."
+  "note": "Found by the blind sample audit (#16/200). Same correction applies to ca6-d190 (the dispute's opening record). Class: name misread.",
+  "_was_key": "ca6-d191-n268"
  },
  {
-  "key": "ca6-d190-n266",
+  "key": "ca6-d190-n233",
   "vol": "6",
   "doc": "190",
   "type": "catalog-correction",
   "was": "\"Domingo Olvera vs. Fr. José Lapuente\" debt dispute.",
   "reads": "Case header (n266): \"diferencias entre el P. Lafuente y Domingo Otero.\"",
-  "note": "Collateral to the ca6-d191 sample-audit finding. Class: name misread."
+  "note": "Collateral to the ca6-d191 sample-audit finding. Class: name misread.",
+  "_was_key": "ca6-d190-n266"
  },
  {
   "key": "ca7-d458-n359",
@@ -288,13 +297,14 @@
   "note": "Class: 'bre-family month abbreviation (Dcbre read as October) — in the rating<=2 stratum the 2026-07-17 Setbre sweep's stated bounds did not cover."
  },
  {
-  "key": "ca14-d190-n218",
+  "key": "ca14-d190-n204",
   "vol": "14",
   "doc": "190",
   "type": "catalog-correction",
   "was": "Scan pin n218 for the Thomas Pearce / Broughton mention (orig. p. xxii.~482).",
   "reads": "n218 carries tomo pp. ~559–562 (San Diego fort works; Feb 1795 letters) — not this content. Page interpolation (n190 = p.428, n208 = p.531) places p.~482 near leaves n199–n200. Re-pin attempt 2026-07-22: leaves n197–n203 are the 1794 Arrillaga/Borica correspondence cluster (orig pp. ~449–575, heavily interleaved), NOT the tomo-XXII p.482 Pearce/Broughton item — the correct leaf is elsewhere in the interleaved volume and remains to be located; the record stays flagged with this tightened bound.",
-  "note": "Blind sample audit #44/200 (2026-07-18): the audit's first broken scan pin (43 prior pins correct). Survey-sample row; content to be re-located and re-pinned at the C-A 14 residual pass."
+  "note": "Blind sample audit #44/200 (2026-07-18): the audit's first broken scan pin (43 prior pins correct). Survey-sample row; content to be re-located and re-pinned at the C-A 14 residual pass.",
+  "_was_key": "ca14-d190-n218"
  },
  {
   "key": "ca17-d109-n69",
@@ -324,13 +334,14 @@
   "note": "Blind sample audit #59/200: the audit's second broken pin. The expedition and Rodríguez's command are corroborated at n441; the Instructions document needs re-location at a C-A 19 residual pass."
  },
  {
-  "key": "ca23-d76-n30",
+  "key": "ca23-d76-n40",
   "vol": "23",
   "doc": "76",
   "type": "catalog-correction",
   "was": "Dated 1785-02-14.",
   "reads": "Full-resolution crop (blind sample audit #72/200, 2026-07-18): \"1785 - Feb.º 19 - Mont.\" — February 19, not 14.",
-  "note": "Class: day-digit misread (9 read as 4) — a second digit pair alongside the audit's three 8-misreads. The 'toma del Pueblo… Vallejo el Director' quotation verified exact."
+  "note": "Class: day-digit misread (9 read as 4) — a second digit pair alongside the audit's three 8-misreads. The 'toma del Pueblo… Vallejo el Director' quotation verified exact.",
+  "_was_key": "ca23-d76-n30"
  },
  {
   "key": "ca29-d30-n37",
@@ -342,13 +353,14 @@
   "note": "Class: name misattribution — materially changes the actor; the People-register counts for Vallejo/del Valle are each off by one until re-ingest."
  },
  {
-  "key": "ca31-d7-n95",
+  "key": "ca31-d7-n5",
   "vol": "31",
   "doc": "7",
   "type": "catalog-correction",
   "was": "Quoted the adjacent notice as LA \"libre de peligro de incursión.\"",
   "reads": "The leaf (full-resolution crop) reads \"libre de peligro de invas.ⁿ\" — invasión, \"pr José Castro.\"",
-  "note": "Blind sample audit #88/200. Class: misquoted word inside quotation marks — quotes must match the leaf exactly; the Stearns Junta-convening substance is otherwise accurate."
+  "note": "Blind sample audit #88/200. Class: misquoted word inside quotation marks — quotes must match the leaf exactly; the Stearns Junta-convening substance is otherwise accurate.",
+  "_was_key": "ca31-d7-n95"
  },
  {
   "key": "ca32-d5-n15",
@@ -414,13 +426,14 @@
   "note": "Class: day-digit misread, the second 9→4 in the audit (with ca23-d76) — a recurrent pair in Savage's hand."
  },
  {
-  "key": "ca41-d70-n64",
+  "key": "ca41-d70-n63",
   "vol": "41",
   "doc": "70",
   "type": "catalog-correction",
   "was": "Quoted Figueroa as agreeing to avoid burdens that would 'aniquilar la naciente y única industria del país.'",
   "reads": "Full-resolution crop (blind sample audit #120/200, 2026-07-19): the leaf — itself quoting the letter — reads \"por cuya exacción se ARRUINARÍA la naciente y única industria del país.\"",
-  "note": "Class: misquoted word inside quotation marks (second instance, with ca31-d7). The record's substance (alcabalas without oppressive burdens; afora by value; uniformize; consult Mexico) is otherwise exact."
+  "note": "Class: misquoted word inside quotation marks (second instance, with ca31-d7). The record's substance (alcabalas without oppressive burdens; afora by value; uniformize; consult Mexico) is otherwise exact.",
+  "_was_key": "ca41-d70-n64"
  },
  {
   "key": "ca42-d273-n102",
@@ -432,22 +445,24 @@
   "note": "Class: day-digit (17 read as 1 — a dropped second digit)."
  },
  {
-  "key": "ca43-d23-n196",
+  "key": "ca43-d23-n9",
   "vol": "43",
   "doc": "23",
   "type": "catalog-correction",
   "was": "Quoted the militia bando as issued 'en virtud de la Superior orden de 11 de Mayo…'",
   "reads": "Full-resolution crop (blind sample audit #127/200, 2026-07-19): the leaf reads \"en virtud de la Sup.ᵐᵃ [Suprema] orden de 11 de Mayo últ.º\" — Suprema, not Superior.",
-  "note": "Class: abbreviation mis-expanded inside quotation marks (third quote-class instance). Also: the document sits at p.276; the recorded 276–277 includes the following entry's page."
+  "note": "Class: abbreviation mis-expanded inside quotation marks (third quote-class instance). Also: the document sits at p.276; the recorded 276–277 includes the following entry's page.",
+  "_was_key": "ca43-d23-n196"
  },
  {
-  "key": "ca46-d30-n26",
+  "key": "ca46-d30-n19",
   "vol": "46",
   "doc": "30",
   "type": "catalog-correction",
   "was": "Recipient recorded as the Minister of War.",
   "reads": "The docket (blind sample audit #138/200, 2026-07-19) reads \"Argüello al Mntro de ESTADO: Naufragio de un Buqe\" — the letter goes to the Minister of State, forwarding the parte rendered to the Minister of War.",
-  "note": "Class: recipient confusion (inner addressee promoted to recipient). The 'Naufragio de un Buque' docket, date, and pin verified exact."
+  "note": "Class: recipient confusion (inner addressee promoted to recipient). The 'Naufragio de un Buque' docket, date, and pin verified exact.",
+  "_was_key": "ca46-d30-n26"
  },
  {
   "key": "ca48-d849-n305",
@@ -468,13 +483,14 @@
   "note": "Class: digit misread (2→4) — the glyph family's first appearance in a dollar amount rather than a date."
  },
  {
-  "key": "ca52-d6-n35",
+  "key": "ca52-d6-n34",
   "vol": "52",
   "doc": "6",
   "type": "catalog-correction",
   "was": "Dated 1794-11-03.",
   "reads": "Full-resolution crop (blind sample audit #163/200, 2026-07-19): \"1804 - Nov.ᵉ 3 - Mont.ʸ\" — 1804, corroborated by the seed list's inclusion of Misión Santa Inés (founded 1804).",
-  "note": "Class: year-digit misread (decade digit), caught by glyph + foundation-date constraint. Third year-level error of the audit."
+  "note": "Class: year-digit misread (decade digit), caught by glyph + foundation-date constraint. Third year-level error of the audit.",
+  "_was_key": "ca52-d6-n35"
  },
  {
   "key": "ca54-d1077-n114",
@@ -483,7 +499,8 @@
   "type": "catalog-correction",
   "was": "Habilitado General guessed as \"Manuel Larcaba[?].\"",
   "reads": "The leaf (blind sample audit #168/200) reads \"Man. CARCABA, Habilit.º Gen.\" — Manuel Cárcaba, the established habilitado general.",
-  "note": "A flagged uncertainty resolving to a known figure — filed as a resolution; the [?] flag worked."
+  "note": "A flagged uncertainty resolving to a known figure — filed as a resolution; the [?] flag worked.",
+  "_unbound": "ambiguous: 2 records on ca54 leaf n114"
  },
  {
   "key": "ca56-d50-n26",
@@ -504,19 +521,21 @@
   "note": "A flagged uncertainty resolving to a major identification — filed as a resolution; the [?] flag worked as designed."
  },
  {
-  "key": "ca63-d483-n351",
+  "key": "ca63-d483-n346",
   "vol": "63",
   "doc": "483",
   "type": "catalog-correction",
   "was": "Dated 30 April 1848.",
-  "reads": "Full-resolution crop (blind sample audit #199/200, 2026-07-19): the dateline reads “1848. Agosto 30. San Francisco” — AUGUST. Corroborated by content: Leavenworth's demand on H.W. Halleck as administrator of the Leidesdorff estate cannot predate Leidesdorff's death on 18 May 1848."
+  "reads": "Full-resolution crop (blind sample audit #199/200, 2026-07-19): the dateline reads “1848. Agosto 30. San Francisco” — AUGUST. Corroborated by content: Leavenworth's demand on H.W. Halleck as administrator of the Leidesdorff estate cannot predate Leidesdorff's death on 18 May 1848.",
+  "_was_key": "ca63-d483-n351"
  },
  {
-  "key": "ca57-d136-n163",
+  "key": "ca57-d136-n162",
   "vol": "57",
   "doc": "136",
   "type": "catalog-correction",
   "was": "1845 Texas-annexation manifesto quoted as «…por los Estados del Norte-América» and «para vindicar su honor ultrajado y recobrar el territorio usurpado».",
-  "reads": "Quotes-vs-leaf sweep (2026-07-20), leaf n163: the docket reads «Anexación de Tejas, por el Gob.º Norte-Am.º», and the manuscript quotes «…para vindicar su honor ultrajado, y relevarse del intolerante territorio que se ha ocupado» — the words «recobrar»/«usurpado» are not on the leaf. Two misquotes-inside-quotation-marks corrected."
+  "reads": "Quotes-vs-leaf sweep (2026-07-20), leaf n163: the docket reads «Anexación de Tejas, por el Gob.º Norte-Am.º», and the manuscript quotes «…para vindicar su honor ultrajado, y relevarse del intolerante territorio que se ha ocupado» — the words «recobrar»/«usurpado» are not on the leaf. Two misquotes-inside-quotation-marks corrected.",
+  "_was_key": "ca57-d136-n163"
  }
 ]

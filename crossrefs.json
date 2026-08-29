@@ -309,5 +309,12 @@
     "text": "Published edition: transcribed (Savage's Spanish text) and translated in W. Michael Mathes, *La frontera ruso-mexicana* (1990), Doc 14 (pp. 79)."
    }
   }
+ },
+ "_known_unbound": {
+  "note": "Documented ambiguous keys; see _unanchored. gate 2 treats these as known, not new breakage. (2026-08-29.)",
+  "keys": [
+   "ca48-d879-n312–n313",
+   "ca63-d230-n130"
+  ]
  }
 }

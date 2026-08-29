@@ -6318,5 +6318,16 @@
    }
   ]
  },
- "_repair_note": "2026-08-29: witness keys re-bound to live records after the doc_id restoration. 206 re-bound, 6 left on their original key because the target is ambiguous or absent."
+ "_repair_note": "2026-08-29: witness keys re-bound to live records after the doc_id restoration. 206 re-bound, 6 left on their original key because the target is ambiguous or absent.",
+ "_known_unbound": {
+  "note": "Witness keys whose target record no longer exists under that id+leaf and whose correct target is AMBIGUOUS (several records share the cited leaf, or the leaf is now uncatalogued). Listed here so check_publish_contract gate 2 can tell a DOCUMENTED gap from NEW breakage. Re-anchor by reading the leaf; do not guess. (2026-08-29.)",
+  "keys": [
+   "ca14-d1080-n253",
+   "ca14-d1082-n254",
+   "ca14-d1084-n255",
+   "ca14-d1092-n258",
+   "ca14-d1104-n266",
+   "ca14-d1130-n275"
+  ]
+ }
 }
