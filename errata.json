@@ -325,13 +325,13 @@
   "note": "Class: name misread."
  },
  {
-  "key": "ca19-d232-n440",
+  "key": "ca19-d232-n435",
   "vol": "19",
   "doc": "232",
   "type": "catalog-correction",
-  "was": "Scan pin n440 / orig. p. 334+ for Figueroa's formal Tulares-expedition Instructions to Alf. Dámaso Antonio Rodríguez.",
-  "reads": "RESOLVED (post-audit re-pin, 2026-07-22): the formal Instructions (numbered arts. 1–9) are on leaves n438–n439, Savage 433–434, orig pp. 492–497 — record re-pinned there. The old n440 carries the following Villalpando extradition (pp.498–502); n441 the 18 Feb Carrillo→Figueroa request (pp.503–4).",
-  "note": "Blind sample audit #59/200: the audit's second broken pin. The expedition and Rodríguez's command are corroborated at n441; the Instructions document needs re-location at a C-A 19 residual pass."
+  "was": "Scan pin n440 / orig. p. 334+ for Figueroa's formal Tulares-expedition Instructions to Alf. Damaso Antonio Rodriguez. A 2026-07-22 re-pin note put them at n438-n439, Savage 433-434.",
+  "reads": "CORRECTED AND APPLIED 2026-09-01 (leaves read at scale 2). The Instructions run n435-n439, Savage 430-434, closing 'pp 492-7'. Article 1 ('Saldra del Presidio de Sta Barba a la brevedad posible con direccion al pueblo de Ntra Sra de los Angeles') is on n435 under the heading 'Instrucciones que el Alfz Dn Damaso Antº Rodriguez lleva pª su observancia en la espedn qe se le ordena hacer sobre los Tulares a perseguir y destruir la reunion de individuos del territorio de Nuevo Mexico...'; n436 (Savage 431) carries arts. 2 and 3; n439 (Savage 434) carries art. 9 and the closing page line. The record has now actually been re-pinned to n435-n439.",
+  "note": "The 2026-07-22 note was right that n440 was wrong but wrong about where the document is: it saw only the tail, so it reported n438-n439 and missed arts. 1-3 on n435-n436. Its re-pin was also never applied - the published record still read n440 until now. Two companion rows moved with it: d230 n435 -> n439-n440 and d231 n435 -> n440, both leaf-verified the same day."
  },
  {
   "key": "ca23-d76-n40",
