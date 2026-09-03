@@ -76,6 +76,21 @@
 },
 {
 "hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+51,
+51
+]
+],
+"leaf": 504,
+"page": "404",
+"raw": "aptize. St. Pap., Sac., MS., ii. 51. E",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 5,
 "pages": [
@@ -95,6 +110,21 @@
 },
 {
 "hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+17,
+17
+]
+],
+"leaf": 548,
+"page": "448",
+"raw": "203-4; St. Pap., Sac., ii. 17; P",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 5,
 "pages": [
@@ -106,6 +136,21 @@
 "leaf": 550,
 "page": "450",
 "raw": "787, in Prov. St. Pap., MS., v. 4, u",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+26,
+27
+]
+],
+"leaf": 551,
+"page": "451",
+"raw": "ion see St. Pap., Sac., MS., ii. 26-7, v",
 "src": "direct"
 },
 {
@@ -140,6 +185,21 @@
 },
 {
 "hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+137,
+137
+]
+],
+"leaf": 594,
+"page": "494",
+"raw": "iguera. St. Pap., Sac., MS., ii. 137. S",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 11,
 "pages": [
@@ -155,6 +215,36 @@
 },
 {
 "hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+131,
+132
+]
+],
+"leaf": 613,
+"page": "513",
+"raw": "months. St. Pap., Sac., MS., ii. 131-2. T",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+90,
+91
+]
+],
+"leaf": 618,
+"page": "518",
+"raw": "isco in St. Pap., Sac., MS., ii. 90-1, i",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 17,
 "pages": [
@@ -166,6 +256,25 @@
 "leaf": 676,
 "page": "576",
 "raw": ". 75-6; Prov. St. Pap., MS., xvii. 1!);",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+9,
+9
+],
+[
+10,
+10
+]
+],
+"leaf": 715,
+"page": "615",
+"raw": ", 82-3; St. Pap., Sac., MS., ii. 9, 10; i",
 "src": "direct"
 },
 {
@@ -200,6 +309,21 @@
 },
 {
 "hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+68,
+68
+]
+],
+"leaf": 765,
+"page": "665",
+"raw": "43,095. St. Pap., Sac., MS., ii. 68. I",
+"src": "direct"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 18,
 "pages": [
@@ -215,6 +339,25 @@
 },
 {
 "hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+9,
+9
+],
+[
+10,
+10
+]
+],
+"leaf": 783,
+"page": "683",
+"raw": "antara. Id., ii. 9, 10. S",
+"src": "Id"
+},
+{
+"hv": 1,
 "series": "PSP",
 "tomo": 11,
 "pages": [
@@ -227,6 +370,40 @@
 "page": "699",
 "raw": "lanade. Id., xi. 174. J",
 "src": "Id"
+},
+{
+"hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+131,
+132
+]
+],
+"leaf": 804,
+"page": "704",
+"raw": "ica, in St. Pap., Sac., MS., ii. 131-2. p",
+"src": "direct"
+},
+{
+"hv": 1,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+9,
+9
+],
+[
+10,
+10
+]
+],
+"leaf": 824,
+"page": "724",
+"raw": ". 72-3; St. Pap., Sac., MS., ii. 9, 10; P",
+"src": "direct"
 },
 {
 "hv": 1,
@@ -290,6 +467,21 @@
 },
 {
 "hv": 2,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+59,
+59
+]
+],
+"leaf": 38,
+"page": "16",
+"raw": "acific. St. Pap., Sac., MS., ii. 59. 8",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "BenMil",
 "tomo": 37,
 "pages": [
@@ -302,6 +494,21 @@
 "page": "29",
 "raw": "ndants. Dept. St. Pap., Ben. Mil., MS., xxxvii. 61. N",
 "src": "direct"
+},
+{
+"hv": 2,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+74,
+74
+]
+],
+"leaf": 121,
+"page": "99",
+"raw": ", 1809. Id., ii. 74; S",
+"src": "Id"
 },
 {
 "hv": 2,
@@ -395,6 +602,51 @@
 },
 {
 "hv": 2,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+94,
+96
+]
+],
+"leaf": 310,
+"page": "288",
+"raw": "delais. St. Pap. Sac., MS., ii. 94-6. T",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+94,
+96
+]
+],
+"leaf": 310,
+"page": "288",
+"raw": "matter. St. Pap. Sac., MS., ii. 94-6. T",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+89,
+89
+]
+],
+"leaf": 312,
+"page": "290",
+"raw": ", 1818. St. Pap. Sac., MS., ii. 89. A",
+"src": "direct"
+},
+{
+"hv": 2,
 "series": "DeptRec",
 "tomo": 1,
 "pages": [
@@ -436,6 +688,36 @@
 "leaf": 367,
 "page": "345",
 "raw": "rence. Dept. St. Pap., Ben. Mil., MS., Ixxi. 47-51.",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+68,
+68
+]
+],
+"leaf": 392,
+"page": "370",
+"raw": "77-81; St. Pap. Sac., MS., ii. 68; v",
+"src": "direct"
+},
+{
+"hv": 2,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+93,
+93
+]
+],
+"leaf": 444,
+"page": "422",
+"raw": "70 men. St. Pap., Sac., MS., ii. 93. J",
 "src": "direct"
 },
 {
@@ -1164,6 +1446,21 @@
 },
 {
 "hv": 3,
+"series": "SP-Sac",
+"tomo": 2,
+"pages": [
+[
+115,
+115
+]
+],
+"leaf": 199,
+"page": "177",
+"raw": "6th, in Id., ii. 115. L",
+"src": "Id"
+},
+{
+"hv": 3,
 "series": "BenMil",
 "tomo": 29,
 "pages": [
@@ -1221,36 +1518,6 @@
 "page": "375",
 "raw": "ncisco. Dept. St. Pap., Ben. Mil., MS., Ixxiii. 54; V",
 "src": "direct"
-},
-{
-"hv": 3,
-"series": "DSP-Ang",
-"tomo": 4,
-"pages": [
-[
-243,
-243
-]
-],
-"leaf": 543,
-"page": "521",
-"raw": "ara, in Id., iv. 243, s",
-"src": "Id"
-},
-{
-"hv": 3,
-"series": "DSP-Ang",
-"tomo": 4,
-"pages": [
-[
-246,
-247
-]
-],
-"leaf": 543,
-"page": "521",
-"raw": "action. Id., iv. 246-7. J",
-"src": "Id"
 },
 {
 "hv": 3,
