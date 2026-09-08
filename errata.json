@@ -546,5 +546,185 @@
   "was": "Published under ca1-d92, whose row had two documents fused into it.",
   "reads": "2026-08-29: C-A 1 line 142 carried TWO documents in one table row. Because the parser anchors the trailing block from the right, ca1-d92 was publishing THIS document (San Diego's founding, 16 Jul 1769, dia del Triunfo de la Santa Cruz) as its summary, while the record's own subject, Virrey Bucareli's 1776 comunicacion, sat unreachable in the middle of the row. The row has been split: ca1-d92 is now the Bucareli comunicacion, and this San Diego document has its own id. A citation of ca1-d92 made before 2026-08-29 for the San Diego text should be read as ca1-d1790.",
   "added": "2026-08-29"
+ },
+ {
+  "key": "ca8-d271-n206",
+  "vol": "8",
+  "doc": "271",
+  "type": "catalog-correction",
+  "was": "Extracto de revista May; arms inspection results",
+  "reads": "n206 (stamp 212) carries pp.43–47: a soldier striking an Indian, then «Argüello á Borica. Dificultad entre sargento Amador y los padres de la mision de S.n José», then «P. Isidro Bercenilla al sargento Amador. Disgustos». The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d273-n209",
+  "vol": "8",
+  "doc": "273",
+  "type": "catalog-correction",
+  "was": "Franciscan-military confrontation: padres refuse to hand over Indian fugitives; jurisdictional dispute",
+  "reads": "n209 (stamp 215) carries pp.52–56: «Avisa publicacion del indulto real … fabricar chinguiritos» (Junio 30) and «Avisa no haberle contestado los P.P. de la mision S.n Fr.co un oficio … sobre una espedicion» (Junio 21). The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d275-n211",
+  "vol": "8",
+  "doc": "275",
+  "type": "catalog-correction",
+  "was": "Monthly Jul; Mission San José founding details; Indian labor arrangements; Amador arrives",
+  "reads": "n211–212 (stamps 217–218) carry the 1797 Raymundo-expedition dossier — a padre asking for «una espedicioncilla … con 4 sacos de trigo» (p.59) and «1797 Junio 27 / Fray José Maria Fernandez al gob.r Borica. Denuncia la anterior espedicion como un disparate». The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d276-n213",
+  "vol": "8",
+  "doc": "276",
+  "type": "catalog-correction",
+  "was": "Reports on Yerba Buena battery — engineer Córdoba's progress; problems with materials",
+  "reads": "n213 (stamp 219) continues Fernández’s denunciation, naming «Raymundo, quien era el verdugo que tenían los P.P. Danti y Landaeta», ending pp.60–62. The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d277-n214",
+  "vol": "8",
+  "doc": "277",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Jul; estado de fuerza",
+  "reads": "n214 (stamp 220) closes pp.60–62, then opens «1797. Junio 29. S.n Fr.co / Fr. J.e M.ª Fernandez al Gob.r Borica. Sobre la espedicion de Raymundo. Peligros de navegar á la otra banda». The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d278-n215",
+  "vol": "8",
+  "doc": "278",
+  "type": "catalog-correction",
+  "was": "Monthly Aug; mission supply issues; construction at presidio; reports from escoltas",
+  "reads": "n215–216 (stamps 221–222): Fernández closes at pp.63–64, then «1797. Junio 22 / Fray José Espí á Argüello. Disculpa», then the Julio 18 Argüello order to the Indians (pp.87–88, now catalogued as d469). The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d279-n217",
+  "vol": "8",
+  "doc": "279",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Aug; personnel movements",
+  "reads": "n217 (stamp 223) continues the Julio 18 Argüello order — the assembly at Mission San Francisco before Fathers Landaeta, Espí and Fernández. The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d280-n218",
+  "vol": "8",
+  "doc": "280",
+  "type": "catalog-correction",
+  "was": "Monthly Sep; hemp cultivation report; escolta diaries enclosed",
+  "reads": "n218–219 (stamps 224–225): the Argüello order closes at pp.87–88, then p.69 (a buey for the nueva villa de Branciforte) and pp.70–71 («Recua de 35 mulas»), then «Argüello á Borica, Mayo 4, reparos del Tribunal de Cuentas» (p.72). The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d138-n80",
+  "vol": "8",
+  "doc": "138",
+  "type": "catalog-correction",
+  "was": "Monthly report: Indian labor, construction progress at presidio",
+  "reads": "n80 (stamp 84, ink 83) carries a coastal-defence assessment: «la guarnición del fuerte consta de 4 hombres, un cabo de voluntarios y 6 artilleros … cualquier barco enemigo ó corsario puede hacer desembarco con toda facilidad» — with a landing analysis of the coast between San Francisco and Monterey. The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d143-n84",
+  "vol": "8",
+  "doc": "143",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Sep; estado de fuerza",
+  "reads": "n84 (stamp 88, ink 87) carries «1796 = Abril 30 = S.n Francisco / Pedro Alberni á D. Borica. Sobre fragatas» (pp.269–270) and an undated, unsigned «Extracto de la Gazeta de Londres del 1.º de Agosto de 1796» — not a September 1795 revista. The row above does not describe this leaf.",
+  "note": "Constructed-row class: the summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Coordinator leaf-read 2026-09-02/03/08. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d289-n231",
+  "vol": "8",
+  "doc": "289",
+  "type": "catalog-correction",
+  "was": "✎✓ leaf-verified 2026-07-09 — not a 'Monthly Apr': THREE acknowledgment letters on n231 (Savage leaf 40): Abril 1º 'recibo de 30 ejemplares del bando Rl que declara la guerra á Inglaterra' (pp. 113–14…",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d291-n236",
+  "vol": "8",
+  "doc": "291",
+  "type": "catalog-correction",
+  "was": "⚠ CONSTRUCTED ROW (2026-07-09): the claimed 'Monthly May (sentinel posted; distrusts Indians)' content = the 10 Apr 1797 war assessment at n236–238 (leaf-verified; ca8 survey #32). This document as de…",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d292-n236",
+  "vol": "8",
+  "doc": "292",
+  "type": "catalog-correction",
+  "was": "✎✓ RE-IDENTIFIED 2026-07-09: n236 = the START of the 10 Apr 1797 war assessment ('Precauciones contra invasión por los Ingleses. Desconfía de los Indios' — reply to Borica's 27 Mar order; sentinel 'de…",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d293-n237",
+  "vol": "8",
+  "doc": "293",
+  "type": "catalog-correction",
+  "was": "✎✓ RE-IDENTIFIED 2026-07-09: n237–238 = the war-assessment BODY (118 cartuchos; no artillero; 'de nada me sirve ponerla [una batería]… pueden dar fondo y desembarcarse'; the Indians/abalorios passage;…",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d294-n239",
+  "vol": "8",
+  "doc": "294",
+  "type": "catalog-correction",
+  "was": "✎✓ RE-IDENTIFIED 2026-07-09: the '+1797. Abril 16' Goycoechea letter begins n238-bottom and continues n239, NOT an 'Extracto Jun 30'",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d299-n246",
+  "vol": "8",
+  "doc": "299",
+  "type": "catalog-correction",
+  "was": "Mission San Fernando founded at the rancho of Francisco Reyes — ⚠ NOT FOUND in C-A 8 after probing n280/283/285/287/290/293 (2026-07-09): no Goycoechea founding-report letter. Nearest trace: n293 (3 N…",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d303-n252",
+  "vol": "8",
+  "doc": "303",
+  "type": "catalog-correction",
+  "was": "✎✓ LEAF-VERIFIED 2026-07-09 (n252, 16 May 1797, pp. 177–78; ✎ was 'n259–260'): 'Precauciones contra una posible invasión de los Ingleses' — Borica (24 Apr) inserted the order to the Alcalde del pueblo…",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d304-n254",
+  "vol": "8",
+  "doc": "304",
+  "type": "catalog-correction",
+  "was": "⚠ MIS-MAPPED (found 2026-07-09): the 'CRITICAL war assessment (118 cartuchos, no artilleryman, Indians may side with English)' clause belongs to the 10 Apr 1797 Goycoechea→Borica letter at scans n236–…",
+  "reads": "Leaf-checked 2026-07-09; the correction is recorded in the record’s own summary. The row as originally published described a document that is not on this leaf.",
+  "note": "Constructed-row class, disproved by the 2026-07-09 leaf session (its finding is preserved in the record text). See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-08"
  }
 ]
