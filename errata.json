@@ -767,5 +767,183 @@
   "reads": "n221 (stamp 227 — the row records savage 225, two low) carries two letters of 1797 MAYO 4, Argüello á Borica («el bando del virrey Branciforte sobre Ag.te de Caña»; and that the habilitado «economise la distribucion de efectos … todo el año de 98, y parte de 99», pp.80–81), then «1797. Enero 15. S.ta Barb.a / Felipe de Goycoechea al Gob.r Borica» enclosing the year's weather report (p.82). Not an October 1797 monthly.",
   "note": "Constructed-row class. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
   "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d147-n88",
+  "vol": "8",
+  "doc": "147",
+  "type": "page-system",
+  "reads": "Three corrections. (1) PAGES: the extract closes on n90 (stamp 94) at «pp. 276-278»; the row cited p.281–286. (2) DATE: the row read 1795-08-18. The Treaty of San Ildefonso — the Franco-Spanish alliance the row itself names — is of August 1796, and the surrounding leaves are 1796 material; the copy is undated and unplaced («Sin fecha ni lugar / Sin firma») and gives only «á 2 de Fructidor (23 de Agosto) y ratificada en 26 del mismo por el consejo de los Ancianos en Paris», so the year is supplied from the treaty's identity, not transcribed from the leaf. (3) CONTENT: the row glossed art. 18 as «mutual navigation rights». It is not — art. 18 provides that England being the only power against whom Spain has direct grievances, the alliance shall operate against her alone during the present war, Spain remaining neutral toward the other powers armed against France. The summary now carries the articles as transcribed (4, 5, 18).",
+  "note": "Displaced-citation + date + content correction. Coordinator leaf-read 2026-09-09 (n88, n90). The wrong page range here is the upstream half of the same fault that inflated d148 and produced the constructed series d149–d164. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d148-n90",
+  "vol": "8",
+  "doc": "148",
+  "type": "page-system",
+  "reads": "⚠ Two corrections, both material. (1) PAGES: the diary's true span is «pp. 279-345» — Savage's own closing citation on n96 (stamp 100) — not p.287–299. It is a 67-page document, not a 13-page one, and the understatement is what created the phantom gap at pp.300–346 later filled by the constructed rows d149–d164. (2) DATE: the row is dated 1795; the document is headed «1796 = Diciembre 9 = S.n Vicente», is unsigned with the pencilled note «The original is signed José Joaq.n Arrillaga», and its day-entries run from «Junio 14 de 1796» to «Noviembre 21». Full title: «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado».",
+  "note": "Page-span and date correction. Coordinator leaf-read 2026-09-09 (n88, n90, n94, n96). This is the largest single document so far identified in C-A 8 and it was catalogued at a fifth of its true extent. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d149-n96",
+  "vol": "8",
+  "doc": "149",
+  "type": "catalog-correction",
+  "was": "Transfer of 7,985 pesos for SF presidio; financial settlement with habilitado",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n96 (stamp 100) carries the CLOSE of Arrillaga's reconnaissance diary, ending «pp. 279-345». There is no financial settlement with the habilitado here.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d150-n97",
+  "vol": "8",
+  "doc": "150",
+  "type": "catalog-correction",
+  "was": "Peace with France bando — announces Treaty of Basel; orders celebrations and Te Deum",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n98 (stamp 102) opens mid-document at «pp. 350-351» («Que se cercaron 8 Casas, techado 4 y parte del Cuartel…»), then «1796 = Febrero 18 = S.n José / Ramon Laso dela Vega á D. Borica / Sobre muchachos de escuela» (pp. 352-354) and «1796 = Febrero 25 _ S.ta Barbara / (Firmado): F. Goycoechea. / Lista de muchachos» (p. 355). No bando of the Peace of Basel.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d151-n98",
+  "vol": "8",
+  "doc": "151",
+  "type": "catalog-correction",
+  "was": "Monthly report Nov",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n98 (stamp 102) carries pp. 350-355: a construction report continued from the previous leaf, then Laso de la Vega on the San José school boys (pp. 352-354) and Goycoechea's list of 32 school boys (p. 355). No November monthly report.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d152-n99",
+  "vol": "8",
+  "doc": "152",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Nov; estado de fuerza",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n99 (stamp 103) carries «1796 = Marzo 31 = San Francisco / H. Sal á D. Borica / Entrado á escolta de un soldado» (p. 356), «1796 = Marzo 31 _ S.n Francisco / H. Sal á D. Borica. / Sobre un sentensiado» (pp. 357-358), and the heading of a «Carta de aviso» of Marzo 30 carried over. Sal is the correspondent, but these are March 1796 letters, not a November 1795 extracto de revista.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d153-n99",
+  "vol": "8",
+  "doc": "153",
+  "type": "catalog-correction",
+  "was": "Correo dispatch; various administrative items",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n100 (stamp 104) carries the body of Sal's «Carta de aviso» of 1796 Marzo 30 (pp. 359-360, acknowledging the viceroy's printed bando of 23 November on the peace), then two letters «Sobre entregado dinero» / «Sobre entrega de dinero» to Manuel Carcaba (pp. 361-364).",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d154-n100",
+  "vol": "8",
+  "doc": "154",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Dec; year-end estado de fuerza",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n100 (stamp 104) carries pp. 359-364, all Sal to Borica of 1796 Marzo 30 on the bando and on money delivered to lieutenant colonel Manuel Carcaba. No year-end estado de fuerza.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d155-n101",
+  "vol": "8",
+  "doc": "155",
+  "type": "catalog-correction",
+  "was": "New year report; notes on presidio conditions",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. This row is bound to n101, which lies between the diary's close and Sal's March 1796 letters at pp.350-393; it has not yet been transcribed leaf-by-leaf, but its claimed pages are inside the diary span regardless.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d156-n102",
+  "vol": "8",
+  "doc": "156",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Jan 1796; estado de fuerza",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n102 (stamp 106) carries «Publicacion de Cedula» (pp. 371-372, Sal reporting he published the royal cédula of 6 June 1795 creating a consulado at Guadalajara), «Sobre artilleros» (pp. 373-374), and the heading «Franqueas á artesanos» carried over. No January extracto de revista.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d157-n103",
+  "vol": "8",
+  "doc": "157",
+  "type": "catalog-correction",
+  "was": "Multiple admin items; construction reports",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n103 (stamp 107) carries the body of «Franqueas á artesanos» (p. 375), «Formacion de diarios por los Cavos» (pp. 376-377), and «1796 = Marzo 25 _ S.ta Cruz / (Firmado): José Ant.nio Sanchez / Regreso de soldados» (p. 378).",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d158-n103",
+  "vol": "8",
+  "doc": "158",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Feb; estado de fuerza",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n104 (stamp 108) carries two Santa Cruz notes of Sanchez (pp. 379-380) and «1796 = Marzo 12 = Sta Barbara / F. Goycoechea a D. Borica / Descubrimiento de Metales de azogue» (pp. 381-382), on Sergeant José María Ortega's quicksilver find at the Laguna Larga. No February extracto de revista.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d159-n104",
+  "vol": "8",
+  "doc": "159",
+  "type": "catalog-correction",
+  "was": "Monthly report; Indian labor; supply situation",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n105 (stamp 109) carries «1796 = Abril 7 = S.n Francisco. / (Firmado): Raymundo Carrillo / Certificado» (pp. 383-384) and «1796 = Abril 4 = Sta Barbara / F. Goycoechea á D. Borica / Construccion de una Capilla» (p. 385).",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d160-n105",
+  "vol": "8",
+  "doc": "160",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Mar; estado de fuerza",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n105 (stamp 109) carries pp. 383-385 — Carrillo's certificate concerning Padre Manuel Fernandez, and Goycoechea on timber-sawing for a chapel. No March estado de fuerza.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d161-n106",
+  "vol": "8",
+  "doc": "161",
+  "type": "catalog-correction",
+  "was": "Correo items; notes on personnel",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. This row is bound to n106, which lies between the diary's close and Sal's March 1796 letters at pp.350-393; it has not yet been transcribed leaf-by-leaf, but its claimed pages are inside the diary span regardless.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d162-n107",
+  "vol": "8",
+  "doc": "162",
+  "type": "catalog-correction",
+  "was": "Extracto de revista Apr; estado de fuerza",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n107 (stamp 111) carries pp. 389-391 — all José Joaquín Arrillaga writing from S.n Vicente in BAJA CALIFORNIA in July 1796 («Sobre Contrabando», «Sobre recibo de memorias», «Sobre canoas»). Neither Sal nor San Francisco appears on this leaf.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d163-n107",
+  "vol": "8",
+  "doc": "163",
+  "type": "catalog-correction",
+  "was": "Multiple items: supplies, construction",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n108 (stamp 112) carries pp. 392-393 — Arrillaga from S.n Fernando, 1796 Julio 2, «Sobre gentiles» and «Sobre Saludo de buques», plus the heading «Salida de un extrangero» carried over. Baja California correspondence, not Sal's.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d164-n108",
+  "vol": "8",
+  "doc": "164",
+  "type": "catalog-correction",
+  "was": "Extracto de revista May; estado de fuerza; end of Sal's SF correspondence block",
+  "reads": "The claimed original pages fall inside Arrillaga's reconnaissance diary. Savage's own bracketing citations fix this stretch: the San Ildefonso alliance extract closes on n90 (stamp 94) at «pp. 276-278», and Arrillaga's «Diario de los reconocimientos que verificó el teniente coronel que suscribe en la Frontera de la gentilidad de la antigua California y márgenes del Colorado» (headed «1796 = Diciembre 9 = S.n Vicente») closes on n96 (stamp 100) at «pp. 279-345». Original pages 279–345 are therefore consumed by that one diary, and no Sal monthly report can sit inside them. On the leaves this row is bound to: n108 (stamp 112) carries Arrillaga's July 1796 letters from S.n Fernando at pp. 392-393. The claim that this row closes «Sal's SF correspondence block» is part of the constructed series, not a reading of the leaf.",
+  "note": "Constructed-row class. This row is one of sixteen (d149–d164) minted to fill an apparent gap at original pp.300–346 — a gap that exists only because d148 recorded Arrillaga's diary as pp.287–299 instead of its true pp.279–345. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
  }
 ]
