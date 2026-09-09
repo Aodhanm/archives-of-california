@@ -718,5 +718,54 @@
   "reads": "This record was corrected at the manuscript on 2026-07-09 and its summary now carries that finding. AS ORIGINALLY PUBLISHED the row described a document that is not on this leaf — anyone who cited it before that date should re-check.",
   "note": "Constructed-row class: the original summary was written to a template (\"Monthly X / Extracto de revista X\") rather than read from the leaf. Disproved by the 2026-07-09 leaf session. See CA8-REPAIR-PLAN-2026-09-03.",
   "added": "2026-09-08"
+ },
+ {
+  "key": "ca8-d139-n81",
+  "vol": "8",
+  "doc": "139",
+  "type": "catalog-correction",
+  "was": "Extracto de revista July; estado de fuerza; escolta movements",
+  "reads": "n81 (stamp 85, ink 84) continues the coastal-defence assessment begun on n80 — «para la defensa de la bahía de Monterey hay una batería de 10 cañones á barbeta de pequeño calibre: 7 de á 8, 1 de á 6 y 2 de á 3 … de S.n Francisco á S.n Diego hay 212 leguas y solo 300 hombres de tropa … solo quedan 25 á 30 hombres de infantería para defender los 3 puertos citados». Not a July 1795 revista.",
+  "note": "Constructed-row class: the summary was written to a template rather than read from the leaf. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d144-n84",
+  "vol": "8",
+  "doc": "144",
+  "type": "page-system",
+  "reads": "⚠ This row is NOT a constructed row — its document is real and its scan span is right. The «Extracto de la Gazeta de Londres del 1.º de Agosto de 1796» does run n84–n86, closing on n86 (stamp 90) at «p. 271» after the seven numbered Spanish grievances against Britain. Only the CITATION is wrong: the row cites p.272–276, which is where the three padrones on n87 sit. The extract's own pages are ~270–271.",
+  "note": "Displaced-citation class, not fabrication. An adversarial audit listed this row among the disproved; a coordinator leaf-read on 2026-09-09 found the document genuine and only its page range displaced onto the following leaf's documents.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d145-n86",
+  "vol": "8",
+  "doc": "145",
+  "type": "catalog-correction",
+  "was": "Monthly report Oct; construction, Indian labor",
+  "reads": "n86 (stamp 90) carries the CLOSE of the London Gazette extract — «7.º La detención de varias embarcaciones españolas y las vejaciones que diariamente cometen los comandantes de las embarcaciones británicas» — ending at p.271; n87 (stamp 91) carries three padrones at pp.272–275. There is no October 1795 monthly report on either leaf.",
+  "note": "Constructed-row class. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d146-n87",
+  "vol": "8",
+  "doc": "146",
+  "type": "catalog-correction",
+  "was": "Estado de fuerza Oct",
+  "reads": "n87 (stamp 91, ink 90) carries THREE PADRONES, none of them catalogued: «1794 Dic. 31 S.n José / Gabriel Moraga. Padron de los habitantes del pueblo de S.n Jose de Guadalupe» — 84 inhabitants, 18 casados, 30 solteros, 17 solteras, 1 viuda (pp.272–273); «1803 Dic. 23 Villa de Branciforte / Ignacio Vallejo» — 101 almas, 16 casados, 42 solteros, 26 solteras, 1 viuda (p.274); and «1794 Dic. 31 S.n José / Moraga. Vasallos de S.n José» — 34 españoles, 16 indios, 22 mestizos, 12 de color quebrado (p.275). Not an October 1795 estado de fuerza.",
+  "note": "Constructed-row class, and the leaf holds three uncatalogued censuses. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
+ },
+ {
+  "key": "ca8-d282-n221",
+  "vol": "8",
+  "doc": "282",
+  "type": "catalog-correction",
+  "was": "Monthly Oct; defense situation; correo dispatch",
+  "reads": "n221 (stamp 227 — the row records savage 225, two low) carries two letters of 1797 MAYO 4, Argüello á Borica («el bando del virrey Branciforte sobre Ag.te de Caña»; and that the habilitado «economise la distribucion de efectos … todo el año de 98, y parte de 99», pp.80–81), then «1797. Enero 15. S.ta Barb.a / Felipe de Goycoechea al Gob.r Borica» enclosing the year's weather report (p.82). Not an October 1797 monthly.",
+  "note": "Constructed-row class. Coordinator leaf-read 2026-09-09. See CA8-REPAIR-PLAN-2026-09-03.",
+  "added": "2026-09-09"
  }
 ]
