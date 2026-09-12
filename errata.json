@@ -1330,5 +1330,100 @@
    127,
    129
   ]
+ },
+ {
+  "key": "ca18-d4-n190",
+  "vol": "18",
+  "doc": "4",
+  "type": "catalog-correction",
+  "leaves_read": [
+   190
+  ],
+  "was": "Causa criminal vs. miliciano Gracia Larios for robbing otter pelts (3 Sept)",
+  "reads": "WITHDRAWN as a duplicate of ca18-d162. Leaf n190 (stamp 190, ink 38) carries ONE document: «1824 Set. 11. Mont / Domingo Carrillo, Comisionado - Causa criminal … contra el miliciano Gracia Larios por haberse robado en la playa una nutria el 5 de Set.e», closing «pp 646-52». This row's superior reading of the name — «Gracia Larios», against d162's «Gracia Lario[?]» — has been merged into d162. (The escribano is the young Mariano G. Vallejo.)",
+  "note": "Content-duplicate class, resolved 2026-09-11 by reading the leaf. C-A 18 carried two records for the same document — one with a roman tomo prefix, one without. The leaf shows a single document here, so this row is superseded and has been withdrawn; the surviving record is named below. ⚠ Neither series was uniformly better: in two of the four pairs the UNPREFIXED row held the more accurate reading, which has been merged into the survivor rather than discarded. Gates do not detect this class — they check doc_id uniqueness, not content.",
+  "added": "2026-09-11",
+  "_unbound": "withdrawn: this record was retired 2026-09-11 as a verified content duplicate; the erratum documents the withdrawal and names the surviving record, so it deliberately binds to no live row"
+ },
+ {
+  "key": "ca18-d5-n290",
+  "vol": "18",
+  "doc": "5",
+  "type": "catalog-correction",
+  "leaves_read": [
+   290
+  ],
+  "was": "Sumaria vs. deserters Apolinario Uribe … orig_page 36–38",
+  "reads": "WITHDRAWN as a duplicate of ca18-d301. Leaf n290 (stamp 289) closes this sumaria at «pp 536-38»; this row's «36–38» is that citation with the leading 5 lost. d301's «LXIII.536–38» is correct and survives.",
+  "note": "Content-duplicate class, resolved 2026-09-11 by reading the leaf. C-A 18 carried two records for the same document — one with a roman tomo prefix, one without. The leaf shows a single document here, so this row is superseded and has been withdrawn; the surviving record is named below. ⚠ Neither series was uniformly better: in two of the four pairs the UNPREFIXED row held the more accurate reading, which has been merged into the survivor rather than discarded. Gates do not detect this class — they check doc_id uniqueness, not content.",
+  "added": "2026-09-11",
+  "_unbound": "withdrawn: this record was retired 2026-09-11 as a verified content duplicate; the erratum documents the withdrawal and names the surviving record, so it deliberately binds to no live row"
+ },
+ {
+  "key": "ca18-d6-n290",
+  "vol": "18",
+  "doc": "6",
+  "type": "catalog-correction",
+  "leaves_read": [
+   290
+  ],
+  "was": "Averiguación vs. Bautista Victoriano … orig_page 537–54",
+  "reads": "WITHDRAWN as a duplicate of ca18-d302 — but this row was the ACCURATE one. Leaf n290 closes the averiguación at «pp 537-54»; d302 read «539–54». d302 has been corrected to 537–54 and survives because it also carries the tomo prefix, which is the only per-record tomo data in this volume.",
+  "note": "Content-duplicate class, resolved 2026-09-11 by reading the leaf. C-A 18 carried two records for the same document — one with a roman tomo prefix, one without. The leaf shows a single document here, so this row is superseded and has been withdrawn; the surviving record is named below. ⚠ Neither series was uniformly better: in two of the four pairs the UNPREFIXED row held the more accurate reading, which has been merged into the survivor rather than discarded. Gates do not detect this class — they check doc_id uniqueness, not content.",
+  "added": "2026-09-11",
+  "_unbound": "withdrawn: this record was retired 2026-09-11 as a verified content duplicate; the erratum documents the withdrawal and names the surviving record, so it deliberately binds to no live row"
+ },
+ {
+  "key": "ca18-d8-n457",
+  "vol": "18",
+  "doc": "8",
+  "type": "catalog-correction",
+  "leaves_read": [
+   457
+  ],
+  "was": "Sumaria vs. soldiers León Rosas & J. Cañedo … orig_page 676–703 (876–903)",
+  "reads": "WITHDRAWN as a duplicate of ca18-d404 — but this row held the FULLER citation. Leaf n457 (stamp 460) closes «pp 676-703 (876-903.)», giving both page systems, and adds «Fin del tomo 67». d404 recorded only «876–903» and has been corrected to carry both.",
+  "note": "Content-duplicate class, resolved 2026-09-11 by reading the leaf. C-A 18 carried two records for the same document — one with a roman tomo prefix, one without. The leaf shows a single document here, so this row is superseded and has been withdrawn; the surviving record is named below. ⚠ Neither series was uniformly better: in two of the four pairs the UNPREFIXED row held the more accurate reading, which has been merged into the survivor rather than discarded. Gates do not detect this class — they check doc_id uniqueness, not content.",
+  "added": "2026-09-11",
+  "_unbound": "withdrawn: this record was retired 2026-09-11 as a verified content duplicate; the erratum documents the withdrawal and names the surviving record, so it deliberately binds to no live row"
+ },
+ {
+  "key": "ca18-d162-n190",
+  "vol": "18",
+  "doc": "162",
+  "type": "catalog-correction",
+  "leaves_read": [
+   190
+  ],
+  "was": "Criminal case vs. miliciano Gracia Lario[?]",
+  "reads": "Name corrected to «Gracia Larios», read directly from leaf n190. Merged from the withdrawn duplicate ca18-d4.",
+  "note": "Duplicate-merge, 2026-09-11.",
+  "added": "2026-09-11"
+ },
+ {
+  "key": "ca18-d302-n290",
+  "vol": "18",
+  "doc": "302",
+  "type": "page-system",
+  "leaves_read": [
+   290
+  ],
+  "was": "LXIII.539–54",
+  "reads": "Corrected to LXIII.537–54. Leaf n290 (stamp 289) closes the Bautista Victorio averiguación at «pp 537-54». Merged from the withdrawn duplicate ca18-d6, which had the range right.",
+  "note": "Duplicate-merge, 2026-09-11.",
+  "added": "2026-09-11"
+ },
+ {
+  "key": "ca18-d404-n457",
+  "vol": "18",
+  "doc": "404",
+  "type": "page-system",
+  "leaves_read": [
+   457
+  ],
+  "was": "LXVII.876–903",
+  "reads": "Corrected to LXVII.676–703 (876–903). Leaf n457 (stamp 460) closes «pp 676-703 (876-903.)» — Savage records BOTH page systems and the record now carries both. Merged from the withdrawn duplicate ca18-d8.",
+  "note": "Duplicate-merge, 2026-09-11.",
+  "added": "2026-09-11"
  }
 ]
