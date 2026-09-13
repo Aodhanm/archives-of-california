@@ -1425,5 +1425,74 @@
   "reads": "Corrected to LXVII.676–703 (876–903). Leaf n457 (stamp 460) closes «pp 676-703 (876-903.)» — Savage records BOTH page systems and the record now carries both. Merged from the withdrawn duplicate ca18-d8.",
   "note": "Duplicate-merge, 2026-09-11.",
   "added": "2026-09-11"
+ },
+ {
+  "key": "ca48-d906-n319",
+  "vol": "48",
+  "doc": "906",
+  "type": "scan-pin",
+  "leaves_read": [
+   318,
+   319
+  ],
+  "was": "n318",
+  "reads": "Corrected to n319. Leaf n319 carries the entry «Devuelve decretada instancia de extrangero Juan Temple sobre naturalizacion», 19 June 1830, orig. pp.223-224; n318 carries the 7 and 13 June entries. The abstract was accurate; only the leaf pin was wrong.",
+  "note": "Leaf-verified spot-check, 2026-09-13. Whether neighbouring C-A 48 records carry the same +1 offset is an OPEN question: the volume's leaf/stamp offsets are not uniform, so no bulk shift was applied.",
+  "added": "2026-09-13"
+ },
+ {
+  "key": "ca24-d917-n513",
+  "vol": "24",
+  "doc": "917",
+  "type": "scan-pin",
+  "leaves_read": [
+   511,
+   512,
+   513,
+   514
+  ],
+  "was": "n511–n512",
+  "reads": "Corrected to n513–n514. Borica's 3 June 1797 'Convento gral.' letter to Lasuén (Savage pp.665-7) is on leaves n513-n514; n511-n512 carry earlier correspondence.",
+  "note": "Leaf-verified spot-check, 2026-09-13. Offsets elsewhere in C-A 24 are mixed (-1, +1, -2 at three sampled points), so this was corrected individually rather than as a volume-wide shift.",
+  "added": "2026-09-13"
+ },
+ {
+  "key": "ca14-d148-n167",
+  "vol": "14",
+  "doc": "148",
+  "type": "date",
+  "leaves_read": [
+   167
+  ],
+  "was": "1793",
+  "reads": "Corrected to 1792. The dateline on leaf n167 reads «1792 - Octre 5 = Loreto»; the numeral was confirmed by comparing the glyph with the 2s in «$240.2 rs» four lines below on the same leaf.",
+  "note": "Leaf-verified spot-check, 2026-09-13.",
+  "added": "2026-09-13"
+ },
+ {
+  "key": "ca26-d1237-n467",
+  "vol": "26",
+  "doc": "1237",
+  "type": "reading",
+  "leaves_read": [
+   467
+  ],
+  "was": "gasto de aprehensión de presos",
+  "reads": "Corrected to «gasto en la reparación de piezas de este presidio». Leaf n467 reads «gasto en la reparacion de piezas de este Pres.º» — expenditure on repairing artillery pieces, not on apprehending prisoners. (Abbreviation expanded; the row is an abstract, not a transcription.)",
+  "note": "Leaf-verified spot-check, 2026-09-13.",
+  "added": "2026-09-13"
+ },
+ {
+  "key": "ca20-d111-n100",
+  "vol": "20",
+  "doc": "111",
+  "type": "reading",
+  "leaves_read": [
+   100
+  ],
+  "was": "tte Castañeda",
+  "reads": "Corrected to «José María Castañeda». Leaf n100 reads «pasageros á J.é M.ª Castañeda y Pablo Anderson». The earlier reading expanded Savage's «J.é» as a military rank; the manuscript gives no rank.",
+  "note": "Leaf-verified spot-check, 2026-09-13.",
+  "added": "2026-09-13"
  }
 ]
