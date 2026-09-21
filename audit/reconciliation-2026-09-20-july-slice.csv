@@ -1,0 +1,31 @@
+n,record_id,date_verdict,substance_verdict,result,evidence
+6,ca2-d6,PART,OK,no flip,"deposition verbatim across n333-n334: Jalchedume, educado en el Altar, S. Pedro y Pablo, 'tiene 20 anos, no firmando'; stamps 330-331"
+18,ca6-d84,OK,OK,no flip,"quiebra RO verbatim: arresto + 2 rs diarios, prorata oficiales/Capellan/Tropa, fondo de gratificacion, publication cada tres meses; pp.272-274"
+32,ca11-d105,OK,OK,no flip,"Carrillo a Arrillaga, Abril 1 1802, Hernandez parte de 27 Feb; NOTE orig_page field holds folio 162, leaf foots pp.387-8"
+33,ca11-d273,OK,OK,no flip,"Arguello a Font, Agto 19 1803, apresar Cap. Juan Brown, p.628; same folio-in-orig_page class (248)"
+48,ca16-d145,OK,OK,no flip,"muster digit-for-digit: 3 sgts, 5 cabos, 57 soldados, 68 hombres; 1 patron 2 arraez 1 guardian 23 marineros; pp 520-618"
+49,ca16-d226,OK,OK,no flip,21519 + 4000 = 25519 closes; pp 581-2
+57,ca18-d355,OK,OK,no flip,"content at n404 (pin stays July PART): Estrada, 2/10/55, haberes $1293, baja 27 Dic 1827, pp 598-604"
+62,ca20-d105,OK->ERR,OK,DATE FLIP,"leaf reads 1833 = May 20 (crop-proven 2, unlike the 3s of 1833); catalog 1833-05-30; July note echoed May 30"
+65,ca21-d24,OK->ERR,OK,DATE FLIP,leaf reads 1819 = Junio 7 (crop-proven 9 with descender; next entry 1820); catalog 1810-06-07; July note echoed 1810
+72,ca23-d76,ERR,OK,July ERR reused,Feb 19 not 14 (July crop-proven)
+75,ca24-d229,OK,OK,no flip,grouped Borica items Nov 24/2/3/9/10 match item-for-item; pp.349-351
+83,ca29-d103,OK,OK,no flip,Pico a Alvarado 4 Feb 1838; hermana Estefana sacramentada muy mala; pp.405-6
+89,ca32-d5,OK,ERR,July ERR reused,felicitation misconstrued (July)
+97,ca34-d1147,OK,ERR,July ERR reused,Navarro-as-phrase (July)
+101,ca35-d115,OK,OK,no flip,Valenzuela a Pena 6 Jun 1839; Prefectura del 2o Distrito entregada a Tapia; p.255
+105,ca36-d26,OK,OK,no flip,bando sobre revoltosos 26 Mayo 1834; facciosos; pp.20-1
+110,ca37-d424,ERR,OK,July ERR reused,year 1839 not 1837 (July)
+113,ca38-d213,OK,OK,no flip,"Castanares 7 Nbre 1843; Las Llagas y de Hernandez, Carlos Castro, valdio; pp 1081-82"
+116,ca40-d70,OK,OK->ERR,SUBSTANCE FLIP,"leaf $2640 cobrados (2640-69=2571 closes) and 3% glyph; catalog $2,641 and 5%; July note claimed exact"
+121,ca41-d80,OK,OK,no flip,Osio 3 Jun 1836; Cabello faltas de respeto; arrest + sumaria + substitute + extraordinario caso; p.341
+123,ca42-d44,OK,OK->ERR,SUBSTANCE FLIP (marginal),leaf '(2 doc.s)'; catalog '[3 docs]'; July noted without grading; convention case
+127,ca43-d23,OK,ERR,July ERR reused,Suprema not Superior (July)
+131,ca44-d12,OK,OK,no flip,grouped 13 -> Mar 27; seven clauses verbatim incl. Castro vientres/defrauda al Diezmo; p 56-57
+144,ca48-d1175,OK,OK,no flip,Dbre 2 by ditto sequence; sobre fondeadero en Yerva buena; pp 570-71
+151,ca49-d634,OK,OK,no flip,"Casarin 24 Dic 1840; auxilie al Pref. del 2o Dist.; p.138, ink 35"
+162,ca52-d16,OK,OK,no flip,Romero petition s.f.; Gonzalez + Vasquez suertes; leaf pp.373-4 (orig_page field holds folio 56: the C-A 11/52 class)
+182,ca58-d9,OK,OK,no flip,Esteva 12 Nov 1824; retiros y pensiones de padres viudas e hijos; pp 94.5-96
+186,ca60-d1,OK,OK,no flip,roster verbatim incl. Capitan D. Jose de la Guerra y Noriega; summary PARTIAL at Sept depth (Carrillo's San Buenaventura parenthetical unsupported; Lugo + Ordaz unnamed)
+193,ca62-d59,OK,OK,no flip,"limites memo: 9000 reses, 10,000 borregas, roblar de los Chupcanes 14 leguas, Mount Diablo; stamps 79-80"
+196,ca63-d30,OK,OK,no flip,"Sinclair, Alcalde, 15 Feb 1848 Sacramento; note of office; stamp 8"

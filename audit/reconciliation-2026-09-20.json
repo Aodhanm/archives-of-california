@@ -1,0 +1,116 @@
+{
+  "written": "2026-09-20",
+  "question": "Why does the 2026-09-16 n=200 audit run 1.5-2.5x worse than the July 2026-07-19 n=200 figures the site publishes on the four matched axes?",
+  "verdict": {
+    "persons_and_pins": "CONVENTION. Under July's own rubric (addressee/place-in-author-field routed to the issue register, office-for-person and one-leaf slot drift graded PART), September's stratum-A wrongs collapse to persons 3/147 = 2.1% and pins 0/84 = 0.0%, matching the published 2.5% and 1.0%.",
+    "dates_and_substance": "JULY UNDER-CALLED. Not convention: all 9 September date-wrongs and all 13 substance-wrongs on unchanged fields are ERR under July's own rubric (wrong day/month/year; misread figures, names, quotes). A seeded 30-record slice of July's own sample regraded at the leaf at September depth yields dates 4/30 = 13.3% and substance 5/30 = 16.7% against July's published 6.5% and 5.5%, reproducing September's stratum-A rates (13.6% / 17.3%). Three of the four new errors are crop- or arithmetic-proven.",
+    "population": "REAL BUT CUSHIONING. The DB grew ~19.8k -> 34,895 between audits. The 89 sampled records added after July grade at July-like rates (dates 5.6%, persons 3.0%, substance 6.7%, pins 0.0%). The newer half of the catalog is measurably cleaner; restricting September to July's population makes the discrepancy wider, not narrower.",
+    "real_change": "MINOR AND FAVORABLE. 27 of 76 old-stratum wrong judgements sit on fields edited since July; every case examined (ca11-d233/d277/d327, ca12-d327/d409, ca14-d48, ca55-d224, ca63-d419/d502) is a partial repair of a row that was more wrong in July, not a regression."
+  },
+  "bottom_line": "The published July figures were too generous on dates and substance, by roughly a factor of two on the population they measured, because the July grader verified at reading resolution and echoed record values where September re-derives digits at magnification. September's numbers survive regrading; publish those (both conventions, with the population note) and retire the July figures.",
+  "september_strata": {
+    "definition": "July population = union of ca-catalog-export.json and catalog/*.md at commit b8512b49e (2026-07-17); eligibility = item grain, no verified stamp, rating <= 2, scan link (the July README criteria).",
+    "A_july_eligible": {
+      "n": 104,
+      "date": "14/103=13.6%",
+      "persons": "10/177=5.6%",
+      "substance": "18/104=17.3%",
+      "pins": "6/104=5.8%"
+    },
+    "B_existed_ineligible": {
+      "n": 7,
+      "ids": [
+        "ca5-d56",
+        "ca7-d605",
+        "ca18-d249",
+        "ca25-d18",
+        "ca37-d468",
+        "ca45-d16",
+        "ca53-d124"
+      ]
+    },
+    "C_added_since_july": {
+      "n": 89,
+      "date": "5/89=5.6%",
+      "persons": "5/165=3.0%",
+      "substance": "6/89=6.7%",
+      "pins": "0/89=0.0%"
+    },
+    "A_unchanged_fields_only": {
+      "date": "9/83=10.8%",
+      "persons": "7/147=4.8%",
+      "substance": "13/83=15.7%",
+      "pins": "4/84=4.8%"
+    }
+  },
+  "desk_regrade_of_september_wrongs_under_july_rubric": {
+    "date": "9 of 9 stay ERR (wrong day/month/year: e.g. ca21-d301 1820 not 1830, ca56-d355 Febrero not September, ca34-d543 En.o 28 not 24)",
+    "persons": "3 of 7 stay ERR (ca15-d491 Arvide not Avila, ca20-d51 Fr. Antonio Anzar not 'San Luis Rey alcaldes', ca22-d2036 Pedro Garrido not 'Pedro Parrilla'); 4 drop to the July issue-register/PART classes (ca13-d214, ca13-d272, ca34-d52 place-or-addressee-in-author; ca14-d131 blank recipient)",
+    "substance": "13 of 13 stay ERR (figures, names, quotes: $83,741 not $82,741; 267 not 257 pelts; $8,427 not $1,427; Osuna not Avila; Anza not Ayala)",
+    "pins": "0 of 4 stay ERR (ca8-d257, ca63-d127, ca63-d129 are one-leaf slot drift, which July's final tranche graded PART on C-A 63 itself; ca8-d288's document is on the cited leaf)"
+  },
+  "july_slice_regrade": {
+    "seed": 20260920,
+    "n": 30,
+    "method": "random.Random(20260920).sample(range(1,201),30) over July's committed n=200; 5 known July ERRs reused; 25 records regraded against the leaf at September depth using the JULY-17 field values",
+    "new_errors_found": [
+      {
+        "id": "ca20-d105",
+        "axis": "date",
+        "leaf": "1833 = May 20 = S. Juan Baut.a",
+        "catalog": "1833-05-30",
+        "proof": "scale-1 crop; the day's first digit is a 2 unlike the 3s of '1833' on the same line; July's note itself echoed 'May 30'"
+      },
+      {
+        "id": "ca21-d24",
+        "axis": "date",
+        "leaf": "1819 = Junio 7 = S. Blas",
+        "catalog": "1810-06-07",
+        "proof": "scale-1 crop; final year digit is a 9 with descender; next entry on the leaf is 1820; the Reyna de los Angeles war-supplies charter fits 1819"
+      },
+      {
+        "id": "ca40-d70",
+        "axis": "substance",
+        "leaf": "$2640 cobrados, comision 3%, total $2571",
+        "catalog": "$2,641 collected, 5% commission",
+        "proof": "arithmetic closes only as 2640 - 69 = 2571; scale-1 crop shows a closed 0, and the commission glyph reads 3"
+      },
+      {
+        "id": "ca42-d44",
+        "axis": "substance",
+        "leaf": "p.137-139 (2 doc.s)",
+        "catalog": "[3 docs]",
+        "proof": "marginal/convention case: July saw the discrepancy and logged it as a note without grading; September counts a leaf-contradicted count as WRONG"
+      }
+    ],
+    "implied_rates_at_september_depth": {
+      "date": "4/30=13.3%",
+      "substance": "5/30=16.7%",
+      "persons": "0 new",
+      "pins": "0 new"
+    },
+    "comparison": {
+      "july_published": {
+        "date": 6.5,
+        "substance": 5.5
+      },
+      "september_stratum_A": {
+        "date": 13.6,
+        "substance": 17.3
+      }
+    }
+  },
+  "additional_finding_orig_page": "The September orig_page dimension (9.3% wrong) measures citation correctness July's PIN axis never measured. In C-A 11 and C-A 52 the orig_page field systematically holds the copybook folio, not the tomo page Bancroft cites (ca11-d105 field 162 vs leaf foot pp.387-8; ca11-d273 field 248 vs p.628; ca52-d16 field 56 vs pp.373-4). July's notes accepted the folio as 'matching'.",
+  "errata_candidates_new": [
+    "ca20-d105 date 1833-05-20",
+    "ca21-d24 date 1819-06-07",
+    "ca40-d70 diezmos $2640 / 3%",
+    "ca42-d44 '(2 docs)' not '[3 docs]'"
+  ],
+  "caveats": [
+    "The 30-record slice also returned zero UNVERIFIABLE judgements; all 25 leaf targets were readable.",
+    "The ca42-d44 flip is convention-flavored, not blindness: July recorded the discrepancy in its note.",
+    "July population reconstruction is approximate: the July-17 export (19,755) and catalog tree (18,674) disagree with the July README's stated 19,910; the union was used. Stratum results were stable across all three definitions tried.",
+    "No live-site change was made. Nothing here is published."
+  ]
+}

@@ -1,0 +1,219 @@
+{
+ "sample": "sample-200-2026-09-16",
+ "n": 200,
+ "volumes": 63,
+ "seed": 20260916,
+ "commit_sha256": "faf1faad43d8cd7a7807f22222ecce191fb75af09d16bff3c518f2142ae215a5",
+ "integrity": "graded set hashes to the committed sha256: no substitutions, no drops, no duplicates",
+ "field_judgements": 1742,
+ "per_dimension": {
+  "author": {
+   "applicable": 198,
+   "ok": 175,
+   "partial": 15,
+   "wrong": 8,
+   "na": 2,
+   "unverifiable": 0,
+   "strict_pct": 88.4,
+   "strict_ci": [
+    83.2,
+    92.1
+   ],
+   "lenient_pct": 96.0,
+   "lenient_ci": [
+    92.2,
+    97.9
+   ],
+   "wrong_pct": 4.0
+  },
+  "recipient": {
+   "applicable": 157,
+   "ok": 113,
+   "partial": 36,
+   "wrong": 8,
+   "na": 43,
+   "unverifiable": 0,
+   "strict_pct": 72.0,
+   "strict_ci": [
+    64.5,
+    78.4
+   ],
+   "lenient_pct": 94.9,
+   "lenient_ci": [
+    90.3,
+    97.4
+   ],
+   "wrong_pct": 5.1
+  },
+  "place": {
+   "applicable": 195,
+   "ok": 140,
+   "partial": 48,
+   "wrong": 7,
+   "na": 5,
+   "unverifiable": 0,
+   "strict_pct": 71.8,
+   "strict_ci": [
+    65.1,
+    77.6
+   ],
+   "lenient_pct": 96.4,
+   "lenient_ci": [
+    92.8,
+    98.3
+   ],
+   "wrong_pct": 3.6
+  },
+  "date": {
+   "applicable": 199,
+   "ok": 171,
+   "partial": 8,
+   "wrong": 20,
+   "na": 1,
+   "unverifiable": 0,
+   "strict_pct": 85.9,
+   "strict_ci": [
+    80.4,
+    90.1
+   ],
+   "lenient_pct": 89.9,
+   "lenient_ci": [
+    85.0,
+    93.4
+   ],
+   "wrong_pct": 10.1
+  },
+  "scan_pin": {
+   "applicable": 200,
+   "ok": 186,
+   "partial": 8,
+   "wrong": 6,
+   "na": 0,
+   "unverifiable": 0,
+   "strict_pct": 93.0,
+   "strict_ci": [
+    88.6,
+    95.8
+   ],
+   "lenient_pct": 97.0,
+   "lenient_ci": [
+    93.6,
+    98.6
+   ],
+   "wrong_pct": 3.0
+  },
+  "orig_page": {
+   "applicable": 193,
+   "ok": 159,
+   "partial": 16,
+   "wrong": 18,
+   "na": 7,
+   "unverifiable": 0,
+   "strict_pct": 82.4,
+   "strict_ci": [
+    76.4,
+    87.1
+   ],
+   "lenient_pct": 90.7,
+   "lenient_ci": [
+    85.7,
+    94.0
+   ],
+   "wrong_pct": 9.3
+  },
+  "savage_page": {
+   "applicable": 200,
+   "ok": 151,
+   "partial": 31,
+   "wrong": 18,
+   "na": 0,
+   "unverifiable": 0,
+   "strict_pct": 75.5,
+   "strict_ci": [
+    69.1,
+    80.9
+   ],
+   "lenient_pct": 91.0,
+   "lenient_ci": [
+    86.2,
+    94.2
+   ],
+   "wrong_pct": 9.0
+  },
+  "summary_fidelity": {
+   "applicable": 200,
+   "ok": 128,
+   "partial": 47,
+   "wrong": 25,
+   "na": 0,
+   "unverifiable": 0,
+   "strict_pct": 64.0,
+   "strict_ci": [
+    57.1,
+    70.3
+   ],
+   "lenient_pct": 87.5,
+   "lenient_ci": [
+    82.2,
+    91.4
+   ],
+   "wrong_pct": 12.5
+  },
+  "omissions": {
+   "applicable": 200,
+   "ok": 190,
+   "partial": 3,
+   "wrong": 7,
+   "na": 0,
+   "unverifiable": 0,
+   "strict_pct": 95.0,
+   "strict_ci": [
+    91.0,
+    97.3
+   ],
+   "lenient_pct": 96.5,
+   "lenient_ci": [
+    93.0,
+    98.3
+   ],
+   "wrong_pct": 3.5
+  }
+ },
+ "pooled_strict": {
+  "pct": 81.1,
+  "ci": [
+   79.2,
+   82.9
+  ]
+ },
+ "pooled_lenient": {
+  "pct": 93.3,
+  "ci": [
+   92.0,
+   94.4
+  ]
+ },
+ "flawless_all_nine": {
+  "n": 42,
+  "pct": 21.0,
+  "ci": [
+   15.9,
+   27.2
+  ]
+ },
+ "no_wrong_field": {
+  "n": 128,
+  "pct": 64.0,
+  "ci": [
+   57.1,
+   70.3
+  ]
+ },
+ "unverifiable_total": 0,
+ "caveats": [
+  "STRICT counts only exact matches; LENIENT counts PARTIAL as acceptable, which is the convention the July 2026-07-19 n=200 audit used (\"logged partial flags ... not errors of reading\").",
+  "NOT directly comparable to the July n=200 without reconciling conventions: on matched axes this audit reports dates 10.1% wrong vs 6.5%, persons 4.5% vs 2.5%, substance 12.5% vs 5.5%, pins 3.0% vs 1.0%. The discrepancy is unexplained and must be resolved before either set is quoted as final.",
+  "ZERO of 1,742 judgements were graded UNVERIFIABLE. Possible, but also the signature of graders reluctant to use the category; if so, true accuracy is slightly LOWER than reported here.",
+  "orig_page 82.4% strict closely corroborates the lost n=80 sample figure of 83.3%."
+ ]
+}
