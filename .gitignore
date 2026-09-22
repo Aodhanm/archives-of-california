@@ -1,1 +1,3 @@
+_backups/
 .DS_Store
+catalog/*/_backups/
