@@ -1,0 +1,29 @@
+{
+  "run": "2026-09-21 cluster-tolerant re-run of the 2026-09-10 missing-leaf discontinuity survey",
+  "method": "offset = first savage_page integer minus first scan leaf, per volume, from the live export; run-length classification WITHOUT the 3-point sustain rule; 42 volumes usable (offset stability >= 0.85), 258 change points",
+  "recovered_known": "12 of 13 known joins re-found, including both agent-volunteered defects the original classifier demoted (ca8 n164, ca23 226)",
+  "adjudicated_at_leaf": [
+    {
+      "cand": "ca53 n146->n148 +1",
+      "verdict": "FALSE POSITIVE: stamps 146,147,148 consecutive; acta closes n147, new doc heads n148; catalog-side stamp mistranscription"
+    },
+    {
+      "cand": "ca27 n144->n145 +1",
+      "verdict": "MISSING LEAF CONFIRMED: stamp 153 / ink 162; Sumner seal-skin claim tail + artillery-transfer letter head lost"
+    },
+    {
+      "cand": "ca8 n12->n15 +1 (localized n14->n15)",
+      "verdict": "MISSING LEAF CONFIRMED: stamp 16 / ink 15; verbatim Noticias + close of Sal's Tulares informe lost"
+    },
+    {
+      "cand": "ca23 n217->n220 -1",
+      "verdict": "DUPLICATE EXPOSURE CONFIRMED: n217/n218 both stamp 216 / ink 214, word-for-word identical"
+    }
+  ],
+  "queue_remaining": {
+    "sustained_shifts_unadjudicated": 98,
+    "cluster_class_unadjudicated": 46,
+    "note": "dominated by the savage_page-mistranscription mode (27 of 39 in the original survey); each needs a 2-leaf read to adjudicate; candidate list in classified-candidates.txt"
+  },
+  "null_results": "all four near-known candidates were adjudicated; none left unresolved"
+}
