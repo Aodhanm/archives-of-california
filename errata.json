@@ -2810,5 +2810,35 @@
     "reads": "Confirmed by direct comparison of the flanking leaves' corner numbers at magnification.",
     "note": "Physically absent from the Internet Archive scan: verified at magnification on all four flanking corners during the 2026-08-26 phase-4 reconnaissance (gap-reading plan). A scanning omission, not a numbering skip; no reading pass can recover it. The originals burned in 1906; recoverable only by re-photographing the physical volume at the Bancroft. Registered 2026-09-21.",
     "added": "2026-09-21"
+  },
+  {
+    "key": "ca27-missing-stamp153",
+    "vol": "27",
+    "type": "missing-leaf",
+    "_unbound": true,
+    "was": "Leaf bearing stamp 153 (ink 162, join n144→n145) is absent from the scan.",
+    "reads": "n144 bears stamp 152 / ink 161 and ends mid-sentence in the 15 Sept 1826 Capt. Sumner letter to Echeandía on the claim for seal skins taken at Isla de Guadalupe ('Dice á Echeandía que su pesca fué en la Isla…'); n145 bears stamp 154 / ink 163 and opens mid-sentence inside a different document (artillerymen embarking for Acapulco, foot pp. 563-6). Both numbering systems skip together. The lost leaf carried the body of the Sumner claim and the opening of the artillery-transfer letter (orig pp. ~559-563).",
+    "note": "Found 2026-09-21 by the cluster-tolerant re-run of the 2026-09-10 discontinuity survey (the follow-up that survey itself queued); adjudicated at the leaf. This is the third confirmed loss in this C-A 27 stretch (stamps 145, 153, 156), exactly the clustered mode the register's floor caution describes.",
+    "added": "2026-09-21"
+  },
+  {
+    "key": "ca8-missing-stamp16",
+    "vol": "8",
+    "type": "missing-leaf",
+    "_unbound": true,
+    "was": "Leaf bearing stamp 16 (ink 15, join n14→n15) is absent from the scan.",
+    "reads": "n14 bears stamp 15 / ink 14 and ends mid-document at '(Lo que sigue va copiado textualmente)' inside Hermenegildo Sal's 31 Jan 1796 informe on the rivers toward the Tulares; n15 bears stamp 17 / ink 16 and opens a new document (Grajera á Borica, Sobre aprendices, 23 Aug 1796, pp. 47-48). Both numbering systems skip together. The lost leaf carried the verbatim-copied 'Noticias adquiridas por los indios cristianos de la misión de S.n Francisco' and the informe's close.",
+    "note": "Found 2026-09-21 by the cluster-tolerant re-run of the discontinuity survey; adjudicated at the leaf. Fourth confirmed C-A 8 loss (stamps 16, 25, 170, 171).",
+    "added": "2026-09-21"
+  },
+  {
+    "key": "ca23-duplicate-stamp216",
+    "vol": "23",
+    "type": "caution",
+    "_unbound": true,
+    "was": "Scan leaves n217 and n218 are two exposures of the SAME physical leaf (stamp 216, ink 214).",
+    "reads": "Both frames carry, word for word, Fages's 5 June 1783 instructions for Teniente de Gobernador Cañete's visita to the southern department (Publicar Bando on azogues, empadronamiento de Pulperías, fierros y marcas, Registrar títulos, Reconocer las medidas). n220 bears stamp 218 / ink 216, confirming the compression. No content is lost, but any pin or offset computation across n217-n218 is shifted by one, the same hazard class as the known n227/n228 duplicate of stamp 225.",
+    "note": "Found 2026-09-21 by the cluster-tolerant discontinuity re-run; adjudicated at the leaf. Registered as a caution: duplicate exposures are invisible to md5 checks and silently shift record alignment.",
+    "added": "2026-09-21"
   }
 ]
