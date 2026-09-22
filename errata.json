@@ -2840,5 +2840,436 @@
     "reads": "Both frames carry, word for word, Fages's 5 June 1783 instructions for Teniente de Gobernador Cañete's visita to the southern department (Publicar Bando on azogues, empadronamiento de Pulperías, fierros y marcas, Registrar títulos, Reconocer las medidas). n220 bears stamp 218 / ink 216, confirming the compression. No content is lost, but any pin or offset computation across n217-n218 is shifted by one, the same hazard class as the known n227/n228 duplicate of stamp 225.",
     "note": "Found 2026-09-21 by the cluster-tolerant discontinuity re-run; adjudicated at the leaf. Registered as a caution: duplicate exposures are invisible to md5 checks and silently shift record alignment.",
     "added": "2026-09-21"
+  },
+  {
+    "key": "ca8-d134-n78",
+    "vol": "8",
+    "doc": "134",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly report; mentions sending Córdova to explore; asks about escolta size'; orig_page: 'p.253'; scan: 'n78'",
+    "reads": "n78 (stamp 82 / ink 81) carries the tail of a missionary-service certificate (17 years in Baja California, with marginal notes for Fr. Jose Estevez 16, Fr. Jose Lafuente 22, Fr. Jose Garcia 16) at p.253, Arrillaga's certificate of 7 Sept 1796 from Sto Tomas confirming what the padre presidente Cayetano Pallas had stated at p.254, and at its foot the OPENING of Alberto de Cordova's defence informe to the marques de Branciforte. There is no monthly report on the leaf.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      78
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n78"
+  },
+  {
+    "key": "ca8-d135-n78",
+    "vol": "8",
+    "doc": "135",
+    "type": "catalog-correction",
+    "was": "summary: 'Estado de fuerza for June; notes personnel movements'; orig_page: 'p.254'; scan: 'n78'",
+    "reads": "n78 p.254 is Arrillaga's certificate of 7 Sept 1796 regarding Fr. Cayetano Pallas, not an estado de fuerza for June.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      78
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n78"
+  },
+  {
+    "key": "ca8-d141-n82",
+    "vol": "8",
+    "doc": "141",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Aug; multiple administrative items'; orig_page: 'p.266–268'; scan: 'n82–n83'",
+    "reads": "n82-n83 carry the close of Cordova's defence informe ('en el Puerto de S. Diego hay una esplanada de madera con 4 canones a barbeta', pp.255-261), Borica on reconnoitred lands (p.262), Borica on Indian damage to crops and stock (pp.263-264), Ildefonso Bernal from S.n Vicente on the flight of Indians from Mision de S. Pedro leaving only 6 solteros and 2 matrimonios (pp.265-266), and Pedro Alberni from S.n Francisco reporting the cannon landed by the paquebot 'S.n Carlos' still lying on the beach for want of weather and hands (pp.267-268). There is no extracto de revista.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      82,
+      83
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n82"
+  },
+  {
+    "key": "ca8-d258-n193",
+    "vol": "8",
+    "doc": "258",
+    "type": "catalog-correction",
+    "was": "summary: \"Monthly report; no novedad; asks about Alberni's quarters\"; orig_page: 'p.1–2'; scan: 'n193'",
+    "reads": "n193 (stamp 199 / ink 2) opens the 1797 Arguello San Francisco letter-book; its entries and closing citations do not correspond to the row's claimed pp.1-2 content.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      193
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n193"
+  },
+  {
+    "key": "ca8-d259-n194",
+    "vol": "8",
+    "doc": "259",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Jan; estado de fuerza; escolta movements'; orig_page: 'p.3–5'; scan: 'n194'",
+    "reads": "n194 (stamp 200 / ink 3): same stretch; no extracto de revista at the claimed pp.3-5.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      194
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n194"
+  },
+  {
+    "key": "ca8-d260-n195",
+    "vol": "8",
+    "doc": "260",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly report; correo dispatch; Alberni quarters situation'; orig_page: 'p.6–8'; scan: 'n195'",
+    "reads": "n195 (stamp 201 / ink 4): same stretch; no monthly report at the claimed pp.6-8.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      195
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n195"
+  },
+  {
+    "key": "ca8-d262-n197",
+    "vol": "8",
+    "doc": "262",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Feb; notes 4 soldiers sick'; orig_page: 'p.12–14'; scan: 'n197'",
+    "reads": "n197 (stamp 203 / ink 6): same stretch; no extracto de revista at the claimed pp.12-14.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      197
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n197"
+  },
+  {
+    "key": "ca8-d263-n198",
+    "vol": "8",
+    "doc": "263",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly report Mar; San Carlos paquebot arrives; asks about surgeon'; orig_page: 'p.15–17'; scan: 'n198'",
+    "reads": "n198 (stamp 204 / ink 7): same stretch; no monthly report at the claimed pp.15-17.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      198
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n198"
+  },
+  {
+    "key": "ca8-d265-n200",
+    "vol": "8",
+    "doc": "265",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Mar; personnel changes'; orig_page: 'p.20–22'; scan: 'n200'",
+    "reads": "n200 (stamp 206 / ink 9): same stretch; no extracto de revista at the claimed pp.20-22.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      200
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n200"
+  },
+  {
+    "key": "ca8-d266-n201",
+    "vol": "8",
+    "doc": "266",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Apr; Fr. Landaeta reports ship near Farallones; body near Punta de Reyes'; orig_page: 'p.23–25'; scan: 'n201'",
+    "reads": "n201 (stamp 207 / ink 10) carries Arguello on the departure of the artisan Francisco Arriola (pp.31-32), Arguello on the Real Tribunal de Cuentas' satisfactory reply about the costs of conducting three convicts (p.33), and Arguello reporting the FOUNDING OF MISSION SAN JOSE, enclosing Sgt Pedro Amador's certificate of having taken possession of the Alameda site. There is no April monthly report and no Landaeta Farallones sighting on this leaf.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      201
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n201"
+  },
+  {
+    "key": "ca8-d268-n203",
+    "vol": "8",
+    "doc": "268",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Apr; state of force'; orig_page: 'p.29–31'; scan: 'n203'",
+    "reads": "n203 (stamp 209 / ink 12) carries a letter on the presidio's fabric: most roofs need re-tiling, the almacenes, guardia and cuartel de Cavalleria must be renewed entirely, the second Yerba Buena battery would need earth, water and timber carried on men's shoulders, and the missions of S.n Francisco and S.ta Clara supply Indian labour 'no son como se les pide, sino como y cuando quieren darlo', as the engineer Alberto de Cordova can attest. Closing cite pp.36-37, not the claimed pp.29-31, and not an extracto de revista.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      203
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n203"
+  },
+  {
+    "key": "ca8-d272-n207",
+    "vol": "8",
+    "doc": "272",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Jun; Raymundo cross-bay expedition — sends soldiers across bay to investigate Indian resistance; reports from Mission San José'; orig_page: 'p.41–46'; scan: 'n207–208'",
+    "reads": "n207 (stamp 213 / ink 16) carries the tail of Fr. Isidro Barcenilla's letter (p.48) and Arguello's 20 June request to the ministers of Mision de S.n Jose for a report on the expedition; n208 (stamp 214 / ink 17) carries p.50 and Arguello on the annual padron formulario (p.51). The Raymundo material is genuinely in this stretch, but the leaf says the mission sent 'como treinta o cuarenta Indios al mando de Raymundo el Californio en solicitud de los cristianos fugitivos', not that Arguello sent soldiers across the bay, and the pages are pp.48-51, not the claimed pp.41-46.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      207,
+      208
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n207"
+  },
+  {
+    "key": "ca8-d274-n210",
+    "vol": "8",
+    "doc": "274",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Jun; Mission San José escolta situation'; orig_page: 'p.50–52'; scan: 'n210'",
+    "reads": "n210 (stamp 216 / ink 19) carries Arguello's relacion of the mission expedition against the Indians: Raymundo's party returned dispersed, the winds and heavy seas broke up the balsas, pursuers forced two men into the water and one took 'un jarrazo en la cabeza'; they found christians in 'tres rancherias de los cuchillones'. This is an expedition report, not an extracto de revista.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      210
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n210"
+  },
+  {
+    "key": "ca8-d281-n220",
+    "vol": "8",
+    "doc": "281",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Sep; estado de fuerza'; orig_page: 'p.79–81'; scan: 'n220'",
+    "reads": "n220 (stamp 226 / ink 29) carries the tail of an inventory (including the order to Ten.te Hermenegildo Sal to draw up a diligencia with two witnesses accrediting the 14 tercios of steel lost or burnt in the fire of 1789) at p.73, Arguello on settling the invalids' account, and Arguello acknowledging the model for separating the Mexico memorias from those of S.n Blas (pp.76-77). No extracto de revista at the claimed pp.79-81.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      220
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n220"
+  },
+  {
+    "key": "ca8-d283-n222",
+    "vol": "8",
+    "doc": "283",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Jan report; no novedad; routine garrison'; orig_page: 'p.85–86'; scan: 'n222'",
+    "reads": "n222 (stamp 228 / ink 31) carries Goycoechea reporting the death of a soldier's wife of a violent fever (p.83) and Goycoechea remitting the cuenta de tabacos with the year-end inventory and the libranza copy (pp.84-85). ⚠ CA8-REPAIR-PLAN-2026-09-03 listed this row as CORRECT; the leaf disproves it.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      222
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n222"
+  },
+  {
+    "key": "ca8-d284-n223",
+    "vol": "8",
+    "doc": "284",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista; detailed estado de fuerza for SB company'; orig_page: 'p.87–91'; scan: 'n223–224'",
+    "reads": "the declared span pp.87-91 carries, across n223-n224 (stamps 229-230), the obligation extracted from the retired Ten.te Fr.co Ortega and his three sons (p.86), eight equipped soldiers sent to the mission with orders to halt some days at S.n Luis (p.87), the reply to the Real Tribunal de Cuentas' reparos (p.88), 'Diarios de comand.tes' remitting five diaries, four for December by the escolta commanders plus Sgt Jose de Ortega's own, the November one missing because the S.n Buenaventura commander was ill (p.89), and the duplicated gratification-fund and retention accounts (p.90), closing with the padron de almas for the presidio, its three missions and the pueblo de los Angeles (p.91). A padron of souls is not an estado de fuerza. ⚠ CA8-REPAIR-PLAN-2026-09-03 listed this row as CORRECT; the leaf disproves it.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      223,
+      224
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n223"
+  },
+  {
+    "key": "ca8-d285-n225",
+    "vol": "8",
+    "doc": "285",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Feb; supply shipments; livestock movements'; orig_page: 'p.92–96'; scan: 'n225–226'",
+    "reads": "n225-n226 (stamps 231-232) carry the padron de almas transmittal (p.91), the cuenta de diezmos of 96 with its libranza for the Guadalajara cajas reales (pp.92-93), a pliego itemising the armament, saddlery, clothing and mounts of the eight bachelor soldiers passing to the presidio (p.94), and the statement of each of those eight Indians' credit and debit including supplies since 1 January (p.95). No February monthly report of supply shipments and livestock movements.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      225,
+      226
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n225"
+  },
+  {
+    "key": "ca8-d286-n227",
+    "vol": "8",
+    "doc": "286",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Feb'; orig_page: 'p.97–98'; scan: 'n227'",
+    "reads": "n227 (stamp 233 / ink 36) carries the tail of the Los Angeles electors' return (p.96), Goycoechea's relacion of official correspondence franked in his office with a request for reimbursement from the Real Hacienda (p.97), and the cuenta de estafetas of 96 with its libranza for the Administracion general de Mexico (p.98). Post-office accounts, not an extracto de revista.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      227
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n227"
+  },
+  {
+    "key": "ca8-d287-n228",
+    "vol": "8",
+    "doc": "287",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Mar; correo; road repairs; livestock from missions'; orig_page: 'p.99–103'; scan: 'n228–229'",
+    "reads": "n228-n229 (stamps 234-235) carry the quadruplicated hojas de servicios of the officers and first sergeant with the conduct report on his subalterns (p.99), the reply to the very reserved letter of 18 February about coin 'que no quieren decir falsos las dos ojas que señalan' (p.100), the answer to a reparo on the debts of the alferez, Sgt Jose Ortega, cabo J.n Romero and other soldiers (pp.102-103), and the order that the escopetas ripolenas already distributed to the vecinos be supplemented with flints charged to the gratification fund and 2,000 reserve cartridges delivered to the comisionado (p.104). No correo, road repairs or mission livestock.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      228,
+      229
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n228"
+  },
+  {
+    "key": "ca8-d288-n230",
+    "vol": "8",
+    "doc": "288",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Mar; estado de fuerza'; orig_page: 'p.104–105'; scan: 'n230'",
+    "reads": "n230 (stamp 236 / ink 39) carries Goycoechea acknowledging the Bishop of Sonora's appointment of Fr. Fermin Fr.co de Lasuen as vicario foraneo (p.106) and, dated 3 April, the transmittal of the extractos de revista and estados de fuerza in duplicate 'correspondientes a esta compañia y a los 4 meses primeros de este año' (p.108). So a revista transmittal exists on this leaf, but it is dated 3 April, covers the first four months together, and sits at p.108, not at the claimed March and pp.104-105. Independently corroborated by the blind n=200 audit of 2026-09-16.",
+    "note": "SECOND erratum on this record (the first came from the 2026-09-16 blind audit; this one from the Phase 2 leaf re-read). ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      230
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n230"
+  },
+  {
+    "key": "ca8-d290-n233",
+    "vol": "8",
+    "doc": "290",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Apr'; orig_page: 'p.111–112'; scan: 'n233'",
+    "reads": "n233 (stamp 239 / ink 42) carries the close of the recount of Bulas de la Santa Cruzada for the biennium 92-93 before Goycoechea and Fr. Jose de Miguel, witnesses Pablo de Cota and Jose Tadeo Sanchez, itemised 3 bulas de vivos at two pesos, 49 at 8 reales, 287 at 2 reales, 5 de Caticinos, 5 de Composicion at 12 reales and 74 de difuntos (pp.117-118), followed by the 26 June Monterey 'Documento de la quema de Bulas'. No extracto de revista at the claimed pp.111-112.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      233
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n233"
+  },
+  {
+    "key": "ca8-d295-n240",
+    "vol": "8",
+    "doc": "295",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Jul; road construction; Mission SBV escolta affairs'; orig_page: 'p.127–131'; scan: 'n240–241'",
+    "reads": "n240-n241 (stamps 244-245) carry three arms appraisals for invalid and retiring soldiers, itemised to the peso (escopeta 5 ps, cuera 15 ps, cartuchera 1 p 4 r.s, adarga 2 ps, macho manco 18 ps, 3 caballos mancos 27 ps, at pp.132-133; cuenta de ajuste pp.131-134; a second appraisal pp.130-136), then four libranzas for what the missions of S.n Juan Capistrano, S.n Gabriel, S.n Buenaventura and S.ta Barbara were owed at the end of December (p.139) and a libranza of 2,761 p.s 5 r.s to Ten.te Ant.o Grajera (p.140). No July monthly report, road construction or San Buenaventura escolta affairs.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      240,
+      241
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n240"
+  },
+  {
+    "key": "ca8-d296-n242",
+    "vol": "8",
+    "doc": "296",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Jul'; orig_page: 'p.132–133'; scan: 'n242'",
+    "reads": "the row claims an 'Extracto de revista Jul' at pp.132-133 on leaf n242. Leaf n240 (stamp 244) carries pp.132-133 and they are the 17 Dec 1797 'Avaluo de armamento a un soldado invalido hecho por los 2 peritos, el cabo Ortega y 1 soldado'. Leaf n242 (stamp 246 / ink 49), which the row actually pins, carries the economy enjoined on the almacenes (p.142), acknowledgement of the order to watch the coast (p.143) and the report that no young volunteers could be found so an invalid soldier was not discharged (p.144). Both the pin and the summary are wrong.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      240,
+      242
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n242"
+  },
+  {
+    "key": "ca8-d297-n243",
+    "vol": "8",
+    "doc": "297",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Aug; beach ranchería Indians baptized at SB mission without displacement; fiscal accounts'; orig_page: 'p.134–138'; scan: 'n243–244'",
+    "reads": "n243-n244 (stamps 247-248) carry the schoolmaster warned to improve or be replaced (p.145), the 25 pesos annual deduction per man for the fondo de retencion to a ceiling of 100 (p.146), the triplicated situado regulations for the Inspeccion (p.147), the sumarios de bulas of the biennium 92-93 with a copy of the diligencia (pp.148-149), and Javier Albarado writing from Los Angeles that 'en este pueblo no ocurre novedad que sea digna de participarle' (p.150). The claimed pp.134-138 are on neither leaf, and there is no beach-ranchería baptism material.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      243,
+      244
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n243"
+  },
+  {
+    "key": "ca8-d298-n245",
+    "vol": "8",
+    "doc": "298",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Aug'; orig_page: 'p.139–140'; scan: 'n245'",
+    "reads": "n245 (stamp 249 / ink 52) carries the frigate 'N.a S.ra del Rosario, alias la Princesa' sighted off the mouth of the Rio de la Purisima with many sick aboard (pp.151-152) and, next day, her anchoring with the Santa Barbara and San Diego memorias, 160 plazas from captain to pages, and 34 scorbutic and contagious sick landed into a barraca built so as not to harm the people of Santa Barbara (pp.153-154). The claimed pp.139-140 are on n241 and are the mission libranzas. No August extracto de revista.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      241,
+      245
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n245"
+  },
+  {
+    "key": "ca8-d300-n248",
+    "vol": "8",
+    "doc": "300",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Sep'; orig_page: 'p.146–147'; scan: 'n248'",
+    "reads": "n248 (stamp 251 / ink 54) carries the arrival and onward passage of alf.z Jose Perez with two escorts and two pack mules (p.158), notice that Arrillaga will be told to discharge the soldier Caravantes from the Loreto company (p.160), and the reserved wool enquiry to the padres of S.n Gabriel and S.n Juan. No extracto de revista at the claimed pp.146-147.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      248
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n248"
+  },
+  {
+    "key": "ca8-d301-n249",
+    "vol": "8",
+    "doc": "301",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Oct; fiscal reports; supply to presidios'; orig_page: 'p.148–152'; scan: 'n249–250'",
+    "reads": "n249-n250 (stamps 252-253) carry timber prepared for oars for the memorias ship (p.162), the padres of La Purisima electing to keep the artisan Jose Enriquez at the King's wage (p.163), the artisan Mariano and the weaving masters to be forwarded with pack mules that will bring back the armament for the vecindario of this presidio and San Diego (p.164), and the return of the judgement on the presidio's fabric accounts from 1784 to 1794 (p.165). No October monthly report at the claimed pp.148-152.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      249,
+      250
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n249"
+  },
+  {
+    "key": "ca8-d302-n251",
+    "vol": "8",
+    "doc": "302",
+    "type": "catalog-correction",
+    "was": "summary: 'Extracto de revista Oct'; orig_page: 'p.153–154'; scan: 'n251'",
+    "reads": "n251 (stamp 254 / ink 57) carries the making of lead balls and cartridges and sufficient cartridges at Los Angeles (p.167), an invalid soldier's ajuste (p.168), the accounts drawn up for him by Goycoechea and the peritos (pp.169-173), and a letter PROMISING to remit the monthly diary and monthly extractos de revista 'en su tiempo oportuno' (p.174). That promise is the nearest thing on the leaf to the row's claimed October extracto de revista at pp.153-154, and it is a promise, not a return.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      251
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n251"
+  },
+  {
+    "key": "ca8-d306-n257",
+    "vol": "8",
+    "doc": "306",
+    "type": "catalog-correction",
+    "was": "summary: 'Monthly Dec; artillery inventory report; family evacuation plan from pueblo'; orig_page: 'p.166–170'; scan: 'n257–258'",
+    "reads": "n257-n258 (stamps 260-261) carry the mutual exchange of posts between the schoolmaster Jose M.a de Toca and the grumete Jose de Medina of the Princesa, Medina judged 'mas regular que el otro y de mejor letra' and also a bell-founder (p.197), and the appraisal of shortfalls in the victuals and effects brought by the Princesa, 19 p.s 1 r.l 6½ g.s against the Real Hacienda, witnessed by alf.z Pablo Cotta and the pilot Menendez (pp.198-199, with the full diligencia following). No December monthly report, artillery inventory or family evacuation plan at the claimed pp.166-170.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      257,
+      258
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n257"
+  },
+  {
+    "key": "ca8-d374-n382",
+    "vol": "8",
+    "doc": "374",
+    "type": "catalog-correction",
+    "was": "summary: \"Mission of Sta Cruz no novedad; asked missionaries about feeding Branciforte pobladores — 'tan maíz no pueden porque no tienen mas de la pura ración para la escolta'\"; orig_page: 'p.571–575'; scan: 'n382'",
+    "reads": "n382 (stamp 384 / ink 189) carries the tail of a long artillery and coastal-defence letter: no ball of the second gun's calibre and no confidence in grapeshot for it, the more serviceable guns being repaired and re-carriaged 'con el temor de que no queden mui buenos; porque no hay errero', more than twenty escopetas needing light repairs and others lacking stocks with which vecinos who have none could be armed, all sheet lead cast into balls and buckshot, and cartridges being made 'donde me alcanse el papel'; and an explicit distrust of the Indian auxiliaries, 'mejor se deve reselar de ellos, y que con mucha facilidad sigan el partido contrario'. The row describes Mission Santa Cruz reporting no novedad and the feeding of the Branciforte pobladores. The savage_page 384 is correct; the summary is not of this document.",
+    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "added": "2026-09-22",
+    "leaves_read": [
+      382
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n382"
   }
 ]
