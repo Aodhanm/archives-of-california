@@ -2790,5 +2790,25 @@
     "reads": "The discontinuity detector that found them demotes clustered defects to 'transient blips' (consecutive missing or duplicated leaves mask each other), and scanning errors cluster. Two of the entries above were caught only because reading agents volunteered them. A cluster-tolerant re-run is queued; do not treat this register as a complete census of absent leaves.",
     "note": "Registered 2026-09-20 with the absent-leaf entries.",
     "added": "2026-09-20"
+  },
+  {
+    "key": "ca27-missing-stamp108",
+    "vol": "27",
+    "type": "missing-leaf",
+    "_unbound": true,
+    "was": "Leaf bearing stamp 108 (handwritten 107) is absent from the scan.",
+    "reads": "Confirmed by direct comparison of the flanking leaves' corner numbers at magnification.",
+    "note": "Physically absent from the Internet Archive scan: verified at magnification on all four flanking corners during the 2026-08-26 phase-4 reconnaissance (gap-reading plan). A scanning omission, not a numbering skip; no reading pass can recover it. The originals burned in 1906; recoverable only by re-photographing the physical volume at the Bancroft. Registered 2026-09-21.",
+    "added": "2026-09-21"
+  },
+  {
+    "key": "ca27-missing-stamp114",
+    "vol": "27",
+    "type": "missing-leaf",
+    "_unbound": true,
+    "was": "Leaf bearing stamp 114 (handwritten 113) is absent from the scan.",
+    "reads": "Confirmed by direct comparison of the flanking leaves' corner numbers at magnification.",
+    "note": "Physically absent from the Internet Archive scan: verified at magnification on all four flanking corners during the 2026-08-26 phase-4 reconnaissance (gap-reading plan). A scanning omission, not a numbering skip; no reading pass can recover it. The originals burned in 1906; recoverable only by re-photographing the physical volume at the Bancroft. Registered 2026-09-21.",
+    "added": "2026-09-21"
   }
 ]
