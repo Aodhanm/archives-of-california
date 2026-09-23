@@ -3274,5 +3274,33 @@
       383
     ],
     "ia": "https://archive.org/details/168036075_79_10/page/n382"
+  },
+  {
+    "vol": "8",
+    "doc": "375",
+    "type": "catalog-correction",
+    "added": "2026-09-22",
+    "leaves_read": [
+      383
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n383",
+    "key": "ca8-d375-n383",
+    "was": "summary: 'named recuas (Cornelio Avila 450 fan. maíz, ...)'",
+    "reads": "Leaf n383 (stamp 385 / ink 190), entry 2 of the Los Ángeles February 1797 diary, read at scale 1 on a full-resolution crop: «la de Cornelio Abela con **40** fanegas de mais propio, la de Quinto Suniga con 24 fanegas de mais propio, la de Bartolo Topia con 27 fanegas de mais propio, todos los dichos para el presidio de S.n Diego». **The Avila figure is 40, not 450**; the glyph is a 4 followed by a 0, the same width as the adjacent 24 and 27, and 40 is of a piece with them. The 24 and 27 in the row are confirmed exactly.",
+    "note": "Figure correction from a full-resolution crop, 2026-09-22. The row is otherwise sound and was not rewritten."
+  },
+  {
+    "vol": "8",
+    "doc": "375",
+    "type": "catalog-correction",
+    "added": "2026-09-22",
+    "leaves_read": [
+      383
+    ],
+    "ia": "https://archive.org/details/168036075_79_10/page/n383",
+    "key": "ca8-d375-n383",
+    "was": "summary: '32 vecinos + 72 mujeres to misa at San Gabriel'",
+    "reads": "Leaf n383, entry 5 of the same diary: «5 = Salieron a misa **15** vecinos **72** mujeres a la mision de san Gabriel». **The count of vecinos is 15, not 32**; the 72 mujeres is exactly right, which is what identifies this as the entry the row is describing. ⚠ CAVEAT: the diary continues across n384–n387, which this pass did not read, so it cannot be excluded that a later day's entry carries 32; but no other entry would also carry 72.",
+    "note": "SECOND erratum on this record (the first corrects the Avila figure; this one the count of vecinos). Figure correction from a full-resolution crop, 2026-09-22, with the caveat stated. The row is otherwise sound."
   }
 ]
