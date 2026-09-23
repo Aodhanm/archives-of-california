@@ -3259,16 +3259,19 @@
     "ia": "https://archive.org/details/168036075_79_10/page/n257"
   },
   {
-    "key": "ca8-d374-n382",
+    "key": "ca8-d374-n380",
     "vol": "8",
     "doc": "374",
-    "type": "catalog-correction",
-    "was": "summary: \"Mission of Sta Cruz no novedad; asked missionaries about feeding Branciforte pobladores — 'tan maíz no pueden porque no tienen mas de la pura ración para la escolta'\"; orig_page: 'p.571–575'; scan: 'n382'",
-    "reads": "n382 (stamp 384 / ink 189) carries the tail of a long artillery and coastal-defence letter: no ball of the second gun's calibre and no confidence in grapeshot for it, the more serviceable guns being repaired and re-carriaged 'con el temor de que no queden mui buenos; porque no hay errero', more than twenty escopetas needing light repairs and others lacking stocks with which vecinos who have none could be armed, all sheet lead cast into balls and buckshot, and cartridges being made 'donde me alcanse el papel'; and an explicit distrust of the Indian auxiliaries, 'mejor se deve reselar de ellos, y que con mucha facilidad sigan el partido contrario'. The row describes Mission Santa Cruz reporting no novedad and the feeding of the Branciforte pobladores. The savage_page 384 is correct; the summary is not of this document.",
-    "note": "ca8 repair plan Phase 2, coordinator leaf-read 2026-09-22 (53 leaves, ledger ca8-phase2-ledger-2026-09-22.md, adjudication sample-audit/ca8-phase2-adjudication-2026-09-22.json). CONSTRUCTED-ROW class: the summary describes a document the leaf does not carry. The record is left published and unaltered; do not cite it as a document. Recovery of the real documents on these leaves is Phase 3.",
+    "type": "scan-pin",
+    "was": "scan: 'n382'; savage_page: '384'; orig_page: 'p.571–575'",
+    "reads": "⚠ THIS ERRATUM CORRECTS ITSELF. As first written on 2026-09-22 it reported that this row's summary described a document its leaf does not carry. That was read off leaf n382, which is where the row was pinned. A further read on the same day found the row's document two leaves earlier: n380 (stamp 382 / ink 187) heads «1797. Mayo 9 Sta Cruz / Pedro Peralta a Coronel D.n Diego Borica», and it closes on n381 at p.573. **The summary is CORRECT and always was.** The defects are the scan pin (two leaves late), the savage_page and the page range, all now corrected. The page range additionally concealed a second document: pp.574–575 on n381–n383 are Goycoechea's 28 March 1797 war assessment, which had no record of its own and is now catalogued as ca8-d551.",
+    "note": "Self-correcting erratum. The lesson is the project's own: a row graded from the leaf its PIN names, when the pin is the defect, convicts a correct summary. Check the neighbouring leaves before calling a summary fabricated.",
     "added": "2026-09-22",
     "leaves_read": [
-      382
+      380,
+      381,
+      382,
+      383
     ],
     "ia": "https://archive.org/details/168036075_79_10/page/n382"
   }
