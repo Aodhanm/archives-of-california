@@ -6,9 +6,9 @@
    "caveat": "‘fl.’ = the span of dated catalog records matching the name forms as author/recipient. Outlier years usually mean a retrospective mention, a later copy, a homonym, or a record whose own date carries a low confidence flag — check the records, not this line. Counts are of DISTINCTIVE name forms; bare family surnames (Argüello, Carrillo, Castro, Estrada…) are deliberately left unattributed rather than guessed."
   },
   "auto_generated": {
-   "date": "2026-07-17",
-   "records_base": 19656,
-   "auto_entries": 36,
+   "date": "2026-09-22",
+   "records_base": 34972,
+   "auto_entries": 58,
    "min_occurrences": 15
   }
  },
@@ -641,13 +641,45 @@
   "variants": [
    "juan bandini",
    "juan bandini * *",
-   "comte juan bandini"
+   "comte juan bandini",
+   "juan bandini, srio. de gobierno"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Bandini” (47 records) left unattributed and NOT included.",
-  "records": 145,
-  "fl": "1822–1849",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Bandini” (49 records) left unattributed and NOT included.",
+  "records": 199,
+  "fl": "1819–1849",
   "query": "bandini",
+  "auto": true
+ },
+ {
+  "canonical": "Pablo de la Portilla",
+  "variants": [
+   "pablo de la portilla",
+   "capn pablo de la portilla",
+   "capitan dn pablo portilla",
+   "cap. pablo de la portilla",
+   "gob. / pablo de la portilla",
+   "capitan pablo de la portilla",
+   "pablo de la portilla, capitan"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Portilla” (33 records) left unattributed and NOT included.",
+  "records": 156,
+  "fl": "1819–1837",
+  "query": "portilla",
+  "auto": true
+ },
+ {
+  "canonical": "José Abrego",
+  "variants": [
+   "jose abrego",
+   "jose abrego, tesorero"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Abrego” (35 records) left unattributed and NOT included.",
+  "records": 137,
+  "fl": "1836–1848",
+  "query": "abrego",
   "auto": true
  },
  {
@@ -655,16 +687,37 @@
   "variants": [
    "jose zuniga",
    "jose de zuniga",
+   "tte. jose de zuniga",
+   "cap.n jose de zuniga",
    "jose de zuniga, comte",
-   "jose de zuniga, habilitado",
    "jose de zuniga, comandante",
+   "jose de zuniga, habilitado",
    "jose de zuniga, habilitado y comandante"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Zúñiga” (28 records) left unattributed and NOT included.",
-  "records": 117,
-  "fl": "1781–1839",
-  "query": "zuniga",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Zúñiga” (110 records) left unattributed and NOT included.",
+  "records": 121,
+  "fl": "1781–1807",
+  "query": "jose de zuniga|jose de zuniga, habilitado|jose zuniga",
+  "auto": true
+ },
+ {
+  "canonical": "Manuel Requena",
+  "variants": [
+   "manuel requena",
+   "alcalde manuel requena",
+   "juez 1º manuel requena",
+   "manuel requena, alcalde",
+   "alcalde 1º manuel requena",
+   "manuel requena, juez de 1ª inst",
+   "manuel requena, alcalde 1º const",
+   "manuel requena, alcalde 1º const. & pres. del ayuntamiento"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Requena” (27 records) left unattributed and NOT included.",
+  "records": 113,
+  "fl": "1835–1846",
+  "query": "requena",
   "auto": true
  },
  {
@@ -679,61 +732,22 @@
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 102,
-  "fl": "1826–1846",
+  "records": 108,
+  "fl": "1831–1846",
   "query": "osuna",
   "auto": true
  },
  {
-  "canonical": "Manuel Requena",
+  "canonical": "Juan Malarin",
   "variants": [
-   "manuel requena",
-   "juez 1º manuel requena",
-   "alcalde manuel requena",
-   "manuel requena, alcalde",
-   "alcalde 1º manuel requena",
-   "manuel requena, juez de 1ª inst",
-   "manuel requena, alcalde 1º const",
-   "manuel requena, alcalde 1º const. & pres. del ayuntamiento"
+   "juan malarin",
+   "juan malarin, cap.n del puerto"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Requena” (27 records) left unattributed and NOT included.",
-  "records": 99,
-  "fl": "1835–1846",
-  "query": "requena",
-  "auto": true
- },
- {
-  "canonical": "Ignacio Palomares",
-  "variants": [
-   "ignacio palomares",
-   "ignacio palomares, juez",
-   "ignacio palomares, juez 1º",
-   "ignacio palomares, juez de paz",
-   "ignacio palomares, juez de 1ª inst"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 92,
-  "fl": "1822–1846",
-  "query": "palomares",
-  "auto": true
- },
- {
-  "canonical": "Pablo de la Portilla",
-  "variants": [
-   "pablo de la portilla",
-   "capitan dn pablo portilla",
-   "cap. pablo de la portilla",
-   "gob. / pablo de la portilla",
-   "capitan pablo de la portilla",
-   "pablo de la portilla, capitan"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 77,
-  "fl": "1822–1837",
-  "query": "portilla",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Malarin” (26 records) left unattributed and NOT included.",
+  "records": 93,
+  "fl": "1822–1849",
+  "query": "malarin",
   "auto": true
  },
  {
@@ -741,20 +755,49 @@
   "variants": [
    "juan m. ibarra",
    "juan mª ibarra",
-   "juan m.ª ibarra",
    "juan maria ibarra",
    "tte juan mª ibarra",
-   "fr. juan maria ibarra",
    "juan mª ibarra, fiscal",
    "tte. juan maria ibarra",
+   "teniente juan maria ibarra",
+   "ayudante tte juan mª ibarra",
    "juan mª ibarra, juez fiscal",
-   "ayudante tte juan mª ibarra"
+   "teniente juan maria ibarra, comandante"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Ibarra” (21 records) left unattributed and NOT included.",
+  "records": 90,
+  "fl": "1822–1836",
+  "query": "ibarra",
+  "auto": true
+ },
+ {
+  "canonical": "Manuel Pineda",
+  "variants": [
+   "manuel pineda",
+   "manuel pineda, comandante",
+   "comandante dn manuel pineda"
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 75,
-  "fl": "1822–1835",
-  "query": "ibarra",
+  "records": 86,
+  "fl": "1817–1848",
+  "query": "pineda",
+  "auto": true
+ },
+ {
+  "canonical": "Nicolás Gutiérrez",
+  "variants": [
+   "nicolas gutierrez",
+   "gob. nicolas gutierrez",
+   "nicolas gutierrez gobr",
+   "nicolas gutierrez, gefe politico"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Gutiérrez” (61 records) left unattributed and NOT included.",
+  "records": 82,
+  "fl": "1826–1836",
+  "query": "nicolas gutierrez",
   "auto": true
  },
  {
@@ -764,9 +807,180 @@
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 66,
+  "records": 82,
   "fl": "1838–1849",
   "query": "olvera",
+  "auto": true
+ },
+ {
+  "canonical": "Marcelino Escobar",
+  "variants": [
+   "marcelino escobar",
+   "alcalde marcelino escobar",
+   "marcelino escobar, juez de 1.ª inst.a"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 77,
+  "fl": "1833–1845",
+  "query": "escobar",
+  "auto": true
+ },
+ {
+  "canonical": "Virrey Antonio Bucareli",
+  "variants": [
+   "virrey antonio bucareli",
+   "virrey antonio maria de bucareli"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 76,
+  "fl": "1772–1779",
+  "query": "bucareli",
+  "auto": true
+ },
+ {
+  "canonical": "Nicolás Soler",
+  "variants": [
+   "nicolas soler",
+   "capitan nicolas soler, ayudante inspector"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Soler” (126 records) left unattributed and NOT included.",
+  "records": 76,
+  "fl": "1782–1788",
+  "query": "nicolas soler",
+  "auto": true
+ },
+ {
+  "canonical": "José Mª Herrera",
+  "variants": [
+   "jose mª herrera",
+   "jose de herrera",
+   "jose m. herrera",
+   "jose m.ª herrera",
+   "jose m.a herrera",
+   "jose maria herrera",
+   "jose manuel de herrera"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Herrera” (112 records) left unattributed and NOT included. Another person shares this surname — check dates.",
+  "records": 75,
+  "fl": "1803–1836",
+  "query": "jose de herrera|jose m. herrera|jose maria herrera|jose mª herrera",
+  "auto": true
+ },
+ {
+  "canonical": "Pedro de Alberni",
+  "variants": [
+   "pedro alberni",
+   "pedro de alberni"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 74,
+  "fl": "1796–1804",
+  "query": "alberni",
+  "auto": true
+ },
+ {
+  "canonical": "Miguel González",
+  "variants": [
+   "miguel gonzalez",
+   "capⁿ miguel gonzalez",
+   "capitan miguel gonzalez",
+   "teniente miguel gonzalez"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “González” (43 records) left unattributed and NOT included. Another person shares this surname — check dates.",
+  "records": 73,
+  "fl": "1825–1829",
+  "query": "capitan miguel gonzalez|miguel gonzalez",
+  "auto": true
+ },
+ {
+  "canonical": "Francisco Guerrero",
+  "variants": [
+   "francisco guerrero"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 70,
+  "fl": "1837–1846",
+  "query": "francisco guerrero",
+  "auto": true
+ },
+ {
+  "canonical": "Diego González",
+  "variants": [
+   "diego gonzalez",
+   "tte diego gonzalez",
+   "diego gonzalez, comandante"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “González” (43 records) left unattributed and NOT included. Another person shares this surname — check dates.",
+  "records": 65,
+  "fl": "1781–1792",
+  "query": "diego gonzalez",
+  "auto": true
+ },
+ {
+  "canonical": "Romualdo Pacheco",
+  "variants": [
+   "romualdo pacheco",
+   "fiscal romualdo pacheco",
+   "comandante romualdo pacheco",
+   "romualdo pacheco, comandante"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Pacheco” (42 records) left unattributed and NOT included.",
+  "records": 65,
+  "fl": "1823–1831",
+  "query": "fiscal romualdo pacheco|romualdo pacheco|romualdo pacheco, comandante",
+  "auto": true
+ },
+ {
+  "canonical": "Manuel Cárcaba",
+  "variants": [
+   "manuel carcaba",
+   "manuel de carcaba"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Cárcaba” (67 records) left unattributed and NOT included.",
+  "records": 62,
+  "fl": "1792–1803",
+  "query": "manuel carcaba|manuel de carcaba",
+  "auto": true
+ },
+ {
+  "canonical": "Rafael González",
+  "variants": [
+   "rafael gonzalez",
+   "rafael gonzalez, juez 2º",
+   "rafael gonzalez, juez de paz",
+   "administrador rafael gonzalez"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “González” (43 records) left unattributed and NOT included. Another person shares this surname — check dates.",
+  "records": 62,
+  "fl": "1829–1845",
+  "query": "rafael gonzalez",
+  "auto": true
+ },
+ {
+  "canonical": "Juan José Rocha",
+  "variants": [
+   "juan rocha",
+   "juan j. rocha",
+   "juan jose rocha",
+   "juan jose rocha, fiscal",
+   "comandante juan jose rocha"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 58,
+  "fl": "1825–1837",
+  "query": "rocha",
   "auto": true
  },
  {
@@ -783,31 +997,75 @@
   "auto": true
  },
  {
-  "canonical": "Manuel Cárcaba",
+  "canonical": "Joaquín Cañete",
   "variants": [
-   "manuel carcaba",
-   "manuel de carcaba"
+   "joaquin canete",
+   "joaquin canete, tte",
+   "joaquin canete, comandante",
+   "joaquin canete, tte. de gobierno interino"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 56,
-  "fl": "1792–1803",
-  "query": "carcaba",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Cañete” (23 records) left unattributed and NOT included.",
+  "records": 54,
+  "fl": "1774–1784",
+  "query": "canete",
   "auto": true
  },
  {
-  "canonical": "Romualdo Pacheco",
+  "canonical": "David Spence",
   "variants": [
-   "romualdo pacheco",
-   "fiscal romualdo pacheco",
-   "comandante romualdo pacheco",
-   "romualdo pacheco, comandante"
+   "david spence",
+   "david e. spence",
+   "alcalde david spence",
+   "juez de paz david spence"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Pacheco” (39 records) left unattributed and NOT included.",
-  "records": 52,
-  "fl": "1823–1831",
-  "query": "fiscal romualdo pacheco|romualdo pacheco|romualdo pacheco, comandante",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 54,
+  "fl": "1827–1849",
+  "query": "spence",
+  "auto": true
+ },
+ {
+  "canonical": "José Roca",
+  "variants": [
+   "jose roca",
+   "alferez jose roca"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 53,
+  "fl": "1797–1833",
+  "query": "roca",
+  "auto": true
+ },
+ {
+  "canonical": "Pedro Amador",
+  "variants": [
+   "pedro amador"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 50,
+  "fl": "1773–1844",
+  "query": "amador",
+  "auto": true
+ },
+ {
+  "canonical": "José Mª Villavicencio",
+  "variants": [
+   "jose mª villavicencio",
+   "jose m. villavicencio",
+   "jose m.a villavicencio",
+   "jose maria villavicencio",
+   "jose mª villavicencio, admin",
+   "jose mª villavicencio, comte"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 47,
+  "fl": "1804–1844",
+  "query": "villavicencio",
   "auto": true
  },
  {
@@ -817,39 +1075,24 @@
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 52,
-  "fl": "1837–1849",
-  "query": "reid",
+  "records": 45,
+  "fl": "1843–1846",
+  "query": "perfecto hugo reid",
   "auto": true
  },
  {
-  "canonical": "José Romero",
+  "canonical": "Jacobo Ugarte y Loyola",
   "variants": [
-   "jose romero",
-   "jose antonio romero"
+   "jacobo ugarte y loyola",
+   "jacobo de ugarte y loyola",
+   "brig. jacobo ugarte y loyola",
+   "sr comte gral. dn jacobo ugarte y loyola"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 52,
-  "fl": "1791–1839",
-  "query": "romero",
-  "auto": true
- },
- {
-  "canonical": "Juan José Rocha",
-  "variants": [
-   "juan rocha",
-   "⭐⭐ juan rocha",
-   "juan j. rocha",
-   "juan jose rocha",
-   "juan jose rocha, fiscal",
-   "comandante juan jose rocha"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 42,
-  "fl": "1826–1837",
-  "query": "rocha",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Loyola” (53 records) left unattributed and NOT included.",
+  "records": 45,
+  "fl": "1783–1798",
+  "query": "jacobo de ugarte y loyola|jacobo ugarte y loyola",
   "auto": true
  },
  {
@@ -860,148 +1103,37 @@
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 41,
+  "records": 43,
   "fl": "1825–1845",
   "query": "estenaga",
   "auto": true
  },
  {
-  "canonical": "Nicolás Soler",
+  "canonical": "Ignacio del Valle",
   "variants": [
-   "nicolas soler",
-   "capitan nicolas soler, ayudante inspector"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Soler” (35 records) left unattributed and NOT included.",
-  "records": 37,
-  "fl": "1782–1788",
-  "query": "nicolas soler",
-  "auto": true
- },
- {
-  "canonical": "José Mª Villavicencio",
-  "variants": [
-   "jose m. villavicencio",
-   "jose mª villavicencio",
-   "jose maria villavicencio",
-   "jose mª villavicencio, admin",
-   "jose mª villavicencio, comte"
+   "ignacio del valle",
+   "alferez ignacio del valle",
+   "comisionado ignacio del valle"
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 36,
-  "fl": "1804–1844",
-  "query": "villavicencio",
+  "records": 43,
+  "fl": "1829–1846",
+  "query": "ignacio del valle",
   "auto": true
  },
  {
-  "canonical": "Francisco Guerrero",
+  "canonical": "José Romero",
   "variants": [
-   "francisco guerrero"
+   "jose romero",
+   "cap.n jose romero",
+   "jose antonio romero"
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 34,
-  "fl": "1820–1848",
-  "query": "guerrero",
-  "auto": true
- },
- {
-  "canonical": "Guillermo Cota",
-  "variants": [
-   "guillermo cota",
-   "sgto guillermo cota",
-   "guillermo de la cota",
-   "alcalde guillermo cota",
-   "guillermo cota, alcalde",
-   "instancia de guillermo cota"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 33,
-  "fl": "1813–1838",
-  "query": "guillermo cota",
-  "auto": true
- },
- {
-  "canonical": "Rafael González",
-  "variants": [
-   "rafael gonzalez",
-   "rafael gonzalez, juez 2º",
-   "rafael gonzalez, juez de paz",
-   "administrador rafael gonzalez"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “González” (21 records) left unattributed and NOT included. Another person shares this surname — check dates.",
-  "records": 32,
-  "fl": "1833–1845",
-  "query": "rafael gonzalez",
-  "auto": true
- },
- {
-  "canonical": "Jacobo Ugarte y Loyola",
-  "variants": [
-   "jacobo ugarte y loyola",
-   "jacobo de ugarte y loyola",
-   "brig. jacobo ugarte y loyola"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Loyola” (40 records) left unattributed and NOT included.",
-  "records": 31,
-  "fl": "1786–1798",
-  "query": "jacobo de ugarte y loyola|jacobo ugarte y loyola",
-  "auto": true
- },
- {
-  "canonical": "Miguel González",
-  "variants": [
-   "miguel gonzalez",
-   "capⁿ miguel gonzalez",
-   "capitan miguel gonzalez"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “González” (21 records) left unattributed and NOT included. Another person shares this surname — check dates.",
-  "records": 29,
-  "fl": "1826–1829",
-  "query": "capitan miguel gonzalez|miguel gonzalez",
-  "auto": true
- },
- {
-  "canonical": "Abel Stearns",
-  "variants": [
-   "abel stearns"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 28,
-  "fl": "1830–1849",
-  "query": "stearns",
-  "auto": true
- },
- {
-  "canonical": "Diego González",
-  "variants": [
-   "diego gonzalez"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “González” (21 records) left unattributed and NOT included. Another person shares this surname — check dates.",
-  "records": 27,
-  "fl": "1781–1792",
-  "query": "diego gonzalez",
-  "auto": true
- },
- {
-  "canonical": "Nicolás Gutiérrez",
-  "variants": [
-   "nicolas gutierrez",
-   "gob. nicolas gutierrez",
-   "nicolas gutierrez, gefe politico"
-  ],
-  "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Gutiérrez” (47 records) left unattributed and NOT included.",
-  "records": 27,
-  "fl": "1826–1836",
-  "query": "nicolas gutierrez",
+  "records": 42,
+  "fl": "1822–1825",
+  "query": "cap.n jose romero|jose romero",
   "auto": true
  },
  {
@@ -1015,14 +1147,129 @@
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 26,
+  "records": 41,
   "fl": "1805–1829",
   "query": "manuel gomez|manuel gomez, comte",
   "auto": true
  },
  {
+  "canonical": "Ramon Saavedra",
+  "variants": [
+   "ramon saavedra",
+   "ramon de saavedra"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 39,
+  "fl": "1791–1807",
+  "query": "saavedra",
+  "auto": true
+ },
+ {
+  "canonical": "Abel Stearns",
+  "variants": [
+   "abel stearns"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Stearns” (59 records) left unattributed and NOT included.",
+  "records": 38,
+  "fl": "1830–1849",
+  "query": "abel stearns",
+  "auto": true
+ },
+ {
+  "canonical": "Gabriel Moraga",
+  "variants": [
+   "gabriel moraga",
+   "tte. gabriel moraga",
+   "alferez gabriel moraga"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Moraga” (108 records) left unattributed and NOT included. Another person shares this surname — check dates.",
+  "records": 37,
+  "fl": "1794–1820",
+  "query": "gabriel moraga|tte. gabriel moraga",
+  "auto": true
+ },
+ {
+  "canonical": "Romualdo Ruano",
+  "variants": [
+   "romualdo ruano"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 37,
+  "fl": "1829–1849",
+  "query": "ruano",
+  "auto": true
+ },
+ {
+  "canonical": "Mariano Chico",
+  "variants": [
+   "mariano chico",
+   "gob. mariano chico",
+   "gov. mariano chico",
+   "mariano chico, gobor",
+   "mariano chico, gobernador",
+   "jefe politico mariano chico",
+   "mariano chico, gefe politico"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Chico” (27 records) left unattributed and NOT included.",
+  "records": 36,
+  "fl": "1835–1844",
+  "query": "gov. mariano chico|mariano chico",
+  "auto": true
+ },
+ {
+  "canonical": "Guillermo Cota",
+  "variants": [
+   "guillermo cota",
+   "sgto guillermo cota",
+   "guillermo de la cota",
+   "alcalde guillermo cota",
+   "guillermo cota, alcalde",
+   "instancia de guillermo cota"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Cota” (26 records) left unattributed and NOT included. Another person shares this surname — check dates.",
+  "records": 33,
+  "fl": "1813–1838",
+  "query": "guillermo cota",
+  "auto": true
+ },
+ {
+  "canonical": "Diego Gonzales",
+  "variants": [
+   "diego gonzales",
+   "tte. diego gonzales",
+   "diego gonzales, comandante"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Gonzales” (22 records) left unattributed and NOT included.",
+  "records": 32,
+  "fl": "1781–1794",
+  "query": "diego gonzales|diego gonzales, comandante",
+  "auto": true
+ },
+ {
+  "canonical": "Pedro de Nava",
+  "variants": [
+   "pedro de nava",
+   "pedro de nava, comte. gral",
+   "comte. gral. pedro de nava"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Nava” (32 records) left unattributed and NOT included.",
+  "records": 30,
+  "fl": "1789–1802",
+  "query": "pedro de nava",
+  "auto": true
+ },
+ {
   "canonical": "Antonio María Osio",
   "variants": [
+   "antonio osio",
    "antonio mª osio",
    "antonio m. osio",
    "antonio m.ª osio",
@@ -1031,37 +1278,69 @@
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
-  "records": 26,
+  "records": 29,
   "fl": "1825–1844",
   "query": "antonio m. osio|antonio maria osio|antonio mª osio",
   "auto": true
  },
  {
-  "canonical": "José Mª Herrera",
+  "canonical": "Thomas O. Larkin",
   "variants": [
-   "jose mª herrera",
-   "jose m.ª herrera",
-   "jose maria herrera"
+   "thomas larkin",
+   "thomas o. larkin"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Herrera” (48 records) left unattributed and NOT included. Another person shares this surname — check dates.",
-  "records": 25,
-  "fl": "1825–1834",
-  "query": "jose mª herrera",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 28,
+  "fl": "1834–1848",
+  "query": "larkin",
   "auto": true
  },
  {
-  "canonical": "Ignacio del Valle",
+  "canonical": "Ignacio Palomares",
   "variants": [
-   "ignacio del valle",
-   "alferez ignacio del valle",
-   "comisionado ignacio del valle"
+   "ignacio palomares",
+   "ignacio palomares, juez",
+   "ignacio palomares, juez 1º",
+   "ignacio palomares, juez de paz",
+   "ignacio palomares, juez de 1ª inst"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 27,
+  "fl": "1840–1846",
+  "query": "ignacio palomares|ignacio palomares, juez 1º",
+  "auto": true
+ },
+ {
+  "canonical": "Manuel Cota",
+  "variants": [
+   "manuel cota",
+   "manuel cota, administrador",
+   "manuel cota, admin. de la mision"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Cota” (26 records) left unattributed and NOT included. Another person shares this surname — check dates.",
+  "records": 25,
+  "fl": "1838–1840",
+  "query": "manuel cota|manuel cota, administrador",
+  "auto": true
+ },
+ {
+  "canonical": "Juan Mª Marrón",
+  "variants": [
+   "juan m. marron",
+   "juan mª marron",
+   "juan m.ª marron",
+   "juan mª marron, juez",
+   "juan mª marron, juez 1º",
+   "juan mª marron, juez de paz"
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
   "records": 24,
-  "fl": "1829–1846",
-  "query": "ignacio del valle",
+  "fl": "1797–1846",
+  "query": "marron",
   "auto": true
  },
  {
@@ -1076,6 +1355,33 @@
   "records": 24,
   "fl": "1827–1841",
   "query": "tomas a. yorba|tomas yorba",
+  "auto": true
+ },
+ {
+  "canonical": "Ignacio Albisu",
+  "variants": [
+   "ignacio albisu",
+   "encargado de la mision ignacio albisu"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 23,
+  "fl": "1828–1844",
+  "query": "albisu",
+  "auto": true
+ },
+ {
+  "canonical": "Nicolás A. Den",
+  "variants": [
+   "nicolas den",
+   "nicolas a. den",
+   "nicolas a. den, juez 1º"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 23,
+  "fl": "1840–1846",
+  "query": "nicolas a. den|nicolas den",
   "auto": true
  },
  {
@@ -1095,19 +1401,16 @@
   "auto": true
  },
  {
-  "canonical": "Juan Mª Marrón",
+  "canonical": "Fernando de Herrera",
   "variants": [
-   "juan m. marron",
-   "juan mª marron",
-   "juan mª marron, juez",
-   "juan mª marron, juez 1º",
-   "juan mª marron, juez de paz"
+   "fernando herrera",
+   "fernando de herrera"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Herrera” (112 records) left unattributed and NOT included. Another person shares this surname — check dates.",
   "records": 21,
-  "fl": "1839–1845",
-  "query": "marron",
+  "fl": "1796–1799",
+  "query": "fernando de herrera",
   "auto": true
  },
  {
@@ -1116,51 +1419,65 @@
    "jose antonio rengel"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Rengel” (39 records) left unattributed and NOT included.",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Rengel” (38 records) left unattributed and NOT included.",
   "records": 21,
   "fl": "1784–1786",
   "query": "jose antonio rengel",
   "auto": true
  },
  {
-  "canonical": "Nicolás A. Den",
+  "canonical": "Luis del Castillo Negrete",
   "variants": [
-   "nicolas den",
-   "nicolas a. den",
-   "nicolas a. den, juez 1º"
+   "luis del castillo negrete",
+   "luis del castillo negrete, juez de distrito",
+   "lic. luis del castillo negrete, juez de distrito"
+  ],
+  "role": "",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 20,
+  "fl": "1833–1839",
+  "query": "luis del castillo negrete|luis del castillo negrete, juez de distrito",
+  "auto": true
+ },
+ {
+  "canonical": "José de Gálvez",
+  "variants": [
+   "jose de galvez",
+   "d. jose de galvez",
+   "dn jose de galvez"
   ],
   "role": "",
   "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
   "records": 19,
-  "fl": "1840–1845",
-  "query": "nicolas a. den|nicolas den",
+  "fl": "1768–1785",
+  "query": "d. jose de galvez|jose de galvez",
   "auto": true
  },
  {
-  "canonical": "Fernando de Herrera",
+  "canonical": "Ignacio Trigueros",
   "variants": [
-   "fernando herrera",
-   "fernando de herrera"
+   "ignacio trigueros"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Herrera” (48 records) left unattributed and NOT included. Another person shares this surname — check dates.",
-  "records": 17,
-  "fl": "1796–1799",
-  "query": "fernando de herrera",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Trigueros” (24 records) left unattributed and NOT included.",
+  "records": 19,
+  "fl": "1843–1844",
+  "query": "ignacio trigueros",
   "auto": true
  },
  {
-  "canonical": "Gabriel Moraga",
+  "canonical": "Ramón Lasso de la Vega",
   "variants": [
-   "gabriel moraga",
-   "tte. gabriel moraga",
-   "alferez gabriel moraga"
+   "ramon lasso de la vega",
+   "alf. ramon lasso de la vega",
+   "alferez ramon lasso de la vega",
+   "ramon lasso de la vega, habilitado"
   ],
   "role": "",
-  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts. Bare “Moraga” (47 records) left unattributed and NOT included. Another person shares this surname — check dates.",
-  "records": 17,
-  "fl": "1795–1820",
-  "query": "gabriel moraga|tte. gabriel moraga",
+  "note": "Auto-compiled from name-form clustering; identity spans all records matching these forms — offices not yet verified against the manuscripts.",
+  "records": 18,
+  "fl": "1784–1796",
+  "query": "ramon lasso de la vega",
   "auto": true
  }
 ]
