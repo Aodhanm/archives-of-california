@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate crossrefs.json keys against the live catalog.
+"""Validate crossrefs.json AND the asset manifests against the live catalog.
 
 ROOT CAUSE THIS GUARDS
 A crossref key is caV-dN-nSCAN. A volume re-read inserts records and renumbers
@@ -89,6 +89,19 @@ for k, v in sorted(xref.items()):
     if not strong and len(shared) < 3:
         problems.append((k, "CONTENT",
                          f"no distinctive shared term with «{r.get('summary','')[:58]}»"))
+
+# --- the same drift breaks the asset manifests, which are keyed identically ---
+for name in ("transcriptions/manifest.json", "expanded/manifest.json"):
+    mp = ROOT / name
+    if not mp.exists():
+        continue
+    man = json.loads(mp.read_text())
+    for k in man:
+        if k.startswith("_"):
+            continue
+        if k not in by:
+            problems.append((k, "DANGLING", f"{name}: key matches no record, so the "
+                                            "attached page never renders"))
 
 live = len([k for k in xref if not k.startswith("_")])
 print(f"crossrefs: {live}   reviewed-exempt: {len(REVIEWED)}   suspect: {len(problems)}")
