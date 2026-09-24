@@ -3324,5 +3324,27 @@
   "note": "Savage's quotation marks open at “Segun” and close after “Bodega”: that sentence alone carries the document's own wording. The preceding burst-cannon clause — “que el presidio solo tenía un cañon, y ese reventado hace muchos años” — is Savage's third-person report and must not be printed as Sal's words. Note also “hace muchos años”: on 31 Oct 1792 the presidio's single gun is described as having burst long before, which does not describe the fiesta burst of 30 Sept 1792 recorded at ca55-d136.",
   "ia": "https://archive.org/details/bancarchca_81_16/page/n119",
   "logged": "2026-09"
+ },
+ {
+  "key": "ca55-d124-n66",
+  "vol": "55",
+  "doc": "124",
+  "type": "catalog-correction",
+  "was": "The ships had been “ashore 4 days & still there”, and asked the Indians for cattle “showing them otters beforehand”.",
+  "reads": "Full-resolution re-read of n66–n67. Savage quotes Sal throughout: “había dos barcos en el P.to de la Bodega; preguntado p.r mí me respondió, no entendían lo q.e les hablaban, y q.e los soldados traían ropa como nuestras vueltas, de q.e colegí serían ingleses; vuelto á preguntar, dijo q.e habían estado había 4 lunas, y no permanecían á la presente, q.e habían cogido agua, leña, y cazado muchos venados, y q.e á los indios les pedían ganado enseñándoles astas de res.”",
+  "note": "Four corrections. (1) FOUR MOONS, not four days. (2) They were NO LONGER THERE — “no permanecían á la presente”. (3) They showed the Indians CATTLE HORNS (astas de res), not otters. (4) “English” is Sal's own inference from the clothing (“de q.e colegí serían ingleses”), not the informant's statement. The four-moon duration independently corroborates ca54-d161, where Sal reports from the same indigenous channel that the English had frequented Bodega “más de seis meses”.",
+  "ia": "https://archive.org/details/bancarchca_81_17/page/n66",
+  "logged": "2026-09"
+ },
+ {
+  "key": "ca15-d520-n354",
+  "vol": "15",
+  "doc": "520",
+  "type": "reading",
+  "was": "“Sal reports that the establishment of the puerto de Bodega will not be carried out”, with “no se efectuará el establecimiento del puerto de Bodega” treated elsewhere as a quotation from Sal.",
+  "reads": "Full-resolution re-read of n354. The entry in full: “Le dice que entendiendo que no se efectuará el establecim.to del puerto de Bodega, ha aplicado á los usos del presidio de S.n Fr.co varios artículos que se habían destinado p.a Bodega.”",
+  "note": "There are no quotation marks anywhere in this entry, so the phrase is Savage's reported speech and not Sal's words. And the governing participle is ENTENDIENDO: Sal acts on his own understanding that the establishment will not happen. The entry records no order of abandonment — it records a commandant reallocating stores because he has concluded nothing further is coming.",
+  "ia": "https://archive.org/details/168035972_79_17_2/page/n354",
+  "logged": "2026-09"
  }
 ]
