@@ -3346,5 +3346,27 @@
   "note": "There are no quotation marks anywhere in this entry, so the phrase is Savage's reported speech and not Sal's words. And the governing participle is ENTENDIENDO: Sal acts on his own understanding that the establishment will not happen. The entry records no order of abandonment — it records a commandant reallocating stores because he has concluded nothing further is coming.",
   "ia": "https://archive.org/details/168035972_79_17_2/page/n354",
   "logged": "2026-09"
+ },
+ {
+  "key": "ca15-d21-n21",
+  "vol": "15",
+  "doc": "21",
+  "type": "catalog-correction",
+  "was": "Title given as “Plano del Puerto de la Bodega … el día 3 de Octubre”; the record called it “the discovery map of Bodega Bay”.",
+  "reads": "Full-resolution re-read: “Plano del Puerto del Cap.n Bodega descubierto con la Goleta ‘Sonora’ el día 23 de Obre.” The port is named for the captain, and the date is 23 October. Scale line: “Desde la punta del Cordon á la de Munguia, 1 Legua. Idem idem á la de las Arenas, 300 varas.” The enclosed water is lettered “Mar ó Río”.",
+  "note": "Two corrections and one caution. The title omits “Cap.n” in the old reading, which matters because AGI MP-MEXICO,582 carries the same form (“Plano del puerto del Capitán Bodega”). The date is 23 not 3 October. And WHICH BAY this depicts is not settled: Tovell reads Punta del Cordón and Punta de las Arenas as Tomales Bluff and Sand Point, which would make the 1775 “Puerto del Capitán Bodega” Tomales Bay rather than Bodega Bay, with the name moving north by Zayas's 1793 plan. The 1 legua, 300 varas and 38°18' figures on this leaf are the constraints that can test it. “Mar ó Río” is itself evidence that the 1775 survey did not establish what the feature was.",
+  "ia": "https://archive.org/details/168035972_79_17_2/page/n21",
+  "logged": "2026-09"
+ },
+ {
+  "key": "ca6-d217-n276",
+  "vol": "6",
+  "doc": "217",
+  "type": "catalog-correction",
+  "was": "The cross-archive note described AGN Californias 9, cuaderno 19 as “the Revillagigedo ↔ Bodega y Quadra occupation orders and schooner instructions of Feb–Mar 1793”, after Inglis 2012.",
+  "reads": "The cuaderno has since been located and mirrored: AGN, Californias, vol. 9, exp. 3, ff. 40–147v, identified as “Quad.º N.º 19” from the cover sheet in the manuscript's own hand. Its own title is “Sobre fortificar los Puertos de San Fran.co, Monterrey, y San Diego con Artillería, pertrechos y demás utiles”, and its span is 1792–1794.",
+  "note": "The description of the AGN file's contents was wrong and has been rewritten. A reading of the first 16 of 216 leaves found no occupation material; whether the file also carries the Bodega orders is left open rather than asserted either way. The C-A record itself — Revillagigedo's 6 Jul 1793 “Sobre ocupacion del Puerto de Bodega” — is unaffected.",
+  "ia": "https://archive.org/details/168036075_79_8/page/n276",
+  "logged": "2026-09"
  }
 ]
