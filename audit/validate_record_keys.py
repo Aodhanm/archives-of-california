@@ -103,6 +103,23 @@ for name in ("transcriptions/manifest.json", "expanded/manifest.json"):
             problems.append((k, "DANGLING", f"{name}: key matches no record, so the "
                                             "attached page never renders"))
 
+# --- the overlays that nest their keys under _records ---
+# witnesses.json documents six ca14 keys deliberately left unbound because more
+# than one record shares the scan and Hittell's page cannot choose between them.
+WITNESS_AMBIGUOUS = {"ca14-d1080-n253", "ca14-d1082-n254", "ca14-d1084-n255",
+                     "ca14-d1092-n258", "ca14-d1104-n266", "ca14-d1130-n275"}
+for name in ("bancroft.json", "witnesses.json"):
+    mp = ROOT / name
+    if not mp.exists():
+        continue
+    rec = json.loads(mp.read_text()).get("_records", {})
+    for k in rec:
+        if k.startswith("_") or k in WITNESS_AMBIGUOUS:
+            continue
+        if k not in by:
+            problems.append((k, "DANGLING", f"{name}: key matches no record, so the "
+                                            "attached box never renders"))
+
 live = len([k for k in xref if not k.startswith("_")])
 print(f"crossrefs: {live}   reviewed-exempt: {len(REVIEWED)}   suspect: {len(problems)}")
 for k, kind, why in problems:
