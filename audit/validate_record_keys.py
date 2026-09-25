@@ -77,6 +77,8 @@ for k, v in sorted(xref.items()):
         problems.append((k, "DANGLING", "key matches no record"))
         continue
     txt = v.get("text", "")
+    if k in REVIEWED:          # human-checked; exempt from BOTH tests below
+        continue
 
     yrs = set(re.findall(r"1[78]\d\d", txt))
     ryr = (r.get("date_text") or r.get("year") or "")[:4]
@@ -84,7 +86,7 @@ for k, v in sorted(xref.items()):
         problems.append((k, "YEAR", f"record is {ryr}; note names {sorted(yrs)}"))
         continue
 
-    if txt.startswith("Published edition") or k in REVIEWED:
+    if txt.startswith("Published edition"):
         continue
     blob = " ".join(str(r.get(f, "")) for f in ("summary", "detail", "author", "recipient"))
     shared = toks(txt) & toks(blob)
