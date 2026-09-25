@@ -38,6 +38,9 @@ xref = json.loads((ROOT / "crossrefs.json").read_text())
 # Pairs a human has read and confirmed despite a low automatic score.
 # key -> why it is fine.
 REVIEWED = {
+    "ca7-d261-n175": "the 5 Nov 1794 handover of two Chatham deserters; the note dates their "
+                     "DESERTION, 6 Jan 1793, and cites Vancouver's report to the Admiralty of "
+                     "13 Jan 1793. Record year and note year differ by design (checked 2026-09-24)",
     "ca17-d174-n115": "Boris's 950-skin declaration; note describes the AGN "
                       "Provincias Internas file, no shared wording expected "
                       "(checked 2026-09-24)",
