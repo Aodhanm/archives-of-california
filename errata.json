@@ -3368,5 +3368,16 @@
   "note": "The description of the AGN file's contents was wrong and has been rewritten. A reading of the first 16 of 216 leaves found no occupation material; whether the file also carries the Bodega orders is left open rather than asserted either way. The C-A record itself — Revillagigedo's 6 Jul 1793 “Sobre ocupacion del Puerto de Bodega” — is unaffected.",
   "ia": "https://archive.org/details/168036075_79_8/page/n276",
   "logged": "2026-09"
+ },
+ {
+  "key": "ca7-d242-n159",
+  "vol": "7",
+  "doc": "242",
+  "type": "catalog-correction",
+  "was": "The record described Thomas Smith simply as having deserted the urca Dédalo at San Diego, named the other man “Diego Lanson (Landon)”, and did not mention Argüello.",
+  "reads": "Full-resolution re-read of n159. Savage writes “y á mas un REO ingles q.e desertó de la misma Urca en el puerto de S.n Diego el 7 de Dic.bre de 93”, and again “el REO que desertó en S.n Diego… llamado Tomas Smith”. He also writes “he sido informado p.r el S.r Argüello”, and spells the name “Diego LANDON”.",
+  "note": "⭐ This record was collated against Vancouver's English original, printed in Lamb, A Voyage of Discovery, vol. IV — a rare case where the destroyed document survives in the writer's own language as well as in Savage's copy. THE RESULT INVERTS THE EXPECTED ONE. Savage is faithful on every checkable point: both names, all three dates, the ship, the Argüello attribution, and the category. Vancouver wrote “a British CONVICT”; Savage wrote “un REO ingles”, twice. The word was never lost in the Archives of California. It was lost in this catalogue entry, which is a summary OF Savage, not Savage. The lossy layer is the catalogue, not the copyist.",
+  "ia": "https://archive.org/details/168036075_79_9_2/page/n159",
+  "logged": "2026-09"
  }
 ]
