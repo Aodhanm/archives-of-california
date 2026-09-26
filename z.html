@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="https://ships.archivesofcalifornia.com/flags.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Flags at Anchor, California Ship Registry">
+<meta property="og:description" content="The share of recorded arrivals in California waters by flag, 1769–1848, from the California Ship Registry.">
+<meta property="og:url" content="https://ships.archivesofcalifornia.com/flags.html">
+<meta name="twitter:card" content="summary">
+<title>Flags at Anchor, California Ship Registry</title>
+<meta name="description" content="The share of recorded arrivals in California waters by flag, 1769–1848, from the California Ship Registry.">
+<style>
+  /* ---- page chrome, matching the registry ---- */
+  body{font-family:Georgia,serif;margin:0;background:#f7f4ee;color:#222;line-height:1.55}
+  header{background:#1f3a5f;color:#f7f4ee;padding:14px 22px}
+  header h1{margin:0;font-size:1.25em}
+  header p{margin:4px 0 0;font-size:.85em;color:#c9d6e6}
+  nav{background:#2d4a73;padding:0 22px}
+  nav a{color:#f4e2b8;padding:10px 14px;font-size:.95em;text-decoration:none;display:inline-block}
+  nav a:hover{color:#fff;text-decoration:underline}
+  main{max-width:1000px;margin:0 auto;padding:22px}
+  h2{font-size:1.1em;margin:2em 0 .4em}
+  p{font-size:.95em}
+  .lede{font-size:1.02em}
+  .note{font-size:.85em;color:#5a564e;border-left:3px solid #d8d2c4;padding:.1em 0 .1em .9em;margin:1.2em 0}
+  .note b{color:#3d3a34}
+  figure{margin:1.6em 0}
+  figcaption{font-size:.82em;color:#5a564e;margin-top:.7em}
+  figcaption b{color:#3d3a34}
+
+  /* ---- the figure plate: its own near-white surface, which is the surface the
+         categorical palette was validated against ---- */
+  .viz-root{
+    color-scheme:light;
+    --surface-1:#fcfcfb;
+    --grid:#e6e5e1;
+    --text-primary:#0b0b0b;
+    --text-secondary:#52514e;
+    --text-muted:#7a7873;
+    --series-1:#2a78d6;  /* Spain    */
+    --series-2:#eb6834;  /* USA      */
+    --series-3:#1baf7a;  /* Russia   */
+    --series-4:#eda100;  /* Britain  */
+    --series-5:#e87ba4;  /* France   */
+    --series-other:#9b9992;
+    background:var(--surface-1);
+    border:1px solid #e3ddd0;
+    border-radius:3px;
+    padding:18px 16px 12px;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:where(:not([data-theme="light"])) body{background:#141413;color:#e8e6df}
+    :root:where(:not([data-theme="light"])) .viz-root{
+      color-scheme:dark;
+      --surface-1:#1a1a19; --grid:#33332f;
+      --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8e8c84;
+      --series-1:#3987e5; --series-2:#d95926; --series-3:#199e70; --series-4:#c98500; --series-5:#d55181;
+      --series-other:#7d7b74;
+      border-color:#33332f;
+    }
+    :root:where(:not([data-theme="light"])) .note{color:#b5b2a8;border-left-color:#3a3934}
+    :root:where(:not([data-theme="light"])) .note b,
+    :root:where(:not([data-theme="light"])) figcaption b{color:#e8e6df}
+    :root:where(:not([data-theme="light"])) figcaption{color:#b5b2a8}
+    :root:where(:not([data-theme="light"])) table{background:#1a1a19;color:#e8e6df}
+    :root:where(:not([data-theme="light"])) th{background:#26261f}
+    :root:where(:not([data-theme="light"])) td,
+    :root:where(:not([data-theme="light"])) th{border-color:#33332f}
+  }
+  :root[data-theme="dark"] body{background:#141413;color:#e8e6df}
+  :root[data-theme="dark"] .viz-root{
+    color-scheme:dark;
+    --surface-1:#1a1a19; --grid:#33332f;
+    --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8e8c84;
+    --series-1:#3987e5; --series-2:#d95926; --series-3:#199e70; --series-4:#c98500; --series-5:#d55181;
+    --series-other:#7d7b74;
+    border-color:#33332f;
+  }
+  :root[data-theme="dark"] .note{color:#b5b2a8;border-left-color:#3a3934}
+  :root[data-theme="dark"] .note b,:root[data-theme="dark"] figcaption b{color:#e8e6df}
+  :root[data-theme="dark"] figcaption{color:#b5b2a8}
+  :root[data-theme="dark"] table{background:#1a1a19;color:#e8e6df}
+  :root[data-theme="dark"] th{background:#26261f}
+  :root[data-theme="dark"] td,:root[data-theme="dark"] th{border-color:#33332f}
+
+  .viz-scroll{overflow-x:auto}
+  svg{display:block;max-width:100%;height:auto;font-family:Georgia,serif}
+  .g-line{fill:none;stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+  .g-grid{stroke:var(--grid);stroke-width:1}
+  .g-axis-text{font-size:11px;fill:var(--text-secondary)}
+  .g-label{font-size:12px;font-weight:700}
+  .g-title{font-size:13px;fill:var(--text-primary);font-weight:700}
+  .g-sub{font-size:11px;fill:var(--text-muted)}
+
+  /* legend, always present for >= 2 series */
+  .legend{display:flex;flex-wrap:wrap;gap:14px;margin:2px 0 10px;font-size:.82em;color:var(--text-secondary)}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .legend i{width:14px;height:3px;border-radius:2px;display:inline-block}
+
+  /* tooltip */
+  .tip{position:absolute;pointer-events:none;background:var(--surface-1);color:var(--text-primary);
+       border:1px solid var(--grid);border-radius:3px;padding:7px 9px;font-size:.8em;
+       box-shadow:0 2px 8px rgba(0,0,0,.13);opacity:0;transition:opacity .12s;z-index:20;min-width:150px}
+  .tip b{display:block;margin-bottom:4px}
+  .tip table{width:100%;border:0;background:none;font-size:1em}
+  .tip td{padding:1px 0;border:0}
+  .tip td{font-variant-numeric:tabular-nums}
+  .tip td.own{text-align:right;color:var(--text-secondary)}
+  .tip tr.hdr td{font-size:.85em;color:var(--text-muted);padding-bottom:3px;border-bottom:1px solid var(--grid)}
+  .tip i{width:9px;height:3px;border-radius:2px;display:inline-block;margin-right:5px;vertical-align:middle}
+
+  details{margin:1.4em 0}
+  summary{cursor:pointer;font-size:.88em;color:#1f5f8b}
+  table{border-collapse:collapse;width:100%;font-size:.82em;background:#fff;margin-top:.7em}
+  th,td{border:1px solid #e0dbcf;padding:5px 8px;text-align:right}
+  th:first-child,td:first-child{text-align:left}
+  th{background:#e8e2d4}
+  td{font-variant-numeric:tabular-nums}
+  .muted{color:#8a8578}
+</style>
+</head>
+<body>
+<header>
+  <h1>Flags at Anchor</h1>
+  <p>California Ship Registry · a figure</p>
+</header>
+<nav>
+  <a href="./index.html">← The registry</a>
+  <a href="./key-voyages.html">Key voyages</a>
+  <a href="./METHOD.md">Method</a>
+</nav>
+
+<main>
+<p class="lede">Between 1769 and 1821 the ships anchoring in California changed nationality.
+Spain arrived alone, and within fifty years most vessels in Spanish harbours flew another
+flag. This is that change, year by year, from the registry's own visit records.</p>
+
+<figure>
+  <div class="viz-root" data-palette="#2a78d6,#eb6834,#1baf7a,#eda100,#e87ba4">
+    <div class="legend" id="legend"></div>
+    <div class="viz-scroll"><svg id="chart" viewBox="0 0 880 430" role="img"
+      aria-label="Line chart. Share of recorded arrivals in California by flag, each year from 1769 to 1821, as a five-year centred mean. Spain begins at 100 percent and falls to about 11 percent. The United States rises from zero to a peak near 58 percent. Russia appears after 1806 and peaks above 40 percent in the 1810s. Britain peaks around 25 percent in the mid 1790s."></svg></div>
+  </div>
+  <figcaption><b>Figure 1.</b> Share of recorded arrivals by flag, every year from 1769 to
+  1821, as a five-year centred mean. Each year's own unsmoothed share is available on hover
+  and in the table. The line breaks wherever its window falls below twenty records, and the
+  strip beneath gives <i>n</i> for every year, so no stretch of the curve is read without the
+  evidence under it.</figcaption>
+</figure>
+
+<div class="note">
+<b>Why share, and why smoothed.</b> Raw arrivals per year rise and fall with how densely
+a year happens to be documented at least as much as with how many ships came: 1797 alone
+holds 65 recorded visits, largely one exhaustively catalogued stretch of San Blas supply
+runs, while four years in this window hold none at all. Counts would draw that survey
+pattern as history. Share is robust to an uneven denominator, and a five-year centred
+mean is robust to a thin year, but both are still computed on the same uneven evidence,
+so the annual points and the annual <i>n</i> are printed underneath rather than smoothed
+away. Where the window holds fewer than twenty records the line simply stops.
+</div>
+
+<div class="note">
+<b>Who arrived first, and on what authority.</b> Six first visits, marked in the lane
+beneath the plot and listed with the registry's own attestation in the table:
+<b>Spain</b> 1769, the founding voyages at San Diego (inferred, draft);
+<b>France</b> 14 September 1786, La Pérouse's <i>Boussole</i> and <i>Astrolabe</i> at
+Monterey (stated, reviewed);
+<b>Britain</b> 14 November 1792, Vancouver's <i>Discovery</i> into San Francisco Bay
+(stated, reviewed, exact date);
+<b>the United States</b> 29 October 1796, the <i>Otter</i> of Boston under Ebenezer Dorr at
+Monterey (reviewed);
+<b>Russia</b> 8 April 1806, the <i>Juno</i> under Rezanov and Khvostov at San Francisco
+(one of only thirteen rows in the registry at <i>verified</i> status);
+<b>Argentina</b> 20 November 1818, Bouchard.
+<br><br>
+Two of those need their qualifications stated. The American first is <i>29 October</i>, not
+the offshore sighting of 28 May 1796 that stands earlier in the file, a sighting fifteen
+leagues out is not an arrival, and the registry reclassified it as such in August 2026. And
+nothing British precedes Vancouver: Bancroft's own chapter is headed “Vancouver's First
+Visit,” and he writes that “the first intercourse of the Californians with subjects of a
+foreign power was with the French under Jean François Galaup de La Pérouse in the autumn of
+1786,” calling it “the first visit of a foreigner to California.” The near-miss is real but
+is not a British visit, the <i>Princesa Real</i> that touched Monterey in September 1790
+was the British sloop <i>Princess Royal</i>, seized from Britain at Nootka in 1789 and
+sailing under Manuel Quimper and Spanish colours. A British hull, two years early, under
+someone else's flag.
+</div>
+
+<div class="note">
+<b>Where each line starts.</b> A centred five-year mean spreads every value backwards
+across half its window, which in an earlier draft of this figure lifted each flag off the
+axis two years before it arrived: Russia read as 1804 when the <i>Juno</i> came in 1806,
+the United States as 1794 when the first American arrival is 1796, Britain as 1790 when
+Vancouver's <i>Chatham</i> came in 1792, France as 1784 when La Pérouse came in 1786.
+First arrival is the whole point of a series like this, so it is not smoothed: each line
+is held flat at zero until the year of its first recorded arrival, and that year is ticked
+on the axis in the flag's own colour.
+</div>
+
+<div class="note">
+<b>Why the chart ends in 1821.</b> Because the data cannot honestly carry the Mexican
+period yet. Forty-three visits dated 1822 or later are flagged <i>Spanish</i> in the
+registry, among them vessels named <i>Morelos</i>, <i>Matamoros</i> and <i>Mariquita</i>,
+which are Mexican, and <i>Brookline</i>, <i>Volunteer</i> and <i>Leonidas</i>, which are
+American. Thirty-nine vessel names in the file appear under more than one flag
+(<i>Eagle</i> is Spanish, Russian and American; <i>Cossack</i> is Spanish and American),
+and 19 per cent of post-1821 rows carry such a name against 7 per cent before 1822. Some
+of that is real, ships were sold and re-flagged, and the <i>Ayacucho</i>'s registry is
+genuinely contested, but most of it is coding noise, and the registry's own
+<a href="./METHOD.md">method note</a> already lists mis-flags among its standing
+false-positive classes. A composition chart of Mexican California would be measuring that
+noise. It waits on a flag audit.
+</div>
+
+
+
+<h2>What the figure says</h2>
+<p><b>The crossing happens under Spanish rule.</b> Spain holds every recorded arrival until
+the 1780s and four in five through the 1790s. Then the line falls through the 1800s and the
+American line passes it, while California is still a Spanish province, a decade before the
+Mexican war of independence and forty years before the conquest. The empire lost its
+monopoly on its own harbours long before it lost the coast.</p>
+<p><b>Russia appears from nothing and takes a third of the traffic.</b> Not a single
+Russian arrival before 1806; within a decade Russian vessels are more than a third of
+recorded arrivals, peaking above forty per cent in the 1810s. The Ross venture is legible
+as a step change in a shipping series.</p>
+<p><b>Britain is a spike, not a presence.</b> The British share peaks in the mid-1790s, 
+Vancouver's surveys and the Nootka aftermath, and then subsides. It is an episode, where
+the American share is a trend.</p>
+<p><b>France is small, and shown anyway.</b> Seven records across three separate
+occasions, La Pérouse in 1786, a French matter in 1808, Roquefeuil's <i>Bordelais</i> in
+1817, which is why the French line is three short segments (1786–88, 1806–10, 1815–19)
+rather than a curve. Two of those
+seven are flagged for review. Argentina is Bouchard alone and appears only as an arrival.
+Both are kept visible rather than folded into a grey "other": a category with two records
+is still a category, and burying it hides which two.</p>
+<p><b>A line is drawn only where its flag was actually there.</b> It begins at that flag's
+first recorded arrival, and it stops again wherever the flag is absent for two years or
+more. A flat line along the axis draws absence as though it were a measurement, and the eye
+reads it as “here, at nil” rather than “not here”, which is why France appears as three
+separate episodes rather than one long line at zero, and why nothing runs beneath Britain
+before 1792 or Russia before 1806. A single isolated zero inside a continuous presence is
+kept, because there it really is a measurement. The arrivals themselves sit in their own
+lane below the axis, out of the plot they would otherwise crowd.</p>
+<p class="note"><b>A caution on the last years.</b> The Spanish line does not fall to zero
+because the supply system never fully stopped, but the window's final years are also its
+thinnest: the war of independence cut the San Blas run and the record with it. Read the
+right-hand end against the <i>n</i> strip, not on its own.</p>
+
+<details>
+  <summary>Table view, every value in both figures</summary>
+  <div id="tableview"></div>
+</details>
+
+<div class="note" id="caveats"></div>
+
+<p class="note"><b>On the form.</b> The design is a plain time-series of composition, the
+oldest form in the field: William Playfair drew the first of them for England's trade
+balance in the <i>Commercial and Political Atlas</i> of 1786, and the elements here, 
+labelled axes, a recessive grid, one line per series, direct labels at the ends, are
+his. Two later rules govern the rest. Edward Tufte's: spend the ink on data and take it
+off everything else, which is why the grid is a hairline and no line carries a number at
+every point. Tufte's other one is that a chart should show the data it was computed from, met
+here by the <i>n</i> strip beneath the plot and by the table, which carry every annual
+value the curve averages, rather than by scattering fifty-three years of points across the
+plot itself. Colours are not chosen by eye. The four series hues were run through a
+colour-vision check in both light and dark mode: the closest adjacent pair
+(Britain against Russia) separates by ΔE&nbsp;9.1 under simulated protanopia and
+ΔE&nbsp;22.9 under normal vision, against thresholds of 8 and 15. Two of the light-mode
+hues sit below a 3:1 contrast ratio on this surface, which is permitted only where the
+reading never depends on the colour, hence the direct label on every line and the full
+table above. Dark mode is a separate set of steps chosen for the dark surface, not an
+automatic inversion of the light one.</p>
+
+<p style="font-size:.82em;color:#6b675e;margin-top:2.4em">
+Source: <a href="./data/visits.csv">California Ship Registry, <code>data/visits.csv</code></a> ·
+derived series <a href="./data/flags-by-decade.json"><code>data/flags-by-decade.json</code></a>
+(built by <code>scripts/build_flags.py</code>, which is deterministic, rerun it to reproduce
+every number here).
+</p>
+</main>
+
+<div class="tip" id="tip"></div>
+<script src="./assets/flags-chart.js?v=c7f684f5"></script>
+</body>
+</html>
