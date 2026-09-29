@@ -3379,5 +3379,16 @@
   "note": "⭐ This record was collated against Vancouver's English original, printed in Lamb, A Voyage of Discovery, vol. IV — a rare case where the destroyed document survives in the writer's own language as well as in Savage's copy. THE RESULT INVERTS THE EXPECTED ONE. Savage is faithful on every checkable point: both names, all three dates, the ship, the Argüello attribution, and the category. Vancouver wrote “a British CONVICT”; Savage wrote “un REO ingles”, twice. The word was never lost in the Archives of California. It was lost in this catalogue entry, which is a summary OF Savage, not Savage. The lossy layer is the catalogue, not the copyist.",
   "ia": "https://archive.org/details/168036075_79_9_2/page/n159",
   "logged": "2026-09"
+ },
+ {
+  "key": "ca6-d224-n285",
+  "vol": "6",
+  "doc": "224",
+  "type": "date",
+  "was": "Catalogued 1793-12-02, following the bracketed editorial guess in the Savage heading.",
+  "reads": "Full-resolution re-read of n285. Savage's heading is: “1793 — Nov.e (debe ser Dic.e) 2 — Bahía de Monterrey. A Bordo del Buque de S.M. Británica ‘Descubierta’. Vancouver á … (debe ser á Arrillaga).” The manuscript month Savage READ is NOVEMBER; “(debe ser Dic.e)” is his own editorial conjecture, in the same bracket form he uses two lines later for “(debe ser á Arrillaga)”.",
+  "note": "⭐ THE CATALOGUE ADOPTED SAVAGE'S GUESS INSTEAD OF HIS READING, and the guess is wrong. Two independent checks support November, both from the British side: (1) Lamb prints Vancouver's own narrative of sending Arrillaga “a full explanation” on “the next day, Saturday the 2d”, and in 1793 2 November fell on a Saturday while 2 December fell on a Monday; (2) Vancouver was at San Diego by late November and wrote his dispatch from Port San Diego on 6 December 1793, so he cannot have been sending Arrillaga a letter at Monterey on 2 December. ⚠⚠ THIS DESTABILISES THE WHOLE d221–d226 CLUSTER, not just this record: d223 is catalogued from Savage's reading “31 Nov.e de 93”, an impossible date, and d226 is catalogued 6/7 December. Vancouver's second Monterey visit ran from about 1 November 1793; on the British chronology the entire exchange belongs to November. The dates of d223, d224, d225 and d226 should all be treated as unsettled until the leaves are read together against Lamb.",
+  "ia": "https://archive.org/details/168036075_79_8/page/n285",
+  "logged": "2026-09"
  }
 ]
