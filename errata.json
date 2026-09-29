@@ -3401,5 +3401,60 @@
   "note": "Polarity reversal: the catalogue had Matute judging the Bodega establishment feasible when the oficio Sal forwards says the opposite — it had not been possible to make it. Count also corrected 2→10. Summary, title and verified field corrected 2026-09-28; the leaf's foot cite is pp 669–70 (orig_page's ~667–670 hedge stands).",
   "ia": "https://archive.org/details/bancarchca_81_17/page/n297",
   "logged": "2026-09"
+ },
+ {
+  "key": "ca23-d1318-n455",
+  "vol": "23",
+  "doc": "1318",
+  "type": "catalog-correction",
+  "was": "Summary and title read «cuatrocientos y pico de fusiles» — 400-odd muskets stolen overnight from the Monterey warehouse.",
+  "reads": "Full-resolution re-read of n455 (stamp 447). The leaf reads «robaron del almacen de Monterey cuatro-cientos y pico de pesos» — PESOS, i.e. money, not muskets.",
+  "note": "A money theft had been turned into the largest arms theft in the provincial record. Summary, title and theme corrected 2026-09-28.",
+  "ia": "https://archive.org/details/168035972_80_5/page/n455",
+  "logged": "2026-09"
+ },
+ {
+  "key": "ca11-d091-n148",
+  "vol": "11",
+  "doc": "91",
+  "type": "catalog-correction",
+  "was": "Summary read: Cabo Osorio paid $11,322 for 64 cartridges missing from the Monterey garrison.",
+  "reads": "Full-resolution re-read of n148–n149. The leaf reads «$11. 3 r.s 9 g.s» — 11 pesos 3 reales 9 granos — and the document is the fiscal's pedimento that Osorio be REIMBURSED that sum for 64 cartridges missing from the Monterey pertrechos which he had paid for.",
+  "note": "The pesos-reales-granos notation had been collapsed into a five-figure dollar amount. Record rewritten 2026-09-28.",
+  "ia": "https://archive.org/details/168036075_79_13/page/n148",
+  "logged": "2026-09"
+ },
+ {
+  "key": "ca13-d308-n245",
+  "vol": "13",
+  "doc": "308",
+  "type": "catalog-correction",
+  "was": "Summary gave the two Bouchard pirate frigates '350 men'.",
+  "reads": "Full-resolution re-read of n245: «dos fragatas de Piratas la una de 34 Cañones y la otra de 18 á 20. tripuladas con 250 hombres».",
+  "note": "250, not 350 — now agreeing with the ca55-d339 copy of the same 8 Oct 1818 Solá circular, which quotes «ambas con 250 hombres de tripulacion». Corrected 2026-09-28.",
+  "ia": "https://archive.org/details/168035972_79_16_1/page/n245",
+  "logged": "2026-09"
+ },
+ {
+  "key": "ca2-d085-n186",
+  "vol": "2",
+  "doc": "85",
+  "type": "catalog-correction",
+  "was": "The record was scrambled by a build fault: title and summary held a bare crossref-tag string ('yuma-campaign, colorado-river, croix, neve, environmental-logistics, military-register'), doc_type held a long tag dump, and no prose summary of the document existed.",
+  "reads": "Full-resolution read of n186–n187 (stamps 183–184): Croix to Neve, Arizpe 6 Jan 1782, «Creciente del Colorado — Sobre el ataque contra los Yumas», pp.363–364.",
+  "note": "Record rebuilt from the leaf 2026-09-28: the Yuma campaign timed against the Colorado's May flood; if operations are suspended, the pause is to be used to found the Santa Bárbara Channel establishments with 15–20 of Fages's men, the volunteers then returning to Apache-beset Sonora.",
+  "ia": "https://archive.org/details/168036075_79_4_2/page/n186",
+  "logged": "2026-09"
+ },
+ {
+  "key": "ca2-d048-n66",
+  "vol": "2",
+  "doc": "48",
+  "type": "caution",
+  "was": "Summary reports 70,704 gunflints in the Feb 1782 Monterey inventory without comment.",
+  "reads": "Leaf-verified 2026-09-28: Savage's copy does read «70704 piedras de escopeta» — the catalog is faithful.",
+  "note": "The figure is presumably a copyist's inflation: the same presidio's end-1782 munitions relación (ca15-d155, Sav. orig. p.567) counts 7,466 gunflints, and no other California inventory approaches 70,000. The original burned in 1906, so the true figure is unrecoverable; a caution note now accompanies the summary.",
+  "ia": "https://archive.org/details/168036075_79_4_2/page/n66",
+  "logged": "2026-09"
  }
 ]
