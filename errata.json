@@ -3390,5 +3390,16 @@
   "note": "⭐ THE CATALOGUE ADOPTED SAVAGE'S GUESS INSTEAD OF HIS READING, and the guess is wrong. Two independent checks support November, both from the British side: (1) Lamb prints Vancouver's own narrative of sending Arrillaga “a full explanation” on “the next day, Saturday the 2d”, and in 1793 2 November fell on a Saturday while 2 December fell on a Monday; (2) Vancouver was at San Diego by late November and wrote his dispatch from Port San Diego on 6 December 1793, so he cannot have been sending Arrillaga a letter at Monterey on 2 December. ⚠⚠ THIS DESTABILISES THE WHOLE d221–d226 CLUSTER, not just this record: d223 is catalogued from Savage's reading “31 Nov.e de 93”, an impossible date, and d226 is catalogued 6/7 December. Vancouver's second Monterey visit ran from about 1 November 1793; on the British chronology the entire exchange belongs to November. The dates of d223, d224, d225 and d226 should all be treated as unsettled until the leaves are read together against Lamb.",
   "ia": "https://archive.org/details/168036075_79_8/page/n285",
   "logged": "2026-09"
+ },
+ {
+  "key": "ca55-d345-n297",
+  "vol": "55",
+  "doc": "345",
+  "type": "catalog-correction",
+  "was": "Summary stated Matute reported an establishment at Puerto de la Bodega \"is feasible\", with \"2 military men & 5 artisans\" on the Aránzazu.",
+  "reads": "Full-resolution re-read of n297–n298 (stamps 298–299). The leaf reads «haciendome presente no le ha sido posible hacer establecimiento en aquel Pto.» — Matute reports it has NOT been possible to establish at the port — and «con mas diez individuos militares y 5 artesanos que trae la Fragata 'Aranzazu'» — TEN military men, not 2.",
+  "note": "Polarity reversal: the catalogue had Matute judging the Bodega establishment feasible when the oficio Sal forwards says the opposite — it had not been possible to make it. Count also corrected 2→10. Summary, title and verified field corrected 2026-09-28; the leaf's foot cite is pp 669–70 (orig_page's ~667–670 hedge stands).",
+  "ia": "https://archive.org/details/bancarchca_81_17/page/n297",
+  "logged": "2026-09"
  }
 ]
