@@ -3456,5 +3456,65 @@
   "note": "The figure is presumably a copyist's inflation: the same presidio's end-1782 munitions relación (ca15-d155, Sav. orig. p.567) counts 7,466 gunflints, and no other California inventory approaches 70,000. The original burned in 1906, so the true figure is unrecoverable; a caution note now accompanies the summary.",
   "ia": "https://archive.org/details/168036075_79_4_2/page/n66",
   "logged": "2026-09"
+ },
+ {
+  "key": "ca55-d258-n219",
+  "vol": "55",
+  "doc": "258",
+  "type": "catalog-correction",
+  "was": "Do NOT aid the two English ships at Bodega (those of his letter of the 2nd) who sought to resupply / harbored deserters — wait for the Viceroy's decision, 'á no ser que sucediese antes peligro de muerte.' Arrillaga's foreign-exclusion policy applied directly to Bodega, the policy follow-up to the Jan 1793 sighting.",
+  "reads": "Leaf-verified 2026-10-06 at full resolution. Savage's abstract in full: «Previniéndole, no acceda á la solicitud de los dos desertores Ingleses de que habló en Carta del 2 del corriente, los cuales habían solicitado abrasar ⟦abrazar⟧ la Religión Católica, dando esta razon como motivo principal de su desercion: en el supuesto, de que debiendo S.E. determinar de ellos, era necesario aguardar hasta entonces ó no ser q.e sucediese antes peligro de muerte.» Arrillaga instructs Argüello not to grant the request of two English deserters who had asked to be received into the Catholic Church, pending the Viceroy's decision, unless danger of death intervenes.",
+  "note": "The most serious correction in this register. The previous summary did not misread the document; it described a different one. Five of its claims — two English ships, Bodega, seeking to resupply, harbouring deserters, and a foreign-exclusion policy applied to Bodega — have no source on the leaf, and the words Bodega and ship appear nowhere on it. The summary has been REPLACED rather than annotated. Only the closing reservation was genuine, and it was misquoted as 'á no ser' where the leaf reads 'ó no ser'. The cause was not a span defect: this is the only 1793 document in a run of 1799 ledgers, so no adjacent material could have contaminated it. A separate letter of the same date, ca54-d74, concerns five English deserters and their delivery to Vancouver, and is accurate as catalogued.",
+  "ia": "https://archive.org/details/bancarchca_81_17/page/n219",
+  "leaves_read": "n219",
+  "added": "2026-10-06"
+ },
+ {
+  "key": "ca54-d161-n261",
+  "vol": "54",
+  "doc": "161",
+  "type": "catalog-correction",
+  "was": "The ship lingered 10 days 'sin perder de vista á Monterey y San Francisco' … 'por los naturales he sabido que aquí [Bodega] estuvieron más de seis meses' … Sal keeps livestock withdrawn, a Sunday lookout.",
+  "reads": "Leaf-verified 2026-10-06 across n261–n263 with word-level crops. The leaf reads «hace 16 días que no pierden de vista á Monterey y San Francisco, pareciendo á su Guarda-Pescas»; «Por los naturales he sabido que aquí estuvieron mas de DOS meses»; and «Del día mantengo un vigía á la vista del Puerto».",
+  "note": "Four corrections. (1) The Native report gives TWO months of English presence, not six; the previous figure trebled it. (2) Sixteen days of surveillance, not ten — the ten days in the document are the crew's own claim about their passage to Monterey, a different fact. (3) A daylight watch, not a Sunday one. (4) The quoted phrase 'sin perder de vista' is not what the leaf says. Two passages were also restored: «pareciendo á su Guarda-Pescas», and Sal's judgement that the distress was feigned, «no ser cierta la necesidad que manifiestan… no caminan con buenas intenciones». Note that Sal's knowledge of Bodega is «por carta del Teniente D. José Argüello», a second-hand report, not his own observation. Savage transcribed this letter verbatim and in the first person, so it is quotable as Sal's wording.",
+  "ia": "https://archive.org/details/bancarchca_81_16/page/n261",
+  "leaves_read": "n261, n262, n263",
+  "added": "2026-10-06"
+ },
+ {
+  "key": "ca54-d183-n303",
+  "vol": "54",
+  "doc": "183",
+  "type": "catalog-correction",
+  "was": "Sal sent Alférez Alejo Miranda as pilot … Sgt. Pedro Amador & 8 soldiers on horses Sal furnished; the brig 'Chatham' under 'Puget' ('supongo es Broughton') arrived the 18th.",
+  "reads": "Leaf-verified 2026-10-06 across n303–n305. The leaf reads «le mandó el dia 15 al soldado Alejo Miranda»; «el Sargento Pedro Amador y 5 soldados»; and «Que el 21 llegó el bergantín ‘Chatham’ al mándo del Caballero ‘Britor’ (Sic) (Supongo es Broughton)».",
+  "note": "Four corrections, one of them an invention. The name PUGET does not appear on the leaf: Savage wrote ‘Britor’ (Sic) and offered his own guess, Broughton. Miranda was a private soldier, not an alférez, which matters because he is the man who piloted Vancouver into San Francisco. Five soldiers escorted the Santa Clara ride, not eight, and the brig arrived on the 21st, not the 18th. Two passages were restored: the English officers' own words inside Savage's quotation marks, «Que el puerto les a ‘aplacido tan bueno que dicen es puerto de los puertos de puertos’ (Sic)», and the complements of the two vessels, 120 and 70 of crew.",
+  "ia": "https://archive.org/details/bancarchca_81_16/page/n303",
+  "leaves_read": "n303, n304, n305",
+  "added": "2026-10-06"
+ },
+ {
+  "key": "ca55-d160-n97",
+  "vol": "55",
+  "doc": "160",
+  "type": "catalog-correction",
+  "was": "two English ships anchored at Bodega 15–17 Jan 1793; cannon-signals heard ('5 cañonazos,' answered with one); fog hid them near the harbor mouth.",
+  "reads": "Leaf-verified 2026-10-06 (n97) with crops. The leaf reads «en q.e se oyeron 5 cañonazos, respondiendo él con dos», and «al parecer estaban cerca de la boca del P.to pero la rumazón impidió verlos».",
+  "note": "Three corrections. The signal was answered with TWO shots, not one. The anchorage runs from 3 p.m. on the 16th to about 9 a.m. on the 17th; the 15th is the day the news arrived, so the window is 16–17, not 15–17. The word is 'rumazón', a bank of cloud, which the gloss 'fog' loses. The substance worth keeping is that the ships were never actually seen. Sal proposes to take reports from the «indios isleros» as a check on the account, so this sighting is not itself Native-sourced.",
+  "ia": "https://archive.org/details/bancarchca_81_17/page/n97",
+  "leaves_read": "n97",
+  "added": "2026-10-06"
+ },
+ {
+  "key": "ca6-d218-n277",
+  "vol": "6",
+  "doc": "218",
+  "type": "caution",
+  "was": "One record dated 1793-03-13 and attributed to the viceroy, spanning orig. pp. 256–259.",
+  "reads": "Leaf-verified 2026-10-06 (n277). Savage marks TWO separate register entries with his own entry signs: a printed military-fuero cédula of «1793 – Febrero 23 – Aranjuez. El Rey á las autoridades de Indias», ordered observed by the viceroy on 22 May 1793, at pp. 256–7; and «1793 – Marzo 13 – México. Revilla Gigédo á Vancouver» at pp. 258–9.",
+  "note": "Two documents are held in one record, under the date and authorship of only the second. A different issuing authority, place and year of issue. The record has not been split in this pass, because splitting changes published permalinks and requires a doc_id declaration; it is registered here instead and queued. Savage also carries a printed locator the catalogue dropped: «(Véase el Tom. V. fs 343-45 de la Gaceta Mexicana, 1793 -)».",
+  "ia": "https://archive.org/details/168036075_79_8/page/n277",
+  "leaves_read": "n276, n277",
+  "added": "2026-10-06"
  }
 ]
