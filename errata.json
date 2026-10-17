@@ -3516,5 +3516,24 @@
   "ia": "https://archive.org/details/168036075_79_8/page/n277",
   "leaves_read": "n276, n277",
   "added": "2026-10-06"
+ },
+ {
+  "key": "ca8-d148-n90",
+  "vol": "8",
+  "doc": "148",
+  "type": "catalog-correction",
+  "was": "Summary reported 'Chamijag and Madroño indigenous groups' among the diary's contents.",
+  "reads": "Leaf-verified 2026-10-16 (n90–n96): the words are «chamizos y madroño» — vegetation (brush and madrone), listed among encinos, pinería, ocotillo, cholla, nopal, mezcal, palo Adán. No ethnonym appears anywhere in Savage's abstract. Also: the itinerary exits north to San Diego (27 Oct 1796), where Arrillaga reports to the Governor (Nov 1–8) before returning to San Vicente (Nov 21); and no combat with Indians appears in the abstract.",
+  "note": "Record summary corrected same day, correction flagged inline. Distinct from the 2026-09-09 page-system erratum ca8-d148-n90 (page span + date), which stands.",
+  "added": "2026-10-16",
+  "leaves_read": [
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96
+  ]
  }
 ]
