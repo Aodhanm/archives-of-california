@@ -17,6 +17,7 @@
  .stat{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:.04em} .stat b{display:block;color:var(--accent);font-size:17px;letter-spacing:0;text-transform:none}
  .tabs{display:flex;gap:4px;margin-top:12px} .tab{padding:8px 16px;border:1px solid var(--line);border-bottom:none;border-radius:8px 8px 0 0;cursor:pointer;background:var(--bg);color:var(--mut);font-size:14px}
  .tab.on{background:var(--card);color:var(--accent);font-weight:700;border-color:var(--accent)}
+.tablink{padding:8px 16px;border:1px solid var(--line);border-bottom:none;border-radius:8px 8px 0 0;background:#fdf7e6;color:var(--accent);font-size:14px;text-decoration:none;font-weight:700}
  .controls{display:flex;flex-wrap:wrap;gap:8px;padding:11px 22px;background:var(--card);border-bottom:1px solid var(--line)}
  input,select,button{font:14px inherit;padding:7px 9px;border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--ink)}
  #q{flex:1;min-width:220px} button{cursor:pointer} button:hover{background:var(--hl)} #count{color:var(--mut);font-size:13px;align-self:center;margin-left:auto;white-space:nowrap}
@@ -56,7 +57,7 @@
  <h1>Archives of California: A Documentary Calendar</h1>
  <div class="sub">The surviving record of Spanish &amp; Mexican-era California government (BANC MSS C-A), copied by Thomas Savage before the 1906 fire destroyed the originals. <a href="volumes/" style="color:var(--accent)">Volume guide →</a></div>
  <div class="stats" id="stats"></div>
- <div class="tabs"><div class="tab on" id="tabCat" onclick="showTab('cat')">Catalog</div><div class="tab" id="tabBanc" onclick="showTab('banc')">Bancroft resolver</div><div class="tab" id="tabTag" onclick="showTab('tag')">Tags</div><div class="tab" id="tabPpl" onclick="showTab('ppl')">People</div><div class="tab" id="tabAbt" onclick="showTab('abt')">About &amp; Sources</div></div>
+ <div class="tabs"><div class="tab on" id="tabCat" onclick="showTab('cat')">Catalog</div><div class="tab" id="tabBanc" onclick="showTab('banc')">Bancroft resolver</div><div class="tab" id="tabTag" onclick="showTab('tag')">Tags</div><div class="tab" id="tabPpl" onclick="showTab('ppl')">People</div><div class="tab" id="tabAbt" onclick="showTab('abt')">About &amp; Sources</div><a class="tablink" href="government.html" title="How California Was Governed, 1697–1854 — five charts from the records">Government ↗</a></div>
 </header>
 <div id="catview">
 <div class="controls">
