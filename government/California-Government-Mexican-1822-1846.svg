@@ -59,17 +59,17 @@
   <text class="subi" x="1380" y="366">installed 1822 at Monterey: the governor presiding,</text>
   <text class="subi" x="1380" y="382">8 founding vocales + a secretary (the acta, C-A 59 d4)</text>
   <text class="sub" x="1380" y="400">votes on laws, budgets &amp; land grants; its senior member (primer</text>
-  <text class="sub" x="1380" y="417">vocal) takes the government when the seat falls vacant — Castro</text>
+  <text class="sub" x="1380" y="417">vocal) takes the government when the seat falls vacant · Castro</text>
   <text class="sub" x="1380" y="433">1835 (C-A 39 d31), Alvarado 1836 (C-A 45 d55)</text>
   <text class="sub" x="1380" y="448">▶ the big NEW thing: Spain had no such check</text>
 
   <!-- Staff (left) -->
   <rect class="box" x="140" y="316" width="300" height="64"/>
   <text class="lbl" x="290" y="341">Secretario de Gobierno</text>
-  <text class="sub" x="290" y="361">secretary/chief of staff — Zamorano, Jimeno, Covarrubias</text>
+  <text class="sub" x="290" y="361">secretary/chief of staff · Zamorano, Jimeno, Covarrubias</text>
   <rect class="box" x="140" y="392" width="300" height="64"/>
   <text class="lbl" x="290" y="417">Asesor (legal advisor)</text>
-  <text class="sub" x="290" y="437">e.g. Rafael Gómez, 1830s — still only part-time</text>
+  <text class="sub" x="290" y="437">e.g. Rafael Gómez, 1830s · still only part-time</text>
 
   <!-- BISHOP (its own separate box) -->
   <rect class="eccl" x="1200" y="458" width="380" height="96"/>
@@ -77,12 +77,12 @@
   <text class="sub" x="1390" y="503">a resident bishop only from 1840</text>
   <text class="sub" x="1390" y="521">before that, CA was under the Bishop of Sonora</text>
   <text class="subi" x="1390" y="539">Diocese of Both Californias · seat San Diego → Sta Bárbara 1842</text>
-  <text x="1390" y="574" font-size="12px" fill="#8a6a10" text-anchor="middle" font-style="italic">a SEPARATE church hierarchy — not over the ex-mission friars</text>
+  <text x="1390" y="574" font-size="12px" fill="#8a6a10" text-anchor="middle" font-style="italic">a SEPARATE church hierarchy · not over the ex-mission friars</text>
 
   <!-- Prefects -->
   <rect class="box" x="612" y="480" width="496" height="96"/>
   <text class="lbl" x="860" y="506">Prefects &amp; Sub-prefects</text>
-  <text class="subi" x="860" y="527">(prefecto / subprefecto) — district-level officials</text>
+  <text class="subi" x="860" y="527">(prefecto / subprefecto) · district-level officials</text>
   <text class="sub" x="860" y="545">added when the 1836 centralist reform made CA a "departamento";</text>
   <text class="sub" x="860" y="562">the district/partido division approved 1839 (C-A 29 d153)</text>
 
@@ -91,30 +91,30 @@
   <text class="lbl" x="325" y="628">CIVIL / LOCAL</text>
   <text class="sub" x="325" y="648">Ayuntamientos = elected town councils</text>
   <text class="sub" x="325" y="666">(Alcaldes &amp; Regidores) in each pueblo</text>
-  <text class="sub" x="325" y="684">the Alcalde is also the local judge —</text>
+  <text class="sub" x="325" y="684">the Alcalde is also the local judge ·</text>
   <text class="subi" x="325" y="702">his court = the juzgado (justice by the mayor)</text>
   <text class="sub" x="325" y="722">the governor confirms who is elected</text>
 
   <rect class="box" x="600" y="602" width="500" height="172"/>
   <text class="lbl" x="850" y="628">MILITARY</text>
   <text class="sub" x="850" y="648">the four presidial companies (San Diego, Santa</text>
-  <text class="sub" x="850" y="666">Bárbara, Monterey, San Francisco) — underpaid, decaying</text>
+  <text class="sub" x="850" y="666">Bárbara, Monterey, San Francisco) · underpaid, decaying</text>
   <text class="sub" x="850" y="684">+ a citizen militia raised in emergencies</text>
   <text class="subi" x="850" y="702">(the "Defensores de la Patria")</text>
   <text class="sub" x="850" y="722">the Comandante General commands them</text>
 
   <rect class="eccl" x="1170" y="602" width="410" height="172"/>
   <text class="lbl" x="1375" y="628">EX-MISSIONS (Franciscan)</text>
-  <text class="sub" x="1375" y="648">SECULARIZED from 1834 — decree pub. Monterey (C-A 43 d254),</text>
+  <text class="sub" x="1375" y="648">SECULARIZED from 1834 · decree pub. Monterey (C-A 43 d254),</text>
   <text class="sub" x="1375" y="666">Figueroa's reglamento Aug 1834 (C-A 43 d375); estates pass to</text>
   <text class="sub" x="1375" y="686">lay administrators; Indian alcaldes still run daily affairs;</text>
   <text class="subi" x="1375" y="704">mayordomos oversee the ex-mission ranchos</text>
-  <text class="sub" x="1375" y="726">(run by the friars/administradores — not the bishop)</text>
+  <text class="sub" x="1375" y="726">(run by the friars/administradores · not the bishop)</text>
 
   <!-- BASE -->
   <rect class="box" x="120" y="792" width="410" height="76" fill="#eef3ef"/>
   <text class="lbl" x="325" y="818">Ciudadanos (citizens)</text>
-  <text class="sub" x="325" y="838">vecinos / Californios — the settler townsfolk,</text>
+  <text class="sub" x="325" y="838">vecinos / Californios · the settler townsfolk,</text>
   <text class="subi" x="325" y="856">who vote for the ayuntamientos</text>
 
   <rect class="box" x="600" y="792" width="500" height="76" fill="#eef3ef"/>
@@ -124,7 +124,7 @@
 
   <rect class="box" x="1170" y="792" width="410" height="76" fill="#eef3ef"/>
   <text class="lbl" x="1375" y="818">Ex-neophytes &amp; laborers</text>
-  <text class="sub" x="1375" y="838">Indians "freed" by secularization —</text>
+  <text class="sub" x="1375" y="838">Indians "freed" by secularization ·</text>
   <text class="subi" x="1375" y="856">in practice mostly kept on as estate labor</text>
 
   <!-- CONNECTORS -->
@@ -159,7 +159,7 @@
   <!-- BANNER -->
   <rect x="120" y="898" width="1460" height="88" rx="8" fill="#14532d"/>
   <text x="142" y="926" font-size="17px" font-weight="700" fill="#9be3b6">▶ WHAT CHANGED FROM THE SPANISH SYSTEM</text>
-  <text x="142" y="950" font-size="14px" fill="#ffffff">1) An ELECTED assembly (the Diputación) now shares power with and checks the governor.  2) The missions are SECULARIZED (1834) — the friars</text>
+  <text x="142" y="950" font-size="14px" fill="#ffffff">1) An ELECTED assembly (the Diputación) now shares power with and checks the governor.  2) The missions are SECULARIZED (1834) · the friars</text>
   <text x="142" y="970" font-size="14px" fill="#ffffff">lose the estates.  3) California's status shifts TERRITORY (1824) → DEPARTMENT (1836), which adds prefects.  4) The capital moves Monterey → LOS ÁNGELES (1845).</text>
 
   <!-- LEGEND -->
@@ -176,7 +176,7 @@
   <rect x="860" y="1082" width="26" height="16" class="dip"/>
   <text x="896" y="1095" font-size="13px" fill="#222">= the elected assembly (the key new institution vs. the Spanish period)</text>
   <rect x="860" y="1114" width="26" height="16" class="eccl"/>
-  <text x="896" y="1127" font-size="13px" fill="#222">= Church institutions (the ex-missions AND the bishop's diocese — kept separate)</text>
+  <text x="896" y="1127" font-size="13px" fill="#222">= Church institutions (the ex-missions AND the bishop's diocese · kept separate)</text>
   <text x="142" y="1160" font-size="12px" fill="#777" font-style="italic">The bishop is drawn as its own box, apart from the government chain. Bishop of Sonora / García Diego / Indian alcaldes &amp; mayordomos sourced from the C-A catalog (ca25, ca34, ca37).</text>
   <text x="142" y="1177" font-size="12px" fill="#777" font-style="italic">Source: Aodhan Coyne, research file "governor-of-california-office-profile" · Bancroft, History of California III · Diputación roster: C-A 59 d4. Compiled 2026-08-04 · updated 2026-10-16.</text>
   <text x="142" y="1194" font-size="12px" fill="#777" font-style="italic">Baja California stayed a separate jefatura after 1822, but the military command was at times held over "ambas Californias" (C-A 18 d398, C-A 27 d113); Alta convicts served presidio terms at Loreto (C-A 18 d398).</text>

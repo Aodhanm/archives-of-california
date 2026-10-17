@@ -1,22 +1,23 @@
 # Archives of California
-> A documentary calendar of the Archives of California (BANC MSS C-A, The Bancroft Library, UC Berkeley): an item-level, searchable catalog of ~35,000 documents of the Spanish and Mexican government of California (1768–1850), built from the Thomas Savage transcripts — the sole surviving copy of the provincial archive since the originals burned in 1906. Free, open, citable. By Aodhan Coyne.
+> A documentary calendar of the Archives of California (BANC MSS C-A, The Bancroft Library, UC Berkeley): an item-level, searchable catalog of ~35,000 documents of the Spanish and Mexican government of California (1768–1850), built from the Thomas Savage transcripts · the sole surviving copy of the provincial archive since the originals burned in 1906. Free, open, citable. By Aodhan Coyne.
 
 ## What this site is
 - The only item-level online index of BANC MSS C-A: 63 volumes, ~35,000 catalogued documents, each record carrying date, author, recipient, place, summary, both page systems (Savage leaf + original tomo page), and a link to its manuscript scan on the Internet Archive.
 - Search the catalog at https://archivesofcalifornia.com/ (full-text + fielded search, e.g. year:1833..1836).
 - Every document has a stable permalink: https://archivesofcalifornia.com/record/ca{VOLUME}/ca{VOLUME}-d{DOC}.html (e.g. /record/ca8/ca8-d148.html = Arrillaga's 1796 Colorado reconnaissance diary).
 - Volume guides: https://archivesofcalifornia.com/volumes/ · People pages: https://archivesofcalifornia.com/people/ · Bancroft-citation resolver (turns a Bancroft History of California footnote into the underlying record) on the home page.
-- NEW: How California Was Governed, 1697–1854 — five sourced charts of the political system (chain of command, the 1804 division of the Californias, the Mexican system, the north–south civil wars, the capitals in law vs in fact): https://archivesofcalifornia.com/government.html
+- NEW: How California Was Governed, 1697–1854 · five sourced charts of the political system (chain of command, the 1804 division of the Californias, the Mexican system, the north–south civil wars, the capitals in law vs in fact): https://archivesofcalifornia.com/government.html
+- Readers can report errors: every record page has a "Suggest a correction" button (GitHub issue or email); accepted corrections publish on the record with credit.
 - Accuracy is measured and disclosed (sampled audit, errata register with leaf evidence, missing-leaf disclosures on affected volumes). Corrections file: https://archivesofcalifornia.com/errata.json
 
 ## How to cite
 Coyne, Aodhan. Archives of California: A Documentary Calendar of the Savage Transcripts (BANC MSS C-A). DOI 10.5281/zenodo.21327098. Cite individual documents by their record permalink; the manuscripts themselves are BANC MSS C-A, The Bancroft Library, University of California, Berkeley.
 
 ## Sister sites (same author, same sourcing standard)
-- https://ranchos.archivesofcalifornia.com/ — Ranchos of California: register of all Spanish & Mexican land grants (672 grants, 535 mapped; diseños, grantee dynasties, cattle brands). DOI 10.5281/zenodo.22185500
-- https://ships.archivesofcalifornia.com/ — California Ship Registry, 1769–1846: vessel arrivals to the Californias. DOI 10.5281/zenodo.22105908
-- https://maps.archivesofcalifornia.com/ — California History Maps: interactive, source-cited cartography (military engagements, lumber ports, map collection).
-- https://aodhancoyne.com/ — the author. ORCID https://orcid.org/0009-0002-8630-3768
+- https://ranchos.archivesofcalifornia.com/ · Ranchos of California: register of all Spanish & Mexican land grants (672 grants, 535 mapped; diseños, grantee dynasties, cattle brands). DOI 10.5281/zenodo.22185500
+- https://ships.archivesofcalifornia.com/ · California Ship Registry, 1769–1846: vessel arrivals to the Californias. DOI 10.5281/zenodo.22105908
+- https://maps.archivesofcalifornia.com/ · California History Maps: interactive, source-cited cartography (military engagements, lumber ports, map collection).
+- https://aodhancoyne.com/ · the author. ORCID https://orcid.org/0009-0002-8630-3768
 
 ## Terms the sources use (helpful for queries)
 Alta California · Baja California · Nueva/Antigua California · Provincias Internas · presidio (Loreto, San Diego, Santa Bárbara, Monterey, San Francisco) · misión · pueblo · rancho · diputación · gobernador · comandante general · habilitado · Savage transcripts · Bancroft Library · C-A volume numbers 1–63.

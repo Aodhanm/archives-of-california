@@ -158,6 +158,7 @@
 <p>A further limit applies to the scans themselves: the Internet Archive surrogate does not in every case reproduce every leaf of Savage&rsquo;s volume. Where a leaf is known to be absent from the scan it is recorded in the corrections file, but the catalogue cannot describe what was never photographed. None of this replaces the scan. Every record links to its manuscript page precisely so you can, and should, read Savage yourself before citing. This catalog is not affiliated with or endorsed by the Bancroft Library; the manuscripts are theirs (BANC MSS C-A), the digitizations are the Internet Archive’s, and the mistakes are mine.</p>
 <h3>Errata: readings corrected against the manuscript</h3>
 <p>Nothing here is trusted blind: not Savage, not the published editions, not this catalog. The register below records every reading so far corrected (or flagged) by re-reading the manuscript image; each entry links to the proving scan from its record card. It will grow.</p>
+<p><b>See something wrong on a record?</b> Every record page carries a “Suggest a correction” button; accepted corrections are published on the record itself, with credit.</p>
 <details><summary><b>The register</b>: 51 manuscript-checked entries shown here; the complete corrections file (<a href="https://archivesofcalifornia.com/errata.json">errata.json</a>) carries further entries and is the authoritative record (click to expand)</summary>
 <p><b>Slips in Savage&rsquo;s copy itself:</b></p><ul>
 <li><a href="#ca56-d365-n316">ca56-d365</a>: Heading dated &quot;1823 Obre 7.&quot; &rarr; The content is Minister Cañedo&#x27;s circular ordering the arrest of Lorenzo de Zavala, &quot;Gob.n q.e era del estado de Mégico&quot;, impossible before 1830 (the state was</li>
@@ -265,7 +266,7 @@ function apply(){let q=norm(el('q').value).trim();const fv=el('fv').value,fs=el(
  rows.sort((a,b)=>{let x=a[sortK]||"",y=b[sortK]||"";if(sortK=='ca_volume'||sortK=='doc_id'||sortK=='year'){x=parseInt(x)||0;y=parseInt(y)||0;}return x<y?-sortD:x>y?sortD:0;});render(q);saveHash();}
 function hlt(t,q){t=esc(t);if(!q)return t;try{const pat=q.split('|').map(s=>s.trim()).filter(Boolean).map(s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|');if(!pat)return t;return t.replace(new RegExp('('+pat+')','ig'),'<mark>$1</mark>');}catch(e){return t;}}
 function render(q){const fb=el('fb').value;const pv=[...new Set(rows.map(r=>r.ca_volume))].filter(v=>VOLCOV[v]&&VOLCOV[v].cov!=='complete');
- el('count').textContent=rows.length.toLocaleString()+" records"+(fb?(" · Bancroft: "+el('fb').selectedOptions[0].text):"")+(pv.length?" · ⚠ includes partly-cataloged vols: "+pv.slice(0,3).map(v=>'C-A '+v).join(', ')+(pv.length>3?' +'+(pv.length-3):'')+" (see About)":"")+" · data build 2026-10-16";
+ el('count').textContent=rows.length.toLocaleString()+" records"+(fb?(" · Bancroft: "+el('fb').selectedOptions[0].text):"")+(pv.length?" · ⚠ includes partly-cataloged vols: "+pv.slice(0,3).map(v=>'C-A '+v).join(', ')+(pv.length>3?' +'+(pv.length-3):'')+" (see About)":"")+" · data build 2026-10-17";
  document.querySelectorAll('#catview thead th').forEach(t=>{const a=t.querySelector('.ar');if(a)a.textContent=(t.dataset.k==sortK)?(sortD>0?' ▲':' ▼'):'';});
  const lim=Math.min(rows.length,1500),h=[];
  for(let i=0;i<lim;i++){const r=rows[i],vb=r.source_type=='verbatim transcription';

@@ -2,7 +2,7 @@
 <rect width="1720" height="1140" fill="#ffffff"/>
 <defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="7" height="7" patternTransform="rotate(45)"><rect width="7" height="7" fill="#f3f0ea"/><line x1="0" y1="0" x2="0" y2="7" stroke="#8a8a8a" stroke-width="1.8"/></pattern></defs>
 <text x="860" y="44" font-size="33" font-weight="700" fill="#1a1a1a" text-anchor="middle">THE CAPITALS OF CALIFORNIA · 1697–1854</text>
-<text x="860" y="71" font-size="16" fill="#555" text-anchor="middle" letter-spacing="1">the capital IN LAW (solid bar) vs where the government ACTUALLY SAT (striped bar) — cities north to south · Las Californias → Alta California → the State</text>
+<text x="860" y="71" font-size="16" fill="#555" text-anchor="middle" letter-spacing="1">the capital IN LAW (solid bar) vs where the government ACTUALLY SAT (striped bar) · cities north to south · Las Californias → Alta California → the State</text>
 <rect x="300" y="118" width="470" height="26" fill="#7c1d1d" rx="5"/>
 <text x="535" y="136" font-size="13" font-weight="700" fill="#fff" text-anchor="middle" letter-spacing="2">SPANISH</text>
 <rect x="770" y="118" width="480" height="26" fill="#14532d" rx="5"/>
@@ -53,19 +53,19 @@
 <text x="1499" y="236" font-size="10.5" fill="#555" text-anchor="end">1852 session already here ·</text>
 <rect x="1507" y="268" width="59" height="20" rx="4" fill="#36454f"/><text x="1574" y="282" font-size="11" fill="#333">1852–53</text>
 <rect x="1507" y="290" width="21" height="20" rx="4" fill="url(#hatch)" stroke="#8a8a8a" stroke-width="1"/>
-<text x="1502" y="306" font-size="10.5" fill="#555" text-anchor="end">statehouse unfinished — legislature decamps ·</text>
+<text x="1502" y="306" font-size="10.5" fill="#555" text-anchor="end">statehouse unfinished · legislature decamps ·</text>
 <rect x="1566" y="336" width="59" height="20" rx="4" fill="#36454f"/><text x="1633" y="350" font-size="11" fill="#333">1853–54</text>
 <rect x="1566" y="358" width="59" height="20" rx="4" fill="url(#hatch)" stroke="#8a8a8a" stroke-width="1"/>
 <rect x="1390" y="404" width="112" height="20" rx="4" fill="#36454f"/><text x="1446" y="418" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1850–51</text>
 <rect x="1390" y="426" width="88" height="20" rx="4" fill="url(#hatch)" stroke="#8a8a8a" stroke-width="1"/>
 <text x="1382" y="418" font-size="10.5" fill="#555" text-anchor="end">first state capital ·</text>
-<rect x="470" y="472" width="300" height="20" rx="4" fill="#7c1d1d"/><text x="620" y="486" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1777 — the Real Orden ①</text>
+<rect x="470" y="472" width="300" height="20" rx="4" fill="#7c1d1d"/><text x="620" y="486" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">1777 · the Real Orden ①</text>
 <rect x="770" y="472" width="170" height="20" rx="4" fill="#14532d"/><text x="855" y="486" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">to 1835 ③</text>
 <rect x="1250" y="472" width="140" height="20" rx="4" fill="#36454f"/><text x="1320" y="486" font-size="11" font-weight="700" fill="#fff" text-anchor="middle">US ⑤</text>
 <rect x="470" y="494" width="690" height="20" rx="4" fill="url(#hatch)" stroke="#8a8a8a" stroke-width="1"/>
 <rect x="476" y="497" width="36" height="14" rx="3" fill="#ffffff" fill-opacity="0.92"/><text x="494" y="508" font-size="10" font-weight="700" fill="#555" text-anchor="middle">1777</text>
 <rect x="1104" y="497" width="52" height="14" rx="3" fill="#ffffff" fill-opacity="0.92"/><text x="1130" y="508" font-size="10" font-weight="700" fill="#555" text-anchor="middle">→ 1845</text>
-<text x="900" y="528" font-size="11" font-weight="700" fill="#6a5208" text-anchor="middle">the government IN FACT stays at Monterey to 1845 — through nine years of the Los Ángeles decree</text>
+<text x="900" y="528" font-size="11" font-weight="700" fill="#6a5208" text-anchor="middle">the government IN FACT stays at Monterey to 1845 · through nine years of the Los Ángeles decree</text>
 <rect x="1160" y="494" width="90" height="20" rx="4" fill="url(#hatch)" stroke="#8a8a8a" stroke-width="1"/>
 <text x="1246" y="486" font-size="10.5" font-weight="700" fill="#555" text-anchor="end">1845–46, Castro: military + customs</text>
 <rect x="1250" y="494" width="140" height="20" rx="4" fill="url(#hatch)" stroke="#8a8a8a" stroke-width="1"/>
@@ -84,12 +84,12 @@
 <circle cx="1625" cy="744" r="11" fill="#1a1a1a"/><text x="1625" y="749" font-size="13" fill="#fff" text-anchor="middle">⑥</text>
 <rect x="120" y="768" width="1480" height="212" rx="8" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
 <text x="142" y="794" font-size="14" font-weight="700" fill="#1a1a1a">THE ORDERS BEHIND THE BARS</text>
-<text x="142" y="816" font-size="11.5" fill="#444">① Real Orden, 19 Apr 1776: the governor to reside at Monterey (C-A 1 d85) — effective Feb 1777. The 1804 division leaves Loreto the capital of Baja only (executed 1806, C-A 25 d570/d587).</text>
-<text x="142" y="843" font-size="11.5" fill="#444">② No order moved anything: Echeandía simply resided at San Diego — his orders to Monterey are datelined there (C-A 27 d129–132). The Diputación stayed installed at Monterey (founding acta, C-A 59 d4).</text>
-<text x="142" y="870" font-size="11.5" fill="#444">③ Decree of the Mexican Congress, 23 May 1835: Los Ángeles erected into a city and THE CAPITAL (C-A 43 d389; published in California 4 Jan 1836, C-A 44 d428) — not obeyed for nine years; under the 1836 regime the capital stayed formally "aún no señalada" (C-A 37 d468).</text>
-<text x="142" y="897" font-size="11.5" fill="#444">④ 1845: Pico and the Assembly finally sit at Los Ángeles ("the capital," C-A 31 d355) — but the military command and the customs stay at Monterey with Castro (C-A 31 d3–d92): the capital itself splits in two.</text>
-<text x="142" y="924" font-size="11.5" fill="#444">⑤ US conquest, July 1846: military governors at Monterey. The war in California ends with the Capitulation (Treaty) of Cahuenga, 13 Jan 1847 — Andrés Pico to Frémont (Bancroft V); the 1849 Constitutional Convention meets at Monterey. [standard record]</text>
-<text x="142" y="951" font-size="11.5" fill="#444">⑥ Statehood: San José 1850 (1849 Constitution) → Vallejo 1852 → Benicia 1853 → SACRAMENTO from 25 Feb 1854, permanent (1854 act; 1879 Constitution). [Statutes of California — beyond the C-A archive]</text>
+<text x="142" y="816" font-size="11.5" fill="#444">① Real Orden, 19 Apr 1776: the governor to reside at Monterey (C-A 1 d85) · effective Feb 1777. The 1804 division leaves Loreto the capital of Baja only (executed 1806, C-A 25 d570/d587).</text>
+<text x="142" y="843" font-size="11.5" fill="#444">② No order moved anything: Echeandía simply resided at San Diego · his orders to Monterey are datelined there (C-A 27 d129–132). The Diputación stayed installed at Monterey (founding acta, C-A 59 d4).</text>
+<text x="142" y="870" font-size="11.5" fill="#444">③ Decree of the Mexican Congress, 23 May 1835: Los Ángeles erected into a city and THE CAPITAL (C-A 43 d389; published in California 4 Jan 1836, C-A 44 d428) · not obeyed for nine years; under the 1836 regime the capital stayed formally "aún no señalada" (C-A 37 d468).</text>
+<text x="142" y="897" font-size="11.5" fill="#444">④ 1845: Pico and the Assembly finally sit at Los Ángeles ("the capital," C-A 31 d355) · but the military command and the customs stay at Monterey with Castro (C-A 31 d3–d92): the capital itself splits in two.</text>
+<text x="142" y="924" font-size="11.5" fill="#444">⑤ US conquest, July 1846: military governors at Monterey. The war in California ends with the Capitulation (Treaty) of Cahuenga, 13 Jan 1847 · Andrés Pico to Frémont (Bancroft V); the 1849 Constitutional Convention meets at Monterey. [standard record]</text>
+<text x="142" y="951" font-size="11.5" fill="#444">⑥ Statehood: San José 1850 (1849 Constitution) → Vallejo 1852 → Benicia 1853 → SACRAMENTO from 25 Feb 1854, permanent (1854 act; 1879 Constitution). [Statutes of California · beyond the C-A archive]</text>
 <rect x="120" y="1000" width="1480" height="104" rx="8" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
 <rect x="150" y="1020" width="34" height="16" rx="4" fill="#14532d"/><text x="194" y="1033" font-size="12.5" fill="#222">solid bar = capital IN LAW (red Spanish · green Mexican · slate US)</text>
 <rect x="640" y="1020" width="34" height="16" rx="4" fill="url(#hatch)" stroke="#8a8a8a"/><text x="684" y="1033" font-size="12.5" fill="#222">striped bar = where the government ACTUALLY sat</text>

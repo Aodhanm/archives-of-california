@@ -64,13 +64,13 @@
   <text class="lbl" x="450" y="388">GOVERNOR of Alta California</text>
   <text class="subi" x="450" y="409">José Joaquín de Arrillaga 1804–14 · Pablo Vicente de Solá 1815–21</text>
   <text class="sub" x="450" y="428">seat: MONTEREY (Arrillaga worked from San Diego</text>
-  <text class="sub" x="450" y="446">through the 1806 handover — C-A 25 d587)</text>
+  <text class="sub" x="450" y="446">through the 1806 handover · C-A 25 d587)</text>
   <text class="sub" x="450" y="466">keeps: 4 presidios · the Franciscan missions · 3 pueblos</text>
 
   <rect class="gov" x="1020" y="360" width="500" height="122"/>
   <text class="lbl" x="1270" y="388">GOVERNOR of Baja California</text>
   <text class="subi" x="1270" y="409">Felipe de Goycoechea 1806–14 · J. D. Argüello 1815–21 (→ de la Toba)</text>
-  <text class="sub" x="1270" y="428">seat: LORETO — sworn in Mexico (Aug 1806, C-A 14 d452),</text>
+  <text class="sub" x="1270" y="428">seat: LORETO · sworn in Mexico (Aug 1806, C-A 14 d452),</text>
   <text class="sub" x="1270" y="446">recognized by the Comandante of Loreto 5 Jul 1806 (C-A 25 d570)</text>
   <text class="sub" x="1270" y="466">keeps: the Loreto presidio · the Dominican missions · the frontier</text>
 
@@ -81,10 +81,10 @@
   <rect class="linea" x="640" y="516" width="440" height="128"/>
   <text class="lbl" x="860" y="542">LA LÍNEA DIVISORIA</text>
   <text class="sub" x="860" y="562">the Arroyo del Rosario, alias "Barrabás," between San Diego</text>
-  <text class="sub" x="860" y="580">and Dominican Mission San Miguel — fixed by the padres of both</text>
+  <text class="sub" x="860" y="580">and Dominican Mission San Miguel · fixed by the padres of both</text>
   <text class="sub" x="860" y="598">orders + the Comandante de la Frontera (C-A 25 d587, Dec 1806);</text>
   <text class="subi" x="860" y="616">it simply ratifies the 1772 Franciscan–Dominican order</text>
-  <text class="subi" x="860" y="632">boundary (C-A 62 d19) — the church line became the state line</text>
+  <text class="subi" x="860" y="632">boundary (C-A 62 d19) · the church line became the state line</text>
 
   <!-- ALTA column -->
   <rect class="box" x="150" y="540" width="420" height="108"/>
@@ -95,7 +95,7 @@
   <text class="subi" x="360" y="640">+ escoltas garrisoning the Franciscan missions</text>
 
   <rect class="eccl" x="150" y="672" width="420" height="96"/>
-  <text class="lbl" x="360" y="698">MISSIONS — FRANCISCAN</text>
+  <text class="lbl" x="360" y="698">MISSIONS · FRANCISCAN</text>
   <text class="sub" x="360" y="718">Apostolic College of San Fernando (Mexico City) sends the friars;</text>
   <text class="sub" x="360" y="736">a Father-Presidente heads the chain, San Diego → San Francisco</text>
   <text class="subi" x="360" y="754">the governor follows "the missions of the Colegio" (C-A 25 d587)</text>
@@ -103,11 +103,11 @@
   <rect class="box" x="150" y="792" width="420" height="72"/>
   <text class="lbl" x="360" y="818">PUEBLOS</text>
   <text class="sub" x="360" y="838">San José · Los Ángeles · Branciforte</text>
-  <text class="subi" x="360" y="856">(Baja had no civil pueblos — only the Real de Santa Ana mines)</text>
+  <text class="subi" x="360" y="856">(Baja had no civil pueblos · only the Real de Santa Ana mines)</text>
 
   <!-- BAJA column -->
   <rect class="box" x="1150" y="540" width="420" height="108"/>
-  <text class="lbl" x="1360" y="566">PRESIDIO OF LORETO — the only one</text>
+  <text class="lbl" x="1360" y="566">PRESIDIO OF LORETO · the only one</text>
   <text class="sub" x="1360" y="586">the peninsula's single presidio (1697); same revistas, same</text>
   <text class="sub" x="1360" y="604">inspection &amp; audit machine as the Alta companies (C-A 2–3)</text>
   <text class="sub" x="1360" y="622">its company detaches the frontier escoltas &amp; the mail escort</text>
@@ -117,12 +117,12 @@
   <text class="lbl" x="1360" y="698">COMANDANTE DE LA FRONTERA</text>
   <text class="subi" x="1360" y="718">HQ = Mission San Vicente · a lieutenant (once a mere sergeant)</text>
   <text class="sub" x="1360" y="736">commands ALL the escoltas of the Dominican frontier missions</text>
-  <text class="sub" x="1360" y="754">as one district (Neve's instrucción, 1781 — C-A 2 d169)</text>
+  <text class="sub" x="1360" y="754">as one district (Neve's instrucción, 1781 · C-A 2 d169)</text>
   <text class="sub" x="1360" y="772">José Manuel Ruiz held it ~1790s–1821; monthly diaries up-chain</text>
   <text class="subi" x="1360" y="788">"could aid San Diego in danger" (C-A 13 d398)</text>
 
   <rect class="eccl" x="1150" y="816" width="420" height="96"/>
-  <text class="lbl" x="1360" y="842">MISSIONS — DOMINICAN</text>
+  <text class="lbl" x="1360" y="842">MISSIONS · DOMINICAN</text>
   <text class="sub" x="1360" y="862">the Order of Preachers holds the whole peninsula chain,</text>
   <text class="sub" x="1360" y="880">Loreto north to San Miguel, under its own Padre-Presidente</text>
   <text class="subi" x="1360" y="898">the governor follows "the missions of the Dominican fathers"</text>
@@ -145,16 +145,16 @@
   <line x1="570" y1="808" x2="1150" y2="808" class="cross" marker-start="url(#arrowCB)" marker-end="url(#arrowC)"/>
   <text class="clbB" x="862" y="826">3 · ONE OFFICER CORPS</text>
   <text class="clbl" x="862" y="842">careers cross the line: Goycoechea (Santa Bárbara → Gov. of Baja),</text>
-  <text class="clbl" x="862" y="856">Argüello (San Francisco → Gov. of Baja) — and one Habilitado General for both</text>
+  <text class="clbl" x="862" y="856">Argüello (San Francisco → Gov. of Baja) · and one Habilitado General for both</text>
 
   <text class="clbB" x="862" y="898">4 · ONE CHURCH PROVINCE ABOVE THE ORDERS</text>
   <text class="clbl" x="862" y="914">both halves remain in the Diocese of Sonora; the Crown's patronato</text>
-  <text class="clbl" x="862" y="928">runs through each governor as "vice-patrón" — the king's local</text>
+  <text class="clbl" x="862" y="928">runs through each governor as "vice-patrón" · the king's local</text>
   <text class="clbl" x="862" y="942">deputy in church patronage (he appoints, funds &amp; protects)</text>
 
   <!-- the closed back door -->
   <rect class="box" x="150" y="952" width="640" height="118" fill="#f0efe9"/>
-  <text class="lbl" x="470" y="978">THE CLOSED BACK DOOR — no road east</text>
+  <text class="lbl" x="470" y="978">THE CLOSED BACK DOOR · no road east</text>
   <text class="sub" x="470" y="998">no overland road to Sonora: prohibited by art. 115 of Gálvez's 1786</text>
   <text class="sub" x="470" y="1016">instruction (quoted C-A 11 d24); the Yumas held the Colorado crossing</text>
   <text class="sub" x="470" y="1034">after the 1781 revolt. Reconnaissances only (Arrillaga 1796, C-A 8 d148);</text>
@@ -185,9 +185,9 @@
   <!-- WHY banner -->
   <rect x="120" y="1100" width="1480" height="118" rx="8" fill="#7c1d1d"/>
   <text x="142" y="1126" font-size="18px" font-weight="700" fill="#ffd98a">▶ WHY SPLIT?</text>
-  <text x="142" y="1148" font-size="14px" fill="#ffffff">A Monterey government "no puede celar á distancia de 600 leguas… hasta el cabo de San Lúcas" — "cannot keep watch at a distance of 600 leagues… to Cape San Lucas" (C-A 54 d216).</text>
-  <text x="142" y="1166" font-size="14px" fill="#ffffff">And the halves faced different enemies: Alta faced FOREIGN NAVIES — after Nootka, San Francisco was "el último punto que podemos poseer… con completo é independiente dominio,"</text>
-  <text x="142" y="1184" font-size="14px" fill="#ffffff">"the last point we can hold… in complete and independent dominion" — while Baja faced DISTANCE and the desert frontier.</text>
+  <text x="142" y="1148" font-size="14px" fill="#ffffff">A Monterey government "no puede celar á distancia de 600 leguas… hasta el cabo de San Lúcas" · "cannot keep watch at a distance of 600 leagues… to Cape San Lucas" (C-A 54 d216).</text>
+  <text x="142" y="1166" font-size="14px" fill="#ffffff">And the halves faced different enemies: Alta faced FOREIGN NAVIES · after Nootka, San Francisco was "el último punto que podemos poseer… con completo é independiente dominio,"</text>
+  <text x="142" y="1184" font-size="14px" fill="#ffffff">"the last point we can hold… in complete and independent dominion" · while Baja faced DISTANCE and the desert frontier.</text>
   <text x="142" y="1202" font-size="13px" fill="#f0d8d0" font-style="italic">That is also why Alta got four presidios and Baja kept one: presidios answered ships; escoltas answered the frontier.</text>
 
   <!-- LEGEND -->
@@ -198,7 +198,7 @@
   <line x1="150" y1="1310" x2="220" y2="1310" class="conndot" marker-end="url(#arrowG)"/>
   <text x="233" y="1314" font-size="13px" fill="#222">dotted arrow = a church line of authority</text>
   <line x1="150" y1="1342" x2="220" y2="1342" class="cross" marker-start="url(#arrowCB)" marker-end="url(#arrowC)"/>
-  <text x="233" y="1346" font-size="13px" fill="#222">blue dashed double arrow = a thread ACROSS the division — the ties that kept the halves one system</text>
+  <text x="233" y="1346" font-size="13px" fill="#222">blue dashed double arrow = a thread ACROSS the division · the ties that kept the halves one system</text>
   <rect x="930" y="1270" width="26" height="16" class="gov"/>
   <text x="966" y="1283" font-size="13px" fill="#222">= the two governors (equal rank, parallel commands)</text>
   <rect x="930" y="1302" width="26" height="16" class="linea"/>

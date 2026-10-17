@@ -46,13 +46,13 @@
   <!-- Minister of the Indies -->
   <rect class="box" x="670" y="210" width="380" height="86"/>
   <text class="lbl" x="860" y="238">Minister of the Indies</text>
-  <text class="subi" x="860" y="259">(Secretaría de Indias — José de Gálvez, 1776–87)</text>
+  <text class="subi" x="860" y="259">(Secretaría de Indias · José de Gálvez, 1776–87)</text>
   <text class="sub" x="860" y="278">ran day-to-day colonial government for the king</text>
 
   <!-- Viceroy -->
   <rect class="box" x="670" y="330" width="380" height="90"/>
   <text class="lbl" x="860" y="358">Viceroy of New Spain</text>
-  <text class="subi" x="860" y="379">(Virrey · Mexico City) — the king's stand-in in the Americas</text>
+  <text class="subi" x="860" y="379">(Virrey · Mexico City) · the king's stand-in in the Americas</text>
   <text class="sub" x="860" y="398">appointed, paid &amp; supplied California's governor</text>
 
   <!-- Provincias Internas -->
@@ -66,17 +66,17 @@
   <!-- GOVERNOR -->
   <rect class="gov" x="638" y="582" width="444" height="104"/>
   <text class="lbl" x="860" y="610">GOVERNOR of the Californias</text>
-  <text class="subi" x="860" y="631">gobernador político y militar — runs EVERYTHING in CA:</text>
+  <text class="subi" x="860" y="631">gobernador político y militar · runs EVERYTHING in CA:</text>
   <text class="sub" x="860" y="649">troops, land grants, courts, Indians, trade &amp; the missions</text>
-  <text class="sub" x="860" y="668">seat: Loreto → Monterey (Real Orden 19 Apr 1776, eff. 1777 — C-A 1 d85)</text>
+  <text class="sub" x="860" y="668">seat: Loreto → Monterey (Real Orden 19 Apr 1776, eff. 1777 · C-A 1 d85)</text>
 
   <!-- Staff (left) -->
   <rect class="box" x="120" y="540" width="350" height="58"/>
   <text class="lbl" x="295" y="565">Secretary of Government</text>
-  <text class="sub" x="295" y="585">(secretario) — writes &amp; sends the governor's orders</text>
+  <text class="sub" x="295" y="585">(secretario) · writes &amp; sends the governor's orders</text>
   <rect class="box" x="120" y="606" width="350" height="58"/>
   <text class="lbl" x="295" y="631">Asesor (legal advisor)</text>
-  <text class="sub" x="295" y="651">gave legal rulings — but CA seldom had one</text>
+  <text class="sub" x="295" y="651">gave legal rulings · but CA seldom had one</text>
   <rect class="box" x="120" y="672" width="350" height="58"/>
   <text class="lbl" x="295" y="697">Habilitado (paymaster)</text>
   <text class="sub" x="295" y="717">held the purse: presidio pay, supply &amp; accounts</text>
@@ -96,7 +96,7 @@
 
   <!-- SEPARATION divider -->
   <line x1="1220" y1="410" x2="1560" y2="410" stroke="#8a6a10" stroke-width="1.5" stroke-dasharray="6 5"/>
-  <text x="1390" y="428" font-size="12px" font-weight="700" fill="#8a6a10" text-anchor="middle">the bishop did NOT run the missions —</text>
+  <text x="1390" y="428" font-size="12px" font-weight="700" fill="#8a6a10" text-anchor="middle">the bishop did NOT run the missions ·</text>
   <text x="1390" y="443" font-size="11.5px" fill="#8a6a10" text-anchor="middle" font-style="italic">the friars were a separate, exempt religious order</text>
 
   <!-- Franciscan order -->
@@ -107,21 +107,21 @@
 
   <rect class="eccl" x="1220" y="554" width="340" height="76"/>
   <text class="lbl" x="1390" y="578">Father-Presidente</text>
-  <text class="subi" x="1390" y="597">(Serra, then Lasuén) — the friars' own local head</text>
+  <text class="subi" x="1390" y="597">(Serra, then Lasuén) · the friars' own local head</text>
   <text class="sub" x="1390" y="615">directs the whole mission chain</text>
 
   <!-- Pillars -->
   <rect class="box" x="120" y="740" width="370" height="118"/>
   <text class="lbl" x="305" y="766">PUEBLOS (civil towns)</text>
   <text class="sub" x="305" y="786">settler farm-towns: San José 1777, Los Ángeles 1781,</text>
-  <text class="sub" x="305" y="804">Branciforte 1797 (the 1778 pueblo plan — C-A 1 d127)</text>
+  <text class="sub" x="305" y="804">Branciforte 1797 (the 1778 pueblo plan · C-A 1 d127)</text>
   <text class="sub" x="305" y="824">run by a Comisionado (governor's agent) +</text>
   <text class="sub" x="305" y="842">an elected Alcalde &amp; Regidores (town council)</text>
 
   <rect class="box" x="640" y="740" width="440" height="118"/>
   <text class="lbl" x="860" y="766">PRESIDIOS (royal forts)</text>
   <text class="sub" x="860" y="786">the army &amp; police of CA: Loreto (Baja, 1697) + San Diego,</text>
-  <text class="sub" x="860" y="804">Santa Bárbara, Monterey, San Francisco — the 5 presidios (C-A 2 d330)</text>
+  <text class="sub" x="860" y="804">Santa Bárbara, Monterey, San Francisco · the 5 presidios (C-A 2 d330)</text>
   <text class="sub" x="860" y="824">each under a Comandante; a Habilitado pays them;</text>
   <text class="sub" x="860" y="842">they garrison the mission guards (escoltas)</text>
 
@@ -135,9 +135,9 @@
   <!-- Indian mission officials -->
   <rect class="eccl" x="1220" y="876" width="340" height="84"/>
   <text class="lbl" x="1390" y="900">Indian mission officials</text>
-  <text class="sub" x="1390" y="919">alcaldes &amp; regidores — elected neophytes who</text>
+  <text class="sub" x="1390" y="919">alcaldes &amp; regidores · elected neophytes who</text>
   <text class="sub" x="1390" y="937">policed labor &amp; discipline (established 1779–83)</text>
-  <text class="subi" x="1390" y="954">+ mayordomos — estate overseers</text>
+  <text class="subi" x="1390" y="954">+ mayordomos · estate overseers</text>
 
   <!-- Base -->
   <rect class="box" x="120" y="982" width="370" height="84" fill="#f0efe9"/>
@@ -147,12 +147,12 @@
 
   <rect class="box" x="640" y="982" width="440" height="84" fill="#f0efe9"/>
   <text class="lbl" x="860" y="1008">Independent Indians (gentiles)</text>
-  <text class="sub" x="860" y="1028">unbaptized Indians beyond the missions —</text>
+  <text class="sub" x="860" y="1028">unbaptized Indians beyond the missions ·</text>
   <text class="subi" x="860" y="1046">the presidios campaign to control them</text>
 
   <rect class="box" x="1220" y="982" width="340" height="84" fill="#f0efe9"/>
   <text class="lbl" x="1390" y="1008">Mission Indians (neófitos)</text>
-  <text class="sub" x="1390" y="1028">baptized Indians —</text>
+  <text class="sub" x="1390" y="1028">baptized Indians ·</text>
   <text class="subi" x="1390" y="1046">the missions' labor force</text>
 
   <!-- CONNECTORS -->
@@ -195,7 +195,7 @@
   <!-- 1804 SPLIT BANNER -->
   <rect x="120" y="1090" width="1440" height="82" rx="8" fill="#7c1d1d"/>
   <text x="142" y="1120" font-size="18px" font-weight="700" fill="#ffd98a">▶ THE 1804 SPLIT</text>
-  <text x="142" y="1143" font-size="14px" fill="#ffffff">Las Californias is divided in two: ALTA (governor now at Monterey) and BAJA (governor at Loreto). Ordered by the King 1804, EFFECTED 1806 — Goycoechea</text>
+  <text x="142" y="1143" font-size="14px" fill="#ffffff">Las Californias is divided in two: ALTA (governor now at Monterey) and BAJA (governor at Loreto). Ordered by the King 1804, EFFECTED 1806 · Goycoechea</text>
   <text x="142" y="1161" font-size="14px" fill="#ffffff">recognized at Loreto 5 Jul 1806; the line = the arroyo del Rosario, following the 1772 Franciscan–Dominican mission boundary (C-A 25). ▶ See the companion chart THE TWO CALIFORNIAS · 1804.</text>
 
   <!-- LEGEND -->

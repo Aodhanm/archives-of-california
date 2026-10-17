@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1720 1340" font-family="Helvetica, Arial, sans-serif">
 <rect width="1720" height="1340" fill="#ffffff"/>
 <text x="860" y="44" font-size="33" font-weight="700" fill="#1a1a1a" text-anchor="middle">NORTH vs SOUTH · THE CIVIL CONFLICTS OF MEXICAN CALIFORNIA</text>
-<text x="860" y="71" font-size="16" fill="#555" text-anchor="middle" letter-spacing="1">Territorio de la Alta California · Departamento de Californias · five breaks, 1831–1846 — each panel is a snapshot of who held the coast road</text>
+<text x="860" y="71" font-size="16" fill="#555" text-anchor="middle" letter-spacing="1">Territorio de la Alta California · Departamento de Californias · five breaks, 1831–1846 · each panel is a snapshot of who held the coast road</text>
 <rect x="330" y="120" width="250" height="1010" rx="10" fill="#fcfcfc" stroke="#ddd" stroke-width="1.2"/>
 <rect x="605" y="120" width="250" height="1010" rx="10" fill="#fcfcfc" stroke="#ddd" stroke-width="1.2"/>
 <rect x="880" y="120" width="250" height="1010" rx="10" fill="#fcfcfc" stroke="#ddd" stroke-width="1.2"/>
@@ -53,7 +53,7 @@
 <rect x="708" y="255" width="44" height="435" rx="6" fill="#9ec7ab" stroke="#14532d" stroke-width="1.5"/>
 <rect x="708" y="762" width="44" height="166" rx="6" fill="#dba79a" stroke="#7c1d1d" stroke-width="1.5"/>
 <path d="M716,718.0 h28 M722,711.0 l-6,7 6,7 M738,711.0 l6,7 -6,7" stroke="#777" stroke-width="2.2" fill="none"/>
-<text x="730" y="742.0" font-size="10.5" fill="#777" text-anchor="middle">no battle — a demarcation</text>
+<text x="730" y="742.0" font-size="10.5" fill="#777" text-anchor="middle">no battle · a demarcation</text>
 <rect x="617" y="1008" width="226" height="30" rx="13" fill="#777" stroke="#777" stroke-width="1.8"/><text x="730" y="1027.5" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">STALEMATE</text>
 <text x="730" y="1062" font-size="11" fill="#555" text-anchor="middle">Mexico sends Gov. Figueroa, 1833</text>
 <text x="730" y="1112" font-size="15" font-weight="700" fill="#999" text-anchor="middle">2</text>
@@ -101,7 +101,7 @@
 <text x="1555" y="626.0" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">U.S. CONQUEST</text>
 <text x="1555" y="644.0" font-size="12" fill="#dfe6ea" text-anchor="middle">July 1846</text>
 <text x="1555" y="690" font-size="10.5" font-weight="700" fill="#36454f" text-anchor="middle">war ends: Treaty of Cahuenga, 13 Jan 1847</text>
-<rect x="1442" y="1008" width="226" height="30" rx="13" fill="#36454f" stroke="#36454f" stroke-width="1.8"/><text x="1555" y="1027.5" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">NEITHER — U.S. TAKES ALL</text>
+<rect x="1442" y="1008" width="226" height="30" rx="13" fill="#36454f" stroke="#36454f" stroke-width="1.8"/><text x="1555" y="1027.5" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">NEITHER · U.S. TAKES ALL</text>
 <text x="1555" y="1062" font-size="11" fill="#555" text-anchor="middle">both still mobilizing at the invasion</text>
 <text x="1555" y="1112" font-size="15" font-weight="700" fill="#999" text-anchor="middle">5</text>
 <rect x="120" y="1150" width="1480" height="118" rx="8" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
