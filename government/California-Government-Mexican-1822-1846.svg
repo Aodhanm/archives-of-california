@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1720 1250" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#4a4a4a"/>
+    </marker>
+    <marker id="arrowB" markerWidth="10" markerHeight="10" refX="4" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M8,0 L0,3 L8,6 Z" fill="#4a4a4a"/>
+    </marker>
+    <marker id="arrowG" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#7a5c00"/>
+    </marker>
+    <style>
+      .t   { font-size:33px; font-weight:700; fill:#0f3d22; text-anchor:middle; }
+      .st  { font-size:16px; fill:#256b3f; text-anchor:middle; letter-spacing:1px; }
+      .box { fill:#f4f9f5; stroke:#14532d; stroke-width:2; rx:8; }
+      .crown { fill:#14532d; stroke:#0f3d22; stroke-width:2; rx:8; }
+      .gov { fill:#bbf7d0; stroke:#14532d; stroke-width:3.5; rx:10; }
+      .dip { fill:#fde2e2; stroke:#7c1d1d; stroke-width:3; rx:10; }
+      .eccl{ fill:#fdf7e6; stroke:#8a6a10; stroke-width:2; rx:8; }
+      .lbl { font-size:17px; font-weight:700; fill:#1a1a1a; text-anchor:middle; }
+      .lblw{ font-size:17px; font-weight:700; fill:#ffffff; text-anchor:middle; }
+      .sub { font-size:12.5px; fill:#2a3f33; text-anchor:middle; }
+      .subi{ font-size:12.5px; fill:#3f5a49; text-anchor:middle; font-style:italic; }
+      .subw{ font-size:12.5px; fill:#cfe8d8; text-anchor:middle; }
+      .conn{ stroke:#4a4a4a; stroke-width:2; fill:none; }
+      .conndot{ stroke:#7a5c00; stroke-width:2; fill:none; stroke-dasharray:2 4; }
+      .clbl{ font-size:11.5px; fill:#333; text-anchor:middle; }
+      .clbG{ font-size:11.5px; fill:#7a5c00; text-anchor:middle; font-style:italic; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1720" height="1250" fill="#ffffff"/>
+  <text class="t" x="860" y="46">GOVERNMENT OF MEXICAN CALIFORNIA</text>
+  <text class="st" x="860" y="73">TERRITORIO DE LA ALTA CALIFORNIA 1824–36 · DEPARTAMENTO DE CALIFORNIAS 1836–46 · an elected assembly now checks the governor</text>
+
+  <!-- Nation -->
+  <rect class="crown" x="660" y="94" width="400" height="86"/>
+  <text class="lblw" x="860" y="122">THE MEXICAN NATION</text>
+  <text class="subw" x="860" y="143">General Congress + Supreme Executive (the President) · Mexico City</text>
+  <text class="subw" x="860" y="162">independent 1821; sets national law &amp; names California's governor</text>
+
+  <!-- Ministry -->
+  <rect class="box" x="670" y="208" width="380" height="82"/>
+  <text class="lbl" x="860" y="234">Ministry of Relations</text>
+  <text class="subi" x="860" y="255">(Ministerio de Relaciones, interior &amp; exterior · Mexico City)</text>
+  <text class="sub" x="860" y="274">the desk that sent orders to California (C-A 34 d539)</text>
+
+  <!-- GOVERNOR -->
+  <rect class="gov" x="612" y="322" width="496" height="112"/>
+  <text class="lbl" x="860" y="349">GOVERNOR of Alta California</text>
+  <text class="subi" x="860" y="370">Jefe Político Superior (civil) + Comandante General (military)</text>
+  <text class="sub" x="860" y="388">runs the province, but the two halves were often SPLIT between</text>
+  <text class="sub" x="860" y="406">two men (Castro / Gutiérrez 1835; Pico / Castro 1845)</text>
+  <text class="sub" x="860" y="424">seat: Monterey → moved to Los Ángeles by Pico, 1845 (C-A 31 d355)</text>
+
+  <!-- Diputación -->
+  <rect class="dip" x="1180" y="322" width="400" height="130"/>
+  <text class="lbl" x="1380" y="347">DIPUTACIÓN TERRITORIAL</text>
+  <text class="subi" x="1380" y="366">installed 1822 at Monterey: the governor presiding,</text>
+  <text class="subi" x="1380" y="382">8 founding vocales + a secretary (the acta, C-A 59 d4)</text>
+  <text class="sub" x="1380" y="400">votes on laws, budgets &amp; land grants; its senior member (primer</text>
+  <text class="sub" x="1380" y="417">vocal) takes the government when the seat falls vacant — Castro</text>
+  <text class="sub" x="1380" y="433">1835 (C-A 39 d31), Alvarado 1836 (C-A 45 d55)</text>
+  <text class="sub" x="1380" y="448">▶ the big NEW thing: Spain had no such check</text>
+
+  <!-- Staff (left) -->
+  <rect class="box" x="140" y="316" width="300" height="64"/>
+  <text class="lbl" x="290" y="341">Secretario de Gobierno</text>
+  <text class="sub" x="290" y="361">secretary/chief of staff — Zamorano, Jimeno, Covarrubias</text>
+  <rect class="box" x="140" y="392" width="300" height="64"/>
+  <text class="lbl" x="290" y="417">Asesor (legal advisor)</text>
+  <text class="sub" x="290" y="437">e.g. Rafael Gómez, 1830s — still only part-time</text>
+
+  <!-- BISHOP (its own separate box) -->
+  <rect class="eccl" x="1200" y="458" width="380" height="96"/>
+  <text class="lbl" x="1390" y="483">BISHOP OF CALIFORNIA</text>
+  <text class="sub" x="1390" y="503">a resident bishop only from 1840</text>
+  <text class="sub" x="1390" y="521">before that, CA was under the Bishop of Sonora</text>
+  <text class="subi" x="1390" y="539">Diocese of Both Californias · seat San Diego → Sta Bárbara 1842</text>
+  <text x="1390" y="574" font-size="12px" fill="#8a6a10" text-anchor="middle" font-style="italic">a SEPARATE church hierarchy — not over the ex-mission friars</text>
+
+  <!-- Prefects -->
+  <rect class="box" x="612" y="480" width="496" height="96"/>
+  <text class="lbl" x="860" y="506">Prefects &amp; Sub-prefects</text>
+  <text class="subi" x="860" y="527">(prefecto / subprefecto) — district-level officials</text>
+  <text class="sub" x="860" y="545">added when the 1836 centralist reform made CA a "departamento";</text>
+  <text class="sub" x="860" y="562">the district/partido division approved 1839 (C-A 29 d153)</text>
+
+  <!-- PILLARS -->
+  <rect class="box" x="120" y="602" width="410" height="172"/>
+  <text class="lbl" x="325" y="628">CIVIL / LOCAL</text>
+  <text class="sub" x="325" y="648">Ayuntamientos = elected town councils</text>
+  <text class="sub" x="325" y="666">(Alcaldes &amp; Regidores) in each pueblo</text>
+  <text class="sub" x="325" y="684">the Alcalde is also the local judge —</text>
+  <text class="subi" x="325" y="702">his court = the juzgado (justice by the mayor)</text>
+  <text class="sub" x="325" y="722">the governor confirms who is elected</text>
+
+  <rect class="box" x="600" y="602" width="500" height="172"/>
+  <text class="lbl" x="850" y="628">MILITARY</text>
+  <text class="sub" x="850" y="648">the four presidial companies (San Diego, Santa</text>
+  <text class="sub" x="850" y="666">Bárbara, Monterey, San Francisco) — underpaid, decaying</text>
+  <text class="sub" x="850" y="684">+ a citizen militia raised in emergencies</text>
+  <text class="subi" x="850" y="702">(the "Defensores de la Patria")</text>
+  <text class="sub" x="850" y="722">the Comandante General commands them</text>
+
+  <rect class="eccl" x="1170" y="602" width="410" height="172"/>
+  <text class="lbl" x="1375" y="628">EX-MISSIONS (Franciscan)</text>
+  <text class="sub" x="1375" y="648">SECULARIZED from 1834 — decree pub. Monterey (C-A 43 d254),</text>
+  <text class="sub" x="1375" y="666">Figueroa's reglamento Aug 1834 (C-A 43 d375); estates pass to</text>
+  <text class="sub" x="1375" y="686">lay administrators; Indian alcaldes still run daily affairs;</text>
+  <text class="subi" x="1375" y="704">mayordomos oversee the ex-mission ranchos</text>
+  <text class="sub" x="1375" y="726">(run by the friars/administradores — not the bishop)</text>
+
+  <!-- BASE -->
+  <rect class="box" x="120" y="792" width="410" height="76" fill="#eef3ef"/>
+  <text class="lbl" x="325" y="818">Ciudadanos (citizens)</text>
+  <text class="sub" x="325" y="838">vecinos / Californios — the settler townsfolk,</text>
+  <text class="subi" x="325" y="856">who vote for the ayuntamientos</text>
+
+  <rect class="box" x="600" y="792" width="500" height="76" fill="#eef3ef"/>
+  <text class="lbl" x="850" y="818">Soldiers &amp; militiamen</text>
+  <text class="sub" x="850" y="838">the presidial troops + able-bodied vecinos</text>
+  <text class="subi" x="850" y="856">called up for defense</text>
+
+  <rect class="box" x="1170" y="792" width="410" height="76" fill="#eef3ef"/>
+  <text class="lbl" x="1375" y="818">Ex-neophytes &amp; laborers</text>
+  <text class="sub" x="1375" y="838">Indians "freed" by secularization —</text>
+  <text class="subi" x="1375" y="856">in practice mostly kept on as estate labor</text>
+
+  <!-- CONNECTORS -->
+  <path class="conn" d="M860,180 L860,208" marker-end="url(#arrow)"/>
+  <path class="conn" d="M860,290 L860,322" marker-end="url(#arrow)"/>
+  <text class="clbl" x="930" y="308">appoints &amp; instructs</text>
+
+  <line x1="1108" y1="366" x2="1180" y2="366" class="conn" marker-start="url(#arrowB)" marker-end="url(#arrow)"/>
+  <line x1="1108" y1="384" x2="1180" y2="384" class="conn" marker-start="url(#arrowB)" marker-end="url(#arrow)"/>
+  <text class="clbl" x="1144" y="356">share power</text>
+
+  <path class="conn" d="M612,352 L440,344"/>
+  <path class="conn" d="M612,372 L440,410"/>
+  <text class="clbl" x="524" y="322">governor's office</text>
+
+  <path class="conn" d="M860,434 L860,480" marker-end="url(#arrow)"/>
+  <text class="clbl" x="918" y="460">appoints</text>
+
+  <path class="conn" d="M690,576 C470,588 380,594 340,602" marker-end="url(#arrow)"/>
+  <text class="clbl" x="470" y="584">oversees towns</text>
+  <path class="conn" d="M850,576 L850,602" marker-end="url(#arrow)"/>
+  <text class="clbl" x="908" y="586">commands</text>
+  <path class="conndot" d="M1000,576 C1090,588 1180,598 1240,602" marker-end="url(#arrowG)"/>
+  <text class="clbG" x="1085" y="584">state now runs (contested)</text>
+
+  <path class="conn" d="M325,774 L325,792" marker-end="url(#arrow)"/>
+  <path class="conn" d="M850,774 L850,792" marker-end="url(#arrow)"/>
+  <path class="conndot" d="M1375,774 L1375,792" marker-end="url(#arrowG)"/>
+  <path class="conn" d="M175,792 C120,745 122,665 178,634" marker-end="url(#arrow)"/>
+  <text class="clbl" x="150" y="726">elect</text>
+
+  <!-- BANNER -->
+  <rect x="120" y="898" width="1460" height="88" rx="8" fill="#14532d"/>
+  <text x="142" y="926" font-size="17px" font-weight="700" fill="#9be3b6">▶ WHAT CHANGED FROM THE SPANISH SYSTEM</text>
+  <text x="142" y="950" font-size="14px" fill="#ffffff">1) An ELECTED assembly (the Diputación) now shares power with and checks the governor.  2) The missions are SECULARIZED (1834) — the friars</text>
+  <text x="142" y="970" font-size="14px" fill="#ffffff">lose the estates.  3) California's status shifts TERRITORY (1824) → DEPARTMENT (1836), which adds prefects.  4) The capital moves Monterey → LOS ÁNGELES (1845).</text>
+
+  <!-- LEGEND -->
+  <rect x="120" y="1006" width="1460" height="196" rx="8" fill="#f6faf7" stroke="#ccc" stroke-width="1"/>
+  <text x="142" y="1034" font-size="15px" font-weight="700" fill="#0f3d22">HOW TO READ THIS CHART</text>
+  <line x1="150" y1="1060" x2="220" y2="1060" class="conn" marker-end="url(#arrow)"/>
+  <text x="233" y="1064" font-size="13px" fill="#222">solid arrow = chain of command (appoints / issues orders / answers to)</text>
+  <line x1="150" y1="1092" x2="220" y2="1092" class="conn" marker-start="url(#arrowB)" marker-end="url(#arrow)"/>
+  <text x="233" y="1096" font-size="13px" fill="#222">double-headed arrow = shared / mutual power (the governor and the assembly)</text>
+  <line x1="150" y1="1124" x2="220" y2="1124" class="conndot" marker-end="url(#arrowG)"/>
+  <text x="233" y="1128" font-size="13px" fill="#222">dotted arrow = a church line of authority (the state claiming the ex-missions)</text>
+  <rect x="860" y="1050" width="26" height="16" class="gov"/>
+  <text x="896" y="1063" font-size="13px" fill="#222">= the governor (Jefe Político + Comandante General)</text>
+  <rect x="860" y="1082" width="26" height="16" class="dip"/>
+  <text x="896" y="1095" font-size="13px" fill="#222">= the elected assembly (the key new institution vs. the Spanish period)</text>
+  <rect x="860" y="1114" width="26" height="16" class="eccl"/>
+  <text x="896" y="1127" font-size="13px" fill="#222">= Church institutions (the ex-missions AND the bishop's diocese — kept separate)</text>
+  <text x="142" y="1160" font-size="12px" fill="#777" font-style="italic">The bishop is drawn as its own box, apart from the government chain. Bishop of Sonora / García Diego / Indian alcaldes &amp; mayordomos sourced from the C-A catalog (ca25, ca34, ca37).</text>
+  <text x="142" y="1177" font-size="12px" fill="#777" font-style="italic">Source: Aodhan Coyne, research file "governor-of-california-office-profile" · Bancroft, History of California III · Diputación roster: C-A 59 d4. Compiled 2026-08-04 · updated 2026-10-16.</text>
+  <text x="142" y="1194" font-size="12px" fill="#777" font-style="italic">Baja California stayed a separate jefatura after 1822, but the military command was at times held over "ambas Californias" (C-A 18 d398, C-A 27 d113); Alta convicts served presidio terms at Loreto (C-A 18 d398).</text>
+</svg>

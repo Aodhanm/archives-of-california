@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1720 1420" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#4a4a4a"/>
+    </marker>
+    <marker id="arrowG" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#7a5c00"/>
+    </marker>
+    <style>
+      .t   { font-size:33px; font-weight:700; fill:#5a1414; text-anchor:middle; }
+      .st  { font-size:16px; fill:#7a2a2a; text-anchor:middle; letter-spacing:1px; }
+      .box { fill:#fbf6ef; stroke:#7c1d1d; stroke-width:2; rx:8; }
+      .crown { fill:#7c1d1d; stroke:#5a1414; stroke-width:2; rx:8; }
+      .gov { fill:#f4d58d; stroke:#7c1d1d; stroke-width:3.5; rx:10; }
+      .dash{ fill:#f3ece2; stroke:#7c1d1d; stroke-width:2; stroke-dasharray:8 5; rx:8; }
+      .eccl{ fill:#fdf7e6; stroke:#8a6a10; stroke-width:2; rx:8; }
+      .lbl { font-size:17px; font-weight:700; fill:#1a1a1a; text-anchor:middle; }
+      .lblw{ font-size:17px; font-weight:700; fill:#ffffff; text-anchor:middle; }
+      .sub { font-size:12.5px; fill:#4a3a2a; text-anchor:middle; }
+      .subi{ font-size:12.5px; fill:#6a5a48; text-anchor:middle; font-style:italic; }
+      .subw{ font-size:12.5px; fill:#f0d8d0; text-anchor:middle; }
+      .conn{ stroke:#4a4a4a; stroke-width:2; fill:none; }
+      .conndash{ stroke:#4a4a4a; stroke-width:2; fill:none; stroke-dasharray:7 5; }
+      .conndot{ stroke:#7a5c00; stroke-width:2; fill:none; stroke-dasharray:2 4; }
+      .clbl{ font-size:11.5px; fill:#333; text-anchor:middle; }
+      .clbG{ font-size:11.5px; fill:#7a5c00; text-anchor:middle; font-style:italic; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1720" height="1420" fill="#ffffff"/>
+  <text class="t" x="860" y="46">GOVERNMENT OF SPANISH CALIFORNIA</text>
+  <text class="st" x="860" y="73">PROVINCIA DE CALIFORNIAS · PROVINCE OF THE CALIFORNIAS · one province 1769–1804, then NUEVA (ALTA) CALIFORNIA to 1821 · a civil-military command</text>
+
+  <!-- Crown -->
+  <rect class="crown" x="670" y="96" width="380" height="86"/>
+  <text class="lblw" x="860" y="124">THE CROWN</text>
+  <text class="subw" x="860" y="145">King of Spain (Carlos III, then Carlos IV) · Madrid</text>
+  <text class="subw" x="860" y="164">owns the empire; rules California by written decree (real cédula)</text>
+
+  <!-- Council of the Indies -->
+  <rect class="box" x="250" y="210" width="330" height="86"/>
+  <text class="lbl" x="415" y="238">Council of the Indies</text>
+  <text class="subi" x="415" y="259">(Consejo de Indias · Madrid)</text>
+  <text class="sub" x="415" y="278">top court &amp; law-writer for the colonies</text>
+
+  <!-- Minister of the Indies -->
+  <rect class="box" x="670" y="210" width="380" height="86"/>
+  <text class="lbl" x="860" y="238">Minister of the Indies</text>
+  <text class="subi" x="860" y="259">(Secretaría de Indias — José de Gálvez, 1776–87)</text>
+  <text class="sub" x="860" y="278">ran day-to-day colonial government for the king</text>
+
+  <!-- Viceroy -->
+  <rect class="box" x="670" y="330" width="380" height="90"/>
+  <text class="lbl" x="860" y="358">Viceroy of New Spain</text>
+  <text class="subi" x="860" y="379">(Virrey · Mexico City) — the king's stand-in in the Americas</text>
+  <text class="sub" x="860" y="398">appointed, paid &amp; supplied California's governor</text>
+
+  <!-- Provincias Internas -->
+  <rect class="dash" x="650" y="452" width="420" height="108"/>
+  <text class="lbl" x="860" y="478">Commandant General,</text>
+  <text class="lbl" x="860" y="497">Provincias Internas</text>
+  <text class="sub" x="860" y="518">a frontier military super-command for the far north</text>
+  <text class="sub" x="860" y="537">(created 1776, Croix, at Arizpe). Held CA 1776–93, from 1788</text>
+  <text class="sub" x="860" y="551">in its western half (Ugarte, C-A 4 d373); detached 1793 → Viceroy</text>
+
+  <!-- GOVERNOR -->
+  <rect class="gov" x="638" y="582" width="444" height="104"/>
+  <text class="lbl" x="860" y="610">GOVERNOR of the Californias</text>
+  <text class="subi" x="860" y="631">gobernador político y militar — runs EVERYTHING in CA:</text>
+  <text class="sub" x="860" y="649">troops, land grants, courts, Indians, trade &amp; the missions</text>
+  <text class="sub" x="860" y="668">seat: Loreto → Monterey (Real Orden 19 Apr 1776, eff. 1777 — C-A 1 d85)</text>
+
+  <!-- Staff (left) -->
+  <rect class="box" x="120" y="540" width="350" height="58"/>
+  <text class="lbl" x="295" y="565">Secretary of Government</text>
+  <text class="sub" x="295" y="585">(secretario) — writes &amp; sends the governor's orders</text>
+  <rect class="box" x="120" y="606" width="350" height="58"/>
+  <text class="lbl" x="295" y="631">Asesor (legal advisor)</text>
+  <text class="sub" x="295" y="651">gave legal rulings — but CA seldom had one</text>
+  <rect class="box" x="120" y="672" width="350" height="58"/>
+  <text class="lbl" x="295" y="697">Habilitado (paymaster)</text>
+  <text class="sub" x="295" y="717">held the purse: presidio pay, supply &amp; accounts</text>
+
+  <!-- Patronato (shared church-control) -->
+  <rect class="eccl" x="1220" y="210" width="340" height="74"/>
+  <text class="lbl" x="1390" y="234">Patronato Real</text>
+  <text class="sub" x="1390" y="253">the Crown controls the Church in the Indies;</text>
+  <text class="sub" x="1390" y="271">the governor acts locally as its vice-patrón</text>
+
+  <!-- Bishop of Sonora (diocesan / secular) -->
+  <rect class="eccl" x="1220" y="308" width="340" height="90"/>
+  <text class="lbl" x="1390" y="332">Bishop of Sonora</text>
+  <text class="sub" x="1390" y="352">California's diocese before 1840 (secular clergy)</text>
+  <text class="sub" x="1390" y="370">the bishop over the pueblos' parish churches</text>
+  <text class="subi" x="1390" y="388">its seat sat far off in Sonora, on the mainland</text>
+
+  <!-- SEPARATION divider -->
+  <line x1="1220" y1="410" x2="1560" y2="410" stroke="#8a6a10" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="1390" y="428" font-size="12px" font-weight="700" fill="#8a6a10" text-anchor="middle">the bishop did NOT run the missions —</text>
+  <text x="1390" y="443" font-size="11.5px" fill="#8a6a10" text-anchor="middle" font-style="italic">the friars were a separate, exempt religious order</text>
+
+  <!-- Franciscan order -->
+  <rect class="eccl" x="1220" y="456" width="340" height="80"/>
+  <text class="lbl" x="1390" y="480">Apostolic College of San Fernando</text>
+  <text class="sub" x="1390" y="499">the Franciscan order's HQ in Mexico City</text>
+  <text class="subi" x="1390" y="517">trains &amp; sends the friars (exempt from the bishop)</text>
+
+  <rect class="eccl" x="1220" y="554" width="340" height="76"/>
+  <text class="lbl" x="1390" y="578">Father-Presidente</text>
+  <text class="subi" x="1390" y="597">(Serra, then Lasuén) — the friars' own local head</text>
+  <text class="sub" x="1390" y="615">directs the whole mission chain</text>
+
+  <!-- Pillars -->
+  <rect class="box" x="120" y="740" width="370" height="118"/>
+  <text class="lbl" x="305" y="766">PUEBLOS (civil towns)</text>
+  <text class="sub" x="305" y="786">settler farm-towns: San José 1777, Los Ángeles 1781,</text>
+  <text class="sub" x="305" y="804">Branciforte 1797 (the 1778 pueblo plan — C-A 1 d127)</text>
+  <text class="sub" x="305" y="824">run by a Comisionado (governor's agent) +</text>
+  <text class="sub" x="305" y="842">an elected Alcalde &amp; Regidores (town council)</text>
+
+  <rect class="box" x="640" y="740" width="440" height="118"/>
+  <text class="lbl" x="860" y="766">PRESIDIOS (royal forts)</text>
+  <text class="sub" x="860" y="786">the army &amp; police of CA: Loreto (Baja, 1697) + San Diego,</text>
+  <text class="sub" x="860" y="804">Santa Bárbara, Monterey, San Francisco — the 5 presidios (C-A 2 d330)</text>
+  <text class="sub" x="860" y="824">each under a Comandante; a Habilitado pays them;</text>
+  <text class="sub" x="860" y="842">they garrison the mission guards (escoltas)</text>
+
+  <rect class="eccl" x="1220" y="740" width="340" height="118"/>
+  <text class="lbl" x="1390" y="766">MISSIONS (Franciscan)</text>
+  <text class="sub" x="1390" y="786">21 farm-churches (1769–1823) built to convert</text>
+  <text class="sub" x="1390" y="804">&amp; put Indians to work (Baja's = DOMINICAN, see 1804 chart)</text>
+  <text class="sub" x="1390" y="824">friars answer to their College (spiritual) AND</text>
+  <text class="sub" x="1390" y="842">the governor (escort &amp; secular) = dual control</text>
+
+  <!-- Indian mission officials -->
+  <rect class="eccl" x="1220" y="876" width="340" height="84"/>
+  <text class="lbl" x="1390" y="900">Indian mission officials</text>
+  <text class="sub" x="1390" y="919">alcaldes &amp; regidores — elected neophytes who</text>
+  <text class="sub" x="1390" y="937">policed labor &amp; discipline (established 1779–83)</text>
+  <text class="subi" x="1390" y="954">+ mayordomos — estate overseers</text>
+
+  <!-- Base -->
+  <rect class="box" x="120" y="982" width="370" height="84" fill="#f0efe9"/>
+  <text class="lbl" x="305" y="1008">Gente de razón</text>
+  <text class="sub" x="305" y="1028">"people of reason" = the settler colonists</text>
+  <text class="subi" x="305" y="1046">(vecinos) &amp; the presidio soldiers</text>
+
+  <rect class="box" x="640" y="982" width="440" height="84" fill="#f0efe9"/>
+  <text class="lbl" x="860" y="1008">Independent Indians (gentiles)</text>
+  <text class="sub" x="860" y="1028">unbaptized Indians beyond the missions —</text>
+  <text class="subi" x="860" y="1046">the presidios campaign to control them</text>
+
+  <rect class="box" x="1220" y="982" width="340" height="84" fill="#f0efe9"/>
+  <text class="lbl" x="1390" y="1008">Mission Indians (neófitos)</text>
+  <text class="sub" x="1390" y="1028">baptized Indians —</text>
+  <text class="subi" x="1390" y="1046">the missions' labor force</text>
+
+  <!-- CONNECTORS -->
+  <path class="conn" d="M860,182 L860,210" marker-end="url(#arrow)"/>
+  <path class="conndot" d="M700,176 L560,230" marker-end="url(#arrowG)"/>
+  <text class="clbG" x="600" y="200">law &amp; appeals</text>
+  <path class="conn" d="M860,296 L860,330" marker-end="url(#arrow)"/>
+  <path class="conn" d="M860,420 L860,452" marker-end="url(#arrow)"/>
+  <text class="clbl" x="925" y="440">1776–1793</text>
+  <path class="conndash" d="M860,560 L860,582" marker-end="url(#arrow)"/>
+  <path class="conndash" d="M1050,378 C1160,415 1160,565 1084,616" marker-end="url(#arrow)"/>
+  <text class="clbl" x="1150" y="505">after 1793:</text>
+  <text class="clbl" x="1150" y="521">direct to Viceroy</text>
+
+  <path class="conn" d="M638,614 L470,569"/>
+  <path class="conn" d="M638,632 L470,635"/>
+  <path class="conn" d="M638,652 L470,701"/>
+  <text class="clbl" x="548" y="548">governor's office</text>
+
+  <!-- Church dotted lines -->
+  <path class="conndot" d="M1050,150 C1200,165 1390,172 1390,210" marker-end="url(#arrowG)"/>
+  <path class="conndot" d="M1390,284 L1390,308" marker-end="url(#arrowG)"/>
+  <path class="conndot" d="M1390,536 L1390,554" marker-end="url(#arrowG)"/>
+  <path class="conndot" d="M1390,630 L1390,740" marker-end="url(#arrowG)"/>
+  <text class="clbG" x="1470" y="695">spiritual line</text>
+
+  <path class="conn" d="M710,676 C480,710 380,722 320,740" marker-end="url(#arrow)"/>
+  <text class="clbl" x="480" y="712">appoints comisionado</text>
+  <path class="conn" d="M860,686 L860,740" marker-end="url(#arrow)"/>
+  <text class="clbl" x="928" y="718">military command</text>
+  <path class="conn" d="M1010,678 C1180,710 1330,722 1385,740" marker-end="url(#arrow)"/>
+  <text class="clbG" x="1245" y="712">escort + vice-patrón</text>
+
+  <path class="conn" d="M1390,858 L1390,876" marker-end="url(#arrow)"/>
+  <path class="conn" d="M1390,960 L1390,982" marker-end="url(#arrow)"/>
+  <path class="conn" d="M305,858 L305,982" marker-end="url(#arrow)"/>
+  <path class="conndash" d="M860,858 L860,982" marker-end="url(#arrow)"/>
+  <text class="clbl" x="928" y="925">campaigns / capture</text>
+
+  <!-- 1804 SPLIT BANNER -->
+  <rect x="120" y="1090" width="1440" height="82" rx="8" fill="#7c1d1d"/>
+  <text x="142" y="1120" font-size="18px" font-weight="700" fill="#ffd98a">▶ THE 1804 SPLIT</text>
+  <text x="142" y="1143" font-size="14px" fill="#ffffff">Las Californias is divided in two: ALTA (governor now at Monterey) and BAJA (governor at Loreto). Ordered by the King 1804, EFFECTED 1806 — Goycoechea</text>
+  <text x="142" y="1161" font-size="14px" fill="#ffffff">recognized at Loreto 5 Jul 1806; the line = the arroyo del Rosario, following the 1772 Franciscan–Dominican mission boundary (C-A 25). ▶ See the companion chart THE TWO CALIFORNIAS · 1804.</text>
+
+  <!-- LEGEND -->
+  <rect x="120" y="1190" width="1440" height="182" rx="8" fill="#faf8f4" stroke="#ccc" stroke-width="1"/>
+  <text x="142" y="1218" font-size="15px" font-weight="700" fill="#5a1414">HOW TO READ THIS CHART</text>
+  <line x1="150" y1="1244" x2="220" y2="1244" class="conn" marker-end="url(#arrow)"/>
+  <text x="233" y="1248" font-size="13px" fill="#222">solid arrow = chain of command (appoints / issues orders / answers to)</text>
+  <line x1="150" y1="1276" x2="220" y2="1276" class="conndash" marker-end="url(#arrow)"/>
+  <text x="233" y="1280" font-size="13px" fill="#222">dashed arrow = intermittent / changing authority (the Provincias Internas)</text>
+  <line x1="150" y1="1308" x2="220" y2="1308" class="conndot" marker-end="url(#arrowG)"/>
+  <text x="233" y="1312" font-size="13px" fill="#222">dotted arrow = a church line of authority</text>
+  <rect x="840" y="1234" width="26" height="16" class="gov"/>
+  <text x="876" y="1247" font-size="13px" fill="#222">= the governor (the focus of this chart)</text>
+  <rect x="840" y="1266" width="26" height="16" class="dash"/>
+  <text x="876" y="1279" font-size="13px" fill="#222">= a superior office whose power over California came and went</text>
+  <rect x="840" y="1298" width="26" height="16" class="eccl"/>
+  <text x="876" y="1311" font-size="13px" fill="#222">= Church institutions (the bishop's diocese AND the separate Franciscan order)</text>
+  <text x="142" y="1346" font-size="12px" fill="#777" font-style="italic">The dashed line marks the split: the friars answered to their order, not the bishop. Indian officials + bishop sourced from the C-A catalog (ca23, ca25, ca34).</text>
+  <text x="142" y="1363" font-size="12px" fill="#777" font-style="italic">Source: Aodhan Coyne, research file "governor-of-california-office-profile" · Bancroft, History of California I–III. Compiled 2026-08-04 · updated 2026-10-16 (Loreto added to the presidio line; Provincias Internas dates per C-A 4 d373; 1804 banner per C-A 25 d570/d587).</text>
+</svg>
