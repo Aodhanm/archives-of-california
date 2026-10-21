@@ -70,7 +70,8 @@
  {
   "canonical": "Arrillaga, José Joaquín de",
   "variants": [
-   "arrillaga"
+   "arrillaga",
+   "arillaga"
   ],
   "role": "Acting governor 1792–94 & 1800–04, proprietary 1804–1814; earlier lieutenant-governor at Loreto; died at Soledad 1814.",
   "note": "",
@@ -115,7 +116,8 @@
  {
   "canonical": "Echeandía, José María de",
   "variants": [
-   "echeandia"
+   "echeandia",
+   "echandia"
   ],
   "role": "Governor 1825–1831; author of the pioneering 1831 secularization decree.",
   "note": "",
@@ -126,13 +128,19 @@
  {
   "canonical": "Victoria, Manuel",
   "variants": [
+   "manuel victoria",
    "victoria"
   ],
   "role": "Governor 1831, deposed; opponent of Echeandía's secularization.",
   "note": "'Victoria' also appears as a first name and in ship names — counts approximate.",
   "records": 354,
   "fl": "1827–1838",
-  "query": "victoria"
+  "query": "victoria",
+  "excludes": [
+   "gpe victoria",
+   "guadalupe victoria",
+   "gpe. victoria"
+  ]
  },
  {
   "canonical": "Figueroa, José",
@@ -148,7 +156,12 @@
  {
   "canonical": "Alvarado, Juan Bautista",
   "variants": [
-   "alvarado"
+   "juan bautista alvarado",
+   "juan b. alvarado",
+   "j. b. alvarado",
+   "juan b alvarado",
+   "gob. alvarado",
+   "gov. alvarado"
   ],
   "role": "Governor 1836–1842 (the 1836 revolution).",
   "note": "⚠ Early hits (1780s–1800s) are earlier Alvarados — including Sgt. Juan Bautista Alvarado, the governor’s grandfather. The governor’s own records begin in the late 1820s.",
@@ -467,7 +480,8 @@
  {
   "canonical": "Zamorano, Agustín Vicente",
   "variants": [
-   "zamorano"
+   "zamorano",
+   "zamorana"
   ],
   "role": "Governor's secretary, comandante, and California's first printer (fl. 1825–42).",
   "note": "",
@@ -1479,5 +1493,71 @@
   "fl": "1784–1796",
   "query": "ramon lasso de la vega",
   "auto": true
+ },
+ {
+  "canonical": "Barri, Felipe de",
+  "variants": [
+   "felipe barry",
+   "felipe de barry",
+   "barri"
+  ],
+  "role": "Governor of the Californias, 1771 to 1774",
+  "note": "Governed from Loreto. The copyist writes him “Barry”, which is why he long appeared to have no records.",
+  "query": "barry"
+ },
+ {
+  "canonical": "Sloat, John D.",
+  "variants": [
+   "sloat"
+  ],
+  "role": "United States military governor",
+  "note": "United States naval commander; raised the flag at Monterey, July 1846.",
+  "query": "sloat"
+ },
+ {
+  "canonical": "Stockton, Robert F.",
+  "variants": [
+   "stockton"
+  ],
+  "role": "United States military governor",
+  "note": "United States naval commander and military governor, 1846 to 1847.",
+  "query": "stockton"
+ },
+ {
+  "canonical": "Frémont, John C.",
+  "variants": [
+   "fremont"
+  ],
+  "role": "United States military governor",
+  "note": "United States military governor, January to March 1847.",
+  "query": "fremont"
+ },
+ {
+  "canonical": "Kearny, Stephen W.",
+  "variants": [
+   "kearny",
+   "kearney"
+  ],
+  "role": "United States military governor",
+  "note": "United States military governor, 1847.",
+  "query": "kearny|kearney"
+ },
+ {
+  "canonical": "Mason, Richard B.",
+  "variants": [
+   "mason"
+  ],
+  "role": "United States military governor",
+  "note": "United States military governor, 1847 to 1849.",
+  "query": "mason"
+ },
+ {
+  "canonical": "Riley, Bennet C.",
+  "variants": [
+   "riley"
+  ],
+  "role": "United States military governor",
+  "note": "Last United States military governor, 1849; called the constitutional convention.",
+  "query": "riley"
  }
 ]
