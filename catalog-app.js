@@ -100,6 +100,11 @@ function loadHash(){const h=location.hash.replace('#','');if(!h||!h.includes('='
 function openFromHash(){const h=location.hash.replace('#','');if(!h)return;const m=h.match(/^ca(\d+)-d([\w]+)-?(n\d+)?/);if(!m)return;
  const r=DATA.find(d=>d.ca_volume==m[1]&&d.doc_id==m[2]&&(!m[3]||(String(d.scan||'').match(/n\d+/)||[''])[0]==m[3]));if(r)openDetail(r);}
 window.addEventListener('hashchange',openFromHash);
+// A bare tab name in the hash opens that tab: citing.html and what-is-in-it.html
+// were retired into the About tab and canonicalise to /#abt, which did nothing
+// until this existed (audit 2026-10-21).
+function openTabFromHash(){const h=location.hash.replace('#','');if(['cat','banc','tag','ppl','abt'].indexOf(h)>=0)showTab(h);}
+window.addEventListener('hashchange',openTabFromHash);
 // --- Bancroft footnote resolver (engine v9 client port; data = resolver.json) ---
 let RESV=null; fetch('resolver.json').then(x=>x.json()).then(j=>{RESV=j;}).catch(()=>{RESV={index:{},labels:{}};});
 const RALIAS=[

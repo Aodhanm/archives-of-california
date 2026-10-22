@@ -99,7 +99,14 @@
   "note": "Deaccented 'sola' can collide with 'Soledad' fragments; matched as a standalone name.",
   "records": 242,
   "fl": "1796–1824",
-  "query": "sola"
+  "query": "sola",
+  "excludes": [
+   "estevan sola",
+   "esteban sola",
+   "jose gabriel de sola",
+   "estevan de sola",
+   "pedro de la sola"
+  ]
  },
  {
   "canonical": "Argüello, Luis Antonio",
@@ -151,7 +158,11 @@
   "note": "",
   "records": 198,
   "fl": "1825–1844",
-  "query": "figueroa"
+  "query": "figueroa",
+  "excludes": [
+   "francisco figueroa",
+   "ramon figueroa"
+  ]
  },
  {
   "canonical": "Alvarado, Juan Bautista",
@@ -161,7 +172,9 @@
    "j. b. alvarado",
    "juan b alvarado",
    "gob. alvarado",
-   "gov. alvarado"
+   "gov. alvarado",
+   "gobr. alvarado",
+   "gobernador alvarado"
   ],
   "role": "Governor 1836–1842 (the 1836 revolution).",
   "note": "⚠ Early hits (1780s–1800s) are earlier Alvarados — including Sgt. Juan Bautista Alvarado, the governor’s grandfather. The governor’s own records begin in the late 1820s.",
@@ -498,7 +511,13 @@
   "note": "'Jimeno' alone can also be Fr. José Joaquín or Fr. Antonio Jimeno (Santa Bárbara friars) — friar hits carry 'Fr.'",
   "records": 201,
   "fl": "1829–1845",
-  "query": "jimeno"
+  "query": "jimeno",
+  "excludes": [
+   "jose joaquin jimeno",
+   "antonio jimeno",
+   "jimeno covarrubias",
+   "mariano jimeno"
+  ]
  },
  {
   "canonical": "Tapia, Tiburcio",
@@ -528,7 +547,8 @@
  {
   "canonical": "Vallejo, Ignacio",
   "variants": [
-   "ignacio vallejo"
+   "ignacio vallejo",
+   "ignacio vallejos"
   ],
   "role": "Soldier-settler (fl. 1780s–1810s): San José water-works, Branciforte; father of M.G.",
   "note": "",
@@ -615,7 +635,10 @@
   "note": "",
   "records": 8,
   "fl": "1776–1844",
-  "query": "serra"
+  "query": "serra",
+  "excludes": [
+   "jose serra"
+  ]
  },
  {
   "canonical": "Lasuén, Fermín Francisco de",
@@ -637,7 +660,14 @@
   "note": "",
   "records": 18,
   "fl": "1786–1845",
-  "query": "duran"
+  "query": "duran",
+  "excludes": [
+   "garrido y duran",
+   "jose duran",
+   "juan ma duran",
+   "juan maria duran",
+   "juan m duran"
+  ]
  },
  {
   "canonical": "García Diego y Moreno, Francisco",
