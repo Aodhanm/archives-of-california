@@ -7,6 +7,7 @@
 - Every document has a stable permalink: https://archivesofcalifornia.com/record/ca{VOLUME}/ca{VOLUME}-d{DOC}.html (e.g. /record/ca8/ca8-d148.html = Arrillaga's 1796 Colorado reconnaissance diary).
 - Volume guides: https://archivesofcalifornia.com/volumes/ · People pages: https://archivesofcalifornia.com/people/ · Bancroft-citation resolver (turns a Bancroft History of California footnote into the underlying record) on the home page.
 - NEW: How California Was Governed, 1697–1854 · five sourced charts of the political system (chain of command, the 1804 division of the Californias, the Mexican system, the north–south civil wars, the capitals in law vs in fact): https://archivesofcalifornia.com/government.html
+- /governors.html : Spanish and Mexican Governors of California, 1769 to 1850. Every governor, interim, rival claimant and comandante, with his dates, his seat of government, and the number of documents in this archive naming him.
 - Readers can report errors: every record page has a "Suggest a correction" button (GitHub issue or email); accepted corrections publish on the record with credit.
 - Accuracy is measured and disclosed (sampled audit, errata register with leaf evidence, missing-leaf disclosures on affected volumes). Corrections file: https://archivesofcalifornia.com/errata.json
 
