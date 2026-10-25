@@ -39,7 +39,14 @@ SERMAP = {'PSP': 'PSP', 'BenMil': 'PSP_BM', 'PSP-Presidios': 'PSP_PRES',
 
 # Bancroft's citation system per volume (leaf-proven; feedback_bancroft_page_numbers):
 # LEAF_CITED = he cites the handwritten per-tomo leaf / Savage-page side; MIXED = both.
-LEAF_CITED = {'12', '15', '16', '17', '18', '19', '20', '25', '26', '54', '55', '56'}
+# '28' added 2026-10-25: leaf-verified 2026-10-23 on 11 leaves + 4 content-confirmed
+# citations (ca-savage-dual-foliation-2026-10-23). Bancroft cites ca28's HANDWRITTEN
+# foliation (= stamp -1 below p.113, equal from 113); the resolver's 's' intervals
+# carry that shift (SAVAGE_FOLIATION_SHIFT). Before this, ca28's 'p' (orig tomo)
+# hits won and produced content-proven phantoms: all 6 attachments on ca28-d88 (the
+# Aug-1832 Echeandia exhortativa, tomo 208-211) are really cites of d274 (the Dec-1834
+# Figueroa federal-offices report, Savage 209-211) — one even names "F." as author.
+LEAF_CITED = {'12', '15', '16', '17', '18', '19', '20', '25', '26', '28', '54', '55', '56'}
 MIXED_CITED = {'13', '14', '44'}
 
 # volumes read to completion (per the completed-volumes ledger, 2026-07-14):
