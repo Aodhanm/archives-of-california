@@ -86301,14 +86301,6 @@
 "tier": "leaf",
 "shared": 6,
 "caveat": "28"
-},
-{
-"v": 3,
-"p": "718",
-"cite": "'s use. Id., iii. 11-12. J",
-"tier": "leaf",
-"shared": 6,
-"caveat": "28"
 }
 ]
 },
@@ -86523,14 +86515,6 @@
 "tier": "leaf",
 "shared": 2,
 "caveat": "28"
-},
-{
-"v": 3,
-"p": "286",
-"cite": "e Rosa. Id., iii. 21. M",
-"tier": "leaf",
-"shared": 2,
-"caveat": "28"
 }
 ]
 },
@@ -86543,28 +86527,6 @@
 "tier": "leaf",
 "shared": 2,
 "caveat": "28"
-},
-{
-"v": 3,
-"p": "286",
-"cite": "e Rosa. Id., iii. 21. M",
-"tier": "leaf",
-"shared": 2,
-"caveat": "28"
-},
-{
-"v": 3,
-"p": "286",
-"cite": "s made. Id., iii. 22. V",
-"tier": "leaf",
-"caveat": "28"
-},
-{
-"v": 3,
-"p": "672",
-"cite": "police. Id., 22. J",
-"tier": "leaf",
-"caveat": "28"
 }
 ]
 },
@@ -86575,33 +86537,6 @@
 "p": "214",
 "cite": "ts.64 **Dept. St. Pap., MS., iii. 169. 6",
 "tier": "leaf",
-"caveat": "28"
-}
-]
-},
-"ca28-d2-n1": {
-"cited": [
-{
-"v": 3,
-"p": "216",
-"cite": "eandia. Dept. St. Pap., MS., iii. 2ft.",
-"tier": "leaf",
-"caveat": "28"
-},
-{
-"v": 3,
-"p": "306",
-"cite": "ission. Dept. St. Pap., MS., iii. 1-3. E",
-"tier": "leaf",
-"shared": 2,
-"caveat": "28"
-},
-{
-"v": 3,
-"p": "307",
-"cite": "operty ™Dept. St. Pap., MS., iii. 3-5; D",
-"tier": "leaf",
-"shared": 5,
 "caveat": "28"
 }
 ]
@@ -86641,21 +86576,6 @@
 "caveat": "28"
 },
 {
-"v": 3,
-"p": "718",
-"cite": "tility. Id., 37. B",
-"tier": "leaf",
-"caveat": "28"
-},
-{
-"v": 3,
-"p": "718",
-"cite": "to Dec. Id., 35-47. J",
-"tier": "leaf",
-"shared": 16,
-"caveat": "28"
-},
-{
 "v": 5,
 "p": "261",
 "cite": "refect. Dept. St. Pap., MS., iii. 73-4, 34. P",
@@ -86674,14 +86594,6 @@
 "tier": "leaf",
 "shared": 5,
 "caveat": "28"
-},
-{
-"v": 3,
-"p": "718",
-"cite": "to Dec. Id., 35-47. J",
-"tier": "leaf",
-"shared": 16,
-"caveat": "28"
 }
 ]
 },
@@ -86693,14 +86605,6 @@
 "cite": "ntment. Dept. St. Pap., MS., iii. 27-38. F",
 "tier": "leaf",
 "shared": 5,
-"caveat": "28"
-},
-{
-"v": 3,
-"p": "718",
-"cite": "to Dec. Id., 35-47. J",
-"tier": "leaf",
-"shared": 16,
 "caveat": "28"
 }
 ]
@@ -87074,14 +86978,6 @@
 "tier": "leaf",
 "shared": 6,
 "caveat": "28"
-},
-{
-"v": 3,
-"p": "288",
-"cite": "papers. Id., iii. 23, 50, 52. V",
-"tier": "leaf",
-"shared": 8,
-"caveat": "28"
 }
 ]
 },
@@ -87190,14 +87086,6 @@
 "tier": "leaf",
 "shared": 7,
 "caveat": "28"
-},
-{
-"v": 3,
-"p": "288",
-"cite": "papers. Id., iii. 23, 50, 52. V",
-"tier": "leaf",
-"shared": 8,
-"caveat": "28"
 }
 ]
 },
@@ -87209,14 +87097,6 @@
 "cite": "lands. Dept. St. Pap., MS., iii. 47-50. O",
 "tier": "leaf",
 "shared": 7,
-"caveat": "28"
-},
-{
-"v": 3,
-"p": "288",
-"cite": "papers. Id., iii. 23, 50, 52. V",
-"tier": "leaf",
-"shared": 8,
 "caveat": "28"
 }
 ]
@@ -88435,42 +88315,6 @@
 }
 ]
 },
-"ca28-d34-n23": {
-"cited": [
-{
-"v": 3,
-"p": "288",
-"cite": "papers. Id., iii. 23, 50, 52. V",
-"tier": "leaf",
-"shared": 8,
-"caveat": "28"
-}
-]
-},
-"ca28-d35-n23": {
-"cited": [
-{
-"v": 3,
-"p": "288",
-"cite": "papers. Id., iii. 23, 50, 52. V",
-"tier": "leaf",
-"shared": 8,
-"caveat": "28"
-}
-]
-},
-"ca28-d59-n50": {
-"cited": [
-{
-"v": 3,
-"p": "288",
-"cite": "papers. Id., iii. 23, 50, 52. V",
-"tier": "leaf",
-"shared": 8,
-"caveat": "28"
-}
-]
-},
 "ca29-d11-n15": {
 "cited": [
 {
@@ -88753,6 +88597,26 @@
 "cite": "terior. Leg. Rec., MS., i. 134-58; G",
 "tier": "orig-page",
 "shared": 6
+}
+]
+},
+"ca28-d2-n1": {
+"cited": [
+{
+"v": 3,
+"p": "306",
+"cite": "ission. Dept. St. Pap., MS., iii. 1-3. E",
+"tier": "leaf",
+"shared": 2,
+"caveat": "28"
+},
+{
+"v": 3,
+"p": "307",
+"cite": "operty ™Dept. St. Pap., MS., iii. 3-5; D",
+"tier": "leaf",
+"shared": 5,
+"caveat": "28"
 }
 ]
 },
@@ -94612,138 +94476,6 @@
 "p": "713",
 "cite": "lands. Id., 249. R",
 "tier": "leaf"
-}
-]
-},
-"ca28-d16-n11": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "'s use. Id., iii. 11-12. J",
-"tier": "leaf",
-"shared": 6,
-"caveat": "28"
-}
-]
-},
-"ca28-d17-n11": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "'s use. Id., iii. 11-12. J",
-"tier": "leaf",
-"shared": 6,
-"caveat": "28"
-}
-]
-},
-"ca28-d18-n11": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "'s use. Id., iii. 11-12. J",
-"tier": "leaf",
-"shared": 6,
-"caveat": "28"
-}
-]
-},
-"ca28-d19-n12": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "'s use. Id., iii. 11-12. J",
-"tier": "leaf",
-"shared": 6,
-"caveat": "28"
-}
-]
-},
-"ca28-d20-n12": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "'s use. Id., iii. 11-12. J",
-"tier": "leaf",
-"shared": 6,
-"caveat": "28"
-}
-]
-},
-"ca28-d42-n39": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "to Dec. Id., 35-47. J",
-"tier": "leaf",
-"shared": 16,
-"caveat": "28"
-}
-]
-},
-"ca28-d43-n39": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "to Dec. Id., 35-47. J",
-"tier": "leaf",
-"shared": 16,
-"caveat": "28"
-}
-]
-},
-"ca28-d44-n41": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "to Dec. Id., 35-47. J",
-"tier": "leaf",
-"shared": 16,
-"caveat": "28"
-}
-]
-},
-"ca28-d75-n56": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "stions. Id. , 57. S",
-"tier": "leaf",
-"shared": 3,
-"caveat": "28"
-}
-]
-},
-"ca28-d76-n57": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "stions. Id. , 57. S",
-"tier": "leaf",
-"shared": 3,
-"caveat": "28"
-}
-]
-},
-"ca28-d77-n57": {
-"cited": [
-{
-"v": 3,
-"p": "718",
-"cite": "stions. Id. , 57. S",
-"tier": "leaf",
-"shared": 3,
-"caveat": "28"
 }
 ]
 },
@@ -101111,6 +100843,257 @@
 }
 ],
 "reason": "ca28 moved to LEAF_CITED (Bancroft cites its handwritten Savage foliation; leaf-verified 2026-10-23, ca-savage-dual-foliation-2026-10-23). These 7 survived the move because their cited numbers (220-392) exceed the Savage range (max 211), so only a tomo-page coincidence matched — and each is a mis-resolved Id. chain, not a DSP-iii citation. Antecedents read in HoC vol 3-4 OCR context 2026-10-25: 'Id., 346' and 'Id., 348' (x2) = 'This vol.' — Bancroft citing his OWN pages (Rocha comisionado 1834 / S.Rafael-parish annals, the chain heads say 'This vol., p. 332' and 'This vol., p. 279, 294'); 'Id., 390-2' = 'This vol.' (Capt. Walker's trappers wintering, narrated at HoC iii. 390-2); 'Id., 220' = the S.Jose/Branciforte jurisdiction-limits annals chain (local archive, not DSP); 'Id., iii. 235' = Vallejo, Doc., MS., iii. 235 (Kostromitinof's lighter pass, Sept 1836 — the antecedent two cites back is 'Vallejo, Doc, MS., iii. 100'). Established independently: Bancroft never cites ca28 by original tomo pages, so ANY >211 number attached to ca28 is a phantom regardless of antecedent."
+},
+{
+"date": "2026-10-25",
+"removed": [
+{
+"record": "ca28-d15-n10",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "'s use. Id., iii. 11-12. J"
+}
+},
+{
+"record": "ca28-d16-n11",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "'s use. Id., iii. 11-12. J"
+}
+},
+{
+"record": "ca28-d17-n11",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "'s use. Id., iii. 11-12. J"
+}
+},
+{
+"record": "ca28-d18-n11",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "'s use. Id., iii. 11-12. J"
+}
+},
+{
+"record": "ca28-d19-n12",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "'s use. Id., iii. 11-12. J"
+}
+},
+{
+"record": "ca28-d20-n12",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "'s use. Id., iii. 11-12. J"
+}
+},
+{
+"record": "ca28-d32-n20",
+"cite": {
+"v": 3,
+"p": "286",
+"cite": "e Rosa. Id., iii. 21. M"
+}
+},
+{
+"record": "ca28-d33-n21",
+"cite": {
+"v": 3,
+"p": "286",
+"cite": "e Rosa. Id., iii. 21. M"
+}
+},
+{
+"record": "ca28-d33-n21",
+"cite": {
+"v": 3,
+"p": "286",
+"cite": "s made. Id., iii. 22. V"
+}
+},
+{
+"record": "ca28-d33-n21",
+"cite": {
+"v": 3,
+"p": "672",
+"cite": "police. Id., 22. J"
+}
+},
+{
+"record": "ca28-d39-n31",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "tility. Id., 37. B"
+}
+},
+{
+"record": "ca28-d39-n31",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "to Dec. Id., 35-47. J"
+}
+},
+{
+"record": "ca28-d40-n38",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "to Dec. Id., 35-47. J"
+}
+},
+{
+"record": "ca28-d41-n38",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "to Dec. Id., 35-47. J"
+}
+},
+{
+"record": "ca28-d42-n39",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "to Dec. Id., 35-47. J"
+}
+},
+{
+"record": "ca28-d43-n39",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "to Dec. Id., 35-47. J"
+}
+},
+{
+"record": "ca28-d44-n41",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "to Dec. Id., 35-47. J"
+}
+},
+{
+"record": "ca28-d62-n51",
+"cite": {
+"v": 3,
+"p": "288",
+"cite": "papers. Id., iii. 23, 50, 52. V"
+}
+},
+{
+"record": "ca28-d57-n49",
+"cite": {
+"v": 3,
+"p": "288",
+"cite": "papers. Id., iii. 23, 50, 52. V"
+}
+},
+{
+"record": "ca28-d58-n50",
+"cite": {
+"v": 3,
+"p": "288",
+"cite": "papers. Id., iii. 23, 50, 52. V"
+}
+},
+{
+"record": "ca28-d34-n23",
+"cite": {
+"v": 3,
+"p": "288",
+"cite": "papers. Id., iii. 23, 50, 52. V"
+}
+},
+{
+"record": "ca28-d35-n23",
+"cite": {
+"v": 3,
+"p": "288",
+"cite": "papers. Id., iii. 23, 50, 52. V"
+}
+},
+{
+"record": "ca28-d59-n50",
+"cite": {
+"v": 3,
+"p": "288",
+"cite": "papers. Id., iii. 23, 50, 52. V"
+}
+},
+{
+"record": "ca28-d75-n56",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "stions. Id. , 57. S"
+}
+},
+{
+"record": "ca28-d76-n57",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "stions. Id. , 57. S"
+}
+},
+{
+"record": "ca28-d77-n57",
+"cite": {
+"v": 3,
+"p": "718",
+"cite": "stions. Id. , 57. S"
+}
+},
+{
+"record": "ca28-d2-n1",
+"cite": {
+"v": 3,
+"p": "216",
+"cite": "eandia. Dept. St. Pap., MS., iii. 2ft."
+}
+}
+],
+"reason": "Second Id.-chain purge for ca28, complementing the 2026-10-25 >211-page purge: Id. cites with SMALL numbers attach through the Savage ('s') intervals and are equally mis-resolved. All 12 distinct Id.-source cites behind ca28's 40 Id-derived attachments were antecedent-resolved by a 12-agent panel reading each chain backward to its head, then cross-checked by an audit agent that re-located every cite at its printed footnote (11/12 verified at the correct footnote; the one mislocated chain_quote was corrected, same verdict). 8 cites = OTHER SERIES, feeding these 26 removals: the Solano-annals chain at HoC iii.719-20 ('Id., iii. 11-12', 'Id., 37', 'Id., 35-47', 'Id., 57') resolves to VALLEJO, DOC., MS., iii. (chain head 'Vallejo, Doc., MS., iii. 33, 36, 54; xxiii. 9; xxxii. 2'; all 1835 Sonoma material, outside DSP III's 1831-34 span); the Hijar-colonist arms notes at iii.286-90 ('Id., iii. 21', 'Id., iii. 22', 'Id., iii. 23, 50, 52') resolve to Vallejo, Doc. (head 'Vallejo, Doc., MS., iii. 25'; March 1835 Rosa embarkation); the Monterey-annals 'Id., 22' resolves to Dept. St. Pap., MONT., ii. (the sub-series, a different C-A volume). 4 cites verified GENUINELY DSP-iii and kept ('Id., iii. 52-3', 'iii. 62', 'iii. 67-9', 'iii. 111' — each Id. carries its own 'iii.' and sits directly downstream of an explicit 'Dept. St. Pap., MS., iii.' head; content fits the attached records under the foliation rule, e.g. iii. 111 = the 7 Apr 1833 Suisun hunters letter = d139 exactly). The 27th removal is ca28-d2's 'iii. 2ft.' OCR garble: the footnote sentence is the 17 Jan 1832 Ortega/Osio letter, the record is Jan-1831 Arguello on San Gabriel; the attachment exists only because the garbled page parsed as 2. Per-removal antecedents stored alongside each pair.",
+"per_removal_antecedents": {
+"ca28-d15-n10|'s use. Id., iii. 11-12. J": "Vallejo, Doc., MS., iii. (Vallejo, Documentos para la Historia de California, tomo iii)",
+"ca28-d16-n11|'s use. Id., iii. 11-12. J": "Vallejo, Doc., MS., iii. (Vallejo, Documentos para la Historia de California, tomo iii)",
+"ca28-d17-n11|'s use. Id., iii. 11-12. J": "Vallejo, Doc., MS., iii. (Vallejo, Documentos para la Historia de California, tomo iii)",
+"ca28-d18-n11|'s use. Id., iii. 11-12. J": "Vallejo, Doc., MS., iii. (Vallejo, Documentos para la Historia de California, tomo iii)",
+"ca28-d19-n12|'s use. Id., iii. 11-12. J": "Vallejo, Doc., MS., iii. (Vallejo, Documentos para la Historia de California, tomo iii)",
+"ca28-d20-n12|'s use. Id., iii. 11-12. J": "Vallejo, Doc., MS., iii. (Vallejo, Documentos para la Historia de California, tomo iii)",
+"ca28-d32-n20|e Rosa. Id., iii. 21. M": "Vallejo, Doc., MS.",
+"ca28-d33-n21|e Rosa. Id., iii. 21. M": "Vallejo, Doc., MS.",
+"ca28-d33-n21|s made. Id., iii. 22. V": "Vallejo, Doc., MS. (= Vallejo, Doc., MS., iii. 22)",
+"ca28-d33-n21|police. Id., 22. J": "Dept. St. Pap., Mont., MS., ii. (Monterey sub-series) — i.e. \"Id., Mont., ii. 22\"",
+"ca28-d39-n31|tility. Id., 37. B": "Vallejo, Doc., MS., iii.",
+"ca28-d39-n31|to Dec. Id., 35-47. J": "Vallejo, Doc., MS., iii. (OCR'd as \"I Doc, MS., iii.\" — the Vallejo name is garbled, but e",
+"ca28-d40-n38|to Dec. Id., 35-47. J": "Vallejo, Doc., MS., iii. (OCR'd as \"I Doc, MS., iii.\" — the Vallejo name is garbled, but e",
+"ca28-d41-n38|to Dec. Id., 35-47. J": "Vallejo, Doc., MS., iii. (OCR'd as \"I Doc, MS., iii.\" — the Vallejo name is garbled, but e",
+"ca28-d42-n39|to Dec. Id., 35-47. J": "Vallejo, Doc., MS., iii. (OCR'd as \"I Doc, MS., iii.\" — the Vallejo name is garbled, but e",
+"ca28-d43-n39|to Dec. Id., 35-47. J": "Vallejo, Doc., MS., iii. (OCR'd as \"I Doc, MS., iii.\" — the Vallejo name is garbled, but e",
+"ca28-d44-n41|to Dec. Id., 35-47. J": "Vallejo, Doc., MS., iii. (OCR'd as \"I Doc, MS., iii.\" — the Vallejo name is garbled, but e",
+"ca28-d62-n51|papers. Id., iii. 23, 50, 52. V": "Vallejo, Doc., MS. (OCR \"Vallejo, Doc, MS., iii. 28\")",
+"ca28-d57-n49|papers. Id., iii. 23, 50, 52. V": "Vallejo, Doc., MS. (OCR \"Vallejo, Doc, MS., iii. 28\")",
+"ca28-d58-n50|papers. Id., iii. 23, 50, 52. V": "Vallejo, Doc., MS. (OCR \"Vallejo, Doc, MS., iii. 28\")",
+"ca28-d34-n23|papers. Id., iii. 23, 50, 52. V": "Vallejo, Doc., MS. (OCR \"Vallejo, Doc, MS., iii. 28\")",
+"ca28-d35-n23|papers. Id., iii. 23, 50, 52. V": "Vallejo, Doc., MS. (OCR \"Vallejo, Doc, MS., iii. 28\")",
+"ca28-d59-n50|papers. Id., iii. 23, 50, 52. V": "Vallejo, Doc., MS. (OCR \"Vallejo, Doc, MS., iii. 28\")",
+"ca28-d75-n56|stions. Id. , 57. S": "Vallejo, Doc., MS., iii. (audit-corrected: the cite is 'Wants more suggestions. Id., 57' inside the Solano note pp.719-20, NOT the p.683 mission-statistics note)",
+"ca28-d76-n57|stions. Id. , 57. S": "Vallejo, Doc., MS., iii. (audit-corrected: the cite is 'Wants more suggestions. Id., 57' inside the Solano note pp.719-20, NOT the p.683 mission-statistics note)",
+"ca28-d77-n57|stions. Id. , 57. S": "Vallejo, Doc., MS., iii. (audit-corrected: the cite is 'Wants more suggestions. Id., 57' inside the Solano note pp.719-20, NOT the p.683 mission-statistics note)",
+"ca28-d2-n1|eandia. Dept. St. Pap., MS., iii. 2ft.": "OCR-garbled page; sentence = the 17 Jan 1832 Ortega/Osio letter, not this record"
+}
 }
 ]
 }
