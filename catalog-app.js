@@ -26,7 +26,7 @@ function apply(){let q=norm(el('q').value).trim();const fv=el('fv').value,fs=el(
  rows.sort((a,b)=>{let x=a[sortK]||"",y=b[sortK]||"";if(sortK=='ca_volume'||sortK=='doc_id'||sortK=='year'){x=parseInt(x)||0;y=parseInt(y)||0;}return x<y?-sortD:x>y?sortD:0;});render(q);saveHash();}
 function hlt(t,q){t=esc(t);if(!q)return t;try{const pat=q.split('|').map(s=>s.trim()).filter(Boolean).map(s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|');if(!pat)return t;return t.replace(new RegExp('('+pat+')','ig'),'<mark>$1</mark>');}catch(e){return t;}}
 function render(q){const fb=el('fb').value;const pv=[...new Set(rows.map(r=>r.ca_volume))].filter(v=>VOLCOV[v]&&VOLCOV[v].cov!=='complete');
- el('count').textContent=rows.length.toLocaleString()+" records"+(fb?(" · Bancroft: "+el('fb').selectedOptions[0].text):"")+(pv.length?" · ⚠ includes partly-cataloged vols: "+pv.slice(0,3).map(v=>'C-A '+v).join(', ')+(pv.length>3?' +'+(pv.length-3):'')+" (see About)":"")+" · data build 2026-10-25";
+ el('count').textContent=rows.length.toLocaleString()+" records"+(fb?(" · Bancroft: "+el('fb').selectedOptions[0].text):"")+(pv.length?" · ⚠ includes partly-cataloged vols: "+pv.slice(0,3).map(v=>'C-A '+v).join(', ')+(pv.length>3?' +'+(pv.length-3):'')+" (see About)":"")+" · data build 2026-10-29";
  document.querySelectorAll('#catview thead th').forEach(t=>{const a=t.querySelector('.ar');if(a)a.textContent=(t.dataset.k==sortK)?(sortD>0?' ▲':' ▼'):'';});
  const lim=Math.min(rows.length,1500),h=[];
  for(let i=0;i<lim;i++){const r=rows[i],vb=r.source_type=='verbatim transcription';
