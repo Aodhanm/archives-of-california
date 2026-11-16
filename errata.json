@@ -3535,5 +3535,170 @@
    95,
    96
   ]
+ },
+ {
+  "key": "ca21-d125-n64",
+  "vol": "21",
+  "doc": "125",
+  "type": "catalog-correction",
+  "was": "The school has 24 boys.",
+  "reads": "«cuenta con 22 niños»",
+  "note": "Triple leaf read (first read, blind second read, adjudication), 2026-11-04.",
+  "ia": "https://archive.org/details/168036074_80_3_2/page/n64",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca21-d148-n77",
+  "vol": "21",
+  "doc": "148",
+  "type": "catalog-correction",
+  "was": "Dated 1815-10-30; Francisco Soto listed as \"(grad. sgt)\".",
+  "reads": "«Octubre 20» [1815]. Soto is a cabo graduado de sargento, serving as cabo; the second sargento is J.e Ant.o Sanchez.",
+  "note": "Triple leaf read, 2026-11-04.",
+  "ia": "https://archive.org/details/168036074_80_3_2/page/n77",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca21-d152-n80",
+  "vol": "21",
+  "doc": "152",
+  "type": "catalog-correction",
+  "was": "Dated 1780-05-01; cabo \"Baltasar Meza[?]\".",
+  "reads": "«+ 1784 = Marzo 1° = S. Francisco»; «Balerio Meza, Cabo».",
+  "note": "Four years and two months out. Triple leaf read, 2026-11-04.",
+  "ia": "https://archive.org/details/168036074_80_3_2/page/n80",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca15-d84-n68",
+  "vol": "15",
+  "doc": "84",
+  "type": "catalog-correction",
+  "was": "Dated 1781-04-24; no place given.",
+  "reads": "«+ 1781 = Obre 24 = S. Gabriel.» = 24 October 1781.",
+  "note": "Month token is «Obre» (capital O, raised bre), not «8bre»; both expand to octubre. Triple leaf read, 2026-11-04.",
+  "ia": "https://archive.org/details/168035972_79_17_2/page/n68",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca17-d98-n66",
+  "vol": "17",
+  "doc": "98",
+  "type": "catalog-correction",
+  "was": "Inválidos \"4 cabos + 20 = 24\".",
+  "reads": "«Inválidos - 7 Cabos, 20 Sold.s .... 27»",
+  "note": "The catalogue figure is internally consistent and still wrong. Triple leaf read, 2026-11-04.",
+  "ia": "https://archive.org/details/168035972_79_19_2/page/n66",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca15-d117-n97",
+  "vol": "15",
+  "doc": "117",
+  "type": "catalog-correction",
+  "was": "Arms arriving from México in 1777: 51 swords, 40 pairs of pistols, 51 lances.",
+  "reads": "«Vinieron de Mexico en 1779, 51 espadas, 70 pares de pistolas y 51 lanzas.»",
+  "note": "Pistols 70, not 40; year 1779, not 1777. Swords and lances agree (control). Triple leaf read, 2026-11-04.",
+  "ia": "https://archive.org/details/168035972_79_17_2/page/n97",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca56-d10-n5",
+  "vol": "56",
+  "doc": "10",
+  "type": "catalog-correction",
+  "was": "Dated 1823-12-03.",
+  "reads": "«+ 1825. Diciembre 3 Mont.»",
+  "note": "Final digit checked at scale 1 against «1824» in the next heading on the same leaf. Two independent readers.",
+  "ia": "https://archive.org/details/bancarchca_81_18/page/n5",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca18-d192-n219",
+  "vol": "18",
+  "doc": "192",
+  "type": "scan-pin",
+  "was": "Scan n219.",
+  "reads": "The Monterey fuerza militar statement is on n220 (stamped 219); n219 holds a criminal cause.",
+  "note": "C-A 18 has a duplicate exposure at n215/n216, so stamp = leaf − 1 from n216.",
+  "ia": "https://archive.org/details/168035973_79_20/page/n219",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca18-d354-n402",
+  "vol": "18",
+  "doc": "354",
+  "type": "caution",
+  "was": "Scan n402.",
+  "reads": "n402 holds «1828 Mzo 31 S.n F.co / Raymundo Estrada, Administ.or de tabacos» (tobacco revenue), not this muster.",
+  "note": "Correct leaf not yet located. Related to the C-A 18 duplicate exposure at n215/n216.",
+  "ia": "https://archive.org/details/168035973_79_20/page/n402",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca16-d154-n93",
+  "vol": "16",
+  "doc": "154",
+  "type": "catalog-correction",
+  "was": "San Diego: 1 tte, 1 cabo, 2 drummers, 21 sol. (sums to 72 vs stated 73).",
+  "reads": "«1 Tent.e, 1 id. [sarg.to 2.o], 1 cabo, 2 segundos [cabos 2.os], 21 sold.s» = 26; total 73.",
+  "note": "Leaf read for the presidio register (1 reader + leaf arithmetic).",
+  "ia": "https://archive.org/details/168035972_79_18_2/page/n93",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca16-d570-n339",
+  "vol": "16",
+  "doc": "570",
+  "type": "catalog-correction",
+  "was": "\"≈89 plazas\".",
+  "reads": "«Total 91 hombres»; components close on 91.",
+  "note": "Leaf read for the presidio register (1 reader + leaf arithmetic).",
+  "ia": "https://archive.org/details/168035972_79_18_2/page/n339",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca16-d603-n376",
+  "vol": "16",
+  "doc": "603",
+  "type": "catalog-correction",
+  "was": "\"Total 42 [sic]\".",
+  "reads": "Total 72, which the named components give exactly (7 misread as 4).",
+  "note": "Leaf read for the presidio register (1 reader + leaf arithmetic).",
+  "ia": "https://archive.org/details/168035972_79_18_2/page/n376",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca15-d286-n209",
+  "vol": "15",
+  "doc": "286",
+  "type": "catalog-correction",
+  "was": "Invoice from México $620.2.",
+  "reads": "«6620.2»: 2044.4 + 6620.2 + 1616.2 = the stated 10281.",
+  "note": "Leaf read for the presidio register (1 reader + leaf arithmetic).",
+  "ia": "https://archive.org/details/168035972_79_17_2/page/n209",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca10-d233-n191",
+  "vol": "10",
+  "doc": "233",
+  "type": "catalog-correction",
+  "was": "Resumen plazas Santa Bárbara 57, San Diego 57.",
+  "reads": "59 / 59 (blocks 61/61 less 2 officers each).",
+  "note": "Leaf read for the presidio register (2 blind readers + leaf arithmetic).",
+  "ia": "https://archive.org/details/168036075_79_12/page/n191",
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca16-d19-n15",
+  "vol": "16",
+  "doc": "19",
+  "type": "catalog-correction",
+  "was": "3 cabos, 44 soldados = 52.",
+  "reads": "45 soldados; closes on 52.",
+  "note": "Leaf read for the presidio register (1 reader + arithmetic).",
+  "ia": "https://archive.org/details/168035972_79_18_2/page/n15",
+  "logged": "2026-11"
  }
 ]
