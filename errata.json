@@ -3700,5 +3700,79 @@
   "note": "Leaf read for the presidio register (1 reader + arithmetic).",
   "ia": "https://archive.org/details/168035972_79_18_2/page/n15",
   "logged": "2026-11"
+ },
+ {
+  "key": "ca54-d3-n4",
+  "vol": "54",
+  "doc": "3",
+  "type": "catalog-correction",
+  "was": "Muster roll + arms/munitions report, Monterey presidial company, 1797 Apr; 51 soldiers; '4@ 17 lb powder'; build note glossed '3rd curtain-wall complete [Monterey], 1797'.",
+  "reads": "Four corrections. (1) PLACE and (2) YEAR: the heading at n4 reads «1787. Nov. 3. Sta Bárb.ª / Felipe de Goycoechea - Comp.ª presidial»: Santa Bárbara, 3 November 1787, not Monterey, April 1797. (3) STRENGTH: the totals at n6 read «1 Ten.te, 3 sarg.tos, 2 cabos, 50 sold.s = 56», not 51 soldiers. (4) POWDER: n6 reads «42@ 17 lbs. de pólvora», not 4@. The build note at n7, «Se halla concluido el 3.er lienzo de este Presidio con Iglesia, casas de oficiales, casa de capellán, y 5 casas de soldados», therefore describes Santa Bárbara in 1787; the catalogue's inserted «[Monterey]» is wrong.",
+  "note": "Leaf read 2026-11-17 (1 reader) for the maps verification; the maps already carry the leaf reading.",
+  "ia": "https://archive.org/details/bancarchca_81_16/page/n4",
+  "leaves_read": [
+   4,
+   6,
+   7
+  ],
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca14-d84-n93",
+  "vol": "14",
+  "doc": "84",
+  "type": "catalog-correction",
+  "was": "'Presidios de Alta Cal. están indefensos, cuya circunstancia ha sido notada por los mismos ingleses.' Cannot resist invasion. 8 English prisoners at Monterey; 3 want to convert",
+  "reads": "Two corrections. (1) INVASION: «Cannot resist invasion» is not on the leaf. The clause is the English sailors' own words, quoted by Arrillaga: «notada p.r los mismos ingleses \"los q.e insinuan haber muchos piratas y no juzgar remota una invasion\"» (it is the English who do not judge an invasion remote). (2) PRISONERS: the leaf counts «5 individuos de buques ingleses q.e estan presos en Mont.», not 8; three ask to enter the Church, «diciendo los otros dos q.e ya lo son». The entry is headed «(2 Docs) - pp. 236. 7»: the catalogue's xxi.236-7 is right.",
+  "note": "Leaf read 2026-11-17 (1 reader) for the maps verification; the maps already carry the leaf reading.",
+  "ia": "https://archive.org/details/168036075_79_16_2/page/n93",
+  "leaves_read": [
+   93
+  ],
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca34-d1292-n525",
+  "vol": "34",
+  "doc": "1292",
+  "type": "catalog-correction",
+  "was": "the pursuit party = 13 men, 4 muskets, 7 pairs pistols, 19 lances, 22 sabres, 445 cartridges",
+  "reads": "«la partida se compone de 75 hombres provistos de 49. fuciles, 9 pares pistolas, 19 lanzas, 22 Espadas y sables y 445 Cartuchos todo en buen estado» (n526): 75 men, 49 muskets, 9 pairs of pistols. The lances, swords and cartridges are right.",
+  "note": "Leaf read 2026-11-17 (1 reader) for the maps verification; the maps already carry the leaf reading.",
+  "ia": "https://archive.org/details/168036072_80_16/page/n526",
+  "leaves_read": [
+   525,
+   526
+  ],
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca34-d1293-n526",
+  "vol": "34",
+  "doc": "1293",
+  "type": "catalog-correction",
+  "was": "he fled ('salió a escape') as tired horses let his men fall to the raiders",
+  "reads": "The leaf gives a different reason: «que salió á escape por que del rancho de las animas se pasó á los Ang.s la gente que lo acompañaba»: he fled because the men with him had gone off from the rancho de las Ánimas to Los Ángeles. Nothing about tired horses. Same leaf: he reached the point at 8 at night «con 8 hombres… de 23 de que se componia la partida».",
+  "note": "Leaf read 2026-11-17 (1 reader) for the maps verification; the maps already carry the leaf reading.",
+  "ia": "https://archive.org/details/168036072_80_16/page/n526",
+  "leaves_read": [
+   526
+  ],
+  "logged": "2026-11"
+ },
+ {
+  "key": "ca53-d10-n15",
+  "vol": "53",
+  "doc": "10",
+  "type": "catalog-correction",
+  "was": "date 1829-05-16; final: 2 dead + 8 wounded (3 serious) + 3 auxiliaries (1 mortal); commends cabo Antonio Soto, soldiers Manuel Piña & Tomás Pacheco",
+  "reads": "Three corrections. (1) DATE: the heading at n15 reads «1829. Mayo 10 S. José / José Sanchez al Com.te C. Yg.o Martínez»: 10 May, not 16 May. (2) AUXILIARIES: n20 reads «con dos soldados muertos y 8 heridos, 3 de gravedad y 11 de los auxiliares tambien heridos, 1 de muerte»: eleven auxiliaries wounded, not three (Bancroft III:111 n.53 has eleven). (3) NAMES: n20 commends «al Cabo Antonio Soto, y los Soldados Man.l P[?]ña y Lorenzo Pacheco»: Lorenzo, not Tomás, Pacheco. The second letter of the soldier's surname is uncertain (Piña or Peña) and is left unresolved.",
+  "note": "Leaf read 2026-11-17 (1 reader) for the maps verification; the maps already carry the leaf reading.",
+  "ia": "https://archive.org/details/bancarchca_81_15/page/n15",
+  "leaves_read": [
+   15,
+   20
+  ],
+  "logged": "2026-11"
  }
 ]
