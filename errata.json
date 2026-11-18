@@ -3774,5 +3774,76 @@
    20
   ],
   "logged": "2026-11"
+ },
+ {
+  "key": "ca33-d192-n189",
+  "vol": "33",
+  "doc": "192",
+  "type": "date",
+  "ia": "https://archive.org/details/168036073_80_15/page/n189",
+  "leaves_read": [
+   189,
+   190
+  ],
+  "logged": "2026-11",
+  "was": "year 1822; date_text '1822 (May 26-27)'; described as 'the earliest resident-foreigner registry'",
+  "reads": "The leaf headers read «1829 = Marzo 26 = S.n Gabriel» (n189, foot) and «1829 = Marzo 27 = Angeles» (n190, three times), in the same hand as the 1829 documents surrounding them; the digits were re-checked under magnification. SEVEN YEARS OUT, and the month is March, not May. Consequence: this cluster is contemporaneous with ca33-d197 (1829, Feb-May), not seven years earlier, so the two are one registration drive and this is NOT the earliest resident-foreigner registry. Year, date_text, title and summary corrected.",
+  "note": "Leaf read 2026-11-17 (1 reader) during the American-involvement register's leaf pass; every catalogue-only entry on that register was read at scale 2."
+ },
+ {
+  "key": "ca33-d197-n201",
+  "vol": "33",
+  "doc": "197",
+  "type": "catalog-correction",
+  "ia": "https://archive.org/details/168036073_80_15/page/n201",
+  "leaves_read": [
+   201
+  ],
+  "logged": "2026-11",
+  "was": "'John Burton (americano, soltero, protestante...)'; 'Tomas (Thomas) Lucas (ingles, soltero, 41 anos...)'",
+  "reads": "Two names misread. The leaf (stamp 199 / pencil 26) gives «John Boston. Declaracion. Que es Americano, soltero, de 40 años de edad, protestante, y que no tiene persona que dé testimonio de su conducta en el vecindario» (7 April 1829), and «Que Tomas Lestor es inglés, soltero, 41 años, llegado al país en 1817 y marinero desertor» (6 April 1829). BOSTON not Burton; LESTOR not Lucas. The leaf also supplies Boston's age, 40.",
+  "note": "Leaf read 2026-11-17 (1 reader) during the American-involvement register's leaf pass; every catalogue-only entry on that register was read at scale 2."
+ },
+ {
+  "key": "ca26-d920-n244",
+  "vol": "26",
+  "doc": "920",
+  "type": "catalog-correction",
+  "ia": "https://archive.org/details/168036074_80_8_2/page/n244",
+  "leaves_read": [
+   244
+  ],
+  "logged": "2026-11",
+  "was": "*Alexander* '100 tons, Capn. [Juan] Bemis, 19 tripulantes'; '449 pieles de nutria'",
+  "reads": "Three figures wrong. The leaf reads «Enterado de la llegada de la Fragata Americana (en 26 de Febrero) Alexander, de 180 tons., su capitan Juan Brown, con 19 homb.s de tripulacion y procedente de Boston» and «Que queda enterado del descubrimiento de las 491 pieles de nutria que recibió dicha Fragata, no obstante las precauciones que se tomaron para evitar todo comercio, y que dichas pieles se depositaron en el Almacen hasta nuevo aviso». 180 TONS not 100; BROWN not Bemis (ca52-d023 independently names 'Capt. John Brown'); 491 PIELES not 449, the digits re-checked under magnification. Crew (19) and Boston origin confirmed.",
+  "note": "Leaf read 2026-11-17 (1 reader) during the American-involvement register's leaf pass; every catalogue-only entry on that register was read at scale 2."
+ },
+ {
+  "key": "ca12-d415-n344",
+  "vol": "12",
+  "doc": "415",
+  "type": "reading",
+  "ia": "https://archive.org/details/168036075_79_14/page/n344",
+  "leaves_read": [
+   344
+  ],
+  "logged": "2026-11",
+  "was": "relays Royal order of 9 Apr 1813 'that authorities not obstruct Anglo-American privateers, and dispose of English prizes in their ports'",
+  "reads": "THE SUMMARY SAID THE OPPOSITE OF THE DOCUMENT. The leaf reads: Calleja «hace saber la órden R.al de 9 Ab.l 1813, que las autoridades ‘cuiden de que NO SE DÉ FACILIDAD ALG.A á los corsarios Anglo-Am.s’ p.a q.e dispongan de las presas inglesas en los puertos pertenec.tes». The order directs that NO facility whatever be given to Anglo-American privateers to dispose of English prizes in Spanish ports. The same leaf carries the complementary order on British vessels: «disponga V.E. lo conveniente p.a su buena acogida… tratados con la mayor atencion… correspond.te á la feliz union que subsiste entre las dos potencias», plus help preventing British desertion and watching that crews have no «comunicac.n con los descontentos».",
+  "note": "Leaf read 2026-11-17 (1 reader) during the American-involvement register's leaf pass; every catalogue-only entry on that register was read at scale 2."
+ },
+ {
+  "key": "ca43-d816-n425",
+  "vol": "43",
+  "doc": "816",
+  "type": "reading",
+  "ia": "https://archive.org/details/168036067_81_5/page/n425",
+  "leaves_read": [
+   425
+  ],
+  "logged": "2026-11",
+  "was": "'Enterado de la retirada del Comodoro de las fuerzas navales americanas'; year 1841; date_text '1841-1842'",
+  "reads": "RECLAMOS, not retirada. The leaf (stamp 425 / pencil 26) reads «1842 = Alisal / Alvarado á J.é J. Fernandez // 25 (Sin mes) … Enterado de los RECLAMOS del Comodoro de las fuerzas navales Americanas». The document concerns Commodore Jones's CLAIMS, not his withdrawal, and its header year is 1842, with the day given as 25 and no month.",
+  "note": "Leaf read 2026-11-17 (1 reader) during the American-involvement register's leaf pass; every catalogue-only entry on that register was read at scale 2."
  }
 ]
