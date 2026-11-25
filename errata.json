@@ -3845,5 +3845,41 @@
   "was": "'Enterado de la retirada del Comodoro de las fuerzas navales americanas'; year 1841; date_text '1841-1842'",
   "reads": "RECLAMOS, not retirada. The leaf (stamp 425 / pencil 26) reads «1842 = Alisal / Alvarado á J.é J. Fernandez // 25 (Sin mes) … Enterado de los RECLAMOS del Comodoro de las fuerzas navales Americanas». The document concerns Commodore Jones's CLAIMS, not his withdrawal, and its header year is 1842, with the day given as 25 and no month.",
   "note": "Leaf read 2026-11-17 (1 reader) during the American-involvement register's leaf pass; every catalogue-only entry on that register was read at scale 2."
+ },
+ {
+  "key": "ca52-d023-n84",
+  "vol": "52",
+  "doc": "23",
+  "type": "date",
+  "ia": "https://archive.org/details/bancarchca_81_14/page/n84",
+  "leaves_read": [
+   83,
+   84,
+   85,
+   86,
+   87,
+   88
+  ],
+  "logged": "2026-11",
+  "was": "year 1794; date_text '1794-08-26'",
+  "reads": "1803, not 1794. The document begins in the LOWER HALF of n84 (stamp 85 / pencil 84), below a royal cedula that ends «en San Lorenzo el Real, á 5 de Nov.e 1781». Its heading reads «803 - Ag.to 26 - S.n Fran.co / José Argüello al Gob.r José Joaquín de Arrillaga: Reparación de haberías y refresco de las Frgts. Alejan[dro]...». Savage writes the year without the leading 1, as '803'; the middle digit is a clean round 0, checked at maximum available resolution against the fully written '1781' three lines above. The catalogued span n84-87 is CORRECT. ⚠ A 1794 date would have made the Alexander and Hazard the first American ships in California, two years before the Otter, a false precedence.",
+  "note": "Leaf read 2026-11-25 (1 reader). Corrects an earlier claim by the same reader that n84 did not carry this document at all: that was based on reading only the top and middle of the leaf."
+ },
+ {
+  "key": "ca52-d024-n88",
+  "vol": "52",
+  "doc": "24",
+  "type": "date",
+  "ia": "https://archive.org/details/bancarchca_81_14/page/n88",
+  "leaves_read": [
+   88,
+   89,
+   90,
+   91
+  ],
+  "logged": "2026-11",
+  "was": "year 1793; date_text '1793/94-08-12'; date_confidence year; theme 'needs-reread'",
+  "reads": "1803, not 1793, and the content proves it independently of the digits. Heading at n88 (stamp 89 / pencil 88): «803 - Ag.to 12 - S.n Fran.co / James Rowan á José Argüello: Permiso p.a reparar la Frgta., y le relata sus batallas con los Indios». ⭐ The narrative at n90 recounts the taking of the ship «Boston»: «tomado la frgta. 'Boston,' la dha. frgta. despues de haber sido en el P.to 4 dias el dho. Cap.n de Indios con el Cap.n del Barco». The Boston was seized at Nootka in MARCH 1803, so a report of 12 August relating it cannot be 1793. The same passage gives the cause of the quarrel: the captain told the Indian captain that he «parecía hombre muy bajo», and was answered with the word «Picegue», which the document glosses as meaning «hombre malo» in his language. ⚠ That gloss is the document's own; it is not a locked rendering. date_confidence raised to exact and the 'needs-reread' theme cleared.",
+  "note": "Leaf read 2026-11-25 (1 reader). Catalogued span n88-94 is CORRECT."
  }
 ]
