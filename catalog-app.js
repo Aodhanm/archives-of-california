@@ -178,11 +178,31 @@ function rResolve(){const box=el('bres');
  } else {
   const have=Object.keys(RESV.index[sk]||{}).map(Number).sort((a,b)=>a-b);
   const want=[...new Set(refs.map(r=>r[0]))];
-  let why;
+  let why, extra='';
   if(!have.length) why='<b>'+label+'</b> is recognized but not yet in the catalog; its volumes are still being read. This footnote will resolve when they publish.';
-  else if(!want.some(w=>have.includes(w))) why='Tomo <b>'+want.map(rToRoman).join(', ')+'</b> of <b>'+label+'</b> is not yet cataloged. Cataloged tomos: '+have.map(rToRoman).join(', ')+'.';
-  else why='The tomo is cataloged, but the cited page falls in a stretch not yet cataloged (or the record lacks an original-page value). Try the catalog search by content.';
-  box.innerHTML='<p>'+why+'</p>';
+  else if(!want.some(w=>have.includes(w))) why='Tomo <b>'+want.map(rToRoman).join(', ')+'</b> of <b>'+label+'</b> is not yet cataloged. Cataloged tomos: '+have.map(rToRoman).join(', ')+'. An uncatalogued tomo is a coverage gap in this project, not a missing manuscript.';
+  else {
+   // mid-span miss: say what IS covered and show the nearest catalogued records,
+   // so a dead end still tells the reader exactly where the catalogue stands (2026-11-26).
+   const t0=want.find(w=>have.includes(w));
+   const ivs=(RESV.index[sk]||{})[String(t0)]||[];
+   const lo=Math.min(...ivs.map(iv=>iv[0])), hi=Math.max(...ivs.map(iv=>iv[1]));
+   const p0=refs.find(r=>r[0]===t0)[1];
+   why='Tomo <b>'+rToRoman(t0)+'</b> of <b>'+label+'</b> is cataloged (original pages <b>'+lo+'&ndash;'+hi+'</b>, '+ivs.length+' records), but page <b>'+p0+'</b> falls in a stretch with no abstract &mdash; usually a run Savage summarized without itemizing, or a partially-read volume.';
+   const near=ivs.map(iv=>({iv,d:Math.min(Math.abs(iv[0]-p0),Math.abs(iv[1]-p0))})).sort((a,b)=>a.d-b.d).slice(0,2);
+   const nrs=near.map(n=>{const r=DATA.find(r=>String(r.ca_volume)===String(n.iv[2])&&String(r.doc_id).replace(/^d/,'')===String(n.iv[3]));return r?{r,iv:n.iv}:null}).filter(Boolean);
+   if(nrs.length){
+    extra='<p class="th">Nearest catalogued pages:</p>'+nrs.map((x,i)=>{const r=x.r;
+     const dt=esc(r.date_text&&r.date_text!==r.summary?r.date_text:(r.year&&r.year!=='null'?r.year:'date not read'));
+     return '<div class="citebox" style="cursor:pointer" data-bn="'+i+'"><b>C-A '+r.ca_volume+' &middot; doc '+esc(String(r.doc_id))+'</b> &middot; '+dt+' &middot; orig. pp. '+esc(r.orig_page||'')+'</div>';}).join('');
+    setTimeout(()=>{box.querySelectorAll('[data-bn]').forEach(dv=>dv.onclick=()=>openDetail(nrs[+dv.dataset.bn].r));},0);
+   }
+   // a pencil-folio / page-system caveat is MOST useful on a miss: surface it here too.
+   const cav=(RESV.caveats||{});
+   const vols=[...new Set(ivs.map(iv=>String(iv[2])))];
+   extra+=vols.filter(v=>cav[v]).map(v=>'<div class="citebox" style="border-color:#b5651d"><b style="color:#b5651d">&#9888; C-A '+v+' page systems:</b> '+esc(cav[v])+'</div>').join('');
+  }
+  box.innerHTML='<p>'+why+'</p>'+extra;
  }}
 el('bgo').onclick=rResolve;
 el('bq').addEventListener('keydown',e=>{if(e.key==='Enter')rResolve();});
